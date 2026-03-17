@@ -491,7 +491,14 @@ function renderMiniCal() {
   }
   document.getElementById('mcal').innerHTML = `<div class="mcal-grid">${h}</div>`;
 }
-function selD(d){ selDay = selDay===d?null:d; render(); }
+function selD(d){
+  selDay = selDay===d?null:d;
+  render();
+  if(selDay){
+    setV('lst');
+    document.getElementById('lst-view').scrollIntoView({behavior:'smooth'});
+  }
+}
 
 // ── CALENDAR VIEW ──
 function renderCal(evs) {
