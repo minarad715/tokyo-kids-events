@@ -280,34 +280,39 @@ def scrape_concert():
 # ─────────────────────────────────────────────
 def scrape_enjoytokyo():
     events = []
-    url = "https://www.enjoytokyo.jp/rss/"
-    soup = fetch_rss(url)
+    url = "https://www.enjoytokyo.jp/theme/scn03/"
+    soup = fetch_html(url)
     if not soup:
         return events
-    for item in soup.select('item')[:30]:
+    items = (soup.select('[class*="event-list"] li') or
+             soup.select('[class*="eventList"] li') or
+             soup.select('article') or
+             soup.select('[class*="item"]'))[:25]
+    for item in items:
         try:
-            title = item.find('title').get_text(strip=True) if item.find('title') else ''
-            link = item.find('link').get_text(strip=True) if item.find('link') else ''
-            desc_raw = item.find('description')
-            desc = BeautifulSoup(desc_raw.get_text(), 'html.parser').get_text(strip=True) if desc_raw else ''
-            if not title:
+            title_el = item.select_one('h2, h3, h4, [class*="title"]')
+            date_el = item.select_one('[class*="date"], time, [class*="period"]')
+            place_el = item.select_one('[class*="place"], [class*="venue"]')
+            link_el = item.select_one('a[href]')
+            if not title_el:
                 continue
-            text = title + ' ' + desc
+            text = item.get_text()
             if not re.search(r'子ども|こども|キッズ|ファミリー|親子|赤ちゃん|幼児|小学', text):
                 continue
-            d1, d2 = parse_date_range(desc)
+            d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
+            place = place_el.get_text(strip=True) if place_el else '東京都'
             events.append({
-                'title': title,
+                'title': title_el.get_text(strip=True),
                 'date': d1,
                 'endDate': d2,
-                'place': extract_place(desc),
-                'url': link,
+                'place': place,
+                'url': urljoin('https://www.enjoytokyo.jp', link_el['href']) if link_el and link_el.get('href') else url,
                 'source': 'enjoy',
                 'cost': 'free' if '無料' in text else 'paid',
                 'ages': guess_ages(text),
-                'cats': guess_cats(title),
-                'area': guess_area(desc),
-                'desc': desc[:120],
+                'cats': guess_cats(title_el.get_text(strip=True)),
+                'area': guess_area(place),
+                'desc': '',
             })
         except:
             pass
