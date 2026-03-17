@@ -356,7 +356,7 @@ a{text-decoration:none;color:inherit}
     <!-- アフィリエイトバー（スマホ対応） -->
     <div class="affili-bar">
       <a class="amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 Amazonでレジャーシート</a>
-      <a class="rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームでグッズ</a>
+      <a class="rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームで教員オススメ知育グッズ</a>
     </div>
     <div id="cal-view"></div>
     <div id="lst-view" style="display:none"></div>
@@ -594,7 +594,7 @@ function renderList(evs) {
     const cTags = e.cats.map(c=>`<span class="etag t-${c}">${CAT_L[c]||c}</span>`).join('');
     const costTag = `<span class="etag t-${e.cost}">${e.cost==='free'?'★ 無料':'有料'}</span>`;
     const isOutdoor = e.cats.some(c=>['nature','festival','sport'].includes(c));
-    const affiliHtml = isOutdoor ? `<div class="event-affili"><a class="ev-affili-btn amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 レジャーシート</a><a class="ev-affili-btn rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天グッズ</a></div>` : '';
+    const affiliHtml = isOutdoor ? `<div class="event-affili"><a class="ev-affili-btn amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 レジャーシート</a><a class="ev-affili-btn rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームで教員オススメ知育グッズ</a></div>` : '';
     const src = srcMap[e.source];
     const eventUrl = e.url && e.url !== '#' ? e.url : (src?.url || '#');
     return `<a class="ec${e.cost==='free'?' free-ev':''}" href="${eventUrl}" target="_blank" rel="noopener nofollow">
