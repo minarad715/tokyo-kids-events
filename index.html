@@ -1,0 +1,609 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>東京こどもイベント</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --green:    #2E9E5B;
+  --green-lt: #E8F5EE;
+  --green-dk: #1A6B3A;
+  --orange:   #E07830;
+  --orange-lt:#FFF3EA;
+  --blue:     #3070D0;
+  --blue-lt:  #EDF3FF;
+  --purple:   #7A50C8;
+  --purple-lt:#F2EEFF;
+  --pink:     #D84090;
+  --pink-lt:  #FFF0F7;
+  --amber:    #C07010;
+  --amber-lt: #FFF8E8;
+  --red:      #D84040;
+  --bg:       #F5F4F0;
+  --surface:  #FFFFFF;
+  --border:   #E4E0D8;
+  --t1:       #1A1A1A;
+  --t2:       #555550;
+  --t3:       #99998A;
+  --r-sm: 6px; --r-md: 10px; --r-lg: 16px; --r-xl: 24px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Noto Sans JP',sans-serif;background:var(--bg);color:var(--t1);min-height:100vh;font-size:14px}
+a{text-decoration:none;color:inherit}
+
+/* ── HEADER ── */
+.hdr{background:var(--surface);border-bottom:1px solid var(--border);position:sticky;top:0;z-index:100;padding:0 1.25rem}
+.hdr-in{max-width:1080px;margin:0 auto;height:56px;display:flex;align-items:center;gap:1rem}
+.logo{display:flex;align-items:center;gap:9px;flex-shrink:0}
+.logo-mark{width:32px;height:32px;background:var(--green);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:17px}
+.logo-text{font-size:15px;font-weight:700;letter-spacing:-.02em;line-height:1.2}
+.logo-sub{font-size:10px;color:var(--t3);font-weight:300}
+.hdr-search{flex:1;max-width:380px;position:relative}
+.hdr-search input{width:100%;padding:7px 12px 7px 34px;border:1px solid var(--border);border-radius:20px;font-size:13px;font-family:inherit;background:var(--bg);outline:none;transition:border-color .15s;color:var(--t1)}
+.hdr-search input:focus{border-color:var(--green);background:#fff}
+.hdr-search .ico{position:absolute;left:11px;top:50%;transform:translateY(-50%);color:var(--t3);font-size:13px;pointer-events:none}
+.hdr-right{margin-left:auto;display:flex;align-items:center;gap:10px}
+.upd-time{font-size:11px;color:var(--t3)}
+.btn-refresh{padding:6px 14px;border:1px solid var(--green);border-radius:20px;background:none;color:var(--green-dk);font-size:12px;font-family:inherit;cursor:pointer;font-weight:500;display:flex;align-items:center;gap:5px;transition:background .15s;white-space:nowrap}
+.btn-refresh:hover{background:var(--green-lt)}
+.btn-refresh:disabled{opacity:.5;pointer-events:none}
+.spin{display:inline-block;width:12px;height:12px;border:2px solid #cec;border-top-color:var(--green);border-radius:50%;animation:spin .6s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── LAYOUT ── */
+.wrap{max-width:1080px;margin:0 auto;padding:1.25rem;display:grid;grid-template-columns:248px 1fr;gap:1.25rem;align-items:start}
+@media(max-width:720px){.wrap{grid-template-columns:1fr}.sidebar{display:none}.hdr-search{display:none}}
+
+/* ── SIDEBAR ── */
+.sidebar{display:flex;flex-direction:column;gap:.9rem}
+.scard{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:1rem}
+.scard-title{font-size:11px;font-weight:700;color:var(--t3);text-transform:uppercase;letter-spacing:.07em;margin-bottom:.65rem}
+
+/* mini calendar */
+.mnav{display:flex;align-items:center;justify-content:space-between;margin-bottom:.75rem}
+.mnav-btn{width:26px;height:26px;border:1px solid var(--border);border-radius:50%;background:none;cursor:pointer;display:flex;align-items:center;justify-content:center;font-size:13px;color:var(--t2);transition:all .15s}
+.mnav-btn:hover{background:var(--green-lt);border-color:var(--green);color:var(--green-dk)}
+.mnav-label{font-size:14px;font-weight:700}
+.mcal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:1px;font-size:11px}
+.mch{text-align:center;color:var(--t3);padding:2px 0;font-weight:500}
+.md{text-align:center;padding:3px 1px;border-radius:4px;cursor:pointer;transition:all .1s;position:relative;line-height:1.7}
+.md:hover{background:var(--green-lt);color:var(--green-dk)}
+.md.has::after{content:'';display:block;width:4px;height:4px;border-radius:50%;background:var(--green);margin:0 auto}
+.md.today{background:var(--green);color:#fff;font-weight:700}
+.md.today::after{background:rgba(255,255,255,.7)}
+.md.sel{background:var(--green-lt);color:var(--green-dk);font-weight:700}
+.md.empty{cursor:default;opacity:.3}
+
+/* filters */
+.fg{margin-bottom:.85rem}
+.fg-label{font-size:11px;color:var(--t3);font-weight:500;margin-bottom:.3rem}
+.ftags{display:flex;flex-wrap:wrap;gap:4px}
+.chip{padding:3px 9px;border-radius:20px;font-size:11px;border:1px solid var(--border);background:none;cursor:pointer;font-family:inherit;color:var(--t2);transition:all .13s;font-weight:500;line-height:1.6}
+.chip:hover{border-color:var(--t2);color:var(--t1)}
+.chip.on-cost{background:var(--green-lt);border-color:var(--green);color:var(--green-dk)}
+.chip.on-age{background:var(--orange-lt);border-color:var(--orange);color:var(--orange)}
+.chip.on-cat{background:var(--blue-lt);border-color:var(--blue);color:var(--blue)}
+.chip.on-area{background:var(--purple-lt);border-color:var(--purple);color:var(--purple)}
+.clear-btn{font-size:11px;color:var(--t3);border:none;background:none;cursor:pointer;padding:2px 0;font-family:inherit}
+.clear-btn:hover{color:var(--red)}
+
+/* sources */
+.src-list{display:flex;flex-direction:column;gap:3px}
+.src-item{display:flex;align-items:center;gap:7px;font-size:12px;padding:4px 5px;border-radius:6px;transition:background .1s;color:var(--t2)}
+.src-item:hover{background:var(--bg);color:var(--t1)}
+.src-dot{width:7px;height:7px;border-radius:50%;flex-shrink:0}
+.src-name{flex:1}
+.src-cnt{font-size:10px;color:var(--t3);background:var(--bg);padding:0 5px;border-radius:8px}
+
+/* scraper status */
+.sc-grid{display:grid;grid-template-columns:1fr 1fr;gap:5px}
+.sc-item{display:flex;align-items:center;gap:6px;font-size:11px;padding:4px 7px;border-radius:5px;background:var(--bg)}
+.sc-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.sc-dot.ok{background:var(--green)}.sc-dot.wait{background:var(--amber)}.sc-dot.err{background:var(--red)}
+.sc-n{flex:1;color:var(--t2)}.sc-v{font-weight:700;font-size:10px}
+
+/* ── CONTENT ── */
+.content{display:flex;flex-direction:column;gap:1.1rem}
+
+/* stats */
+.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:8px}
+@media(max-width:720px){.stats{grid-template-columns:repeat(2,1fr)}}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-md);padding:.75rem 1rem}
+.stat-n{font-size:22px;font-weight:700;line-height:1;margin-bottom:2px}
+.stat-l{font-size:11px;color:var(--t3)}
+.stat.g .stat-n{color:var(--green-dk)}
+.stat.o .stat-n{color:var(--orange)}
+.stat.b .stat-n{color:var(--blue)}
+.stat.p .stat-n{color:var(--purple)}
+
+/* toolbar */
+.toolbar{display:flex;align-items:center;gap:8px}
+.vtoggle{display:flex;border:1px solid var(--border);border-radius:var(--r-md);overflow:hidden}
+.vbtn{padding:5px 11px;font-size:12px;border:none;background:none;cursor:pointer;font-family:inherit;color:var(--t2);transition:all .13s}
+.vbtn.on{background:var(--t1);color:#fff}
+.sort-sel{margin-left:auto;padding:5px 9px;border:1px solid var(--border);border-radius:var(--r-md);font-size:12px;font-family:inherit;background:var(--surface);color:var(--t1);cursor:pointer;outline:none}
+
+/* ── CALENDAR ── */
+.cal{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);overflow:hidden}
+.cal-head{display:grid;grid-template-columns:repeat(7,1fr);border-bottom:1px solid var(--border)}
+.cal-hd{text-align:center;padding:8px;font-size:11px;font-weight:700;color:var(--t3)}
+.cal-hd:first-child{color:var(--red)}.cal-hd:last-child{color:var(--blue)}
+.cal-body{display:grid;grid-template-columns:repeat(7,1fr)}
+.cc{border-right:1px solid var(--border);border-bottom:1px solid var(--border);min-height:88px;padding:5px;cursor:pointer;transition:background .1s}
+.cc:nth-child(7n){border-right:none}
+.cc:hover{background:var(--bg)}
+.cc.empty{background:var(--bg);opacity:.45;cursor:default}
+.cc.today{background:var(--green-lt)}
+.cc.sel{background:#E0F0E8}
+.cn{font-size:12px;font-weight:500;margin-bottom:3px;width:24px;height:24px;display:flex;align-items:center;justify-content:center;border-radius:50%}
+.cc.today .cn{background:var(--green);color:#fff;font-weight:700}
+.cpill{font-size:9.5px;padding:1px 5px;border-radius:3px;margin-bottom:2px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;display:block;line-height:1.55}
+.cpill:hover{opacity:.75}
+.cmore{font-size:9.5px;color:var(--t3);padding:0 3px}
+
+/* ── LIST ── */
+.elist{display:flex;flex-direction:column;gap:8px}
+.ec{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:1rem 1.1rem;display:flex;gap:.9rem;align-items:flex-start;transition:all .15s;position:relative;color:var(--t1)}
+.ec:hover{border-color:var(--green);transform:translateY(-1px);box-shadow:0 2px 10px rgba(46,158,91,.1)}
+.ec.free-ev{border-left:3px solid var(--green)}
+.edc{min-width:48px;text-align:center;background:var(--bg);border-radius:var(--r-md);padding:7px 5px;flex-shrink:0}
+.edm{font-size:10px;color:var(--t3)}
+.edd{font-size:24px;font-weight:700;line-height:1;color:var(--t1)}
+.edw{font-size:10px;color:var(--t3);margin-top:1px}
+.eb{flex:1;min-width:0}
+.et{font-size:14px;font-weight:700;margin-bottom:4px;line-height:1.4}
+.em{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin-bottom:5px;font-size:12px;color:var(--t2)}
+.edesc{font-size:12px;color:var(--t2);margin-bottom:7px;line-height:1.6;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.etags{display:flex;flex-wrap:wrap;gap:3px}
+.etag{font-size:10px;padding:2px 7px;border-radius:20px;font-weight:500}
+.t-free{background:var(--green-lt);color:var(--green-dk);border:1px solid #b8ddc8}
+.t-paid{background:var(--blue-lt);color:var(--blue);border:1px solid #b8cef0}
+.t-concert{background:var(--purple-lt);color:var(--purple);border:1px solid #ccc0f0}
+.t-outdoor,.t-nature,.t-festival{background:var(--green-lt);color:var(--green-dk);border:1px solid #b8ddc8}
+.t-indoor,.t-museum,.t-workshop{background:#f0f0f0;color:#505050;border:1px solid #d8d8d8}
+.t-stage{background:var(--pink-lt);color:var(--pink);border:1px solid #f0b8d8}
+.t-sport{background:var(--orange-lt);color:var(--orange);border:1px solid #f0ccaa}
+.t-baby,.t-toddler{background:var(--pink-lt);color:var(--pink);border:1px solid #f0b8d8}
+.t-preschool{background:var(--orange-lt);color:var(--orange);border:1px solid #f0ccaa}
+.t-elementary{background:var(--blue-lt);color:var(--blue);border:1px solid #b8cef0}
+.t-family{background:var(--purple-lt);color:var(--purple);border:1px solid #ccc0f0}
+.src-badge{position:absolute;top:9px;right:11px;font-size:9px;color:var(--t3);background:var(--bg);border:1px solid var(--border);border-radius:9px;padding:1px 6px}
+
+/* states */
+.loading-state{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:3rem;text-align:center;color:var(--t3)}
+.loading-state .big-spin{width:32px;height:32px;border:3px solid #ddd;border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
+.empty-state{background:var(--surface);border:1px solid var(--border);border-radius:var(--r-lg);padding:3rem;text-align:center;color:var(--t3)}
+.empty-icon{font-size:32px;margin-bottom:10px}
+
+/* toast */
+.toast{position:fixed;bottom:20px;right:20px;background:#222;color:#fff;padding:9px 16px;border-radius:var(--r-md);font-size:13px;z-index:9999;opacity:0;transform:translateY(6px);transition:all .22s;pointer-events:none}
+.toast.show{opacity:1;transform:translateY(0)}
+</style>
+</head>
+<body>
+
+<header class="hdr">
+  <div class="hdr-in">
+    <a href="#" class="logo">
+      <div class="logo-mark">🌟</div>
+      <div><div class="logo-text">東京こどもイベント</div><div class="logo-sub">7サイト横断・毎日自動更新</div></div>
+    </a>
+    <div class="hdr-search">
+      <span class="ico">🔍</span>
+      <input id="q" type="text" placeholder="イベント名・場所で検索…" oninput="render()">
+    </div>
+    <div class="hdr-right">
+      <span class="upd-time" id="upd-time"></span>
+      <button class="btn-refresh" id="rfbtn" onclick="loadEvents()">
+        <span id="rficon">↻</span> 更新
+      </button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+
+    <div class="scard">
+      <div class="mnav">
+        <button class="mnav-btn" onclick="chMonth(-1)">‹</button>
+        <span class="mnav-label" id="mnav-lbl">2026年3月</span>
+        <button class="mnav-btn" onclick="chMonth(1)">›</button>
+      </div>
+      <div id="mcal"></div>
+    </div>
+
+    <div class="scard">
+      <div class="scard-title">フィルター</div>
+
+      <div class="fg"><div class="fg-label">参加費</div>
+        <div class="ftags">
+          <button class="chip" data-f="cost" data-v="free" onclick="tog(this)">無料のみ</button>
+          <button class="chip" data-f="cost" data-v="paid" onclick="tog(this)">有料</button>
+        </div>
+      </div>
+
+      <div class="fg"><div class="fg-label">対象年齢</div>
+        <div class="ftags">
+          <button class="chip" data-f="age" data-v="baby"       onclick="tog(this)">0〜1歳</button>
+          <button class="chip" data-f="age" data-v="toddler"    onclick="tog(this)">2〜3歳</button>
+          <button class="chip" data-f="age" data-v="preschool"  onclick="tog(this)">4〜6歳</button>
+          <button class="chip" data-f="age" data-v="elementary" onclick="tog(this)">小学生</button>
+          <button class="chip" data-f="age" data-v="family"     onclick="tog(this)">家族全員</button>
+        </div>
+      </div>
+
+      <div class="fg"><div class="fg-label">カテゴリ</div>
+        <div class="ftags">
+          <button class="chip" data-f="cat" data-v="concert"  onclick="tog(this)">コンサート</button>
+          <button class="chip" data-f="cat" data-v="museum"   onclick="tog(this)">博物館・展示</button>
+          <button class="chip" data-f="cat" data-v="workshop" onclick="tog(this)">工作・体験</button>
+          <button class="chip" data-f="cat" data-v="nature"   onclick="tog(this)">自然・動物</button>
+          <button class="chip" data-f="cat" data-v="sport"    onclick="tog(this)">スポーツ</button>
+          <button class="chip" data-f="cat" data-v="stage"    onclick="tog(this)">舞台・演劇</button>
+          <button class="chip" data-f="cat" data-v="festival" onclick="tog(this)">お祭り・公園</button>
+        </div>
+      </div>
+
+      <div class="fg"><div class="fg-label">エリア</div>
+        <div class="ftags">
+          <button class="chip" data-f="area" data-v="ueno"      onclick="tog(this)">上野</button>
+          <button class="chip" data-f="area" data-v="shibuya"   onclick="tog(this)">渋谷</button>
+          <button class="chip" data-f="area" data-v="shinjuku"  onclick="tog(this)">新宿</button>
+          <button class="chip" data-f="area" data-v="odaiba"    onclick="tog(this)">お台場</button>
+          <button class="chip" data-f="area" data-v="tachikawa" onclick="tog(this)">立川</button>
+          <button class="chip" data-f="area" data-v="other"     onclick="tog(this)">その他</button>
+        </div>
+      </div>
+
+      <button class="clear-btn" onclick="clearF()">✕ フィルターをクリア</button>
+    </div>
+
+    <div class="scard">
+      <div class="scard-title">情報元サイト</div>
+      <div class="src-list" id="src-list"></div>
+    </div>
+
+    <div class="scard">
+      <div class="scard-title" style="display:flex;align-items:center;gap:6px">
+        <span>自動取得ステータス</span>
+      </div>
+      <div class="sc-grid" id="sc-grid"></div>
+    </div>
+
+  </aside>
+
+  <!-- CONTENT -->
+  <div class="content">
+
+    <div class="stats">
+      <div class="stat g"><div class="stat-n" id="s-total">—</div><div class="stat-l">今月のイベント</div></div>
+      <div class="stat o"><div class="stat-n" id="s-free">—</div><div class="stat-l">無料イベント</div></div>
+      <div class="stat b"><div class="stat-n" id="s-wknd">—</div><div class="stat-l">今週末</div></div>
+      <div class="stat p"><div class="stat-n" id="s-src">—</div><div class="stat-l">情報元サイト数</div></div>
+    </div>
+
+    <div class="toolbar">
+      <div class="vtoggle">
+        <button class="vbtn on" id="vbtn-cal" onclick="setV('cal')">📅 カレンダー</button>
+        <button class="vbtn"    id="vbtn-lst" onclick="setV('lst')">☰ リスト</button>
+      </div>
+      <select class="sort-sel" id="sort-sel" onchange="render()">
+        <option value="date">日付順</option>
+        <option value="free">無料を優先</option>
+      </select>
+    </div>
+
+    <div id="cal-view"></div>
+    <div id="lst-view" style="display:none"></div>
+
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const SOURCES = [
+  {id:'ikoy',    name:'いこーよ',         url:'https://iko-yo.net/',                                          color:'#2E9E5B'},
+  {id:'walker',  name:'ウォーカープラス',   url:'https://www.walkerplus.com/event_list/ar0313/tag12/',          color:'#E07830'},
+  {id:'tokyo',   name:'東京都（公式）',     url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/',            color:'#3070D0'},
+  {id:'kids',    name:'キッズイベント',     url:'https://www.kids-event.jp/',                                   color:'#7A50C8'},
+  {id:'concert', name:'コンサートスクエア', url:'https://www.concertsquare.jp/concert/search/ticketFree',      color:'#D84090'},
+  {id:'enjoy',   name:'レッツエンジョイ東京',url:'https://www.enjoytokyo.jp/theme/scn03/',                      color:'#D84040'},
+  {id:'rurubu',  name:'るるぶ',            url:'https://kids.rurubu.jp/article/152079/',                      color:'#C07010'},
+];
+
+// ── サンプルデータ（events.json が読み込まれると上書きされます）
+const SAMPLE = [
+  {id:1,  title:'よみうりランド 夜桜ジュエルミネーション',          date:'2026-03-20', endDate:'2026-04-05', source:'rurubu',  place:'稲城市・よみうりランド',                   area:'other',    cost:'paid',  ages:['toddler','preschool','elementary','family'], cats:['festival'],         desc:'照明デザイナー石井幹子プロデュース。桜並木×宝石色イルミネーション。夜桜ライトアップも。',         url:'https://www.yomiuriland.com/'},
+  {id:2,  title:'東京・春・音楽祭2026',                          date:'2026-03-13', endDate:'2026-04-19', source:'walker',  place:'台東区・東京文化会館ほか上野公園内各館',     area:'ueno',     cost:'paid',  ages:['preschool','elementary','family'],         cats:['concert'],          desc:'春の上野を彩るクラシック音楽の祭典。子ども向けプログラムも充実。上野公園内各ホールで開催。',       url:'https://www.walkerplus.com/'},
+  {id:3,  title:'サンシャイン水族館「ざんねんないきもの展３」',    date:'2026-03-13', endDate:'2026-11-23', source:'kids',   place:'豊島区・サンシャイン水族館',               area:'other',    cost:'paid',  ages:['preschool','elementary','family'],         cats:['museum','nature'],   desc:'累計546万部超えの人気書籍シリーズとのコラボ展。約25種のざんねんないきものが大集合！',          url:'https://www.kids-event.jp/'},
+  {id:4,  title:'ウルトラヒーローズEXPO IN 東京ソラマチ',        date:'2026-03-14', endDate:'2026-04-05', source:'kids',   place:'墨田区・東京ソラマチ',                    area:'other',    cost:'paid',  ages:['toddler','preschool','elementary'],        cats:['festival'],         desc:'ウルトラマンオメガをはじめ各ウルトラマンが集結。握手会・撮影会も開催。',                       url:'https://www.kids-event.jp/'},
+  {id:5,  title:'名探偵コナン展（放送30周年記念）',               date:'2026-02-20', endDate:'2026-03-29', source:'kids',   place:'文京区・東京ドームシティ プリズムホール', area:'other',    cost:'paid',  ages:['elementary','family'],                    cats:['museum','festival'], desc:'テレビアニメ放送30周年！青山剛昌先生、高山みなみさんら豪華登壇あり。',                        url:'https://www.kids-event.jp/'},
+  {id:6,  title:'くまのプーさん展（原作100周年記念）',            date:'2026-03-17', endDate:'2026-04-13', source:'kids',   place:'中央区・松屋銀座',                        area:'other',    cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['museum'], desc:'原作デビューから100周年。時代を超えて愛されるプーさんの世界を体感できる展覧会。',              url:'https://www.kids-event.jp/'},
+  {id:7,  title:'みゃくみゃくとつなぐ展〜万博と開く未来〜',        date:'2026-02-18', endDate:'2026-04-13', source:'kids',   place:'江東区・日本科学未来館',                  area:'odaiba',   cost:'paid',  ages:['preschool','elementary','family'],         cats:['museum','workshop'], desc:'大阪・関西万博アフター企画第一弾。ミライ人間洗濯機、iPS細胞による心筋シートなど展示！',          url:'https://www.kids-event.jp/'},
+  {id:8,  title:'東京ドリームパーク開業記念「ドラえもん＆フレンズ」',date:'2026-03-27', endDate:'2026-05-10', source:'enjoy', place:'文京区・東京ドリームパーク',              area:'other',    cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival'], desc:'3/27開業！ドラえもんをテーマにした夢の体験型テーマパーク。開業記念イベント。',               url:'https://www.enjoytokyo.jp/'},
+  {id:9,  title:'ピクサーの世界展',                              date:'2026-03-01', endDate:'2026-04-30', source:'enjoy',  place:'港区・六本木ヒルズ森アーツセンターギャラリー',area:'other',  cost:'paid',  ages:['toddler','preschool','elementary','family'], cats:['museum'],           desc:'トイ・ストーリー、モンスターズ・インクなど人気作品の制作舞台裏を体感。フォトスポット多数。',     url:'https://www.enjoytokyo.jp/'},
+  {id:10, title:'安野光雅展（生誕100周年記念）',                  date:'2026-03-04', endDate:'2026-05-10', source:'kids',   place:'武蔵野市・PLAY! MUSEUM',                area:'other',    cost:'paid',  ages:['preschool','elementary','family'],         cats:['museum'],           desc:'ふしぎなえ・旅の絵本シリーズで人気の絵本作家・安野光雅の生誕100年記念展。',                  url:'https://www.kids-event.jp/'},
+  {id:11, title:'東京アニメアワードフェスティバル2026（TAAF）',   date:'2026-03-13', endDate:'2026-03-16', source:'kids',   place:'豊島区・池袋各会場',                      area:'other',    cost:'paid',  ages:['elementary','family'],                    cats:['festival','stage'],  desc:'国際アニメーション映画祭。子どもが楽しめる国内外のアニメーションが集結！招待作品も。',           url:'https://www.kids-event.jp/'},
+  {id:12, title:'日本フィル「ひらけ！音楽の玉手箱」',             date:'2026-03-15', endDate:'2026-03-15', source:'kids',   place:'練馬区・練馬文化センター',                area:'other',    cost:'paid',  ages:['preschool','elementary','family'],         cats:['concert'],           desc:'クラシック音楽の世界へようこそ。日本フィルハーモニー交響楽団による親子向けコンサート。',         url:'https://www.kids-event.jp/'},
+  {id:13, title:'SHIBUYA SKY 親子音楽ワークショップ',             date:'2026-03-26', endDate:'2026-03-27', source:'walker', place:'渋谷区・渋谷スクランブルスクエア展望台',   area:'shibuya',  cost:'paid',  ages:['preschool','elementary','family'],         cats:['concert','workshop'], desc:'展望台で音楽体験。要予約。東京の絶景を眺めながら音楽の楽しさを体感する特別ワークショップ。',     url:'https://www.walkerplus.com/'},
+  {id:14, title:'ミライ探究フェスタ（宇宙・ソーラーカー工作）',    date:'2026-03-08', endDate:'2026-03-08', source:'kids',   place:'新宿区・新宿駅西口広場イベントスペース',  area:'shinjuku', cost:'free',  ages:['preschool','elementary','family'],         cats:['workshop','nature'],  desc:'宇宙・野菜収穫・ソーラーカー工作など遊んで学べるワクワクエコ体験イベント。入場無料！',         url:'https://www.kids-event.jp/'},
+  {id:15, title:'すみだキッズ春フェス2026',                       date:'2026-03-14', endDate:'2026-03-15', source:'kids',   place:'墨田区・錦糸公園',                        area:'other',    cost:'free',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival'], desc:'錦糸公園で開催の子ども向け春のお祭り。体験コーナー・キッズステージ・屋台など盛りだくさん！',       url:'https://www.kids-event.jp/'},
+  {id:16, title:'東京ミッドタウン八重洲 春の子どもワークショップ', date:'2026-03-13', endDate:'2026-04-05', source:'rurubu', place:'中央区・東京ミッドタウン八重洲',           area:'other',    cost:'free',  ages:['preschool','elementary'],                 cats:['workshop'],          desc:'無料（一部体験料別途）。春休み中の特定日に開催される体験ワークショップ。',                     url:'https://kids.rurubu.jp/'},
+  {id:17, title:'テックキッズスクール 春のプログラミングキャンプ',  date:'2026-03-20', endDate:'2026-04-05', source:'rurubu', place:'港区・Abema Towersほか',                 area:'other',    cost:'paid',  ages:['elementary'],                             cats:['workshop'],          desc:'要事前予約。Abema Towers等の最先端施設でプログラミング体験キャンプ。特定日開催。',            url:'https://techkidsschool.jp/camp/'},
+  {id:18, title:'きのこ狩り農業収穫体験',                         date:'2025-12-25', endDate:'2026-04-30', source:'walker', place:'練馬区・東京きのこランド',                area:'other',    cost:'paid',  ages:['preschool','elementary','family'],         cats:['nature','workshop'],  desc:'都内でできる本格きのこ狩り体験！採れたての新鮮なきのこを直売も。年中楽しめる。',                url:'https://www.walkerplus.com/'},
+  {id:19, title:'東京都現代美術館「ミッション∞ 宇宙＋量子＋芸術」',date:'2026-01-31', endDate:'2026-05-06', source:'walker', place:'江東区・東京都現代美術館',                area:'odaiba',   cost:'paid',  ages:['elementary','family'],                    cats:['museum'],            desc:'サイエンスとアートのコラボレーション。宇宙・量子の世界を体感できる展示。',                    url:'https://www.walkerplus.com/'},
+  {id:20, title:'レゴランド・ディスカバリーセンター東京「アニマルアドベンチャー」',date:'2026-02-06', endDate:'2026-04-19', source:'rurubu', place:'港区・ダイバーシティ東京プラザ', area:'odaiba', cost:'paid', ages:['baby','toddler','preschool'], cats:['festival','nature'], desc:'動物をテーマにしたレゴの世界。無料ワークショップも（入場料別途）。雨の日もOK！',              url:'https://kids.rurubu.jp/'},
+  {id:21, title:'能楽・狂言 無料鑑賞会',                          date:'2026-03-22', endDate:'2026-03-22', source:'tokyo',  place:'都内・各公演会場',                        area:'other',    cost:'free',  ages:['elementary','family'],                    cats:['stage'],             desc:'能楽（謡・仕舞、狂言）公演。13:30開演。どなたでも応募可能、未就学児も入場可。',              url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:22, title:'東京都交響楽団 演奏会招待（無料）',               date:'2026-03-27', endDate:'2026-03-27', source:'tokyo',  place:'都内・コンサートホール',                  area:'other',    cost:'free',  ages:['elementary','family'],                    cats:['concert'],           desc:'シベリウスの交響曲。都響Webから要応募。90名様を無料招待。19:00開演。',                      url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:23, title:'くりらぼデジタル創作体験（無料・予約不要）',       date:'2026-01-01', endDate:'2026-03-29', source:'tokyo',  place:'都内・くりらぼベース',                    area:'other',    cost:'free',  ages:['preschool','elementary'],                 cats:['workshop'],          desc:'入場無料・事前予約なしでデジタル創作体験が楽しめる。月水金・土日祝15:00〜19:00。',           url:'https://www.kids-digital.metro.tokyo.lg.jp/base/'},
+  {id:24, title:'都営地下鉄「春」のワンデーパス（子ども100円）',    date:'2026-03-20', endDate:'2026-04-05', source:'tokyo',  place:'都内・都営地下鉄全線',                    area:'other',    cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival'], desc:'子ども100円で都営地下鉄が一日乗り放題！春休みの土日祝に親子でお出かけしよう。',               url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:25, title:'スケートボード無料体験教室',                      date:'2026-03-21', endDate:'2026-03-21', source:'tokyo',  place:'大田区・城南島海浜公園',                  area:'other',    cost:'paid',  ages:['elementary'],                             cats:['sport'],             desc:'参加費500円（保険料込み）。公認インストラクターが丁寧に指導。定員制・先着順。初心者OK！',        url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:26, title:'子どもダンス発表公演（無料・要予約）',             date:'2026-03-18', endDate:'2026-03-22', source:'tokyo',  place:'豊島区・東京芸術劇場ほか',                area:'other',    cost:'free',  ages:['preschool','elementary','family'],         cats:['stage'],             desc:'子どもたちがダンサー・青木尚哉さんと8日間のワークショップで創作した作品の発表公演。',           url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:27, title:'三曲・日本舞踊 無料公演',                         date:'2026-03-26', endDate:'2026-03-27', source:'tokyo',  place:'都内・各公演会場',                        area:'other',    cost:'free',  ages:['elementary','family'],                    cats:['stage'],             desc:'三曲・日本舞踊Ⅰ（3/26 15:30）、長唄・日本舞踊Ⅱ（3/27 15:30）。どなたでも参加可。',       url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:28, title:'こどもビームス 春休み無料ふらっとイベント',        date:'2026-03-26', endDate:'2026-04-09', source:'ikoy',   place:'渋谷区・こどもビームス',                  area:'shibuya',  cost:'free',  ages:['toddler','preschool','elementary'],        cats:['workshop','festival'],'desc':'春休みに気軽に参加できる無料イベント。ファッション・工作など楽しいコンテンツ多数。',           url:'https://iko-yo.net/'},
+  {id:29, title:'昆虫図鑑づくりワークショップ（無料）',             date:'2026-03-26', endDate:'2026-04-04', source:'ikoy',   place:'墨田区・キッズドア',                      area:'other',    cost:'free',  ages:['elementary'],                             cats:['workshop','nature'],  desc:'昆虫の基礎から最先端研究まで学んで観察！自分だけの昆虫図鑑を作ろう。参加費無料。',             url:'https://iko-yo.net/'},
+  {id:30, title:'帝京平成大学吹奏楽部 無料定期演奏会',             date:'2026-03-16', endDate:'2026-03-16', source:'ikoy',   place:'豊島区・帝京平成大学',                    area:'other',    cost:'free',  ages:['preschool','elementary','family'],         cats:['concert'],           desc:'楽器紹介ファンタジーメドレーほか多彩なプログラム。入場無料・どなたでもお気軽に。',              url:'https://iko-yo.net/'},
+  {id:31, title:'おとみっく 親子参加型コンサート',                  date:'2026-03-20', endDate:'2026-03-20', source:'ikoy',   place:'調布市・調布市文化会館たづくり',            area:'other',    cost:'paid',  ages:['baby','toddler','preschool'],              cats:['concert'],           desc:'見て・聴いて・参加するコンサート。途中入場OK！音楽ワークショップも。乳幼児にも最適。',          url:'https://iko-yo.net/'},
+  {id:32, title:'紙博 in 東京 vol.12',                           date:'2026-03-13', endDate:'2026-03-15', source:'enjoy',  place:'台東区・都立産業貿易センター台東館',         area:'ueno',     cost:'paid',  ages:['elementary','family'],                    cats:['workshop','festival'],'desc':'161組出展・過去最大規模。マステ・ノート・はんこ・文具雑貨が並ぶ春の紙のフェスティバル。',      url:'https://www.enjoytokyo.jp/'},
+  {id:33, title:'アーバンスポーツ体験会（Urban Women 2026）',     date:'2026-03-08', endDate:'2026-03-08', source:'enjoy',  place:'江東区・有明ライブドアアーバンスポーツパーク',area:'odaiba', cost:'free',  ages:['elementary','family'],                    cats:['sport'],             desc:'女性トップアスリートが直接指導。スケートボード・BMX・ブレイキンを無料で体験！',               url:'https://www.enjoytokyo.jp/'},
+  {id:34, title:'国営昭和記念公園 チューリップフェスタ',            date:'2026-04-05', endDate:'2026-04-20', source:'walker', place:'立川市・国営昭和記念公園',                area:'tachikawa',cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival','nature'],'desc':'50万本のチューリップが咲き誇る春の大イベント。花の迷路も人気。立川駅から徒歩5分。',           url:'https://www.walkerplus.com/'},
+  {id:35, title:'東京都美術館 学校アートプログラム（無料）',         date:'2026-04-01', endDate:'2026-09-30', source:'tokyo',  place:'台東区・東京都美術館',                    area:'ueno',     cost:'free',  ages:['elementary'],                             cats:['museum','workshop'],  desc:'授業・部活での利用もOK。さまざまな視点でアートをじっくり楽しむプログラム。事前申込制。',        url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:36, title:'東京都子どもフェスタ（乳幼児向けコンサート）',     date:'2026-04-11', endDate:'2026-04-11', source:'tokyo',  place:'都内・各公演会場',                        area:'other',    cost:'free',  ages:['baby','toddler','preschool'],              cats:['concert','stage'],   desc:'生後5ヶ月〜3歳向けの複数ステージ。各回40分程度。保護者同伴必須。要事前申込。',                url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
+  {id:37, title:'サンシャイン60展望台 春の特別イベント',            date:'2026-02-26', endDate:'2026-05-10', source:'ikoy',   place:'豊島区・サンシャイン60展望台 てんぼうパーク',area:'other',  cost:'paid',  ages:['preschool','elementary','family'],         cats:['festival'],          desc:'展望台からの桜・春景色を楽しむ特別イベント期間。限定グッズ販売やフォトスポットも。',             url:'https://iko-yo.net/'},
+];
+
+// ── STATE ──
+let EVENTS = [...SAMPLE];
+let vYear = 2026, vMonth = 2;
+let F = {cost:[],age:[],cat:[],area:[]};
+let curV = 'cal';
+let selDay = null;
+const TODAY = new Date();
+const WD = ['日','月','火','水','木','金','土'];
+const AGE_L = {baby:'0〜1歳',toddler:'2〜3歳',preschool:'4〜6歳',elementary:'小学生',family:'家族'};
+const CAT_L = {concert:'コンサート',museum:'展示',workshop:'体験',nature:'自然',sport:'スポーツ',stage:'舞台',festival:'お祭り'};
+const CAT_C = {
+  concert:  {bg:'#F2EEFF',tx:'#6D28D9'},
+  museum:   {bg:'#EDF3FF',tx:'#1D4ED8'},
+  workshop: {bg:'#FFF3EA',tx:'#C05610'},
+  nature:   {bg:'#E8F5EE',tx:'#1A6B3A'},
+  sport:    {bg:'#EDF3FF',tx:'#1D4ED8'},
+  stage:    {bg:'#FFF0F7',tx:'#BE185D'},
+  festival: {bg:'#FFF8E8',tx:'#854F0B'},
+};
+
+// ── LOAD events.json ──
+async function loadEvents(manual=false) {
+  const btn = document.getElementById('rfbtn');
+  const icon = document.getElementById('rficon');
+  btn.disabled = true;
+  icon.innerHTML = '<span class="spin"></span>';
+  try {
+    const r = await fetch('events.json?t=' + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    if (data.events && data.events.length > 0) {
+      EVENTS = data.events;
+      const d = new Date(data.updated);
+      document.getElementById('upd-time').textContent =
+        `更新: ${d.getMonth()+1}/${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+      if (manual) toast(`✓ ${EVENTS.length}件のイベントを取得しました`);
+    } else {
+      EVENTS = [...SAMPLE];
+      if (manual) toast('サンプルデータを表示しています（本番はGitHub Actionsが自動更新）');
+    }
+  } catch {
+    EVENTS = [...SAMPLE];
+    document.getElementById('upd-time').textContent = 'サンプルデータ表示中';
+  }
+  btn.disabled = false;
+  icon.textContent = '↻';
+  renderAll();
+}
+
+function renderAll() {
+  renderMiniCal();
+  renderSources();
+  renderScrapers();
+  updateStats();
+  render();
+}
+
+// ── MONTH NAV ──
+function chMonth(d) {
+  vMonth += d;
+  if (vMonth > 11){vMonth=0;vYear++;}
+  if (vMonth < 0){vMonth=11;vYear--;}
+  document.getElementById('mnav-lbl').textContent = `${vYear}年${vMonth+1}月`;
+  selDay = null;
+  renderAll();
+}
+
+// ── FILTER ──
+function tog(btn) {
+  const f = btn.dataset.f, v = btn.dataset.v;
+  const arr = F[f], i = arr.indexOf(v);
+  const cls = 'on-' + f;
+  if (i >= 0){arr.splice(i,1);btn.classList.remove(cls);}
+  else{arr.push(v);btn.classList.add(cls);}
+  render();
+}
+function clearF() {
+  F = {cost:[],age:[],cat:[],area:[]};
+  document.querySelectorAll('.chip').forEach(b => b.className = 'chip');
+  document.getElementById('q').value = '';
+  selDay = null;
+  render();
+  renderMiniCal();
+}
+function filtered() {
+  const q = (document.getElementById('q')?.value||'').trim().toLowerCase();
+  const sort = document.getElementById('sort-sel')?.value || 'date';
+  const ms = new Date(vYear, vMonth, 1), me = new Date(vYear, vMonth+1, 0);
+  let evs = EVENTS.filter(e => {
+    const s = new Date(e.date), en = new Date(e.endDate);
+    if (s > me || en < ms) return false;
+    if (F.cost.length && !F.cost.includes(e.cost)) return false;
+    if (F.age.length  && !F.age.some(a => e.ages.includes(a))) return false;
+    if (F.cat.length  && !F.cat.some(c => e.cats.includes(c))) return false;
+    if (F.area.length && !F.area.includes(e.area)) return false;
+    if (q && !e.title.toLowerCase().includes(q) && !e.place.toLowerCase().includes(q)) return false;
+    if (selDay) {
+      const d = new Date(vYear, vMonth, selDay);
+      if (d < s || d > en) return false;
+    }
+    return true;
+  });
+  if (sort === 'free') evs.sort((a,b) => (a.cost==='free'?0:1)-(b.cost==='free'?0:1));
+  else evs.sort((a,b) => a.date.localeCompare(b.date));
+  return evs;
+}
+
+// ── RENDER ──
+function render() {
+  const evs = filtered();
+  if (curV === 'cal') renderCal(evs); else renderList(evs);
+  renderMiniCal();
+}
+
+// ── MINI CAL ──
+function renderMiniCal() {
+  const fd = new Date(vYear, vMonth, 1).getDay();
+  const dm = new Date(vYear, vMonth+1, 0).getDate();
+  const hasDays = new Set();
+  EVENTS.forEach(e => {
+    const s = new Date(Math.max(+new Date(e.date), +new Date(vYear,vMonth,1)));
+    const en = new Date(Math.min(+new Date(e.endDate), +new Date(vYear,vMonth+1,0)));
+    for(let d=new Date(s); d<=en; d.setDate(d.getDate()+1)) hasDays.add(d.getDate());
+  });
+  let h = ['日','月','火','水','木','金','土'].map(d=>`<div class="mch">${d}</div>`).join('');
+  for(let i=0;i<fd;i++) h+=`<div class="md empty"></div>`;
+  for(let d=1;d<=dm;d++){
+    const isTd = TODAY.getFullYear()===vYear && TODAY.getMonth()===vMonth && TODAY.getDate()===d;
+    const isSel = selDay===d;
+    const cls = [isTd?'today':'', isSel?'sel':'', hasDays.has(d)?'has':''].filter(Boolean).join(' ');
+    h += `<div class="md ${cls}" onclick="selD(${d})">${d}</div>`;
+  }
+  document.getElementById('mcal').innerHTML = `<div class="mcal-grid">${h}</div>`;
+}
+function selD(d){ selDay = selDay===d?null:d; render(); }
+
+// ── CALENDAR VIEW ──
+function renderCal(evs) {
+  const fd = new Date(vYear, vMonth, 1).getDay();
+  const dm = new Date(vYear, vMonth+1, 0).getDate();
+  let h = `<div class="cal"><div class="cal-head">${['日','月','火','水','木','金','土'].map(d=>`<div class="cal-hd">${d}</div>`).join('')}</div><div class="cal-body">`;
+  for(let i=0;i<fd;i++) h+=`<div class="cc empty"></div>`;
+  for(let d=1;d<=dm;d++){
+    const isTd = TODAY.getFullYear()===vYear && TODAY.getMonth()===vMonth && TODAY.getDate()===d;
+    const isSel = selDay===d;
+    const day = new Date(vYear, vMonth, d);
+    const de = evs.filter(e => day>=new Date(e.date) && day<=new Date(e.endDate));
+    let pills = de.slice(0,3).map(e => {
+      const c = CAT_C[e.cats[0]] || CAT_C.festival;
+      return `<span class="cpill" style="background:${c.bg};color:${c.tx}" title="${e.title}">${e.cost==='free'?'★ ':''}${e.title.slice(0,8)}…</span>`;
+    }).join('');
+    if(de.length>3) pills+=`<div class="cmore">+${de.length-3}件</div>`;
+    h += `<div class="cc${isTd?' today':''}${isSel?' sel':''}" onclick="selD(${d})"><div class="cn">${d}</div>${pills}</div>`;
+  }
+  h += `</div></div>`;
+  document.getElementById('cal-view').innerHTML = h;
+}
+
+// ── LIST VIEW ──
+function renderList(evs) {
+  if(!evs.length){
+    document.getElementById('lst-view').innerHTML=`<div class="empty-state"><div class="empty-icon">🔍</div><p>該当するイベントが見つかりませんでした</p></div>`;
+    return;
+  }
+  const srcMap = Object.fromEntries(SOURCES.map(s=>[s.id,s]));
+  document.getElementById('lst-view').innerHTML = `<div class="elist">${evs.map(e=>{
+    const d = new Date(e.date), ed = new Date(e.endDate);
+    const multi = e.date !== e.endDate;
+    const aTags = e.ages.map(a=>`<span class="etag t-${a}">${AGE_L[a]||a}</span>`).join('');
+    const cTags = e.cats.map(c=>`<span class="etag t-${c}">${CAT_L[c]||c}</span>`).join('');
+    const costTag = `<span class="etag t-${e.cost}">${e.cost==='free'?'★ 無料':'有料'}</span>`;
+    const src = srcMap[e.source];
+    return `<a class="ec${e.cost==='free'?' free-ev':''}" href="${e.url}" target="_blank" rel="noopener">
+      <span class="src-badge">${src?.name||e.source}</span>
+      <div class="edc"><div class="edm">${d.getMonth()+1}月</div><div class="edd">${d.getDate()}</div><div class="edw">${WD[d.getDay()]}${multi?'〜':''}</div></div>
+      <div class="eb">
+        <div class="et">${e.title}</div>
+        <div class="em">📍 ${e.place}${multi?` &nbsp;📅 ${d.getMonth()+1}/${d.getDate()}〜${ed.getMonth()+1}/${ed.getDate()}`:''}</div>
+        <div class="edesc">${e.desc}</div>
+        <div class="etags">${costTag}${aTags}${cTags}</div>
+      </div>
+    </a>`;
+  }).join('')}</div>`;
+}
+
+// ── STATS ──
+function updateStats() {
+  const ms = new Date(vYear,vMonth,1), me = new Date(vYear,vMonth+1,0);
+  const mEvs = EVENTS.filter(e=>new Date(e.date)<=me && new Date(e.endDate)>=ms);
+  document.getElementById('s-total').textContent = mEvs.length;
+  document.getElementById('s-free').textContent  = mEvs.filter(e=>e.cost==='free').length;
+  const dw = TODAY.getDay(), sat = new Date(TODAY); sat.setDate(TODAY.getDate()+(6-dw+7)%7);
+  const sun = new Date(sat); sun.setDate(sat.getDate()+1);
+  document.getElementById('s-wknd').textContent  = mEvs.filter(e=>new Date(e.date)<=sun&&new Date(e.endDate)>=sat).length;
+  document.getElementById('s-src').textContent   = SOURCES.length;
+}
+
+// ── SOURCES ──
+function renderSources() {
+  const cnt = {};
+  EVENTS.forEach(e => cnt[e.source]=(cnt[e.source]||0)+1);
+  document.getElementById('src-list').innerHTML = SOURCES.map(s=>
+    `<a class="src-item" href="${s.url}" target="_blank" rel="noopener">
+      <span class="src-dot" style="background:${s.color}"></span>
+      <span class="src-name">${s.name}</span>
+      <span class="src-cnt">${cnt[s.id]||0}</span>
+    </a>`
+  ).join('');
+}
+
+// ── SCRAPER STATUS ──
+function renderScrapers() {
+  const items = [
+    {n:'いこーよ',      s:'ok',   v:'取得済'},
+    {n:'東京都公式',     s:'ok',   v:'取得済'},
+    {n:'コンサートSQ',  s:'ok',   v:'取得済'},
+    {n:'ウォーカー+',   s:'ok',   v:'取得済'},
+    {n:'キッズイベント', s:'ok',   v:'取得済'},
+    {n:'レッツエンジョイ',s:'ok',  v:'取得済'},
+    {n:'るるぶ',        s:'ok',   v:'取得済'},
+    {n:'次回実行',       s:'wait', v:'明日 9:00'},
+  ];
+  document.getElementById('sc-grid').innerHTML = items.map(i=>
+    `<div class="sc-item"><span class="sc-dot ${i.s}"></span><span class="sc-n">${i.n}</span><span class="sc-v">${i.v}</span></div>`
+  ).join('');
+}
+
+// ── VIEW TOGGLE ──
+function setV(v) {
+  curV = v;
+  document.getElementById('cal-view').style.display = v==='cal'?'':'none';
+  document.getElementById('lst-view').style.display = v==='lst'?'':'none';
+  document.getElementById('vbtn-cal').className = 'vbtn'+(v==='cal'?' on':'');
+  document.getElementById('vbtn-lst').className = 'vbtn'+(v==='lst'?' on':'');
+  render();
+}
+
+// ── UTILS ──
+function pad(n){return String(n).padStart(2,'0')}
+function toast(msg){
+  const t=document.getElementById('toast');
+  t.textContent=msg; t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'),3200);
+}
+
+// ── START ──
+loadEvents();
+</script>
+</body>
+</html>
