@@ -275,10 +275,49 @@ def dedup(events):
             seen.add(key)
             result.append(e)
     return result
-
+def scrape_yoyogi():
+    events = []
+    url = "https://www.yoyogikoen.info/"
+    soup = fetch(url)
+    if not soup:
+        return events
+    # 年月スケジュールのリスト形式を取得
+    for section in soup.select('h3'):
+        header = section.get_text()
+        if not re.search(r'\d{4}年\d{1,2}月', header):
+            continue
+        ul = section.find_next_sibling('ul')
+        if not ul:
+            continue
+        for li in ul.select('li'):
+            try:
+                link_el = li.select_one('a[href]')
+                if not link_el:
+                    continue
+                title = link_el.get_text(strip=True)
+                event_url = link_el['href']
+                text = li.get_text()
+                d1, d2 = parse_date_range(text)
+                events.append({
+                    'title': title,
+                    'date': d1,
+                    'endDate': d2,
+                    'place': '渋谷区・代々木公園',
+                    'url': event_url,
+                    'source': 'yoyogi',
+                    'cost': 'free' if '無料' in text else 'paid',
+                    'ages': ['toddler', 'preschool', 'elementary', 'family'],
+                    'cats': guess_cats(title),
+                    'area': 'shibuya',
+                    'desc': '',
+                })
+            except:
+                pass
+    print(f"  代々木公園: {len(events)}件")
+    return events
 def main():
     print("東京こどもイベント スクレイパー開始")
-    scrapers = [scrape_ikoyo, scrape_tokyo, scrape_concert, scrape_walker, scrape_kids]
+    scrapers = [scrape_ikoyo, scrape_tokyo, scrape_concert, scrape_walker, scrape_kids,scrape_yoyogi,]
     all_events = []
     for scraper in scrapers:
         try:
