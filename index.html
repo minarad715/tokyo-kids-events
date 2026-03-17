@@ -451,7 +451,7 @@ async function loadEvents(manual=false) {
   btn.disabled = true;
   icon.innerHTML = '<span class="spin"></span>';
   try {
-    const r = await fetch('./public/events.json?t=' + Date.now());
+    const r = await fetch('../public/events.json?t=' + Date.now());
     if (!r.ok) throw new Error(r.status);
     const data = await r.json();
     if (data.events && data.events.length > 0) {
