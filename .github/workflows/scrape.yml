@@ -1,0 +1,35 @@
+name: 毎日イベント自動取得
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 をセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 必要なライブラリをインストール
+        run: pip install requests beautifulsoup4
+
+      - name: スクレイピング実行
+        run: python api/scraper.py
+
+      - name: events.json をコミット・プッシュ
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/events.json
+          git diff --staged --quiet || git commit -m "🔄 イベント情報を自動更新 $(date +'%Y-%m-%d')"
+          git push
