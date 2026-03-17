@@ -280,7 +280,7 @@ def scrape_concert():
 # ─────────────────────────────────────────────
 def scrape_enjoytokyo():
     events = []
-    url = "https://www.enjoytokyo.jp/theme/scn03/"
+    url = "https://www.enjoytokyo.jp/event/list/"
     soup = fetch_html(url)
     if not soup:
         return events
