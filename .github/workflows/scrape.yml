@@ -1,5 +1,8 @@
 name: 毎日イベント自動取得
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -15,10 +18,10 @@ jobs:
       - name: リポジトリをチェックアウト
         uses: actions/checkout@v4
 
-      - name: Python 3.11 をセットアップ
+      - name: Python 3.12 をセットアップ
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
 
       - name: 必要なライブラリをインストール
         run: pip install requests beautifulsoup4
