@@ -237,3 +237,48 @@ def guess_area(place):
         'tachikawa': ['立川', '多摩', '八王子', '府中', '国分寺', '調布', '三鷹'],
     }
     for area, keywords in mapping.items():
+if any(k in place for k in keywords):
+            return area
+    return 'other'
+
+def dedup(events):
+    seen = set()
+    result = []
+    for e in events:
+        key = re.sub(r'\s', '', e['title'])[:20]
+        if key not in seen:
+            seen.add(key)
+            result.append(e)
+    return result
+
+def main():
+    print(f"\n{'='*50}")
+    print(f"東京こどもイベント スクレイパー")
+    print(f"実行時刻: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')}")
+    print(f"{'='*50}")
+    scrapers = [scrape_ikoyo, scrape_tokyo, scrape_concert, scrape_walker, scrape_kids]
+    all_events = []
+    for scraper in scrapers:
+        try:
+            evs = scraper()
+            all_events.extend(evs)
+            time.sleep(2.0)
+        except Exception as e:
+            print(f"  ✗ {scraper.__name__}: {e}")
+    all_events = dedup(all_events)
+    for i, e in enumerate(all_events):
+        e['id'] = i + 1
+        if not e.get('endDate'): e['endDate'] = e['date']
+        if not e.get('desc'): e['desc'] = ''
+    output = {
+        'updated': datetime.datetime.now().isoformat(),
+        'count': len(all_events),
+        'events': all_events,
+    }
+    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+    with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+    print(f"\n✓ 合計 {len(all_events)} 件を保存しました\n")
+
+if __name__ == '__main__':
+    main()
