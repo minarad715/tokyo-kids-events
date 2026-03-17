@@ -21,7 +21,7 @@ def fetch_rss(url, timeout=15):
     try:
         r = requests.get(url, headers=HEADERS, timeout=timeout)
         r.raise_for_status()
-        return BeautifulSoup(r.content, 'xml')
+        return BeautifulSoup(r.content, 'lxml-xml')
     except Exception as e:
         print(f"  RSS取得失敗 {url}: {e}")
         return None
@@ -280,7 +280,7 @@ def scrape_concert():
 # ─────────────────────────────────────────────
 def scrape_enjoytokyo():
     events = []
-    url = "https://www.enjoytokyo.jp/rss/event/"
+    url = "https://www.enjoytokyo.jp/rss/"
     soup = fetch_rss(url)
     if not soup:
         return events
