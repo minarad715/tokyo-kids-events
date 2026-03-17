@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-17T19:00:11.054681",
-  "count": 31,
+  "updated": "2026-03-17T19:13:52.887954",
+  "count": 43,
   "events": [
     {
       "title": "ファーマーズ＆キッズフェスタ2026",
@@ -480,7 +480,8 @@
         "family"
       ],
       "cats": [
-        "nature"
+        "nature",
+        "festival"
       ],
       "area": "shibuya",
       "desc": "",
@@ -653,6 +654,241 @@
       "area": "shibuya",
       "desc": "",
       "id": 31
+    },
+    {
+      "title": "期間を選択する",
+      "date": "2026-03-20",
+      "endDate": "2026-01-25",
+      "place": "東京都",
+      "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/#event-search",
+      "source": "tokyo",
+      "cost": "free",
+      "ages": [
+        "baby",
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "コインを見つけたよ！東京こどもコインページを見てみよう！",
+      "id": 32
+    },
+    {
+      "title": "カテゴリを選択する",
+      "date": "2026-03-17",
+      "endDate": "2026-03-17",
+      "place": "東京都",
+      "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
+      "source": "tokyo",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
+      "title": "対象年齢",
+      "date": "2026-03-17",
+      "endDate": "2026-03-17",
+      "place": "東京都",
+      "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
+      "source": "tokyo",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "走って！跳んで！登って！ パルクール体験",
+      "date": "2026-04-25",
+      "endDate": "2026-04-25",
+      "place": "開催エリア渋谷区",
+      "url": "https://smilesports.jp/event/tmg/post_431.html",
+      "source": "tokyo",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "shibuya",
+      "desc": "",
+      "id": 35
+    },
+    {
+      "title": "開催エリア",
+      "date": "2026-03-17",
+      "endDate": "2026-03-17",
+      "place": "開催エリア",
+      "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
+      "source": "tokyo",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 36
+    },
+    {
+      "title": "第5回上野⇄浅草音楽祭2026in日暮里",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202512301482591.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 37
+    },
+    {
+      "title": "オーケストラ・ラム・スール",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/2025071554725.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 38
+    },
+    {
+      "title": "フィルハーモニックアンサンブル管弦楽団 第79回演奏会［結成50年記念］",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202511135590110.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 39
+    },
+    {
+      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
+      "date": "2026-26-05",
+      "endDate": "2026-26-05",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 40
+    },
+    {
+      "title": "ルキアネッツの「冬の旅」",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202603022507802.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 41
+    },
+    {
+      "title": "青山シンフォニーオーケストラ　第38回定期演奏会",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202601292428330.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 42
+    },
+    {
+      "title": "東京六大学OBオーケストラ連盟 第5回演奏会",
+      "date": "2026-26-03",
+      "endDate": "2026-26-03",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/2025042042.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 43
     }
   ]
 }
