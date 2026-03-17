@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: 必要なライブラリをインストール
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 lxml
 
       - name: スクレイピング実行
         run: python api/api/scraper.py
