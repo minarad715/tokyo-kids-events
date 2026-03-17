@@ -27,7 +27,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: スクレイピング実行
-        run: python api/scraper.py
+        run: python api/api/scraper.py
 
       - name: events.json をコミット・プッシュ
         run: |
