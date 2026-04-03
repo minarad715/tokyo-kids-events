@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T01:54:09.407332",
+  "updated": "2026-04-03T01:55:48.911754",
   "count": 65,
   "events": [
     {
@@ -656,6 +656,114 @@
       "id": 31
     },
     {
+      "title": "第16回東京・ヨーロッパ友好音楽祭チャリティーコンサート",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562789",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "世界最高峰の一つ、ドイツの名門バイエルン放送交響楽団の第1コンサートマスターが来日。指揮・新田ユリのもと、アマチュアオーケストラとの共演によるチャリティーコンサート（能登半島地震支援など）を行う。前半はソリストとして主役を務めるモーツァルト",
+      "id": 32
+    },
+    {
+      "title": "FC東京 『キッズフリマ』",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562771",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "FC東京のホームゲームにて、“大人は立ち入り禁止！売るのも買うのも子どもだけ”お金や経済を学べる体験型教育イベント『キッズフリマ』を開催。出店対象は小学3年生～6年生。買い物は、小学6年生以下の子ども(未就学児も可)が参加できる。出店申込方",
+      "id": 33
+    },
+    {
+      "title": "キッズフリマ@味の素スタジアム",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562759",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "tachikawa",
+      "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが東京都調布市の味の素スタジアムにて初開催。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子どもの成長を実感ができる。現金を使",
+      "id": 34
+    },
+    {
+      "title": "2026品川区民「春のコンサート」第64回品川区民管弦...",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/16801",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "odaiba",
+      "desc": "品川区民管弦楽団による第64回定期演奏会「春のコンサート」です。\n曲目はブラームスの交響曲第4番ホ短調Op.98とムソルグスキー（ラヴェル編曲）の組曲「展覧会の絵」です。\n指揮は横島勝人さん、演奏は品川区民管弦楽団が担当します。\n有料公演で",
+      "id": 35
+    },
+    {
+      "title": "こども店長になってお金のことを学ぼう!!",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/16788",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "休日に親子で楽しく学びながら自然とお金の勉強ができるイベントです。\nクレジットカードなど見えないお金の世界の大切さを子どもに伝え、自分で生きていく力を養います。\n杉並区と葛飾区で開催し、江東区でも開催予定です。\n開催施設との関係はありません",
+      "id": 36
+    },
+    {
+      "title": "【biima sports主催】「かけっこ教室」@新宿...",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562628",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "運動神経は遺伝しない！\n子ども達の足が速くなるポイント・練習方法を大公開！\n楽しみながら一緒に学びましょう！\n\n◯タイムスケジュール\nイベントは30分を予定しております。\n\n①11：00〜11：30　年少・年中クラス\n②11：40〜12：.",
+      "id": 37
+    },
+    {
       "title": "和歌を読み和歌を詠もう「思い出と花」",
       "date": "2026-04-22",
       "endDate": "2026-04-22",
@@ -671,12 +779,12 @@
       ],
       "area": "other",
       "desc": "開催場所　　116-0013　荒川区西日暮里4-1-20西日暮里エーシービル一階　106J\n　　　（西日暮里駅より徒歩１分）\n４月22日（水曜日）15時-17時／25日（土曜日）14時-16時\n　題　「思い出と花」\n紀貫之　人はいさ心もしら",
-      "id": 32
+      "id": 38
     },
     {
       "title": "【クムフラの直接指導】美しくなれる本格的フラダンス",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://iko-yo.net/events/562607",
       "source": "ikoy",
@@ -689,12 +797,12 @@
       ],
       "area": "other",
       "desc": "フラスタジオ・ヴィーナスは、東京・中野の最大のフラダンス専門スタジオです。\nハワイアン総合カルチャーからのオリジナルレッスンは、\nハワイアンの曲の優雅な気分や雰囲気をそのままに、南国気分を満喫できます。\nおうちでのオンラインレッスンは　お子",
-      "id": 33
+      "id": 39
     },
     {
       "title": "わんにゃんDAY",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://iko-yo.net/events/562559",
       "source": "ikoy",
@@ -707,114 +815,6 @@
       ],
       "area": "other",
       "desc": "西東京ふれあい譲渡センターで過ごしている保護犬たち以外にも、可愛い保護猫さんたちが大集合！ もちろん、気になるわんにゃんたちとの触れ合いや、すでに希望のワンコがいる里親希望の家族には、お散歩体験も行う。沢山の可愛いわんにゃんたちが待ってるの",
-      "id": 34
-    },
-    {
-      "title": "【4/14】ソラマチ内で快適！ベビーイベント開催！チェ...",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562437",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ソラマチ内で快適に過ごしながら、親子でふれあい時間を楽しめる「ベビー体操・ワークショップ」を開催します👶💞\n今月はお子様の可愛い手形足形アート♪\n\n【詳細】\n時間は10:30～11:15／11:30～12:15の2枠⏰✨\n場所は東京スカイツ",
-      "id": 35
-    },
-    {
-      "title": "和歌を読み　和歌を詠もう　花と人情",
-      "date": "2026-04-15",
-      "endDate": "2026-04-15",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562359",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "４月15日（水曜日）15時-17時／17日（金曜日）1４時-1６時\n開催場所　　荒川区西日暮里4-1-20西日暮里エーシービル一階　106J\n題　花と人情\n小野小町　　　花の色はうつりにけりないたつらに　わか身よにふるなかめせしまに\n\n「日",
-      "id": 36
-    },
-    {
-      "title": "編み物フリーレッスン★個別対面★渋谷 他",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562356",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "📌かぎ針初心者様は『🔰はじめてのかぎ針編み』講座をご受講ください。\n📌ご新規様　土日祝日のご予約は月1回でお願いします🙇\n（リピーター様は月2回まで）\n📌必ず最後までご一読ください。\n---------------------------\n",
-      "id": 37
-    },
-    {
-      "title": "全肉祭in東京",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562310",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "牛・豚・鶏などの畜産肉料理はもちろん、魚肉や果肉などに肉をテーマに全国各地からグルメ屋台やキッチンカーが大集合！ ステージではアーティストによるライブも開催される。また、子どもが楽しめる遊びブースや大型エアー遊具も設置。",
-      "id": 38
-    },
-    {
-      "title": "キッズフリマ@赤坂Bizタワー SHOPS&amp;DINING",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562263",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "odaiba",
-      "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが東京都港区の赤坂Bizタワー SHOPS&amp;DININGにて初開催。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子ど",
-      "id": 39
-    },
-    {
-      "title": "キッズフリマ@恵比寿ガーデンプレイス",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562259",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが東京都渋谷区の恵比寿ガーデンプレイスにて初開催。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子どもの成長を実感ができる。現",
       "id": 40
     },
     {
@@ -841,8 +841,8 @@
     },
     {
       "title": "カテゴリを選択する",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
       "source": "tokyo",
@@ -859,8 +859,8 @@
     },
     {
       "title": "対象年齢",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
       "source": "tokyo",
@@ -896,8 +896,8 @@
     },
     {
       "title": "開催エリア",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "開催エリア",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -932,8 +932,8 @@
     },
     {
       "title": "東京の子ども無料遊び場15選【2026年版】｜完全無料から子ども無料まで年齢別に完全ガイド",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/free-kids-tokyo/",
       "source": "kids",
@@ -950,8 +950,8 @@
     },
     {
       "title": "東京の雨の日｜子連れ室内おでかけ15選【2026年版】年齢別・無料スポット完全ガイド",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/rainy-day-kids-tokyo/",
       "source": "kids",
@@ -968,8 +968,8 @@
     },
     {
       "title": "東京のGW子連れおでかけ15選【2026年版】｜5/4・5/5無料施設＆穴場スポット年齢別ガイド",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/gw-kids-tokyo/",
       "source": "kids",
@@ -986,8 +986,8 @@
     },
     {
       "title": "東京の1歳向け室内遊び場15選【2026年版】｜専用スペースあり・ハイハイ対応スポット完全ガイド",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/indoor-play-1year-tokyo/",
       "source": "kids",
@@ -1005,8 +1005,8 @@
     },
     {
       "title": "東京の春休み子連れおでかけ15選【2026年版】｜桜＆限定イベントを年齢別で全網羅",
-      "date": "2026-04-02",
-      "endDate": "2026-04-02",
+      "date": "2026-04-03",
+      "endDate": "2026-04-03",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/spring-vacation-kids-tokyo/",
       "source": "kids",
@@ -1206,26 +1206,6 @@
       "id": 61
     },
     {
-      "title": "フィルハーモニックアンサンブル管弦楽団 第79回演奏会［結成50年記念］",
-      "date": "2026-26-04",
-      "endDate": "2026-26-04",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202511135590110.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 62
-    },
-    {
       "title": "3人のバッハが紡いだ新しい風",
       "date": "2026-26-05",
       "endDate": "2026-26-05",
@@ -1243,14 +1223,34 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 63
+      "id": 62
     },
     {
-      "title": "ライヴ・イマジン５８",
+      "title": "フィルハーモニックアンサンブル管弦楽団 第79回演奏会［結成50年記念］",
       "date": "2026-26-04",
       "endDate": "2026-26-04",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603127869183.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202511135590110.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 63
+    },
+    {
+      "title": "東京室内管弦楽団 Orchestra de Salon クラシカル・シネマ",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/20260316804815.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1266,11 +1266,11 @@
       "id": 64
     },
     {
-      "title": "東京室内管弦楽団 Orchestra de Salon クラシカル・シネマ",
+      "title": "ライヴ・イマジン５８",
       "date": "2026-26-04",
       "endDate": "2026-26-04",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/20260316804815.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202603127869183.html",
       "source": "concert",
       "cost": "free",
       "ages": [
