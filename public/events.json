@@ -1,664 +1,47 @@
 {
-  "updated": "2026-04-03T01:55:48.911754",
-  "count": 65,
+  "updated": "2026-04-04T01:49:16.419492",
+  "count": 30,
   "events": [
     {
-      "title": "ファーマーズ＆キッズフェスタ2026",
-      "date": "2027-03-01",
-      "endDate": "2027-03-01",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/farmers-kids-festa-2026/",
-      "source": "yoyogi",
+      "title": "FC東京 『世界で一つのココペリ』ワークショップ",
+      "date": "2026-05-02",
+      "endDate": "2026-05-02",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562969",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
-      "area": "shibuya",
-      "desc": "",
+      "area": "other",
+      "desc": "5月2日(土)に行われるFC東京のホームゲームにて、オリジナルのラッキードール『ココペリ』を作るワークショップを開催！ 『ココペリ』とは、ネイティブアメリカンに伝わる精霊で、笛を吹き、幸運を運んでくると信じられている。世界で一つのココペリを",
       "id": 1
     },
     {
-      "title": "留学生WASSHOI！TOKYOフェス2026",
-      "date": "2027-03-06",
-      "endDate": "2027-03-06",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/ryugakusei-wasshoi-tokyo-fes-2026/",
-      "source": "yoyogi",
+      "title": "キッズフリマ@ThinkPark Plaza（シンクパ...",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events/562953",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
-      "area": "shibuya",
-      "desc": "",
+      "area": "odaiba",
+      "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが東京都品川区のシンクパークプラザにて1年ぶりに開催（初開催）。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子どもの成長を実",
       "id": 2
     },
     {
-      "title": "防災ライフフェスタ2026",
-      "date": "2027-03-08",
-      "endDate": "2027-03-08",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/bousai-life-festa-2026-yoyogi/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "title": "グリーン アイルランド フェスティバル2026",
-      "date": "2027-03-14",
-      "endDate": "2027-03-15",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/green-ireland-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "第２回 抹茶グリーンティーマルシェ",
-      "date": "2027-03-14",
-      "endDate": "2027-03-15",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/matcha-green-tea-marche-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 5
-    },
-    {
-      "title": "サルサストリート2026　Viva la Primavera",
-      "date": "2027-03-14",
-      "endDate": "2027-03-15",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/salsa-street-2026-yoyogi/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "ベトナムフェアin東京2026",
-      "date": "2027-03-14",
-      "endDate": "2027-03-15",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/vietnam-fair-in-tokyo-2026-yoyogipark/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "第12回 タイミュージックグラミーアワード フェスティバル",
-      "date": "2027-03-14",
-      "endDate": "2027-03-15",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/thai-music-grammy-award-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 8
-    },
-    {
-      "title": "渋谷・表参道 WOMEN’S RUN",
-      "date": "2027-03-22",
-      "endDate": "2027-03-22",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/shibuya-omotesando-womens-run-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "Spring Love 春風2026",
-      "date": "2027-03-28",
-      "endDate": "2027-03-29",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/spring-love-harukaze-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "アウトドアデイジャパン東京2026",
-      "date": "2026-04-04",
-      "endDate": "2026-04-05",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/outdoor-day-japan-tokyo-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "眞名子新 フリーライブ 公園公演",
-      "date": "2026-04-07",
-      "endDate": "2026-04-07",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/manakoarata-koenkouen-yoyogipark-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "nature",
-        "stage"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "代々木公園わんわんカーニバル2026",
-      "date": "2026-04-10",
-      "endDate": "2026-04-12",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/yoyogi-park-wanwan-carnival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "アースデイ東京2026",
-      "date": "2026-04-18",
-      "endDate": "2026-04-19",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/earthday-tokyo-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "アースガーデン 春 in アースデイ東京 2026",
-      "date": "2026-04-18",
-      "endDate": "2026-04-19",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/earthgarden-spring-earthday-tokyo-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "第97回メーデー中央大会",
-      "date": "2026-04-29",
-      "endDate": "2026-04-29",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/mayday-central-tournament-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "タイフェスティバル2026",
-      "date": "2026-05-09",
-      "endDate": "2026-05-10",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/thai-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 17
-    },
-    {
-      "title": "OKINAWA FES Milafete",
-      "date": "2026-05-16",
-      "endDate": "2026-05-17",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/okinawa-fes-milafete-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 18
-    },
-    {
-      "title": "東京ナイトマーケット",
-      "date": "2026-05-20",
-      "endDate": "2026-05-24",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/tokyo-night-market-2026-may/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 19
-    },
-    {
-      "title": "ラオスフェスティバル2026",
-      "date": "2026-05-23",
-      "endDate": "2026-05-24",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/laos-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 20
-    },
-    {
-      "title": "ベトナムフェスティバル2026",
-      "date": "2026-05-30",
-      "endDate": "2026-05-31",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/vietnam-festival-2026-yoyogi/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 21
-    },
-    {
-      "title": "Tokyo Pride 2026",
-      "date": "2026-06-06",
-      "endDate": "2026-06-07",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/tokyo-pride-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 22
-    },
-    {
-      "title": "アフリカヘリテイジフェスティバル in 代々木公園 2026",
-      "date": "2026-06-20",
-      "endDate": "2026-06-21",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/africa-heritage-festival-yoyogi-park-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "nature",
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 23
-    },
-    {
-      "title": "ジャマイカフェスティバル2026 レゲエ＆キュイジーヌ in 東京",
-      "date": "2026-06-20",
-      "endDate": "2026-06-21",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/jamaica-festival-2026-tokyo/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 24
-    },
-    {
-      "title": "星と太陽のマーケット produced by 東京ナイトマーケット",
-      "date": "2026-07-01",
-      "endDate": "2026-07-05",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/hoshi-to-taiyou-no-market-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "アースガーデン 夏 ヨルイチ 2026",
-      "date": "2026-07-03",
-      "endDate": "2026-07-05",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/earthgarden-summer-yoruichi-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "原宿表参道元氣祭スーパーよさこい 2026",
-      "date": "2026-08-29",
-      "endDate": "2026-08-30",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/harajuku-omotesando-genki-super-yosakoi-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 27
-    },
-    {
-      "title": "ナマステ・インディア2026",
-      "date": "2026-09-26",
-      "endDate": "2026-09-27",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/namaste-india-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 28
-    },
-    {
-      "title": "カリブ・ラテンアメリカストリート代々木2026",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/caribbean-latin-america-street-yoyogi-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 29
-    },
-    {
-      "title": "アースガーデン 秋 2026",
-      "date": "2026-10-24",
-      "endDate": "2026-10-25",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/earthgarden-autumn-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "東京雪祭2026",
-      "date": "2026-10-31",
-      "endDate": "2026-11-01",
-      "place": "渋谷区・代々木公園",
-      "url": "https://www.yoyogikoen.info/tokyo-snow-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "shibuya",
-      "desc": "",
-      "id": 31
-    },
-    {
       "title": "第16回東京・ヨーロッパ友好音楽祭チャリティーコンサート",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://iko-yo.net/events/562789",
       "source": "ikoy",
@@ -671,12 +54,12 @@
       ],
       "area": "other",
       "desc": "世界最高峰の一つ、ドイツの名門バイエルン放送交響楽団の第1コンサートマスターが来日。指揮・新田ユリのもと、アマチュアオーケストラとの共演によるチャリティーコンサート（能登半島地震支援など）を行う。前半はソリストとして主役を務めるモーツァルト",
-      "id": 32
+      "id": 3
     },
     {
       "title": "FC東京 『キッズフリマ』",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://iko-yo.net/events/562771",
       "source": "ikoy",
@@ -689,12 +72,12 @@
       ],
       "area": "other",
       "desc": "FC東京のホームゲームにて、“大人は立ち入り禁止！売るのも買うのも子どもだけ”お金や経済を学べる体験型教育イベント『キッズフリマ』を開催。出店対象は小学3年生～6年生。買い物は、小学6年生以下の子ども(未就学児も可)が参加できる。出店申込方",
-      "id": 33
+      "id": 4
     },
     {
       "title": "キッズフリマ@味の素スタジアム",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://iko-yo.net/events/562759",
       "source": "ikoy",
@@ -707,12 +90,12 @@
       ],
       "area": "tachikawa",
       "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが東京都調布市の味の素スタジアムにて初開催。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子どもの成長を実感ができる。現金を使",
-      "id": 34
+      "id": 5
     },
     {
       "title": "2026品川区民「春のコンサート」第64回品川区民管弦...",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://iko-yo.net/events/16801",
       "source": "ikoy",
@@ -725,97 +108,7 @@
       ],
       "area": "odaiba",
       "desc": "品川区民管弦楽団による第64回定期演奏会「春のコンサート」です。\n曲目はブラームスの交響曲第4番ホ短調Op.98とムソルグスキー（ラヴェル編曲）の組曲「展覧会の絵」です。\n指揮は横島勝人さん、演奏は品川区民管弦楽団が担当します。\n有料公演で",
-      "id": 35
-    },
-    {
-      "title": "こども店長になってお金のことを学ぼう!!",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/16788",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "休日に親子で楽しく学びながら自然とお金の勉強ができるイベントです。\nクレジットカードなど見えないお金の世界の大切さを子どもに伝え、自分で生きていく力を養います。\n杉並区と葛飾区で開催し、江東区でも開催予定です。\n開催施設との関係はありません",
-      "id": 36
-    },
-    {
-      "title": "【biima sports主催】「かけっこ教室」@新宿...",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562628",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "運動神経は遺伝しない！\n子ども達の足が速くなるポイント・練習方法を大公開！\n楽しみながら一緒に学びましょう！\n\n◯タイムスケジュール\nイベントは30分を予定しております。\n\n①11：00〜11：30　年少・年中クラス\n②11：40〜12：.",
-      "id": 37
-    },
-    {
-      "title": "和歌を読み和歌を詠もう「思い出と花」",
-      "date": "2026-04-22",
-      "endDate": "2026-04-22",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562613",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "開催場所　　116-0013　荒川区西日暮里4-1-20西日暮里エーシービル一階　106J\n　　　（西日暮里駅より徒歩１分）\n４月22日（水曜日）15時-17時／25日（土曜日）14時-16時\n　題　「思い出と花」\n紀貫之　人はいさ心もしら",
-      "id": 38
-    },
-    {
-      "title": "【クムフラの直接指導】美しくなれる本格的フラダンス",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562607",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "フラスタジオ・ヴィーナスは、東京・中野の最大のフラダンス専門スタジオです。\nハワイアン総合カルチャーからのオリジナルレッスンは、\nハワイアンの曲の優雅な気分や雰囲気をそのままに、南国気分を満喫できます。\nおうちでのオンラインレッスンは　お子",
-      "id": 39
-    },
-    {
-      "title": "わんにゃんDAY",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/562559",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "西東京ふれあい譲渡センターで過ごしている保護犬たち以外にも、可愛い保護猫さんたちが大集合！ もちろん、気になるわんにゃんたちとの触れ合いや、すでに希望のワンコがいる里親希望の家族には、お散歩体験も行う。沢山の可愛いわんにゃんたちが待ってるの",
-      "id": 40
+      "id": 6
     },
     {
       "title": "期間を選択する",
@@ -837,12 +130,12 @@
       ],
       "area": "other",
       "desc": "コインを見つけたよ！東京こどもコインページを見てみよう！",
-      "id": 41
+      "id": 7
     },
     {
       "title": "カテゴリを選択する",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
       "source": "tokyo",
@@ -855,12 +148,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 42
+      "id": 8
     },
     {
       "title": "対象年齢",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/",
       "source": "tokyo",
@@ -874,43 +167,25 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 43
+      "id": 9
     },
     {
-      "title": "池袋本町プレーパーク",
-      "date": "2026-04-01",
-      "endDate": "2027-03-31",
-      "place": "開催エリア豊島区",
-      "url": "https://kodomo-smile.metro.tokyo.lg.jp/events/2639?q%5Bs%5D=start_at+desc",
+      "title": "物流×ITおしごと体験",
+      "date": "2026-04-29",
+      "endDate": "2026-04-29",
+      "place": "開催エリア稲城市",
+      "url": "https://information.pal-system.co.jp/press/260403-inagilogisticsit/",
       "source": "tokyo",
       "cost": "free",
       "ages": [
-        "family"
+        "elementary"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
       "desc": "",
-      "id": 44
-    },
-    {
-      "title": "開催エリア",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "開催エリア",
-      "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
-      "source": "tokyo",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 45
+      "id": 10
     },
     {
       "title": "東京たま大恐竜博",
@@ -928,12 +203,12 @@
       ],
       "area": "other",
       "desc": "大迫力で動き迫る実物大恐竜など、恐竜が生きている世界への没入感を体験することができる「東京たま大恐竜博」が、2026年4月29日（水・祝）〜5月6日（水・祝）東京たま未来メッセで開催！",
-      "id": 46
+      "id": 11
     },
     {
       "title": "東京の子ども無料遊び場15選【2026年版】｜完全無料から子ども無料まで年齢別に完全ガイド",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/free-kids-tokyo/",
       "source": "kids",
@@ -946,12 +221,12 @@
       ],
       "area": "other",
       "desc": "土日に子どもを連れてどこかに行くと、入場料だけで家族全員分が数千円かかることがあります。テーマパークや大型水族館は、気軽に何度も行ける値段ではありません。 でも東京には、無料で子どもを遊ばせられる場所が意外なほど多くあり […]",
-      "id": 47
+      "id": 12
     },
     {
       "title": "東京の雨の日｜子連れ室内おでかけ15選【2026年版】年齢別・無料スポット完全ガイド",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/rainy-day-kids-tokyo/",
       "source": "kids",
@@ -964,12 +239,12 @@
       ],
       "area": "other",
       "desc": "「また雨か……今週末、子どもをどこに連れていけばいいんだろう」 そんなため息をついたことが、一度はあるのではないでしょうか。天気予報を見るたびに頭を抱えて、でも家にこもれば子どもはエネルギーを持て余します。この記事では、 […]",
-      "id": 48
+      "id": 13
     },
     {
       "title": "東京のGW子連れおでかけ15選【2026年版】｜5/4・5/5無料施設＆穴場スポット年齢別ガイド",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/gw-kids-tokyo/",
       "source": "kids",
@@ -982,12 +257,12 @@
       ],
       "area": "other",
       "desc": "ゴールデンウィークが来るたびに「どこへ行くか」を調べる時間がかかります。どこに行っても混んでいます。予約は取れません。料金も高いです。子どもを連れてGWに動くことが、なぜかいつも疲れで終わってしまいます。 そんな繰り返し […]",
-      "id": 49
+      "id": 14
     },
     {
       "title": "東京の1歳向け室内遊び場15選【2026年版】｜専用スペースあり・ハイハイ対応スポット完全ガイド",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/indoor-play-1year-tokyo/",
       "source": "kids",
@@ -1001,12 +276,12 @@
       ],
       "area": "other",
       "desc": "雨の日に家にこもっていると、1歳の子どもがぐずり始めます。公園に連れていけない日が続くと、親のほうも煮詰まります。でも「1歳でも大丈夫な施設ってどこ？」と調べると、対象年齢が3歳以上だったり、ベビーカーが入れなかったりす […]",
-      "id": 50
+      "id": 15
     },
     {
       "title": "東京の春休み子連れおでかけ15選【2026年版】｜桜＆限定イベントを年齢別で全網羅",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
+      "date": "2026-04-04",
+      "endDate": "2026-04-04",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/spring-vacation-kids-tokyo/",
       "source": "kids",
@@ -1019,7 +294,7 @@
       ],
       "area": "other",
       "desc": "「春休み、どこに連れていこう」と、毎年悩みます。 新学期に向けた準備もあるしゴールデンウィークも近く、大きな計画を立てる余裕はないけれど、やっぱり子どもをどこかに連れて行ってあげたい。公園は花見客で混んでいるし、さてどう […]",
-      "id": 51
+      "id": 16
     },
     {
       "title": "細田守の原点/展",
@@ -1037,7 +312,7 @@
       ],
       "area": "other",
       "desc": "『時をかける少女』『サマーウォーズ』『おおかみこどもの雨と雪』などで多く人々を魅了し続けているアニメーション映画監督・細田守の過去最大規模の展覧会「細田守の原点/展」が、2026年6月20日（土）～8月31日（月）クリエイティブ ミュージア",
-      "id": 52
+      "id": 17
     },
     {
       "title": "ファミリーアニメフェスタ2026",
@@ -1055,7 +330,7 @@
       ],
       "area": "other",
       "desc": "「ファミリーアニメフェスタ2026」が2026年3月28日（土）東京ビッグサイトで開催！",
-      "id": 53
+      "id": 18
     },
     {
       "title": "0歳からのコンサート アメリカ大陸の大河をめぐる冒険",
@@ -1073,7 +348,7 @@
       ],
       "area": "other",
       "desc": "世界最大級のクラシック音楽祭「ラ・フォル・ジュルネ TOKYO 2026」で「0歳からのコンサート アメリカ大陸の大河をめぐる冒険」が2026年5月5日（火・祝）東京国際フォーラムで開催！",
-      "id": 54
+      "id": 19
     },
     {
       "title": "キッズのための オーケストラ・コンサート　 船に乗って世界の川を周遊！",
@@ -1091,7 +366,7 @@
       ],
       "area": "other",
       "desc": "「世界最大級のクラシック音楽祭！ラ・フォル・ジュルネ TOKYO 2026」で「キッズのための オーケストラ・コンサート　 船に乗って世界の川を周遊！」が2026年5月4日（月・祝）東京国際フォーラムで開催！",
-      "id": 55
+      "id": 20
     },
     {
       "title": "0歳からのコンサート 銀河への旅",
@@ -1109,7 +384,7 @@
       ],
       "area": "other",
       "desc": "世界最大級のクラシック音楽祭「ラ・フォル・ジュルネ TOKYO 2026」で2026年5月3日（日）に「0歳からのコンサート 銀河への旅」が東京国際フォーラムで開催！",
-      "id": 56
+      "id": 21
     },
     {
       "title": "【徹底レポート】豊洲「ピクサーの世界展」で子どもたち大はしゃぎ！ 風間俊介さんが語るピクサー愛と没入体験のトークを動画で！",
@@ -1127,7 +402,7 @@
       ],
       "area": "odaiba",
       "desc": "ピクサー映画のワンシーンを実物大スケールで再現した「ピクサーの世界展」あなたが夢見た物語の世界へ が、2026年3月20日（金・祝）〜10月12日（月・祝）まで東京・豊洲のクレヴィアベース トーキョーで開催！スペシャルサポーターの風間俊介さ",
-      "id": 57
+      "id": 22
     },
     {
       "title": "ガンバレルーヤとバター作り対決！ 国際女性デーに理系女子を応援する「キラリ☆サイエンスフェス！」初開催！STEMの魅力を体感したイベントの様子をレポート！",
@@ -1145,25 +420,7 @@
       ],
       "area": "other",
       "desc": "東京都は2026年3月8日（日）の国際女性デーに理系女子を応援する体験イベント「キラリ☆サイエンスフェス！」を初開催！ ガンバレルーヤも登場しSTEMの魅力を体感したイベントの様子をレポート！",
-      "id": 58
-    },
-    {
-      "title": "ピクサーの世界展 あなたが夢見た物語の世界へ",
-      "date": "2026-03-20",
-      "endDate": "2026-03-20",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/event/20260320_pixar/",
-      "source": "kids",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "odaiba",
-      "desc": "ディズニー＆ピクサー作品のワンシーンを実物大スケールで再現した没入型体験イベント「ピクサーの世界展 あなたが夢見た物語の世界へ」が、2026年3月20日（金・祝）〜10月12日（月・祝）まで東京・豊洲のクレヴィアベース トーキョーで開催！物",
-      "id": 59
+      "id": 23
     },
     {
       "title": "第5回上野⇄浅草音楽祭2026in日暮里",
@@ -1183,7 +440,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 60
+      "id": 24
     },
     {
       "title": "オーケストラ・ラム・スール",
@@ -1203,7 +460,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 61
+      "id": 25
     },
     {
       "title": "3人のバッハが紡いだ新しい風",
@@ -1223,27 +480,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 62
-    },
-    {
-      "title": "フィルハーモニックアンサンブル管弦楽団 第79回演奏会［結成50年記念］",
-      "date": "2026-26-04",
-      "endDate": "2026-26-04",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202511135590110.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 63
+      "id": 26
     },
     {
       "title": "東京室内管弦楽団 Orchestra de Salon クラシカル・シネマ",
@@ -1263,7 +500,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 64
+      "id": 27
     },
     {
       "title": "ライヴ・イマジン５８",
@@ -1283,7 +520,47 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 65
+      "id": 28
+    },
+    {
+      "title": "フィルハーモニックアンサンブル管弦楽団 第79回演奏会［結成50年記念］",
+      "date": "2026-26-04",
+      "endDate": "2026-26-04",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202511135590110.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
+      "date": "2026-26-05",
+      "endDate": "2026-26-05",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
     }
   ]
 }
