@@ -457,7 +457,7 @@ async function loadEvents(manual=false) {
     if (data.events && data.events.length > 0) {
       const scraped = data.events.filter(e => {
         if (!e.date || !e.title || e.title.length < 4) return false;
-        const d = new Date(e.date);
+        const dateObj = new Date(e.date);
         if (isNaN(d.getTime())) return false;
         const garbage = ['期間を選択する','カテゴリを選択する','対象年齢','開催エリア'];
         if (garbage.includes(e.title)) return false;
