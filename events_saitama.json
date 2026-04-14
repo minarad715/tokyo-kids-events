@@ -1,0 +1,619 @@
+{
+  "updated": "2026-04-14T22:44:43.755079",
+  "region": "saitama",
+  "count": 33,
+  "events": [
+    {
+      "title": "アートアクアリウム展 さいたまスーパーアリーナ2026",
+      "date": "2026-05-10",
+      "endDate": "2026-05-10",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/art-aquarium-saitama-super-arena-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 1
+    },
+    {
+      "title": "第14回さいたまミネラルマルシェ",
+      "date": "2026-04-03",
+      "endDate": "2026-04-05",
+      "place": "埼玉県",
+      "url": "https://www.mineralstone.info/saitama-mineral-marche-20260403/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 2
+    },
+    {
+      "title": "THE MEAT SAITAMA 2026",
+      "date": "2026-05-01",
+      "endDate": "2026-05-06",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/the-meat-saitama-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 3
+    },
+    {
+      "title": "2026けやきひろば春のビール祭り",
+      "date": "2026-05-13",
+      "endDate": "2026-05-17",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/keyaki-hiroba-beer-matsuri-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 4
+    },
+    {
+      "title": "ENJOY GW - ココロ、深呼吸、トコロザワ。 -",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/565170",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "埼玉・所沢の商業施設「エミテラス所沢」「グランエミオ所沢」が合同で開催するゴールデンウィーク企画です。 家族向けにパンフェスやパブリックビューイング、人気キャラクターのステージ（クレヨンしんちゃん／アンパンマン）や子どもが仕事体験できる「こ",
+      "id": 5
+    },
+    {
+      "title": "卓球ドリームフェスタ2026",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/565167",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "埼玉県戸田市の戸田市スポーツセンターで開催する「卓球ドリームフェスタ2026」は、障害の有無や年齢、レベルを問わず家族で参加できる卓球教室です。 \n基礎やラリーの実践を通して卓球の楽しさに触れられ、ラケット貸出もあるため手ぶらでも参加できま",
+      "id": 6
+    },
+    {
+      "title": "子育ておしゃべりSALON",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17663",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "toddler"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "コーディネーターを中心におしゃべりを楽しみながら、子育てに関する情報交換やプチ相談・仲間づくりをしてみませんか♪\n手あそび歌や赤ちゃん紙芝居などお楽しみ企画もあります！\n対象は0～2歳児とその保護者です。",
+      "id": 7
+    },
+    {
+      "title": "0・1・2ちゃんおしゃべり広場",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17662",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "0・1・2歳児を持つパパ・ママ集まれ〜！！\n子どもと一緒に手遊びしたり、絵本を読んだり、みんなで輪になっておしゃべりや情報交換をします♪\nこれから出産される妊婦さんも、ぜひご参加ください！\nエプロンサポーターも募集中。お気軽にどうぞ。",
+      "id": 8
+    },
+    {
+      "title": "令和8年度 0・1歳児とその保護者のための子育てぴよちゃん",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17661",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「子育てぴよちゃん」は0・1歳児のパパ・ママが集まり紙芝居や手遊びを楽しみながら交流する場です。申込み不要で無料。毎月第4月曜日開催、先輩ママのアドバイスや季節に合わせた内容もあります。対象は0歳児・1歳児とその保護者です。",
+      "id": 9
+    },
+    {
+      "title": "第110回雨竹会",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564933",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "埼玉県飯能市の竹寺にて毎年開催されている雨竹会。今回で110回となった。今年は、落語家立川談慶、市原マサヒロの歌・落語を楽しもう。※飯能駅南口から送迎は要予約",
+      "id": 10
+    },
+    {
+      "title": "はんどめいどフェスタ上福岡",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564874",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "母の日のプレゼントに心のこもった手づくり品はいかがですか？\nはんどめいどフェスタ上福岡は、多種多様な分野の作品が50店舗以上集まったハンドメイドマルシェ。ベビーキッズグッズ、珈琲お菓子、アクセサリー、編み布小物、木工品、インテリア、レザー、",
+      "id": 11
+    },
+    {
+      "title": "【東浦和】5/2　手作り鯉のぼりをつくろう！",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564849",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼＼＼こどもの日といえば、鯉のぼり！／／／\nもうすぐこどもの日♪\nお子様の健康と幸せを願いながら、お子様と一緒に手作り鯉のぼりをつくろう！\n\n好きな色でぬったり、模様をつけたり…\n世界にひとつだけの鯉のぼりが完成✨\n\nかんたんな材料で作れる",
+      "id": 12
+    },
+    {
+      "title": "【東浦和】4/29　ショベルカーを操作して、お菓子をす...",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564848",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼＼＼お菓子つかみ取りチャレンジ／／／\nショベルカーを操作して、お菓子をすくい取ろう！\n\nうまくアームを動かして、どれだけゲットできるかな！？✨\n\nまるで工事現場のヒーロー気分♪\nお子さま大興奮まちがいなしの体験イベントです！\n\nここ...",
+      "id": 13
+    },
+    {
+      "title": "【埼玉県熊谷市】4/19 無料　足あとブーケワークショップ",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564762",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "熊谷ハウジングステージ・積水ハウス様内で\n4/19限定✨足あとブーケワークショップ\n「今」の足形も、「これまで」の足形も、どちらも大切に残せます。\nその場で取った足形でも、もちろん制作OK◎\n成長を感じられる、世界にひとつだけのアートを♩\n",
+      "id": 14
+    },
+    {
+      "title": "minahan手作りマーケット@川越ハウジングステージ",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564755",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "クリスマスプレゼントにぴったりなキャンドルや布雑貨ほか、楽しいワークショップや、美味しいフード販売など30組以上出店する楽しいハンドメイドイベント♪\nminahan初！野菜の詰め放題も同時開催♪\n\n\nお買い物かワークショップ参加で作家提供の",
+      "id": 15
+    },
+    {
+      "title": "春の銘仙館まつり",
+      "date": "2026-04-18",
+      "endDate": "2026-05-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17540",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "春の銘仙館まつりでは福引きや実演（手織、糸取り、捺染）が行われます。\n1日2回、11:00と14:00に実演があります。\n銘仙着物の虫干しや掘り出し市も開催されます。\n芝桜まつりと併催で、企画展「叙情のメイセン展」も4月18日から5月6日ま",
+      "id": 16
+    },
+    {
+      "title": "第3回クラフトフェアちちぶ2026",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17541",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "全国から選りすぐりの作家と作品に出会える2日間のクラフトフェアです。\nクラフト、ワークショップ、フード合わせて118店舗が出店します。\n雨天決行、荒天中止です。\n入場は無料です。",
+      "id": 17
+    },
+    {
+      "title": "なないろごはんでちゃぶ台まるしぇ",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17538",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "東京・品川で開催している「ちゃぶ台まるしぇ」を、今回はなないろごはんで開催！\n秩父のみなさま、繋がってください！\n\nご縁がつながる、あたたかな交流の時間をご一緒しませんか？\nランチはお席が限られているため予約をお願いします。",
+      "id": 18
+    },
+    {
+      "title": "テニス＜ちょこっと＞無料体験会　～イトーヨーカドー浦和...",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564708",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "＜新学期特別企画＞\nイトーヨーカドー浦和店４階\nテニス＜ちょこっと＞無料体験会\n\n〇手ぶらで参加できます\n〇予約不要\n〇無料\n\n下記の時間内でお一人様5～10分程度、\n子ども用のラケットやボールを使った、\n簡易なレッスンをご体験いただ...",
+      "id": 19
+    },
+    {
+      "title": "6/6 加須市　０歳からの・はじめてのオーケストラ動物大行進",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564700",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert",
+        "nature"
+      ],
+      "area": "other",
+      "desc": "〜親子でリラックスして生演奏を楽しみませんか？〜\n\n出演:サロンオーケストラジャパン\nオーディションで選ばれた優秀な演奏家で構成されておりTV出演多数。全国で年間350公演開催の人気団体です。\n目の前で繰り広げられるサロンオーケストラジャパ",
+      "id": 20
+    },
+    {
+      "title": "ポケモンベースボールフェスタ2026",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17453",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "2026年のゴールデンウィークにベルーナドームで開催されるポケモンベースボールフェスタ。\nポケモンキャラクターのピカチュウが来場し、小学生以下には配布品があるファミリーイベント。\n北海道日本ハムファイターズ戦、福岡ソフトバンクホークス戦の試",
+      "id": 21
+    },
+    {
+      "title": "第68回星川夜市 ～HOSHIKAWA Night B...",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564664",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "熊谷駅前を流れる星川沿いで開催のナイトバザール。飲食・クラフト・パフォーマー・キッチンカーがたくさん集まる。雨天時は中止。最新情報は「星川夜市Instagram」を確認。",
+      "id": 22
+    },
+    {
+      "title": "ドコモ ウルトラマンフェア",
+      "date": "2026-04-18",
+      "endDate": "2026-04-19",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17404",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「ドコモ ウルトラマンフェア」では、ウルトラヒーローの撮影会を開催します。\n撮影は4月18日にウルトラマンタロウ、4月19日にウルトラマンタイガが登場します。\n参加は無料で、整理券が必要です。\n整理券は当日9:55から配布され、各日90組、",
+      "id": 23
+    },
+    {
+      "title": "【越谷市】キッズマネースクール☆おみせやさんごっこ",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564629",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "年中〜小学4年生向け！\n小さい今だからこそ、「おかね」を親子で楽しく学べます。\n\n＼キッズマネースクール／\n大人気コンテンツ！\n\nこどもたちは「こども店長」になって、おみせやさんごっこにチャレンジ！\n遊びの中で、「お金の大切さ」や「ありがと",
+      "id": 24
+    },
+    {
+      "title": "春の絵本まつり〜子ども読書の日イベント〜",
+      "date": "2026-04-23",
+      "endDate": "2026-04-23",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17380",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "4月23日は「子ども読書の日」です。図書館ではたくさんの本たちが、みなさんをおまちしています。\nいろいろな色が出てくる絵本がいっぱい！紙芝居やブックトークもお楽しみにね。\n今回のテーマは「どんないろがすき？」です。\n対象は4歳〜小学生（先着",
+      "id": 25
+    },
+    {
+      "title": "子どもミュージカル講座",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17379",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "歌と踊りと演劇が一体となった総合型エンターテインメントの子ども向けミュージカル講座です。\n第1回～第3回は基礎練習、最終回はミニミュージカルを実施します。保護者の見学も可能です。\n対象は年長以上の女の子10名程度で、年長と小学1年生は保護者",
+      "id": 26
+    },
+    {
+      "title": "ハンドメイド教室押し花ウェルカムボードづくり",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/17378",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "好きなお花を選んでステキなインテリアを作る押し花ウェルカムボードのハンドメイド教室です。\n対象は小学生で15人まで参加可能。\n持ち物ははさみ。\n講師は島田 敦先生。\n参加費は350円で、申込みは費用を添えて窓口または電話で可能です。\n電話予",
+      "id": 27
+    },
+    {
+      "title": "4/18-19【紙コップロケットをつくろう🚀】@埼玉お...",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564607",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【紙コップロケットをつくろう🚀】\n自分で作ったロケットがビューンと飛ぶ！\nかんたん工作で、親子で楽しめる人気イベントです✨\n\n紙コップと輪ゴムを使って、\nオリジナルロケットを作ってみよう！\n完成したら実際に飛ばして遊べます😊\n\n「つくる .",
+      "id": 28
+    },
+    {
+      "title": "きたもと肉祭り",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564530",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "北本に”おいしい”と”たのしい”が集まる1日。北本市内に店舗を構えるハンバーガー店をはじめとする飲食店や、キッチンカーなど約20店舗が出店！ 会場では、ジャズバンドによるスペシャルライブやダンスステージも同時開催。ゆったりとした時間の中で、",
+      "id": 29
+    },
+    {
+      "title": "金沢健一　線についてー自作の4シリーズから",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564507",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "川越にアトリエを構える彫刻家・金沢健一（1956-　）と川越市立美術館との共催による、展示とワークショップが融合したイベント。「線」をキーワードにセレクトされた金沢作品の4シリーズ「音のかけら」「振動態」「延長線上のマリオネット」「手すさみ",
+      "id": 30
+    },
+    {
+      "title": "世界にひとつだけ！『Myシール帳づくり』＆シール交換会",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564432",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【無料イベント開催】世界にひとつだけ！『Myシール帳づくり』＆シール交換会\n\nこのたび、埼玉県久喜市の住宅展示場にて、無料イベントを開催いたします。\n今回は、シール好きのお子様必見の「Myシール帳づくり＆シール交換会」を開催いたします！\n\n",
+      "id": 31
+    },
+    {
+      "title": "【無料体験会】biima sports 戸田校",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564339",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "biima sports（ビーマスポーツ）は、3歳〜12歳を対象とした総合スポーツスクールです。早稲田大学の広瀬統一教授・前橋明教授と共同開発したプログラムを導入し、サッカー・野球・バスケットボール・体操など年間7種目以上のスポーツを総合的",
+      "id": 32
+    },
+    {
+      "title": "【無料体験会】biima sports 川口校",
+      "date": "2026-04-14",
+      "endDate": "2026-04-14",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/564338",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "biima sports（ビーマスポーツ）は、3歳〜12歳を対象とした総合スポーツスクールです。早稲田大学の広瀬統一教授・前橋明教授と共同開発したプログラムを導入し、サッカー・野球・バスケットボール・体操など年間7種目以上のスポーツを総合的",
+      "id": 33
+    }
+  ]
+}
