@@ -5,7 +5,7 @@ import json, re, time, datetime, os
 from urllib.parse import urljoin
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (compatible; TokyoKidsBot/1.0)'}
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'public', 'events.json')
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), '..', '..', 'events.json')
 
 def fetch_html(url, timeout=15):
     try:
