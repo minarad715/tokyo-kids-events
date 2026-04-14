@@ -384,7 +384,7 @@ const SOURCES = [
 ];
 
 // ── サンプルデータ（events.json が読み込まれると上書きされます）
-
+const SAMPLE = [
   {id:1,  title:'よみうりランド 夜桜ジュエルミネーション',          date:'2026-03-20', endDate:'2026-04-05', source:'rurubu',  place:'稲城市・よみうりランド',                   area:'other',    cost:'paid',  ages:['toddler','preschool','elementary','family'], cats:['festival'],         desc:'照明デザイナー石井幹子プロデュース。桜並木×宝石色イルミネーション。夜桜ライトアップも。',         url:'https://www.yomiuriland.com/'},
   {id:2,  title:'東京・春・音楽祭2026',                          date:'2026-03-13', endDate:'2026-04-19', source:'walker',  place:'台東区・東京文化会館ほか上野公園内各館',     area:'ueno',     cost:'paid',  ages:['preschool','elementary','family'],         cats:['concert'],          desc:'春の上野を彩るクラシック音楽の祭典。子ども向けプログラムも充実。上野公園内各ホールで開催。',       url:'https://www.walkerplus.com/'},
   {id:3,  title:'サンシャイン水族館「ざんねんないきもの展３」',    date:'2026-03-13', endDate:'2026-11-23', source:'kids',   place:'豊島区・サンシャイン水族館',               area:'other',    cost:'paid',  ages:['preschool','elementary','family'],         cats:['museum','nature'],   desc:'累計546万部超えの人気書籍シリーズとのコラボ展。約25種のざんねんないきものが大集合！',          url:'https://www.kids-event.jp/'},
@@ -463,7 +463,6 @@ async function loadEvents(manual=false) {
         if (garbage.includes(e.title)) return false;
         return true;
       });
-      const d = new Date(data.updated);
       const d = new Date(data.updated);
       document.getElementById('upd-time').textContent =
         `更新: ${d.getMonth()+1}/${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
