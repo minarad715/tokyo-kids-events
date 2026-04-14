@@ -252,7 +252,15 @@ def scrape_concert():
             link_el = item.select_one('a[href]')
             if not title_el or len(title_el.get_text(strip=True)) < 3:
                 continue
-            d1, d2 = parse_date_range(date_el.get_text() if date_el else '')
+            date_text = date_el.get_text() if date_el else ''
+            # コンサートスクエアは「2026年4月26日」形式を直接探す
+            import re as re2
+            m = re2.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', date_text)
+            if m:
+                d1 = f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
+                d2 = d1
+            else:
+                d1, d2 = parse_date_range(date_text)
             place = hall_el.get_text(strip=True) if hall_el else '東京都内'
             combined = title_el.get_text() + place
             if not re.search(r'東京|渋谷|新宿|上野|銀座|池袋|六本木|恵比寿|表参道|豊洲|お台場|立川|紀尾井|サントリー|オペラシティ|東京文化', combined):
