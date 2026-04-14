@@ -201,6 +201,14 @@ a{text-decoration:none;color:inherit}
 .affili-bar .rak{background:#BF0000;color:#fff}
 
 /* toast */
+
+.region-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:0 1.25rem;position:sticky;top:56px;z-index:99}
+.region-bar-in{max-width:1080px;margin:0 auto;display:flex;gap:4px;overflow-x:auto;padding:8px 0;scrollbar-width:none}
+.region-bar-in::-webkit-scrollbar{display:none}
+.rtab{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--border);background:none;cursor:pointer;font-family:inherit;color:var(--t2);transition:all .15s;white-space:nowrap;flex-shrink:0}
+.rtab:hover{border-color:var(--t2);color:var(--t1)}
+.rtab.ron{color:#fff;border-color:transparent}
+
 .toast{position:fixed;bottom:20px;right:20px;background:#222;color:#fff;padding:9px 16px;border-radius:var(--r-md);font-size:13px;z-index:9999;opacity:0;transform:translateY(6px);transition:all .22s;pointer-events:none}
 .toast.show{opacity:1;transform:translateY(0)}
 </style>
@@ -219,12 +227,21 @@ a{text-decoration:none;color:inherit}
     </div>
     <div class="hdr-right">
       <span class="upd-time" id="upd-time"></span>
-      <button class="btn-refresh" id="rfbtn" onclick="loadEvents()">
+      <button class="btn-refresh" id="rfbtn" onclick="loadRegionEvents(document.querySelector('.rtab.ron')?.dataset.file||'events.json')">
         <span id="rficon">↻</span> 更新
       </button>
     </div>
   </div>
 </header>
+
+<div class="region-bar">
+  <div class="region-bar-in">
+    <button class="rtab ron" style="background:#2E9E5B;border-color:#2E9E5B" data-region="tokyo" data-color="#2E9E5B" data-file="events.json" onclick="switchRegion(this)">東京</button>
+    <button class="rtab" data-region="kanagawa" data-color="#3070D0" data-file="events_kanagawa.json" onclick="switchRegion(this)">神奈川</button>
+    <button class="rtab" data-region="saitama" data-color="#D84090" data-file="events_saitama.json" onclick="switchRegion(this)">埼玉</button>
+    <button class="rtab" data-region="chiba" data-color="#C07010" data-file="events_chiba.json" onclick="switchRegion(this)">千葉</button>
+  </div>
+</div>
 
 <div class="wrap">
   <!-- SIDEBAR -->
@@ -298,6 +315,9 @@ a{text-decoration:none;color:inherit}
     </div>
 
 
+    </div>
+
+
     <div class="scard" style="overflow:hidden">
       <div class="scard-title">PR・広告</div>
       <div style="display:flex;flex-direction:column;gap:10px;align-items:center">
@@ -326,11 +346,6 @@ a{text-decoration:none;color:inherit}
           <img border="0" width="120" height="600" style="max-width:100%;height:auto" alt="" src="https://www23.a8.net/svt/bgt?aid=260317023286&wid=002&eno=01&mid=s00000014646001005000&mc=1">
         </a>
         <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AZHWF+4QA0KA+350C+5ZEMP" alt="">
-        
-        <a href="https://px.a8.net/svt/ejp?a8mat=4AZHWE+GHL7OA+5S84+5YZ75" rel="nofollow" style="display:block;width:100%;text-align:center">
-          <img border="0" width="300" height="250" style="max-width:100%;height:auto" alt="" src="https://www29.a8.net/svt/bgt?aid=260317022997&wid=002&eno=01&mid=s00000026986001003000&mc=1">
-        </a>
-        <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4AZHWE+GHL7OA+5S84+5YZ75" alt="">
 
       </div>
     </div>
@@ -361,7 +376,7 @@ a{text-decoration:none;color:inherit}
     <!-- アフィリエイトバー（スマホ対応） -->
     <div class="affili-bar">
       <a class="amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 Amazonでレジャーシート</a>
-      <a class="rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームで教員オススメ知育グッズ</a>
+      <a class="rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームでグッズ</a>
     </div>
     <div id="cal-view"></div>
     <div id="lst-view" style="display:none"></div>
@@ -380,7 +395,6 @@ const SOURCES = [
   {id:'concert', name:'コンサートスクエア', url:'https://www.concertsquare.jp/concert/search/ticketFree',      color:'#D84090'},
   {id:'enjoy',   name:'レッツエンジョイ東京',url:'https://www.enjoytokyo.jp/theme/scn03/',                      color:'#D84040'},
   {id:'rurubu',  name:'るるぶ',            url:'https://kids.rurubu.jp/article/152079/',                      color:'#C07010'},
-  {id:'yoyogi', name:'代々木公園情報', url:'https://www.yoyogikoen.info/', color:'#2E7D32'},
 ];
 
 // ── サンプルデータ（events.json が読み込まれると上書きされます）
@@ -412,13 +426,13 @@ const SAMPLE = [
   {id:25, title:'スケートボード無料体験教室',                      date:'2026-03-21', endDate:'2026-03-21', source:'tokyo',  place:'大田区・城南島海浜公園',                  area:'other',    cost:'paid',  ages:['elementary'],                             cats:['sport'],             desc:'参加費500円（保険料込み）。公認インストラクターが丁寧に指導。定員制・先着順。初心者OK！',        url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
   {id:26, title:'子どもダンス発表公演（無料・要予約）',             date:'2026-03-18', endDate:'2026-03-22', source:'tokyo',  place:'豊島区・東京芸術劇場ほか',                area:'other',    cost:'free',  ages:['preschool','elementary','family'],         cats:['stage'],             desc:'子どもたちがダンサー・青木尚哉さんと8日間のワークショップで創作した作品の発表公演。',           url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
   {id:27, title:'三曲・日本舞踊 無料公演',                         date:'2026-03-26', endDate:'2026-03-27', source:'tokyo',  place:'都内・各公演会場',                        area:'other',    cost:'free',  ages:['elementary','family'],                    cats:['stage'],             desc:'三曲・日本舞踊Ⅰ（3/26 15:30）、長唄・日本舞踊Ⅱ（3/27 15:30）。どなたでも参加可。',       url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
-  {id:28, title:'こどもビームス 春休み無料ふらっとイベント',        date:'2026-03-26', endDate:'2026-04-09', source:'ikoy',   place:'渋谷区・こどもビームス',                  area:'shibuya',  cost:'free',  ages:['toddler','preschool','elementary'],        cats:['workshop','festival'],desc:'春休みに気軽に参加できる無料イベント。ファッション・工作など楽しいコンテンツ多数。',           url:'https://iko-yo.net/'},
+  {id:28, title:'こどもビームス 春休み無料ふらっとイベント',        date:'2026-03-26', endDate:'2026-04-09', source:'ikoy',   place:'渋谷区・こどもビームス',                  area:'shibuya',  cost:'free',  ages:['toddler','preschool','elementary'],        cats:['workshop','festival'],'desc':'春休みに気軽に参加できる無料イベント。ファッション・工作など楽しいコンテンツ多数。',           url:'https://iko-yo.net/'},
   {id:29, title:'昆虫図鑑づくりワークショップ（無料）',             date:'2026-03-26', endDate:'2026-04-04', source:'ikoy',   place:'墨田区・キッズドア',                      area:'other',    cost:'free',  ages:['elementary'],                             cats:['workshop','nature'],  desc:'昆虫の基礎から最先端研究まで学んで観察！自分だけの昆虫図鑑を作ろう。参加費無料。',             url:'https://iko-yo.net/'},
   {id:30, title:'帝京平成大学吹奏楽部 無料定期演奏会',             date:'2026-03-16', endDate:'2026-03-16', source:'ikoy',   place:'豊島区・帝京平成大学',                    area:'other',    cost:'free',  ages:['preschool','elementary','family'],         cats:['concert'],           desc:'楽器紹介ファンタジーメドレーほか多彩なプログラム。入場無料・どなたでもお気軽に。',              url:'https://iko-yo.net/'},
   {id:31, title:'おとみっく 親子参加型コンサート',                  date:'2026-03-20', endDate:'2026-03-20', source:'ikoy',   place:'調布市・調布市文化会館たづくり',            area:'other',    cost:'paid',  ages:['baby','toddler','preschool'],              cats:['concert'],           desc:'見て・聴いて・参加するコンサート。途中入場OK！音楽ワークショップも。乳幼児にも最適。',          url:'https://iko-yo.net/'},
-  {id:32, title:'紙博 in 東京 vol.12',                           date:'2026-03-13', endDate:'2026-03-15', source:'enjoy',  place:'台東区・都立産業貿易センター台東館',         area:'ueno',     cost:'paid',  ages:['elementary','family'],                    cats:['workshop','festival'],desc:'161組出展・過去最大規模。マステ・ノート・はんこ・文具雑貨が並ぶ春の紙のフェスティバル。',      url:'https://www.enjoytokyo.jp/'},
+  {id:32, title:'紙博 in 東京 vol.12',                           date:'2026-03-13', endDate:'2026-03-15', source:'enjoy',  place:'台東区・都立産業貿易センター台東館',         area:'ueno',     cost:'paid',  ages:['elementary','family'],                    cats:['workshop','festival'],'desc':'161組出展・過去最大規模。マステ・ノート・はんこ・文具雑貨が並ぶ春の紙のフェスティバル。',      url:'https://www.enjoytokyo.jp/'},
   {id:33, title:'アーバンスポーツ体験会（Urban Women 2026）',     date:'2026-03-08', endDate:'2026-03-08', source:'enjoy',  place:'江東区・有明ライブドアアーバンスポーツパーク',area:'odaiba', cost:'free',  ages:['elementary','family'],                    cats:['sport'],             desc:'女性トップアスリートが直接指導。スケートボード・BMX・ブレイキンを無料で体験！',               url:'https://www.enjoytokyo.jp/'},
-  {id:34, title:'国営昭和記念公園 チューリップフェスタ',            date:'2026-04-05', endDate:'2026-04-20', source:'walker', place:'立川市・国営昭和記念公園',                area:'tachikawa',cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival','nature'],desc:'50万本のチューリップが咲き誇る春の大イベント。花の迷路も人気。立川駅から徒歩5分。',           url:'https://www.walkerplus.com/'},
+  {id:34, title:'国営昭和記念公園 チューリップフェスタ',            date:'2026-04-05', endDate:'2026-04-20', source:'walker', place:'立川市・国営昭和記念公園',                area:'tachikawa',cost:'paid',  ages:['baby','toddler','preschool','elementary','family'], cats:['festival','nature'],'desc':'50万本のチューリップが咲き誇る春の大イベント。花の迷路も人気。立川駅から徒歩5分。',           url:'https://www.walkerplus.com/'},
   {id:35, title:'東京都美術館 学校アートプログラム（無料）',         date:'2026-04-01', endDate:'2026-09-30', source:'tokyo',  place:'台東区・東京都美術館',                    area:'ueno',     cost:'free',  ages:['elementary'],                             cats:['museum','workshop'],  desc:'授業・部活での利用もOK。さまざまな視点でアートをじっくり楽しむプログラム。事前申込制。',        url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
   {id:36, title:'東京都子どもフェスタ（乳幼児向けコンサート）',     date:'2026-04-11', endDate:'2026-04-11', source:'tokyo',  place:'都内・各公演会場',                        area:'other',    cost:'free',  ages:['baby','toddler','preschool'],              cats:['concert','stage'],   desc:'生後5ヶ月〜3歳向けの複数ステージ。各回40分程度。保護者同伴必須。要事前申込。',                url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/'},
   {id:37, title:'サンシャイン60展望台 春の特別イベント',            date:'2026-02-26', endDate:'2026-05-10', source:'ikoy',   place:'豊島区・サンシャイン60展望台 てんぼうパーク',area:'other',  cost:'paid',  ages:['preschool','elementary','family'],         cats:['festival'],          desc:'展望台からの桜・春景色を楽しむ特別イベント期間。限定グッズ販売やフォトスポットも。',             url:'https://iko-yo.net/'},
@@ -444,14 +458,27 @@ const CAT_C = {
   festival: {bg:'#FFF8E8',tx:'#854F0B'},
 };
 
-// ── LOAD events.json ──
-async function loadEvents(manual=false) {
+
+function switchRegion(btn) {
+  document.querySelectorAll('.rtab').forEach(b => {
+    b.classList.remove('ron');
+    b.style.background = 'none';
+    b.style.color = '';
+    b.style.borderColor = '';
+  });
+  btn.classList.add('ron');
+  btn.style.background = btn.dataset.color;
+  btn.style.borderColor = btn.dataset.color;
+  loadRegionEvents(btn.dataset.file);
+}
+
+async function loadRegionEvents(file) {
   const btn = document.getElementById('rfbtn');
   const icon = document.getElementById('rficon');
   btn.disabled = true;
   icon.innerHTML = '<span class="spin"></span>';
   try {
-    const r = await fetch('events.json?t=' + Date.now());
+    const r = await fetch(file + '?t=' + Date.now());
     if (!r.ok) throw new Error(r.status);
     const data = await r.json();
     if (data.events && data.events.length > 0) {
@@ -464,8 +491,36 @@ async function loadEvents(manual=false) {
         return true;
       });
       const scrapedTitles = new Set(scraped.map(e => e.title.slice(0,10)));
-      const sampleOnly = SAMPLE.filter(e => !scrapedTitles.has(e.title.slice(0,10)));
+      const sampleOnly = file === 'events.json' ? SAMPLE.filter(e => !scrapedTitles.has(e.title.slice(0,10))) : [];
       EVENTS = [...scraped, ...sampleOnly];
+      const d = new Date(data.updated);
+      document.getElementById('upd-time').textContent =
+        `更新: ${d.getMonth()+1}/${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+    } else {
+      EVENTS = file === 'events.json' ? [...SAMPLE] : [];
+      document.getElementById('upd-time').textContent = file === 'events.json' ? 'サンプルデータ表示中' : 'データ準備中';
+    }
+  } catch {
+    EVENTS = file === 'events.json' ? [...SAMPLE] : [];
+    document.getElementById('upd-time').textContent = file === 'events.json' ? 'サンプルデータ表示中' : 'データ準備中';
+  }
+  btn.disabled = false;
+  icon.textContent = '↻';
+  renderAll();
+}
+
+// ── LOAD events.json ──
+async function loadEvents(manual=false) {
+  const btn = document.getElementById('rfbtn');
+  const icon = document.getElementById('rficon');
+  btn.disabled = true;
+  icon.innerHTML = '<span class="spin"></span>';
+  try {
+    const r = await fetch('events.json?t=' + Date.now());
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    if (data.events && data.events.length > 0) {
+      EVENTS = data.events;
       const d = new Date(data.updated);
       document.getElementById('upd-time').textContent =
         `更新: ${d.getMonth()+1}/${d.getDate()} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
@@ -610,7 +665,7 @@ function renderList(evs) {
     const cTags = e.cats.map(c=>`<span class="etag t-${c}">${CAT_L[c]||c}</span>`).join('');
     const costTag = `<span class="etag t-${e.cost}">${e.cost==='free'?'★ 無料':'有料'}</span>`;
     const isOutdoor = e.cats.some(c=>['nature','festival','sport'].includes(c));
-    const affiliHtml = isOutdoor ? `<div class="event-affili"><a class="ev-affili-btn amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 レジャーシート</a><a class="ev-affili-btn rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天ルームで教員オススメ知育グッズ</a></div>` : '';
+    const affiliHtml = isOutdoor ? `<div class="event-affili"><a class="ev-affili-btn amz" href="https://amzn.to/4drmgiB" target="_blank" rel="nofollow noopener">🛒 レジャーシート</a><a class="ev-affili-btn rak" href="https://room.rakuten.co.jp/minami123/items" target="_blank" rel="nofollow noopener">🛍 楽天グッズ</a></div>` : '';
     const src = srcMap[e.source];
     const eventUrl = e.url && e.url !== '#' ? e.url : (src?.url || '#');
     return `<a class="ec${e.cost==='free'?' free-ev':''}" href="${eventUrl}" target="_blank" rel="noopener nofollow">
@@ -687,7 +742,7 @@ function toast(msg){
 }
 
 // ── START ──
-loadEvents();
+loadRegionEvents('events.json');
 </script>
 </body>
 </html>
