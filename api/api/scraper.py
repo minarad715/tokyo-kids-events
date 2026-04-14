@@ -338,13 +338,18 @@ def parse_date_range(text):
     now = datetime.date.today()
     year = now.year
     dates = []
+    # YYYY年MM月DD日
     for m in re.finditer(r'(\d{4})[年](\d{1,2})[月](\d{1,2})', text):
-        dates.append(f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}")
+        y, mo, d = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if 1 <= mo <= 12 and 1 <= d <= 31:
+            dates.append(f"{y}-{mo:02d}-{d:02d}")
+    # MM月DD日（年なし）
     if not dates:
-        for m in re.finditer(r'(\d{1,2})[月/](\d{1,2})', text):
-            mo, dy = int(m.group(1)), int(m.group(2))
-            yr = year if mo >= now.month else year + 1
-            dates.append(f"{yr}-{mo:02d}-{dy:02d}")
+        for m in re.finditer(r'(\d{1,2})[月](\d{1,2})[日]', text):
+            mo, d = int(m.group(1)), int(m.group(2))
+            if 1 <= mo <= 12 and 1 <= d <= 31:
+                yr = year if mo >= now.month else year + 1
+                dates.append(f"{yr}-{mo:02d}-{d:02d}")
     if not dates:
         d = now.strftime('%Y-%m-%d')
         return d, d
@@ -396,7 +401,14 @@ def guess_area(place):
         if any(k in place for k in keywords):
             return area
     return 'other'
+GARBAGE_TITLES = ['期間を選択する', 'カテゴリを選択する', '対象年齢', '開催エリア']
 
+def is_valid_event(e):
+    if e['title'] in GARBAGE_TITLES:
+        return False
+    if len(e['title']) < 4:
+        return False
+    return True
 def dedup(events):
     seen = set()
     result = []
@@ -430,6 +442,7 @@ def main():
         except Exception as e:
             print(f"  エラー {scraper.__name__}: {e}")
 
+    all_events = [e for e in all_events if is_valid_event(e)]
     all_events = dedup(all_events)
     for i, e in enumerate(all_events):
         e['id'] = i + 1
