@@ -202,7 +202,7 @@ a{text-decoration:none;color:inherit}
 
 /* toast */
 
-.region-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:0 1.25rem;position:sticky;top:56px;z-index:99}
+.region-bar{background:var(--surface);border-bottom:1px solid var(--border);padding:0 1.25rem}
 .region-bar-in{max-width:1080px;margin:0 auto;display:flex;gap:4px;overflow-x:auto;padding:8px 0;scrollbar-width:none}
 .region-bar-in::-webkit-scrollbar{display:none}
 .rtab{padding:5px 14px;border-radius:20px;font-size:12px;font-weight:500;border:1px solid var(--border);background:none;cursor:pointer;font-family:inherit;color:var(--t2);transition:all .15s;white-space:nowrap;flex-shrink:0}
@@ -315,9 +315,6 @@ a{text-decoration:none;color:inherit}
     </div>
 
 
-    </div>
-
-
     <div class="scard" style="overflow:hidden">
       <div class="scard-title">PR・広告</div>
       <div style="display:flex;flex-direction:column;gap:10px;align-items:center">
@@ -388,13 +385,20 @@ a{text-decoration:none;color:inherit}
 
 <script>
 const SOURCES = [
-  {id:'ikoy',    name:'いこーよ',         url:'https://iko-yo.net/',                                          color:'#2E9E5B'},
-  {id:'walker',  name:'ウォーカープラス',   url:'https://www.walkerplus.com/event_list/ar0313/tag12/',          color:'#E07830'},
-  {id:'tokyo',   name:'東京都（公式）',     url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/',            color:'#3070D0'},
-  {id:'kids',    name:'キッズイベント',     url:'https://www.kids-event.jp/',                                   color:'#7A50C8'},
-  {id:'concert', name:'コンサートスクエア', url:'https://www.concertsquare.jp/concert/search/ticketFree',      color:'#D84090'},
-  {id:'enjoy',   name:'レッツエンジョイ東京',url:'https://www.enjoytokyo.jp/theme/scn03/',                      color:'#D84040'},
-  {id:'rurubu',  name:'るるぶ',            url:'https://kids.rurubu.jp/article/152079/',                      color:'#C07010'},
+  {id:'ikoy',         name:'いこーよ',           url:'https://iko-yo.net/',                                          color:'#2E9E5B'},
+  {id:'walker',       name:'ウォーカープラス',     url:'https://www.walkerplus.com/event_list/ar0313/tag12/',          color:'#E07830'},
+  {id:'tokyo',        name:'東京都（公式）',       url:'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/',            color:'#3070D0'},
+  {id:'kids',         name:'キッズイベント',       url:'https://www.kids-event.jp/',                                   color:'#7A50C8'},
+  {id:'concert',      name:'コンサートスクエア',   url:'https://www.concertsquare.jp/concert/search/ticketFree',      color:'#D84090'},
+  {id:'enjoy',        name:'レッツエンジョイ東京', url:'https://www.enjoytokyo.jp/theme/scn03/',                      color:'#D84040'},
+  {id:'rurubu',       name:'るるぶ',              url:'https://kids.rurubu.jp/article/152079/',                      color:'#C07010'},
+  {id:'yoyogi',       name:'代々木公園情報',       url:'https://www.yoyogikoen.info/',                                color:'#2E7D32'},
+  {id:'yokohama',     name:'横浜イベント情報',     url:'https://www.yokohamaevent.info/',                             color:'#3070D0'},
+  {id:'saitama',      name:'さいたま新都心情報',   url:'https://www.saitama-shintoshin.com/',                         color:'#D84090'},
+  {id:'chiba_park',   name:'稲毛海浜公園情報',     url:'https://www.inageseasidepark.com/',                           color:'#C07010'},
+  {id:'yokohama_city',name:'横浜市公式',           url:'https://www.city.yokohama.lg.jp/',                            color:'#1D4ED8'},
+  {id:'saitama_city', name:'さいたま市公式',       url:'https://www.city.saitama.lg.jp/',                             color:'#BE185D'},
+  {id:'chiba_city',   name:'千葉市公式',           url:'https://www.city.chiba.jp/',                                  color:'#854F0B'},
 ];
 
 // ── サンプルデータ（events.json が読み込まれると上書きされます）
