@@ -36,75 +36,49 @@ def fetch_rss(url, timeout=15):
 # ─── いこーよ HTML（地域別・将来のイベントも取得） ───
 def scrape_ikoyo(pref_id, region):
     events = []
-    # future events with prefecture filter
-    today = datetime.date.today().strftime('%Y-%m-%d')
-    url = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}&per=50&sort=new"
-    soup = fetch_html(url)
+    url = f"https://iko-yo.net/events.rss?prefecture_ids[]={pref_id}"
+    soup = fetch_rss(url)
     if not soup:
         return events
-    # Try multiple card selectors
-    cards = []
-    for sel in ['.p-event-card', '[class*="event-card"]', '[class*="eventCard"]', 
-                '[class*="event_card"]', 'article', '.event-list li']:
-        cards = soup.select(sel)
-        if len(cards) > 3:
-            break
-    if not cards:
-        # fallback: find all links to /events/
-        links = soup.select('a[href*="/events/"]')
-        for lnk in links[:30]:
-            try:
-                title = lnk.get_text(strip=True)
-                if len(title) < 3:
-                    continue
-                href = lnk.get('href', '')
-                full_url = urljoin('https://iko-yo.net', href)
-                events.append({
-                    'title': title,
-                    'date': today,
-                    'endDate': today,
-                    'place': get_region_place(region),
-                    'url': full_url,
-                    'source': 'ikoy',
-                    'cost': 'paid',
-                    'ages': ['family'],
-                    'cats': ['festival'],
-                    'area': 'other',
-                    'desc': '',
-                })
-            except:
-                pass
-    else:
-        for card in cards[:30]:
-            try:
-                title_el = card.select_one('h2, h3, h4, [class*="title"]')
-                date_el = card.select_one('[class*="date"], [class*="period"], time')
-                place_el = card.select_one('[class*="place"], [class*="venue"], [class*="location"]')
-                link_el = card.select_one('a[href]')
-                if not title_el or len(title_el.get_text(strip=True)) < 3:
-                    continue
-                text = card.get_text()
-                d1, d2 = parse_date_range(date_el.get_text() if date_el else '')
-                if not d1 or d1 < today:
-                    d1 = today
-                if not d2 or d2 < d1:
-                    d2 = d1
-                event_url = urljoin('https://iko-yo.net', link_el['href']) if link_el else url
-                events.append({
-                    'title': title_el.get_text(strip=True),
-                    'date': d1,
-                    'endDate': d2,
-                    'place': place_el.get_text(strip=True) if place_el else get_region_place(region),
-                    'url': event_url,
-                    'source': 'ikoy',
-                    'cost': 'free' if '無料' in text else 'paid',
-                    'ages': guess_ages(text),
-                    'cats': guess_cats(title_el.get_text(strip=True)),
-                    'area': 'other',
-                    'desc': '',
-                })
-            except:
-                pass
+    today = datetime.date.today().strftime('%Y-%m-%d')
+    for item in soup.select('item')[:30]:
+        try:
+            title = item.find('title').get_text(strip=True) if item.find('title') else ''
+            link_tag = item.find('link')
+            link = ''
+            if link_tag:
+                link = link_tag.next_sibling if link_tag.next_sibling else link_tag.get_text(strip=True)
+                link = str(link).strip()
+            desc_raw = item.find('description')
+            desc = BeautifulSoup(desc_raw.get_text(), 'html.parser').get_text(strip=True) if desc_raw else ''
+            pub_date = item.find('pubDate').get_text(strip=True) if item.find('pubDate') else ''
+            if not title or len(title) < 3:
+                continue
+            text = title + ' ' + desc
+            d1, d2 = parse_date_range(desc + ' ' + pub_date)
+            if not d1 or d1 < today:
+                d1, d2 = parse_date_range(pub_date)
+            if not d1:
+                d1 = today
+            if not d2 or d2 < d1:
+                d2 = d1
+            if not link or not link.startswith('http'):
+                link = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}"
+            events.append({
+                'title': title,
+                'date': d1,
+                'endDate': d2,
+                'place': extract_place(desc) or get_region_place(region),
+                'url': link,
+                'source': 'ikoy',
+                'cost': 'free' if '無料' in text else 'paid',
+                'ages': guess_ages(text),
+                'cats': guess_cats(title),
+                'area': 'other',
+                'desc': desc[:120],
+            })
+        except:
+            pass
     print(f"  いこーよ({region}): {len(events)}件")
     return events
 
