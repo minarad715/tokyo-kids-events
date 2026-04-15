@@ -33,33 +33,100 @@ def fetch_rss(url, timeout=15):
         print(f"  RSS取得失敗 {url}: {e}")
         return None
 
+# ─── いこーよ HTML（地域別・将来のイベントも取得） ───
+def scrape_ikoyo(pref_id, region):
+    events = []
+    # future events with prefecture filter
+    today = datetime.date.today().strftime('%Y-%m-%d')
+    url = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}&per=50&sort=new"
+    soup = fetch_html(url)
+    if not soup:
+        return events
+    # Try multiple card selectors
+    cards = []
+    for sel in ['.p-event-card', '[class*="event-card"]', '[class*="eventCard"]', 
+                '[class*="event_card"]', 'article', '.event-list li']:
+        cards = soup.select(sel)
+        if len(cards) > 3:
+            break
+    if not cards:
+        # fallback: find all links to /events/
+        links = soup.select('a[href*="/events/"]')
+        for lnk in links[:30]:
+            try:
+                title = lnk.get_text(strip=True)
+                if len(title) < 3:
+                    continue
+                href = lnk.get('href', '')
+                full_url = urljoin('https://iko-yo.net', href)
+                events.append({
+                    'title': title,
+                    'date': today,
+                    'endDate': today,
+                    'place': get_region_place(region),
+                    'url': full_url,
+                    'source': 'ikoy',
+                    'cost': 'paid',
+                    'ages': ['family'],
+                    'cats': ['festival'],
+                    'area': 'other',
+                    'desc': '',
+                })
+            except:
+                pass
+    else:
+        for card in cards[:30]:
+            try:
+                title_el = card.select_one('h2, h3, h4, [class*="title"]')
+                date_el = card.select_one('[class*="date"], [class*="period"], time')
+                place_el = card.select_one('[class*="place"], [class*="venue"], [class*="location"]')
+                link_el = card.select_one('a[href]')
+                if not title_el or len(title_el.get_text(strip=True)) < 3:
+                    continue
+                text = card.get_text()
+                d1, d2 = parse_date_range(date_el.get_text() if date_el else '')
+                if not d1 or d1 < today:
+                    d1 = today
+                if not d2 or d2 < d1:
+                    d2 = d1
+                event_url = urljoin('https://iko-yo.net', link_el['href']) if link_el else url
+                events.append({
+                    'title': title_el.get_text(strip=True),
+                    'date': d1,
+                    'endDate': d2,
+                    'place': place_el.get_text(strip=True) if place_el else get_region_place(region),
+                    'url': event_url,
+                    'source': 'ikoy',
+                    'cost': 'free' if '無料' in text else 'paid',
+                    'ages': guess_ages(text),
+                    'cats': guess_cats(title_el.get_text(strip=True)),
+                    'area': 'other',
+                    'desc': '',
+                })
+            except:
+                pass
+    print(f"  いこーよ({region}): {len(events)}件")
+    return events
+
 # ─── 代々木公園系サイト（静的HTML・地域別） ───
 PARK_SITES = {
-    'tokyo':    'https://www.yoyogikoen.info/',
-    'kanagawa': 'https://www.yokohamaevent.info/',
-    'saitama':  'https://www.saitama-shintoshin.com/',
-    'chiba':    'https://www.inageseasidepark.com/',
-}
-
-PARK_SOURCE = {
-    'tokyo':    'yoyogi',
-    'kanagawa': 'yokohama',
-    'saitama':  'saitama',
-    'chiba':    'chiba_park',
+    'tokyo':    ('https://www.yoyogikoen.info/', 'yoyogi'),
+    'kanagawa': ('https://www.yokohamaevent.info/', 'yokohama'),
+    'saitama':  ('https://www.saitama-shintoshin.com/', 'saitama'),
+    'chiba':    ('https://www.inageseasidepark.com/', 'chiba_park'),
 }
 
 def scrape_park_site(region):
     events = []
-    url = PARK_SITES.get(region)
-    source = PARK_SOURCE.get(region, region)
-    if not url:
+    if region not in PARK_SITES:
         return events
+    url, source = PARK_SITES[region]
     soup = fetch_html(url)
     if not soup:
         return events
     for section in soup.select('h3, h2'):
         header = section.get_text()
-        if not re.search(r'\d{4}年\d{1,2}月|\d{4}年', header):
+        if not re.search(r'\d{4}', header):
             continue
         ul = section.find_next_sibling('ul')
         if not ul:
@@ -92,87 +159,87 @@ def scrape_park_site(region):
                 })
             except:
                 pass
-    site_name = url.split('//')[1].split('/')[0]
-    print(f"  {site_name}: {len(events)}件")
+    domain = url.split('//')[1].split('/')[0]
+    print(f"  {domain}: {len(events)}件")
     return events
 
-def get_region_place(region):
-    places = {
-        'tokyo': '東京都',
-        'kanagawa': '神奈川県',
-        'saitama': '埼玉県',
-        'chiba': '千葉県',
-    }
-    return places.get(region, '不明')
-
-# ─── いこーよ（RSS・地域別） ───
-def scrape_ikoyo(pref_id, region):
+# ─── コンサートスクエア（東京のみ） ───
+def scrape_concert_sq():
     events = []
-    url = f"https://iko-yo.net/events.rss?prefecture_ids[]={pref_id}"
-    soup = fetch_rss(url)
+    url = "https://www.concertsquare.jp/concert/search/ticketFree"
+    soup = fetch_html(url)
     if not soup:
         return events
-    for item in soup.select('item')[:30]:
+    items = []
+    for sel in ['li[class*="concert"]', 'article', '[class*="item"]', 'li']:
+        items = [i for i in soup.select(sel) if i.select_one('a') and len(i.get_text()) > 20]
+        if items:
+            break
+    for item in items[:20]:
         try:
-            title = item.find('title').get_text(strip=True) if item.find('title') else ''
-            link = item.find('link').get_text(strip=True) if item.find('link') else ''
-            desc_raw = item.find('description')
-            desc = BeautifulSoup(desc_raw.get_text(), 'html.parser').get_text(strip=True) if desc_raw else ''
-            pub_date = item.find('pubDate').get_text(strip=True) if item.find('pubDate') else ''
-            if not title or len(title) < 3:
+            title_el = item.select_one('h3, h2, h4, [class*="title"], [class*="name"]')
+            date_el = item.select_one('[class*="date"], time, [class*="day"]')
+            hall_el = item.select_one('[class*="hall"], [class*="venue"], [class*="place"]')
+            link_el = item.select_one('a[href]')
+            if not title_el or len(title_el.get_text(strip=True)) < 3:
                 continue
-            text = title + ' ' + desc
-            d1, d2 = parse_date_range(desc + ' ' + pub_date)
+            place = hall_el.get_text(strip=True) if hall_el else '東京都内'
+            combined = title_el.get_text() + place
+            if not re.search(r'東京|渋谷|新宿|上野|銀座|池袋|六本木|立川|紀尾井|サントリー', combined):
+                continue
+            date_text = date_el.get_text() if date_el else ''
+            m = re.search(r'(\d{4})年(\d{1,2})月(\d{1,2})日', date_text)
+            if m:
+                d1 = f"{m.group(1)}-{int(m.group(2)):02d}-{int(m.group(3)):02d}"
+                d2 = d1
+            else:
+                d1, d2 = parse_date_range(date_text)
             events.append({
-                'title': title,
-                'date': d1,
-                'endDate': d2,
-                'place': extract_place(desc) or get_region_place(region),
-                'url': link,
-                'source': 'ikoy',
-                'cost': 'free' if '無料' in text else 'paid',
-                'ages': guess_ages(text),
-                'cats': guess_cats(title),
-                'area': 'other',
-                'desc': desc[:120],
+                'title': title_el.get_text(strip=True),
+                'date': d1, 'endDate': d2,
+                'place': place,
+                'url': urljoin(url, link_el['href']) if link_el else url,
+                'source': 'concert',
+                'cost': 'free',
+                'ages': ['preschool', 'elementary', 'family'],
+                'cats': ['concert'],
+                'area': guess_area(place),
+                'desc': '',
             })
         except:
             pass
-    print(f"  いこーよ({region}): {len(events)}件")
+    print(f"  コンサートスクエア: {len(events)}件")
     return events
 
-# ─── キッズイベント（RSS） ───
+# ─── キッズイベント RSS（地域キーワードフィルター） ───
 def scrape_kids_rss(region):
     events = []
     url = "https://www.kids-event.jp/feed/"
     soup = fetch_rss(url)
     if not soup:
         return events
-    region_keywords = {
+    kw_map = {
         'kanagawa': r'神奈川|横浜|川崎|相模|藤沢|鎌倉|小田原|湘南',
-        'saitama': r'埼玉|さいたま|川口|所沢|川越|熊谷|大宮',
-        'chiba': r'千葉|船橋|松戸|柏|市川|浦安|幕張|成田',
+        'saitama':  r'埼玉|さいたま|川口|所沢|川越|熊谷|大宮',
+        'chiba':    r'千葉|船橋|松戸|柏|市川|浦安|幕張|成田',
     }
-    kw = region_keywords.get(region, '')
+    kw = kw_map.get(region, '')
     for item in soup.select('item')[:30]:
         try:
             title = item.find('title').get_text(strip=True) if item.find('title') else ''
             link = item.find('link').get_text(strip=True) if item.find('link') else ''
             desc_raw = item.find('description')
             desc = BeautifulSoup(desc_raw.get_text(), 'html.parser').get_text(strip=True) if desc_raw else ''
-            if not title:
+            if not title or len(title) < 3:
                 continue
             text = title + ' ' + desc
             if kw and not re.search(kw, text):
                 continue
             d1, d2 = parse_date_range(desc)
             events.append({
-                'title': title,
-                'date': d1,
-                'endDate': d2,
+                'title': title, 'date': d1, 'endDate': d2,
                 'place': extract_place(desc) or get_region_place(region),
-                'url': link,
-                'source': 'kids',
+                'url': link, 'source': 'kids',
                 'cost': 'free' if '無料' in text else 'paid',
                 'ages': guess_ages(text),
                 'cats': guess_cats(title),
@@ -184,111 +251,47 @@ def scrape_kids_rss(region):
     print(f"  キッズイベント({region}): {len(events)}件")
     return events
 
-# ─── 神奈川専用：横浜市公式 ───
-def scrape_yokohama():
+# ─── 東京都公式 ───
+def scrape_tokyo_official():
     events = []
-    url = "https://www.city.yokohama.lg.jp/kurashi/kosodate-kyoiku/kosodateshien/event/"
-    soup = fetch_html(url)
-    if not soup:
-        return events
-    items = soup.select('article, li[class*="event"], [class*="event-item"]')[:20]
-    for item in items:
-        try:
-            title_el = item.select_one('h2, h3, h4, [class*="title"]')
-            date_el = item.select_one('[class*="date"], time')
-            link_el = item.select_one('a[href]')
-            if not title_el:
-                continue
-            text = item.get_text()
-            d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
-            events.append({
-                'title': title_el.get_text(strip=True),
-                'date': d1, 'endDate': d2,
-                'place': '横浜市',
-                'url': urljoin(url, link_el['href']) if link_el and link_el.get('href') else url,
-                'source': 'yokohama_city',
-                'cost': 'free' if '無料' in text else 'paid',
-                'ages': guess_ages(text),
-                'cats': guess_cats(title_el.get_text(strip=True)),
-                'area': 'other',
-                'desc': '',
-            })
-        except:
-            pass
-    print(f"  横浜市公式: {len(events)}件")
-    return events
-
-# ─── 埼玉専用：さいたま市公式 ───
-def scrape_saitama_city():
-    events = []
-    url = "https://www.city.saitama.lg.jp/001/011/003/index.html"
-    soup = fetch_html(url)
-    if not soup:
-        return events
-    items = soup.select('article, li, [class*="event"]')[:20]
-    for item in items:
-        try:
-            title_el = item.select_one('h2, h3, h4, a, [class*="title"]')
-            date_el = item.select_one('[class*="date"], time')
-            link_el = item.select_one('a[href]')
-            if not title_el or len(title_el.get_text(strip=True)) < 4:
-                continue
-            text = item.get_text()
-            if not re.search(r'子ども|こども|キッズ|ファミリー|親子|幼児|小学', text):
-                continue
-            d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
-            events.append({
-                'title': title_el.get_text(strip=True),
-                'date': d1, 'endDate': d2,
-                'place': 'さいたま市',
-                'url': urljoin(url, link_el['href']) if link_el and link_el.get('href') else url,
-                'source': 'saitama_city',
-                'cost': 'free' if '無料' in text else 'paid',
-                'ages': guess_ages(text),
-                'cats': guess_cats(title_el.get_text(strip=True)),
-                'area': 'other',
-                'desc': '',
-            })
-        except:
-            pass
-    print(f"  さいたま市公式: {len(events)}件")
-    return events
-
-# ─── 千葉専用：千葉市公式 ───
-def scrape_chiba_city():
-    events = []
-    url = "https://www.city.chiba.jp/kodomomirai/kodomomirai/event.html"
-    soup = fetch_html(url)
-    if not soup:
-        return events
-    items = soup.select('article, li, [class*="event"], table tr')[:20]
-    for item in items:
-        try:
-            title_el = item.select_one('h2, h3, h4, a, [class*="title"]')
-            date_el = item.select_one('[class*="date"], time, td')
-            link_el = item.select_one('a[href]')
-            if not title_el or len(title_el.get_text(strip=True)) < 4:
-                continue
-            text = item.get_text()
-            d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
-            events.append({
-                'title': title_el.get_text(strip=True),
-                'date': d1, 'endDate': d2,
-                'place': '千葉市',
-                'url': urljoin(url, link_el['href']) if link_el and link_el.get('href') else url,
-                'source': 'chiba_city',
-                'cost': 'free' if '無料' in text else 'paid',
-                'ages': guess_ages(text),
-                'cats': guess_cats(title_el.get_text(strip=True)),
-                'area': 'other',
-                'desc': '',
-            })
-        except:
-            pass
-    print(f"  千葉市公式: {len(events)}件")
+    urls = [
+        'https://tokyo-kodomo-hp.metro.tokyo.lg.jp/event/',
+        'https://kodomo-smile.metro.tokyo.lg.jp/events',
+    ]
+    for url in urls:
+        soup = fetch_html(url)
+        if not soup:
+            continue
+        items = soup.select('article, li, [class*="event"]')
+        for item in items[:20]:
+            try:
+                title_el = item.select_one('h2,h3,h4,[class*="title"]')
+                date_el = item.select_one('[class*="date"],time')
+                link_el = item.select_one('a[href]')
+                if not title_el or len(title_el.get_text(strip=True)) < 5:
+                    continue
+                text = item.get_text()
+                d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
+                events.append({
+                    'title': title_el.get_text(strip=True),
+                    'date': d1, 'endDate': d2,
+                    'place': '東京都',
+                    'url': urljoin(url, link_el['href']) if link_el else url,
+                    'source': 'tokyo',
+                    'cost': 'free' if '無料' in text else 'paid',
+                    'ages': guess_ages(text),
+                    'cats': guess_cats(title_el.get_text(strip=True)),
+                    'area': 'other', 'desc': '',
+                })
+            except:
+                pass
+    print(f"  東京都公式: {len(events)}件")
     return events
 
 # ─── ヘルパー ───
+def get_region_place(region):
+    return {'tokyo':'東京都','kanagawa':'神奈川県','saitama':'埼玉県','chiba':'千葉県'}.get(region,'不明')
+
 def extract_place(text):
     for p in [r'会場[：:]\s*([^\n。、]{2,20})', r'場所[：:]\s*([^\n。、]{2,20})']:
         m = re.search(p, text)
@@ -313,9 +316,7 @@ def parse_date_range(text):
     if not dates:
         d = now.strftime('%Y-%m-%d')
         return d, d
-    if len(dates) == 1:
-        return dates[0], dates[0]
-    return dates[0], dates[-1]
+    return (dates[0], dates[0]) if len(dates) == 1 else (dates[0], dates[-1])
 
 def guess_ages(text):
     ages = []
@@ -337,6 +338,19 @@ def guess_cats(title):
     if re.search(r'まつり|フェスタ|フェア|フェス|お祭り|花見|桜|マルシェ', title): cats.append('festival')
     return cats or ['festival']
 
+def guess_area(place):
+    mapping = {
+        'shibuya': ['渋谷','代々木','原宿','恵比寿'],
+        'shinjuku': ['新宿','中野','杉並'],
+        'ueno': ['上野','浅草','台東','文京'],
+        'odaiba': ['お台場','有明','豊洲','江東','墨田'],
+        'tachikawa': ['立川','八王子','多摩'],
+    }
+    for area, kws in mapping.items():
+        if any(k in place for k in kws):
+            return area
+    return 'other'
+
 def dedup(events):
     seen = set()
     result = []
@@ -349,37 +363,38 @@ def dedup(events):
 
 def is_valid(e):
     garbage = ['期間を選択する','カテゴリを選択する','対象年齢','開催エリア']
-    if e['title'] in garbage or len(e['title']) < 4: return False
+    if e['title'] in garbage or len(e['title']) < 4:
+        return False
     try:
-        d = datetime.datetime.strptime(e['date'], '%Y-%m-%d')
+        datetime.datetime.strptime(e['date'], '%Y-%m-%d')
         return True
     except:
         return False
 
 # ─── 地域別スクレイプ ───
 def scrape_region(region, pref_id):
-    print(f"\n{'='*40}")
-    print(f"地域: {region} (都道府県ID: {pref_id})")
-    print(f"{'='*40}")
+    print(f"\n{'='*40}\n地域: {region}\n{'='*40}")
     all_events = []
 
-    scrapers = [
-        lambda: scrape_park_site(region),
-        lambda: scrape_ikoyo(pref_id, region),
-        lambda: scrape_kids_rss(region),
-    ]
-
-    if region == 'kanagawa':
-        scrapers.append(scrape_yokohama)
-    elif region == 'saitama':
-        scrapers.append(scrape_saitama_city)
-    elif region == 'chiba':
-        scrapers.append(scrape_chiba_city)
+    if region == 'tokyo':
+        scrapers = [
+            lambda: scrape_park_site('tokyo'),
+            lambda: scrape_ikoyo(pref_id, region),
+            scrape_tokyo_official,
+            lambda: scrape_kids_rss('tokyo'),
+            scrape_concert_sq,
+        ]
+    else:
+        scrapers = [
+            lambda r=region: scrape_park_site(r),
+            lambda p=pref_id, r=region: scrape_ikoyo(p, r),
+            lambda r=region: scrape_kids_rss(r),
+        ]
 
     for scraper in scrapers:
         try:
             evs = scraper()
-            all_events.extend(evs)
+            all_events.extend(evs if evs else [])
             time.sleep(2.0)
         except Exception as e:
             print(f"  エラー: {e}")
@@ -392,27 +407,30 @@ def scrape_region(region, pref_id):
         if not e.get('desc'): e['desc'] = ''
 
     output_file = os.path.join(BASE_DIR, REGION_CONFIG[region]['output'])
+    os.makedirs(os.path.dirname(os.path.abspath(output_file)), exist_ok=True)
     output = {
         'updated': datetime.datetime.now().isoformat(),
         'region': region,
         'count': len(all_events),
         'events': all_events,
     }
-    os.makedirs(os.path.dirname(output_file), exist_ok=True)
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"✓ {region}: {len(all_events)}件 → {REGION_CONFIG[region]['output']}")
-    return len(all_events)
 
 def main():
+    import sys
     target = sys.argv[1] if len(sys.argv) > 1 else 'all'
-    regions_to_run = REGION_CONFIG if target == 'all' else {target: REGION_CONFIG[target]}
-
-    for region, config in regions_to_run.items():
-        scrape_region(region, config['pref_id'])
-        time.sleep(3.0)
-
-    print("\n全地域のスクレイピング完了！")
+    if target == 'all':
+        for region, cfg in REGION_CONFIG.items():
+            scrape_region(region, cfg['pref_id'])
+            time.sleep(3.0)
+    else:
+        if target in REGION_CONFIG:
+            scrape_region(target, REGION_CONFIG[target]['pref_id'])
+        else:
+            print(f"Unknown region: {target}")
+    print("\n全スクレイピング完了！")
 
 if __name__ == '__main__':
     main()
