@@ -33,13 +33,94 @@ def fetch_rss(url, timeout=15):
         print(f"  RSS取得失敗 {url}: {e}")
         return None
 
-# ─── いこーよ HTML（地域別・将来のイベントも取得） ───
-def scrape_ikoyo(pref_id, region):
+# ─── いこーよ Playwright版 ───
+def scrape_ikoyo_playwright(pref_id, region):
+    events = []
+    try:
+        from playwright.sync_api import sync_playwright
+        url = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}&per=50&sort=new"
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            context = browser.new_context(
+                user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            )
+            page = context.new_page()
+            page.goto(url, wait_until='networkidle', timeout=30000)
+            page.wait_for_timeout(3000)
+            html = page.content()
+            browser.close()
+        
+        soup = BeautifulSoup(html, 'html.parser')
+        
+        # Find event cards
+        cards = []
+        for sel in ['.p-event-card', '[class*="event-card"]', '[class*="eventCard"]', 
+                    'article[class*="event"]', '.event-list-item']:
+            cards = soup.select(sel)
+            if len(cards) > 3:
+                break
+        
+        if not cards:
+            # Fallback: find event links
+            cards = soup.select('a[href*="/events/"]')
+        
+        for card in cards[:30]:
+            try:
+                title_el = card.select_one('h2, h3, h4, [class*="title"], [class*="name"]')
+                date_el = card.select_one('[class*="date"], [class*="period"], time, [class*="schedule"]')
+                place_el = card.select_one('[class*="place"], [class*="venue"], [class*="location"], [class*="area"]')
+                link_el = card.select_one('a[href]') if card.name != 'a' else card
+                
+                if not title_el and card.name == 'a':
+                    title_el = card
+                if not title_el or len(title_el.get_text(strip=True)) < 3:
+                    continue
+                
+                text = card.get_text()
+                d1, d2 = parse_date_range(date_el.get_text() if date_el else text)
+                
+                today = datetime.date.today().strftime('%Y-%m-%d')
+                if not d1 or d1 < today:
+                    d1 = today
+                if not d2 or d2 < d1:
+                    d2 = d1
+                
+                href = link_el.get('href', '') if link_el else ''
+                event_url = urljoin('https://iko-yo.net', href) if href else url
+                
+                events.append({
+                    'title': title_el.get_text(strip=True),
+                    'date': d1,
+                    'endDate': d2,
+                    'place': place_el.get_text(strip=True) if place_el else get_region_place(region),
+                    'url': event_url,
+                    'source': 'ikoy',
+                    'cost': 'free' if '無料' in text else 'paid',
+                    'ages': guess_ages(text),
+                    'cats': guess_cats(title_el.get_text(strip=True)),
+                    'area': 'other',
+                    'desc': '',
+                })
+            except:
+                pass
+        
+        print(f"  いこーよPlaywright({region}): {len(events)}件")
+    
+    except Exception as e:
+        print(f"  Playwrightエラー({region}): {e}")
+        # フォールバック：RSS
+        events = scrape_ikoyo_rss(pref_id, region)
+    
+    return events
+
+# ─── いこーよ RSS版（フォールバック） ───
+def scrape_ikoyo_rss(pref_id, region):
     events = []
     url = f"https://iko-yo.net/events.rss?prefecture_ids[]={pref_id}"
     soup = fetch_rss(url)
     if not soup:
         return events
+    today = datetime.date.today().strftime('%Y-%m-%d')
     for item in soup.select('item')[:30]:
         try:
             title = item.find('title').get_text(strip=True) if item.find('title') else ''
@@ -52,12 +133,7 @@ def scrape_ikoyo(pref_id, region):
             if not title or len(title) < 3:
                 continue
             text = title + ' ' + desc
-            # descriptionから開催日を抽出（例：「開催日：2026年4月20日」）
             d1, d2 = parse_date_range(desc)
-            # 日付が取れない or 過去日の場合はtitleから試みる
-            today = datetime.date.today().strftime('%Y-%m-%d')
-            if not d1 or d1 < today:
-                d1, d2 = parse_date_range(title)
             if not d1 or d1 < today:
                 d1 = today
             if not d2 or d2 < d1:
@@ -77,10 +153,10 @@ def scrape_ikoyo(pref_id, region):
             })
         except:
             pass
-    print(f"  いこーよ({region}): {len(events)}件")
+    print(f"  いこーよRSS({region}): {len(events)}件")
     return events
 
-# ─── 代々木公園系サイト（静的HTML・地域別） ───
+# ─── 代々木公園系サイト ───
 PARK_SITES = {
     'tokyo':    ('https://www.yoyogikoen.info/', 'yoyogi'),
     'kanagawa': ('https://www.yokohamaevent.info/', 'yokohama'),
@@ -135,7 +211,7 @@ def scrape_park_site(region):
     print(f"  {domain}: {len(events)}件")
     return events
 
-# ─── コンサートスクエア（東京のみ） ───
+# ─── コンサートスクエア ───
 def scrape_concert_sq():
     events = []
     url = "https://www.concertsquare.jp/concert/search/ticketFree"
@@ -183,7 +259,7 @@ def scrape_concert_sq():
     print(f"  コンサートスクエア: {len(events)}件")
     return events
 
-# ─── キッズイベント RSS（地域キーワードフィルター） ───
+# ─── キッズイベント RSS ───
 def scrape_kids_rss(region):
     events = []
     url = "https://www.kids-event.jp/feed/"
@@ -234,8 +310,7 @@ def scrape_tokyo_official():
         soup = fetch_html(url)
         if not soup:
             continue
-        items = soup.select('article, li, [class*="event"]')
-        for item in items[:20]:
+        for item in soup.select('article, li, [class*="event"]')[:20]:
             try:
                 title_el = item.select_one('h2,h3,h4,[class*="title"]')
                 date_el = item.select_one('[class*="date"],time')
@@ -351,7 +426,7 @@ def scrape_region(region, pref_id):
     if region == 'tokyo':
         scrapers = [
             lambda: scrape_park_site('tokyo'),
-            lambda: scrape_ikoyo(pref_id, region),
+            lambda: scrape_ikoyo_playwright(pref_id, region),
             scrape_tokyo_official,
             lambda: scrape_kids_rss('tokyo'),
             scrape_concert_sq,
@@ -359,7 +434,7 @@ def scrape_region(region, pref_id):
     else:
         scrapers = [
             lambda r=region: scrape_park_site(r),
-            lambda p=pref_id, r=region: scrape_ikoyo(p, r),
+            lambda p=pref_id, r=region: scrape_ikoyo_playwright(p, r),
             lambda r=region: scrape_kids_rss(r),
         ]
 
@@ -391,7 +466,6 @@ def scrape_region(region, pref_id):
     print(f"✓ {region}: {len(all_events)}件 → {REGION_CONFIG[region]['output']}")
 
 def main():
-    import sys
     target = sys.argv[1] if len(sys.argv) > 1 else 'all'
     if target == 'all':
         for region, cfg in REGION_CONFIG.items():
