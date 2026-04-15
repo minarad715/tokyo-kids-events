@@ -1,366 +1,8 @@
 {
-  "updated": "2026-04-15T01:26:49.538491",
+  "updated": "2026-04-15T02:02:53.421079",
   "region": "kanagawa",
-  "count": 46,
+  "count": 29,
   "events": [
-    {
-      "title": "パンどろぼうひろば",
-      "date": "2026-04-05",
-      "endDate": "2026-04-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/pandorobo-hiroba-2026-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
-    {
-      "title": "原作40周年記念 ちびまる子ちゃん in 横浜赤レンガ倉庫",
-      "date": "2026-04-05",
-      "endDate": "2026-04-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/chibimarukochan-yokohama-akarenga-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 2
-    },
-    {
-      "title": "いい人すぎるよ展 2026 & 微わかる展",
-      "date": "2026-04-14",
-      "endDate": "2026-04-14",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/iihitosugiruyo-ten-2026-biwakaru-ten-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "title": "FLOWER GARDEN 2026",
-      "date": "2026-04-19",
-      "endDate": "2026-04-19",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/flower-garden-2026-yokohama-akarenga/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "CENTRAL×Live！横浜",
-      "date": "2026-04-03",
-      "endDate": "2026-04-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/central-live-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 5
-    },
-    {
-      "title": "YOKOHAMA MUSIC HARBOR 2026",
-      "date": "2026-04-04",
-      "endDate": "2026-04-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-music-harbor-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "日本丸メモリアルパークフリーマーケット",
-      "date": "2026-04-11",
-      "endDate": "2026-04-11",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/nippon-maru-memorial-park-flea-market-2026-04/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "GOOD OPEN AIRS 2026",
-      "date": "2026-04-11",
-      "endDate": "2026-04-12",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/good-open-airs-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
-    },
-    {
-      "title": "きかんしゃトーマスの世界展",
-      "date": "2026-04-15",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/thomas-exhibition-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "ヨコハマフリューリングスフェスト2026",
-      "date": "2026-04-24",
-      "endDate": "2026-05-10",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-fruhlings-fest-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "ウイスキー＆スピリッツフェスティバル2026 in 横浜",
-      "date": "2026-04-25",
-      "endDate": "2026-04-26",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/whisky-spirits-festival-2026-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "ワールドフェスティバル (国際交流フードフェア) in 横浜・沢渡中央公園 2026",
-      "date": "2026-05-02",
-      "endDate": "2026-05-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/world-festival-yokohama-sawatari-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "nature",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "SEASIDE CINEMA 2026",
-      "date": "2026-05-02",
-      "endDate": "2026-05-06",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/seaside-cinema-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "僕のヒーローアカデミア 第2回 雄英高校オープンスクール",
-      "date": "2026-05-22",
-      "endDate": "2026-07-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/heroaca-open-school-2-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "GREENROOM FESTIVAL’26",
-      "date": "2026-05-23",
-      "endDate": "2026-05-24",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/greenroom-festival-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "2026-27 BABYMONSTER WORLD TOUR IN JAPAN",
-      "date": "2026-08-01",
-      "endDate": "2026-08-02",
-      "place": "神奈川県",
-      "url": "https://www.babymonster.jp/babymonster-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
-      "date": "2027-09-26",
-      "endDate": "2027-09-26",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
-    },
     {
       "title": "パラコードとレジンで作るイニシャルカラビナ（4歳～保護...",
       "date": "2026-04-15",
@@ -377,7 +19,7 @@
       ],
       "area": "other",
       "desc": "UVレジンの基本的な使用方法やパラコードの編み方を学べます。\nレジン着色カラーと封入物、パラコードカラーはご用意のある中から自由に選べます。\n父の日のプレゼントだけでなく、推し活にもおすすめです。\n作成希望のアルファベットをメッセージ欄にて",
-      "id": 18
+      "id": 1
     },
     {
       "title": "パラコードとレジンでつくるアンブレラマーカー（4歳以上...",
@@ -395,7 +37,7 @@
       ],
       "area": "other",
       "desc": "UVレジンの基本的な使用方法やパラコードの編み方を学べます。\nレジン着色カラーと封入物、パラコードカラーはご用意のある中から自由に選べます。\n自分用だけでなく、プレゼントや推し活にもおすすめです。\n\n＜お子様参加について＞\n◆4歳以上：保護",
-      "id": 19
+      "id": 2
     },
     {
       "title": "HUG　ANIMALS!  vol.15",
@@ -413,7 +55,7 @@
       ],
       "area": "other",
       "desc": "犬と猫の各保護団体を一堂に会し譲渡会を開催する。これから犬・猫を「家族の一員」にと考えている人、既に一緒にいる人もこの機会に足を運んでみては。その他、災害救助犬のデモンストレーションや、忍者レスラーによるプロレスを交えた、マナー向上と啓発を",
-      "id": 20
+      "id": 3
     },
     {
       "title": "三之宮比々多神社春季例大祭",
@@ -431,7 +73,25 @@
       ],
       "area": "other",
       "desc": "白鳳4年（672年）に端を発する、年に一度の大祭。勇ましい掛け声とともに御神輿が担がれ、加藤清正・熊谷次郎直実・先代萩の男之助のカラクリ人形が載せられた山車が、それぞれ御輿とともに氏子区域を巡幸する。数々の露店も祭りに花を添える。",
-      "id": 21
+      "id": 4
+    },
+    {
+      "title": "STAR WARS DAY YOKOHAMA MINA...",
+      "date": "2026-04-29",
+      "endDate": "2026-04-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ランドマークプラザ、MARK IS みなとみらいは、ウォルト・ディズニー・ジャパン株式会社の協力のもと、 2026年4月29日(水・祝)～5月24日(日)の約1か月間、横浜・みなとみらいエリアにて「STAR WARS DAY YOKOHAM",
+      "id": 5
     },
     {
       "title": "おおのみんな de フェスティバル",
@@ -449,7 +109,7 @@
       ],
       "area": "other",
       "desc": "相模大野のまち全体を使った回遊型のファミリー向けフェスです。 5月15日（金）は13:00～20:00にオーノクロス広場でテープカットやデイ＆ナイトマーケットを開催し、キッチンカーや野外シネマで親子でのんびり過ごせます。 5月16日（土）は",
-      "id": 22
+      "id": 6
     },
     {
       "title": "MMテラス　CREATIVE WEEKEND",
@@ -467,7 +127,25 @@
       ],
       "area": "other",
       "desc": "MMテラスで開催する親子向けアートイベントです。2026年5月2日・3日10:00ー17:00、館内1Fスペースでアーティスト展示と多彩なものづくりワークショップを実施します。\n\n体験は有料が中心で当日受付が基本、一部（巨大キャンバスなど）",
-      "id": 23
+      "id": 7
+    },
+    {
+      "title": "追加開催！4/26(日) ひの新選組まつり出演者オーデ...",
+      "date": "2026-05-11",
+      "endDate": "2026-05-11",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "4/25（土）が満員御礼！追加開催が決定しました！\n先着順で締め切りますので、この機会をお見逃しなく！！！\n\n男の子・女の子ともに大歓迎！ 和装（袴）で特別なステージを体験してみませんか？\n\n新選組副長・土方歳三の命日（5月11日）に合わせ",
+      "id": 8
     },
     {
       "title": "江の島に続く不思議な道～トンボロを歩こう～(4月)",
@@ -485,7 +163,7 @@
       ],
       "area": "other",
       "desc": "江の島には、ある時間になると海岸との間を結ぶ不思議な道“トンボロ”が出現する。知る人ぞ知るこの道を歩くと、まるで海の上を歩いている気分になれるかも…なぎさの体験学習館のスタッフが案内するため、初めての人でも安心して参加できる。開催日の2日前",
-      "id": 24
+      "id": 9
     },
     {
       "title": "春の鉢物交換会",
@@ -503,7 +181,7 @@
       ],
       "area": "other",
       "desc": "持参した鉢植え植物と引き換えに好きな鉢を選んで持ち帰ることができる。交換鉢が無くても募金一鉢50円で参加可能。他の人が利用できる鉢物のみ受け入れ。持ち込みの上限なし、引き換えの上限は10鉢まで。混雑した場合は整列入場あり。ペットの入場不可。",
-      "id": 25
+      "id": 10
     },
     {
       "title": "MrMax湘南藤沢ショッピングセンターリーマーケット（6月）",
@@ -521,7 +199,7 @@
       ],
       "area": "other",
       "desc": "藤沢市を代表するあの人気ショッピングセンターMrMax湘南藤沢ショッピングセンターで開催するフリマ。土日は一日で延べ7,000人の来場者で賑わう。車出店を中心に展開。",
-      "id": 26
+      "id": 11
     },
     {
       "title": "母の日向け　組紐特別ワークショップ（横浜市）",
@@ -539,7 +217,7 @@
       ],
       "area": "other",
       "desc": "母の日に“想いが伝わる贈り物”を選ぼう。くみひもで世界にひとつだけのバッグチャームを手作りし、そのままギフトとして贈ることができる。既製品にはない温もりと、作る時間そのものが思い出になる体験。",
-      "id": 27
+      "id": 12
     },
     {
       "title": "戦国のひとびと　二人の秀頼",
@@ -557,7 +235,7 @@
       ],
       "area": "other",
       "desc": "「生きてゐる秀頼」(1937年)と「月の人」（後に”月から来た男”）(1964年)。同じ「豊臣秀頼・生存伝説」という題材を用いながら全く異なる二つの作品を軸に、小説や歌舞伎の戯曲など戦国作品を取り上げる。晩年に至るまで大佛次郎が問い続けた、",
-      "id": 28
+      "id": 13
     },
     {
       "title": "0歳からの音楽ワークショップ　「ららプロ for Ba...",
@@ -577,7 +255,7 @@
       ],
       "area": "other",
       "desc": "「ららプロ for Babies」は、0歳から参加できる親子向け音楽ワークショップである。親が主役となり、プロの演奏家による生演奏を聴くだけでなく、その場で声を出して歌う時間を大切にしている。上手に歌うことを目的とせず、安心して声を出せる場",
-      "id": 29
+      "id": 14
     },
     {
       "title": "KAAT EXHIBITION 2026　三沢厚彦・棚...",
@@ -595,7 +273,7 @@
       ],
       "area": "other",
       "desc": "「静と動が越境し、劇場という存在を彫り出す　KAAT神奈川芸術劇場初の彫刻展」神奈川ゆかりの彫刻家・三沢厚彦と棚田康司による、劇場で開催される初の彫刻展。越境しようとする彫刻たちが、生きた人間が動き、表現する「動」の場で、静かに佇みながら、",
-      "id": 30
+      "id": 15
     },
     {
       "title": "茅ヶ崎アロハマーケット2026",
@@ -613,7 +291,7 @@
       ],
       "area": "other",
       "desc": "茅ケ崎にいながらハワイ気分を満喫！ アロハマーケットは、「茅ヶ崎スロースピリット」をコンセプトに2004年にスタート。茅ヶ崎公園野球場周辺を会場に、アロハな精神の企業（アロハシャツ、ハワイに関する飲食物・ハワイアン雑貨・ジュエリー・CD・ツ",
-      "id": 31
+      "id": 16
     },
     {
       "title": "親子であそぼう【6/13】",
@@ -632,7 +310,7 @@
       ],
       "area": "other",
       "desc": "森村学園幼稚園は東京ドーム1.８個分の敷地の中に豊かな森があります。\n自然あふれる環境の中で、親子で遊びませんか？",
-      "id": 32
+      "id": 17
     },
     {
       "title": "親子であそぼう【5/30】",
@@ -651,7 +329,7 @@
       ],
       "area": "other",
       "desc": "森村学園幼稚園は東京ドーム1.８個分の敷地の中に豊かな森があります。\n自然あふれる環境の中で、親子で遊びませんか？",
-      "id": 33
+      "id": 18
     },
     {
       "title": "親子であそぼう【4/18】",
@@ -670,7 +348,44 @@
       ],
       "area": "other",
       "desc": "森村学園幼稚園は東京ドーム1.８個分の敷地の中に豊かな森があります。\n自然あふれる環境の中で、親子で遊びませんか？",
-      "id": 34
+      "id": 19
+    },
+    {
+      "title": "（5月）木育おもちゃの広場@TONARINO",
+      "date": "2026-04-15",
+      "endDate": "2026-04-15",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼木のおもちゃで遊ぼう／\n🌳「木育おもちゃの広場」🌳\n\nおもちゃと遊びのプロ・おもちゃコンサルタント選りすぐりの、\n「おもちゃ美術館」の「グッド・トイ」を中心とした世界のおもちゃで遊びましょう。\n\n0歳ならではのギモンや不安、\n1歳ならでは",
+      "id": 20
+    },
+    {
+      "title": "【三ツ境】5/13(水)ランチ付ベビーマッサージ",
+      "date": "2026-04-15",
+      "endDate": "2026-04-15",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "横浜市瀬谷区・三ツ境駅近くにある、親子でくつろげるカフェ・ハミングバードさんで、ベビーマッサージを楽しみませんか？\n明るくてキッズスペースもあるおしゃれカフェのランチとベビーマッサージ講座がセットになった、お得なイベントです。\n\n赤ちゃんと",
+      "id": 21
     },
     {
       "title": "湘南アイパークフェスタ2026",
@@ -688,7 +403,7 @@
       ],
       "area": "other",
       "desc": "親子で楽しめる、体験型サイエンスイベントです。\n2026年5月23日（土）、湘南ヘルスイノベーションパーク（湘南アイパーク）にて、\n「湘南アイパークフェスタ2026」 を開催します。\n本イベントでは、普段は立ち入ることのできない湘南アイパー",
-      "id": 35
+      "id": 22
     },
     {
       "title": "【GW限定】磯の生き物探しスペシャル！親子で楽しむ海の...",
@@ -706,7 +421,7 @@
       ],
       "area": "other",
       "desc": "ゴールデンウィーク限定の特別企画！\n葉山の磯で、生き物探しの“海の探検”に出かけよう！\nカニやヤドカリ、小さな魚、色とりどりの海の生き物たち。潮が引いた磯は、まるで自然の水族館のような世界です。\nガイドが一緒にまわりながら、生き物の見つけ方",
-      "id": 36
+      "id": 23
     },
     {
       "title": "春の海で宝さがし！ビーチコーミング体験＠葉山【開催日4...",
@@ -724,7 +439,7 @@
       ],
       "area": "other",
       "desc": "波が運んできた貝がらやシーグラス、流木など、海からの贈り物を探しながら、親子でゆったり自然とふれあえる体験です。\nガイドが一緒に歩きながら、見つけたものの名前や由来もやさしく解説するので、はじめての方でも安心してご参加いただけます。\n小さな",
-      "id": 37
+      "id": 24
     },
     {
       "title": "春限定！たけのこ掘って味わう感動体験【開催日 4月21...",
@@ -742,7 +457,7 @@
       ],
       "area": "other",
       "desc": "春だけの特別体験！葉山の里山でタケノコ掘りにチャレンジしよう！\nやわらかい土を掘ってタケノコを見つけるワクワク感は、子どもたちに大人気。ガイドが掘り方をしっかりサポートするので、初めてでも安心です。\n自分で掘ったタケノコは持ち帰りOK。自然",
-      "id": 38
+      "id": 25
     },
     {
       "title": "みんなで楽しむ★店長と美プラづくり　4/26（日）",
@@ -760,7 +475,7 @@
       ],
       "area": "other",
       "desc": "今月末に「ですぴよ店長イベント」開催決定🐣\n一緒にのんびり #美プラ 作りませんか😊\n店舗でキットをご購入いただくと、＋¥1,000で工作室がなんと6時間使い放題！\nその場で買って、すぐに制作スタートできます✨\n\n▷▷ご予約はこちら\n ht",
-      "id": 39
+      "id": 26
     },
     {
       "title": "横須賀朝市（4月18土、19日）",
@@ -778,7 +493,7 @@
       ],
       "area": "other",
       "desc": "新鮮な農水産物、こだわりの食品、心ときめく雑貨などが並ぶ横須賀ならではの朝市を開催いたします！\n縁日など子ども向けブースも充実しています。必ず景品がもらえるブースも！\n\n🍽️【無料ふるまいブース】\n5月の愛媛・松山フェアに先駆けて！\n4月の",
-      "id": 40
+      "id": 27
     },
     {
       "title": "湘南ジュニアプラス合奏団第24回定期演奏会",
@@ -798,7 +513,7 @@
       ],
       "area": "other",
       "desc": "茅ヶ崎で練習をしている弦楽器合奏団です。団員は小学生から70代の大人まで。皆さまに楽しんでいただける曲を選び演奏いたします。\n（民謡・映画音楽・クラシック）0歳から何歳まででもご来場いただけます。（親子室あり）年に一度いつもと違った音楽の時",
-      "id": 41
+      "id": 28
     },
     {
       "title": "消しゴムはんこパターンで作る千代紙 @Curiosit...",
@@ -816,79 +531,7 @@
       ],
       "area": "other",
       "desc": "＜リピートデザインって何？＞\n模様が無限に繋がるデザインのこと。\n今回の講座では、消しゴムはんこを用いてリピートデザインの千代紙を制作します。\n元テキスタイルデザイナーの講師が、仕組みとともに丁寧にお伝えします。\n\n＜こんなことが体験出来ま",
-      "id": 42
-    },
-    {
-      "title": "慶應ライトミュージックソサエティ Bigband Ja...",
-      "date": "2026-04-15",
-      "endDate": "2026-04-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "慶應ライトミュージックソサエティによるビッグバンドジャズコンサートです。\n第1部はジュニアバンドステージ、第2部はレギュラーバンドステージがあります。\nプログラムの曲目にはスタンダードジャズやモダンジャズも含まれています。\n入場は全席自由席",
-      "id": 43
-    },
-    {
-      "title": "ハイハイレースin大船",
-      "date": "2026-04-15",
-      "endDate": "2026-04-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "開催日:：2026 年 5月 3(日)\n開催地：POP-UP SPACE in KAMAKURA\n〒247-0056 鎌倉市大船1-12-10(大船駅徒歩3分)\n\n参加費用：2500円より\n参加内容：ハイハイレース、フォト撮影会\n※人数調整",
-      "id": 44
-    },
-    {
-      "title": "WFPウォーク・ザ・ワールド2026 横浜",
-      "date": "2026-04-15",
-      "endDate": "2026-04-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "途上国の学校給食支援のためのチャリティーウォークイベント。\n7kmコースがあり、受付開始は9:00、開会は9:30、7kmコースのスタートは10:00。\n参加費は一般2,200円（参加費1,000円＋寄付1,200円）、小学生1,000円（",
-      "id": 45
-    },
-    {
-      "title": "相模原市少年少女合唱団無料体験会",
-      "date": "2026-04-15",
-      "endDate": "2026-04-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "preschool"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "相模原市少年少女合唱団は年長から高校3年生までの団員で活動しています。私たちと一緒に歌いませんか？ぜひ一度遊びに来てください。\n対象は年長から高校3年生までの歌や音楽が好きな方です。",
-      "id": 46
+      "id": 29
     }
   ]
 }
