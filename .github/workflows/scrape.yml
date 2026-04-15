@@ -29,7 +29,10 @@ jobs:
           python-version: '3.12'
 
       - name: 必要なライブラリをインストール
-        run: pip install requests beautifulsoup4 lxml
+        run: pip install requests beautifulsoup4 lxml playwright
+
+      - name: Playwrightブラウザをインストール
+        run: playwright install chromium --with-deps
 
       - name: スクレイピング実行
         run: python api/api/scraper.py ${{ github.event.inputs.region || 'all' }}
