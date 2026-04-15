@@ -40,30 +40,28 @@ def scrape_ikoyo(pref_id, region):
     soup = fetch_rss(url)
     if not soup:
         return events
-    today = datetime.date.today().strftime('%Y-%m-%d')
     for item in soup.select('item')[:30]:
         try:
             title = item.find('title').get_text(strip=True) if item.find('title') else ''
             link_tag = item.find('link')
-            link = ''
-            if link_tag:
-                link = link_tag.next_sibling if link_tag.next_sibling else link_tag.get_text(strip=True)
-                link = str(link).strip()
+            link = str(link_tag.next_sibling).strip() if link_tag and link_tag.next_sibling else ''
+            if not link.startswith('http'):
+                link = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}"
             desc_raw = item.find('description')
             desc = BeautifulSoup(desc_raw.get_text(), 'html.parser').get_text(strip=True) if desc_raw else ''
-            pub_date = item.find('pubDate').get_text(strip=True) if item.find('pubDate') else ''
             if not title or len(title) < 3:
                 continue
             text = title + ' ' + desc
-            d1, d2 = parse_date_range(desc + ' ' + pub_date)
+            # descriptionから開催日を抽出（例：「開催日：2026年4月20日」）
+            d1, d2 = parse_date_range(desc)
+            # 日付が取れない or 過去日の場合はtitleから試みる
+            today = datetime.date.today().strftime('%Y-%m-%d')
             if not d1 or d1 < today:
-                d1, d2 = parse_date_range(pub_date)
-            if not d1:
+                d1, d2 = parse_date_range(title)
+            if not d1 or d1 < today:
                 d1 = today
             if not d2 or d2 < d1:
                 d2 = d1
-            if not link or not link.startswith('http'):
-                link = f"https://iko-yo.net/events?prefecture_ids[]={pref_id}"
             events.append({
                 'title': title,
                 'date': d1,
