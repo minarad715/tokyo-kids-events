@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T02:00:34.837868",
+  "updated": "2026-04-26T02:14:46.799952",
   "region": "kanagawa",
-  "count": 26,
+  "count": 48,
   "events": [
     {
       "title": "パンどろぼうひろば",
@@ -383,11 +383,11 @@
       "id": 18
     },
     {
-      "title": "☆少人数制のレッスン☆ 人気のダンスが踊れる！SNSトレンドダンス",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "ビオトピアマルシェ　ＧＷフェア",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/546104",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -397,51 +397,52 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "今年もゴールデンウィークは8周年のビオトピアで！ 8周年を記念したイベントや母の日ギフト特集、クイズラリー、鯉のぼり工作コーナーなど大人も子どもも楽しめるイベントが盛りだくさん。ビオトピアで採れた食材を使用したレストランメニューもお楽しみに",
       "id": 19
     },
     {
-      "title": "こどもファーマーズスクール",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "みんなで公園に花を植えよう！",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/558142",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "family"
+        "elementary"
       ],
       "cats": [
-        "festival"
+        "nature"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "サカタのタネの公園スタッフと一緒に、花苗を植えてみては。植物のプロとお話ができ、お土産に花苗をひとつ持ち帰れる。汚れてもよい服装で参加を。雨天中止。対象は小学生以上。定員15名、先着順にて受付。要事前申込。電話にて辻堂海浜公園管理事務所へ。",
       "id": 20
     },
     {
-      "title": "こども服の譲渡会＆絵本の譲渡会 @相模原・古淵",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "DIDIM×鯉のぼり工作コーナー（ビオトピアマルシェＧ...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/561702",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
+        "workshop",
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "今年もゴールデンウィークは8周年のビオトピアで！ 世界にひとつだけ！ 色鉛筆やスタンプ、折り紙を使って自分だけのオリジナル鯉のぼりを作ろう！ 完成させた鯉のぼりは持ち帰りOK。さらにme=byoエクスプラザ内の「DIDIM」（ディディム）に",
       "id": 21
     },
     {
-      "title": "【時短&節約】麹で、一生使える簡単リピレシピ！安い食材も美味しく！",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "草木をさがそう！たんけんクイズ（ビオトピアマルシェＧＷ...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/561836",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -451,17 +452,344 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "今年もゴールデンウィークは8周年のビオトピアで！クイズに参加しながら今咲いている季節の花や、身近な自然について楽しく知れることができる。散歩がてら、初夏の風を感じながら植物博士を目指そう！クリアした人にはうれしい参加賞の用意も！イベントやス",
       "id": 22
     },
     {
-      "title": "ブラザートムがやってくる！大人も子供も楽しめる読み聞かせとコンサート",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "たんぽぽフリーマーケット（6月）",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/553169",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶ「たんぽぽフリーマーケット」。こどもの国に掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット",
+      "id": 23
+    },
+    {
+      "title": "たんぽぽフリーマーケット（5月）",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶたんぽぽフリーマーケット。掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット",
+      "id": 24
+    },
+    {
+      "title": "たんぽぽフリーマーケット（4月）",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶたんぽぽフリーマーケット。掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット　TEL：090-9376-6098。",
+      "id": 25
+    },
+    {
+      "title": "児童センター工作室　こいのぼりペンダント",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "こどもの国の児童センターで、丸棒に色を塗って、こいのぼり型のペンダントを作る。制作時間は約30分。小学3年以下は大人と一緒に参加。参加事前申込制。定員は各回12組（先着順）。1組単位（5人以下）の申込。1組で最大3個まで作れる。申込方法など",
+      "id": 26
+    },
+    {
+      "title": "こどもの国 春まつり",
+      "date": "2026-05-05",
+      "endDate": "2026-05-05",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "こどもの国の春まつり期間中は、自然スタンプビンゴ、カブトをつくろうなど、子どもたちが楽しめるイベントが盛りだくさん。こどもの日の5月5日（祝）は中学生以下の子どもの入園が無料に！ イベントにより開催日時が異なる。詳細はこどもの国のホームペー",
+      "id": 27
+    },
+    {
+      "title": "横浜開港祭　貸切花火鑑賞クルーズ",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "夏の始まりを告げる、みなとみらいの恒例イベント「開港祭」のフィナーレを飾る花火。レーザービームを駆使した音と光の融合「ビームスペクタクルinハーバー」！ 豪華クルーザー「MY3」（15名様～）を貸切って花火鑑賞してみては。海上の特等席でゆっ",
+      "id": 28
+    },
+    {
+      "title": "工場夜景＆花火クルーズ",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "工場夜景ジャングルクルーズに花火鑑賞がプラスされた特別バージョン。みなとみらいを眺めながら、工場地帯へ。工場夜景を楽しんだ後は、幻想的な輝きに包まれた横浜港で、「横浜ナイトフラワーズ（旧：スパークリングトワイライト）」の花火を船上から鑑賞。",
+      "id": 29
+    },
+    {
+      "title": "こどもが主役！ こどもまつり",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "こどもを中心に、家族や友達と一緒に楽しめる企画が日替わりで開催される。民具の着用体験、鯉のぼりに見立てたお散歩バッグを作るワークショップ、かぶれる大きな兜（かぶと）づくり、むかしあそびなど盛りだくさんの内容。このほか、兜飾りの展示、古民家カ",
+      "id": 30
+    },
+    {
+      "title": "エコな紙漉きとライト作り",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "日本の伝統的な紙漉き（かみすき）を簡単にアレンジしたワークショップ。園内古民家の障子の張替えで出た古い障子紙を再利用。そこに植物などの飾りを漉き込んで、ハガキサイズ程度のオリジナル和紙を作り、ガラス瓶に貼って温かみのあるライトをつくる。会場",
+      "id": 31
+    },
+    {
+      "title": "かぶれる！大きなかぶと",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "78cm×78cmの大きな紙を折って、少し難しいけれどもかっこいいかぶとを作る。大きな紙を使うため、完成品は実際にかぶることができる大きさ。飾り付けの材料がセットになっているので、家に帰ってからも楽しむことができる。材料一式をセットにした兜",
+      "id": 32
+    },
+    {
+      "title": "こいのぼり　おさんぽバッグ",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "縦型のショルダーバッグを「鯉」に見立て、ウロコの形に切った布を貼って「おさんぽバッグ」をつくる。完成後はバッグを身につけて園内散策を楽しめる。対象はだれでも（小学生以下は保護者の付き添いが必要）。事前申込制で各日各回定員10名。日本民家園ウ",
+      "id": 33
+    },
+    {
+      "title": "初夏の田んぼへGo！トゥクトゥクで行く「田植え体験」",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "裸足になって田んぼの中へ！カエル発見！足が泥んこになって、歩くのもちょっと大変。でも、それが楽しい！！トゥクトゥクに乗車して風を感じながら田んぼへ移動し、昔ながらの手植えでの田植えを体験する。泥のにおいや触感、水の冷たさ・温かさ、苗の柔らか",
+      "id": 34
+    },
+    {
+      "title": "『Love Beyond（Act of Remembr...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "最優秀スコットランド作品賞ほか多数受賞の名作、日本初上演！自身もろう者である演劇アーティスト、ラメシュ・メイヤッパンの最新作を、マシュー・レントンが演出。手話（英国手話）、視覚言語、口話で、繊細かつ豊かに表現されたラブ・ストーリーを楽しもう",
+      "id": 35
+    },
+    {
+      "title": "ママハピEXPO＠ららぽーと横浜",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "好評！ リピート開催！「子育てに情報を、弧育てにサポートを」ママハピEXPOは子育てをしているファミリーを対象とする情報イベント。赤ちゃんと一緒に楽しめる撮影ブースやワークショップなど『Littleマルシェ』も同時開催。当日スタンプラリー参",
+      "id": 36
+    },
+    {
+      "title": "韓国編 キンパを作ろう！",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "2015年からスタートしたこどもレストランのイベントです。今年で12年目を迎えています。今回は韓国風のり巻き「キンパ」を作り、食後には韓国にちなんだ音楽を楽しみます。親子で食と音楽の世界旅行に出かけましょう。",
+      "id": 37
+    },
+    {
+      "title": "あの有名なベビースマイルのおひるねアート撮影会 @相模...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "赤ちゃんに背景や小物をつけて撮影する、赤ちゃんと一緒に作るアート写真です。\n※ご持参のカメラで撮影ができます。\n※ご衣装は各自でお持ち込みください。\n\n■時間　①10:30　②11:00　③11:30　④12:00　⑤13:30　⑥14:0",
+      "id": 38
+    },
+    {
+      "title": "ゆらりんころりん",
+      "date": "2027-03-11",
+      "endDate": "2027-03-11",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "toddler",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "0歳～2歳児とその保護者対象の親子向けイベントです。\n親子で動きやすい服装で参加ください。\nふれあい遊び、パラバルーン、読み遊びなどが楽しめます。\n参加費は300円です。\n定員は20組で先着順、3月11日から申し込み開始です。",
+      "id": 39
+    },
+    {
+      "title": "【1回1時間〜】ゼロから始めるギターレッスン【ご自宅で...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＜ギターを持ってなくてもOK＞\nなんとなーくギターに興味がある、という方から、ギターを買ってみたもののどうしたらいいか分からない\nという方に、日々の練習の仕方や簡単な目標設定等、ギターを使ってやってみたい事を形にするお手伝いをします！\nギタ",
+      "id": 40
+    },
+    {
+      "title": "三田国際科学学園吹奏楽部　第11回定期演奏会",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
       "ages": [
         "family"
       ],
@@ -469,15 +797,15 @@
         "concert"
       ],
       "area": "other",
-      "desc": "",
-      "id": 23
+      "desc": "三田国際科学学園吹奏楽部による定期演奏会。第1部は吹奏楽のステージ、第2部はアンサンブルのステージ、第3部はポップスステージ。1年間の活動の集大成となる演奏会。入場無料・全自由席、気軽に会場へ。",
+      "id": 41
     },
     {
-      "title": "女子の輝く場所がここにはある！春の５人制フットサル大会開催！",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "馬車道エキナカフリマ（6月）",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/554771",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -487,15 +815,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 24
+      "desc": "リニューアルした馬車道駅中の会場。出店数は最大60店舗！ 衣類や小物などが並び、駅利用者や観光客でにぎわう。赤レンガ倉庫やワールドポーターズにも近く、おでかけついでに気軽に立ち寄れるのも魅力。完全屋内のため雨風の心配なし！",
+      "id": 42
     },
     {
-      "title": "【春のお泊りチャレンジキャンプ1泊2日】",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "なりきりハイハイレース CAKE PARTY 鎌倉・大船",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/554776",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -505,15 +833,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 25
+      "desc": "昨年10月から約100組が体験済み！県外からも参加者が集まる大人気のイベント。ハイハイ期という貴重な期間を形に残そう。ケーキになりきったハイハイレースを含む4つのコンテンツがすべて楽しめる。体験できるコンテンツは、ケーキになりきって！ハイハ",
+      "id": 43
     },
     {
-      "title": "第75回UPRUN川崎多摩川マラソン",
-      "date": "2026-04-25",
-      "endDate": "2026-04-25",
+      "title": "Home town Fes. mini in K-1シ...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/556716",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -523,8 +851,80 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 26
+      "desc": "家族や友達と楽しめるイベントを開催。夕方マルシェポップアップショップでは規格外の野菜や賞味期限の迫った食品など、ピックアップした商品を販売。ハンドメイド雑貨も出店。子どもに大人気の縁日もあるよ。スタンプラリーでビッグガラポンを回すと豪華賞品",
+      "id": 44
+    },
+    {
+      "title": "新緑フェスティバル",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "神奈川県川崎市で開催される5月の無料イベント「新緑フェスティバル」は、老人ホーム開設6周年を記念した地域開放イベントである。ランチ体験会やバイオリン演奏、キッチンカーや物販ブースが並び、家族連れや見学希望者も楽しめる。施設の雰囲気を体感でき",
+      "id": 45
+    },
+    {
+      "title": "親子でチャレンジ！ロボットプログラミング体験会（5月）",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "親子一緒に、ロボットを組み立ててプログラミングで動かそう。比較的大きめのパーツを使用するため、小さな子どもでも無理なく組み立てられる。完成後は、パソコンを使ってプログラミングし、すもう、ゴルフ、ダンスといったいろいろな競技に参加しよう。操作",
+      "id": 46
+    },
+    {
+      "title": "石原まさしと行く！登山電車貸切 箱根旅！",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "沖縄の星　演歌歌手　石原まさしさんと一緒に、箱根登山電車の貸切列車に乗車する特別イベントを開催。石原まさしさんは、昭和の流行歌をこよなく愛し、その確かな歌唱力で注目を集める演歌歌手。当日は、貸切列車の車内にてミニライブ、スイッチバックカフェ",
+      "id": 47
+    },
+    {
+      "title": "かながわU-18アスリートプロジェクト「令和8年度種目...",
+      "date": "2026-04-26",
+      "endDate": "2026-04-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "県では、新たなスポーツに挑戦したい中高生等を対象に、優れた能力を有する人材を発掘するため、令和8年度種目別トライアウト（選考会）の参加者を募集。選考を通過した人に対し、アドバンスプログラム（種目別の育成）により、計画的にトップアスリートとし",
+      "id": 48
     }
   ]
 }
