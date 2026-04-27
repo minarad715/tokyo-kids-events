@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-26T02:15:53.878085",
+  "updated": "2026-04-27T02:26:58.026496",
   "region": "chiba",
-  "count": 16,
+  "count": 20,
   "events": [
     {
       "title": "BOTANICA MUSEUM",
@@ -130,17 +130,14 @@
       "id": 6
     },
     {
-      "title": "2026-27 BABYMONSTER WORLD TOUR IN JAPAN",
-      "date": "2026-08-11",
-      "endDate": "2026-08-12",
+      "title": "4月11日(土),27日(月)おひるねアート撮影会",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://www.babymonster.jp/babymonster-chiba-2026/",
-      "source": "chiba_park",
+      "url": "https://iko-yo.net/events/561283",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -151,11 +148,11 @@
       "id": 7
     },
     {
-      "title": "フェスティバルウォーク蘇我（4月）",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "【4/24(金)・27(月)開催】ベビーイベント★ハイハイチャレンジ",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/560665",
+      "url": "https://iko-yo.net/events/561922",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -169,30 +166,30 @@
       "id": 8
     },
     {
-      "title": "SHIBAFES 2026 ハンドメイドフェスタinしばやま公園",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "フランス発音楽教室 DUMI（デュミ） 流山市で体験会開催中！",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/547455",
+      "url": "https://iko-yo.net/events/564659",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature",
-        "festival"
+        "concert",
+        "workshop"
       ],
       "area": "other",
       "desc": "",
       "id": 9
     },
     {
-      "title": "きらめくハーバリウムキャンドル＆ディフューザー作り",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "～子供も交えてボードゲームをしよう！！～【若葉ボードゲーム部】",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/563727",
+      "url": "https://iko-yo.net/events/511084",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -206,29 +203,29 @@
       "id": 10
     },
     {
-      "title": "ファミールいちかわ祭",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "０歳からの 〜 うたってあそぼ！りとみっくコンサート♪ ＠柏の葉",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/563765",
+      "url": "https://iko-yo.net/events/486088",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "concert"
       ],
       "area": "other",
       "desc": "",
       "id": 11
     },
     {
-      "title": "第2回ハワイアンサンセットヒルズ",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "成田空港周辺で学ぶサステナブルツアー",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/558161",
+      "url": "https://iko-yo.net/events/561795",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -242,11 +239,11 @@
       "id": 12
     },
     {
-      "title": "【4月】思いっきり描こう！好奇心を刺激するインクルーシブアート教室",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "マツドキッ！ディスカバリーWEEK🔍",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/559999",
+      "url": "https://iko-yo.net/events/563565",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -260,11 +257,29 @@
       "id": 13
     },
     {
-      "title": "～子供も交えてボードゲームをしよう！！～【若葉ボードゲーム部】",
-      "date": "2026-04-26",
-      "endDate": "2026-04-26",
+      "title": "謎解き冒険ラリー不思議ハンターin幕張海浜公園",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/511084",
+      "url": "https://iko-yo.net/events/563683",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "マジックハンドでお菓子つかみ取り！　＠柏の葉",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/567131",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -275,7 +290,61 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
+    },
+    {
+      "title": "マジックハンドでお菓子つかみ取り！　＠松戸",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/567144",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "造形・工作ワークショップ【稲毛造形・工作ワークショップ部】",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/545918",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
+    },
+    {
+      "title": "凧づくり＆凧揚げ体験、養蜂体験などGW限定体験プログラム",
+      "date": "2026-04-27",
+      "endDate": "2026-04-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/559418",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 18
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -293,7 +362,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 15
+      "id": 19
     },
     {
       "title": "SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA",
@@ -311,7 +380,7 @@
       ],
       "area": "other",
       "desc": "花火と音楽を楽しむ「SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA」が、2026年5月30日（土）いなげ海浜公園で開催！",
-      "id": 16
+      "id": 20
     }
   ]
 }
