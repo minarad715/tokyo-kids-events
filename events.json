@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T02:25:03.463556",
+  "updated": "2026-04-28T02:31:59.693585",
   "region": "tokyo",
   "count": 98,
   "events": [
@@ -552,9 +552,9 @@
       "id": 26
     },
     {
-      "title": "♠マジック初心者大歓迎！少人数マジックレッスン",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "シュマッツ BBQコース ルミネ池袋店",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -566,139 +566,33 @@
         "festival"
       ],
       "area": "other",
-      "desc": "♠マジック初心者大歓迎！ほぼマンツーマンマジックレッスン\n\n※こちらは1～4名の少人数レッスンです。\n受講されたい方は日程など調整しますのでお気軽にご連絡ください。\n完全マンツーマンをご希望の方はご相談ください。\n\n\nマジックは誰にでもでき",
+      "desc": "シュマッツオリジナルビール飲み放題のBBQコースを提供するイベント。デラックスなど複数プランあり。2時間制で30分前ラストオーダー。事前予約制で空席あれば当日予約可能。雨天・荒天時は営業中止。",
       "id": 27
     },
     {
-      "title": "外国人に話しかけるための英会話レッスン！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "ミュージカルの世界を体験してみようブロードウェイミュー...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
+        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop",
+        "stage"
       ],
       "area": "other",
-      "desc": "＜こんなことをします＞\nみなさんがこれまで学んだ英会話をぜひ実践で使ってみましょう！\nインプットではなく、アウトプットの場です！\n「話しかけるコツ」をつかみましょう！\n---\n2026年3月3日　都庁展望台にて\nお二人とも2回目参加のAさん",
+      "desc": "永年愛され続けるピーター・パンの世界を体験しよう。講師のレクチャーや劇中歌のダンスワークショップで学び、その後親子で東京国際フォーラムでの観劇を楽しむイベント。小学校1～3年生と保護者対象、全2回開催。",
       "id": 28
     },
     {
-      "title": "母の日に贈る🌷ソラフラワーディフューザー作り",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "母の日、何を贈るか迷っていませんか？\n\n今年は、既製品ではなく\n“想いを込めてつくるギフト”を選んでみませんか🌷\n\nこの講座では、ソラフラワーを使った\nディフューザーをお作りいただけます。\n\nやさしい風合いのお花に、\nお好きな色を選び、..",
-      "id": 29
-    },
-    {
-      "title": "オーストラリアンワイルドフラワーで母の日のリースを作ろう",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "★母の日特別版★\n毎年の作品展でも大好評のリース講習会！\n\n☆初心者でも大丈夫！簡単で超楽しい！親切丁寧に指導しておりますので安心してご参加できます！\n\n☆毎回参加されるファンの方も多いのですよ。\n\n＊西オーストラリア州政府推奨のPokoの",
-      "id": 30
-    },
-    {
-      "title": "曼荼羅お絵描き（色鉛筆編）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＜こんな事を教えます＞\n\nフリーハンドで描く曼荼羅アートです。\n私がインドのお母さんから教わった絵の描き方を元に\n手描きで描ける曼荼羅アートにチャレンジしましょう🎵\n\n\n①『指先の筋トレ、頭の体操』など、バランス感覚を整えるエクササイズ。\n",
-      "id": 31
-    },
-    {
-      "title": "対面個人指導クラス☆",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "対面での個人指導クラスです。一人一人に合わせた内容でレッスン可能です。希望の日時をいくつか教えてください。\n学芸大学ノアスタジオ、都立大学ノアスタジオにて、レンタルスタジオをお借りしていただき、対面のレッスンをさせて頂きます。\n\n是非クラス",
-      "id": 32
-    },
-    {
-      "title": "五感で感じる日本茶ショップ ～全国のお茶とお茶を楽しむ体験～",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "茶葉から作る緑茶やほうじ茶、お茶に合う和菓子作りなどのワークショップと、抹茶とスイーツの日本茶カフェ、日本全国から集めた日本茶の販売コーナーなど五感でお茶を楽しむイベント。",
-      "id": 33
-    },
-    {
-      "title": "SusHi Teck Tokyo 2026 パブリックデー",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "小さな子供から学生、大人まで、楽しみながら未来のテクノロジーに触れ、学ぶ、多彩なコンテンツが集結する。ステージコンテンツとしてYouTube登録者100万人超の大人気サイエンスアーティストの市岡元気先生による、ダイナミックサイエンスライブを",
-      "id": 34
-    },
-    {
-      "title": "謎解き冒険ラリー不思議ハンターin練馬区立 夏の雲公園",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "本番で差がつく！サレジアンAG 行動観察・口頭試問 完全対策",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -707,16 +601,16 @@
         "elementary"
       ],
       "cats": [
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "公園内にちりばめられた問題を探して歩くクイズラリーイベント。難易度は未就学児～小学生向けに3段階用意。所要時間は1時間～1.5時間程度。問題には地域課題やSDGs、教科書の内容など、身近な生活に紐づいた内容を織り込んでいる。ウォーキング＋謎",
-      "id": 35
+      "desc": "こんにちは。AKANON事務局です。\n\n本番で差がつく！サレジアンAG 行動観察・口頭試問 完全対策策\nのご案内です♪\n\n\nサレジアン国際学園小学校 AGクラス受験をご検討中のご家庭を対象に、\n「行動観察」と「口頭試問」に特化した対策クラス",
+      "id": 29
     },
     {
-      "title": "東京銭湯 しょうぶ湯",
-      "date": "2026-05-05",
-      "endDate": "2026-05-05",
+      "title": "山本亭イベント",
+      "date": "2026-05-09",
+      "endDate": "2026-05-16",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -728,13 +622,13 @@
         "festival"
       ],
       "area": "other",
-      "desc": "5月5日（火祝）の「こどもの日」は、伝統行事の「しょうぶ湯」を東京都内の約410軒の銭湯で実施する。子どものための特別な日に銭湯の広い湯船でしょうぶ湯につかり、子どもの成長を祈りつつ、日本の古き良き伝統を心ゆくまで味わってみてはいかが。銭湯",
-      "id": 36
+      "desc": "5月9日に茶室見学・折り紙遊び。\n5月10日、17日、31日に生田流筝演奏。\n5月16日に琴夕の調べ。",
+      "id": 30
     },
     {
-      "title": "サンシャインシティ手作りワークショップ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "マカセルフリマ　体験型フリーマーケット",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -746,13 +640,13 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "弊社で人気のリアルパフェとタルトチャームの製作体験ができます\n大変可愛く仕上がりますので体験を楽しんで下さいませ",
-      "id": 37
+      "desc": "東京・平和島の巨大倉庫で開催する体験型フリマ「マカセルフリマ」。古着・雑貨・家電など多彩な商品が並び、箱詰め放題や均一販売、100円商品も多数。仕入れにも買い物にも最適。完全事前申込制。参加フォームより要申込。",
+      "id": 31
     },
     {
-      "title": "鳥越神社大祭",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "まなマルシェ「スキ」がふみだす、地域デビュー in 港...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -764,13 +658,212 @@
         "festival"
       ],
       "area": "other",
-      "desc": "1370年余の歴史がある神社の鳥越まつりは、都内一重いといわれる昭和初期謹製の鳥越神社の千貫神輿（センガンミコシ）の渡御に、のべ20万人が一目見ようと集まる。夜祭りになると、高張り提灯に囲まれ、細提灯に灯をともした本社神輿宮入道中は、荘厳か",
+      "desc": "自分の興味・関心をきっかけに、地域へ一歩ふみだしてみては？　この講座では、港区の拠点や活動している人に出会いながら、仲間との企画づくりを進める中で、自分らしい地域との関わり方＝「地域デビュー」を体験する。地域活動やまちとの関わりについて興味",
+      "id": 32
+    },
+    {
+      "title": "豊洲市場マグロのセリ見学ツアー 朝イチ0455（5月）",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "豊洲市場でまぐろのセリを見学する早朝実施のガイドツアー。5:00の市場開場と同時に入場するので、マグロのセリをじっくりと見学し、知識を深めることが出来る。案内用無線機器イヤホンガイド(R)付きなので、ガイドの案内も聞き逃すことなく安心。セリ",
+      "id": 33
+    },
+    {
+      "title": "ロボット工場見学＆搭乗体験イベント（ゴールデンウィーク）",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "身長2.8mの装着型ロボット「スケルトニクス」の八王子工場にて、製造工程と開発している機体を見ることができる工場見学と、専任パイロットによるダイナミックなデモンストレーション、3歳の子どもから操作可能な搭乗体験イベントを開催。モノづくりの見",
+      "id": 34
+    },
+    {
+      "title": "チベット フェスティバル ジャパン2026",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "チベットハウス・ジャパンは、ゴールデンウィークに「チベットフェスティバル・ジャパン2026」を開催。会場では、チベット料理やバター茶、スナックのほか、エキゾチックなアクセサリーや雑貨、書籍などが楽しめる。また、チベットやダライ・ラマ法王に関",
+      "id": 35
+    },
+    {
+      "title": "二子玉川ネイチャーズデイ2026",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今イベントは、“自然を楽しみ学ぶプロ”であるアウトドアブランドを中心に「人やものがつながる場所」をコンセプトに、キッズ焚火体験、ワークショップ、多摩川の生き物観察などを行う。自然体験を通じて出会い、遊び、学ぶ一日限定のイベントだ。自然を感じ",
+      "id": 36
+    },
+    {
+      "title": "主役はアナタ～江戸川JOBフェア～",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】江戸川区の中小企業の採用担当者から直接説明を受けられます。【内容】江戸川区内の企業が参加し、社会人の先輩たちが仕事の魅力ややりがいを直接伝えます。\n飲食店や介護、物流、建設、医療など、様々な業界の話を一度に聞ける絶好の機会です。",
+      "id": 37
+    },
+    {
+      "title": "【東京・目白】マイクラデイ【5/31】",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "マインクラフトって、遊ぶだけでも楽しいですよね。\nでもここでは、もう一歩踏み込んでみます。\n\nテーマは「自分たちで遊びをつくる」。\n\nルールを考えたり、仕掛けを作ったり、\nどうしたらもっと面白くなるかをみんなで試しながら遊びます。\nうまくい",
       "id": 38
     },
     {
-      "title": "パパルフェスティバル秋津",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "箸ソムリエと作る、世界でたった一膳のMY箸づくりワーク...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【箸ソムリエと作る！自分にぴったりサイズの MY箸ワークショップ】\n\n  毎日使うお箸、\"なんとなく\"で選んでいませんか？\n\n  実は箸には「自分に合う長さ」があります。\n  合わない箸を使い続けると、\n  肩に力が入ったり、食べ方が不安定",
+      "id": 39
+    },
+    {
+      "title": "【GW/母の日】イオンモールむさし村山　スイーツデコ体験！",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "スイーツファクトリー®の【GW】イオンモールむさし村山でスイーツデコ体験！\nGWは「2階 ノースコート。ゼビオ様前・ユニクロ様近くの広場」へ集合！\nお買い物も楽しめて、ワクワク可愛いを体験♪\n予約不要・手ぶらでOK！クリームボンドをしぼって",
+      "id": 40
+    },
+    {
+      "title": "「ヤマトタケル　白鳥伝説」上映",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "愛と知恵と勇気の人形冒険活劇映画『ヤマトタケル-白鳥伝説-』、映画館・Morc阿佐ヶ谷（杉並区阿佐谷北2-12-19 B1F）にて5/7までGWロードショー！！「古事記」や「日本書紀」に登場する英雄・日本武尊（ヤマトタケル）が、大和朝廷の命",
+      "id": 41
+    },
+    {
+      "title": "第５回 渋谷 駿 福祉のマジックショー",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "毎年開催しているマジックショーを今年も開催！\nしっとり心に沁みる演目から、ダンスを取り入れた華やかなマジック、大掛かりなイリュージョンまで。\n障害の有無、性別、年齢すべての垣根を越えて誰もが楽しめるショーをお届けいたします。\n５回目となる本",
+      "id": 42
+    },
+    {
+      "title": "【参加無料・神保町】国際色豊かな家族向けイベント☆ファ...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ファミリーフェスタは、ライフハウス東京インターナショナルチャーチが主催するキッズ＆ファミリーのためのお祝い🎊\n\n0歳から英語に触れられる「親子イングリッシュ」や、遊びの中で自然と英語が身に付く「キッズイングリッシュ」、バイリンガルのキッズチ",
+      "id": 43
+    },
+    {
+      "title": "【参加無料】5月17日神保町《子ども向け・ネイティブと...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -782,107 +875,17 @@
         "festival"
       ],
       "area": "other",
-      "desc": "当日は、チアリーディング、書道パフォーマンス、無料運転スキルチェックなどの楽しいイベントが盛りだくさん。焼きそばやフライドポテトなど、フードコートで家族や友人と美味しいものを味わいながら楽しもう！　フェスティバル当日は教習業務は実施なし。送",
-      "id": 39
-    },
-    {
-      "title": "ヨムキクちよだ2026 「えほんの世界へようこそ！合唱...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "千代田区立図書館のこどもの読書週間イベント「ヨムキクちよだ2026」。合唱と絵本の読み聞かせを組み合わせた、赤ちゃんから大人まで楽しめるコンサート。日本大学合唱団のハーモニーと、千代田区立図書館司書によるワクワクドキドキするおはなしの読み聞",
-      "id": 40
-    },
-    {
-      "title": "お台場花火ショー　貸切花火鑑賞クルーズ（MY3・MY7）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "今年最初の花火イベントは、東京お台場で開催される花火やドローン、音楽を組合わせた最新テクノロジーを駆使した花火エンターテイメントショー。海上からの見学は、特等席でゆったりと花火を見ることができるスペシャルな体験。会社で、サークル仲間でなど、",
-      "id": 41
-    },
-    {
-      "title": "ホテル櫂会　母の日イベント～Kids Gift Cak...",
-      "date": "2026-05-09",
-      "endDate": "2026-05-09",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "5月9日・10日限定で、母の日のケーキづくり体験を開催。子供が自由にデコレーションしたオリジナルケーキを、「ありがとう」の気持ちを込めてお母さんへプレゼント。体験はランチビュッフェの利用時間内に楽しむことができ、ローストビーフなど多彩な料理",
-      "id": 42
-    },
-    {
-      "title": "お台場イベント花火観賞クルーズ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "お台場イベントにあわせた花火観賞クルーズ企画。イベントエリア内で行われるパフォーマンスを観ることはできないが、船上からは都会のキラメキと花火を同時に楽しめる。芸能人や著名人にも紹介される老舗「鳥久」の一番人気の特製弁当を用意。さらに、アルコ",
-      "id": 43
-    },
-    {
-      "title": "ホテル櫂会　ゴールデンウィーク ファミリーランチビュッフェ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "メインダイニング アンサンブルでは、ゴールデンウィーク限定のファミリービュッフェを開催。ライブキッチンで仕上げるローストビーフをはじめ、縁日をイメージしたチヂミボールや潮見焼きそばなど多彩な料理が並ぶ。鯉のぼりクッキーのアイシング体験、駄菓",
+      "desc": ")🇺🇸ネイティブと遊べちゃうインターナショナルな英語体験！子ども向け英語イベント「キッズイングリッシュ」🌍✨\n\n✅ 英語が苦手でも大丈夫！ネイティブが優しくリード🎤\n✅ 遊び＝学び！自然に英語を吸収できるプログラム🤗\n✅ 日本語スタッフもい",
       "id": 44
     },
     {
-      "title": "日暮里繊維街　第14回ふらっとにっぽり「クリエイティブ...",
-      "date": "2026-06-12",
-      "endDate": "2026-06-12",
+      "title": "【参加無料】5月17日（日）神保町・親子で英語はじめの...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
-      "cost": "paid",
+      "cost": "free",
       "ages": [
         "family"
       ],
@@ -890,13 +893,13 @@
         "festival"
       ],
       "area": "other",
-      "desc": "日暮里繊維街にゆかりのあるクリエイターやminne作家・ブランドが集まり、手作り小物の販売会やワークショップを開催（各日約45名出展）。6月12日（金）は、来場者特典として、先着200名に素敵なプレゼントの用意あり。",
+      "desc": "🎈親子で「英語はじめの一歩」にトライしませんか？気軽に楽しく参加できる英語あそびタイム「親子イングリッシュ」を開催🎉\n\n✅ リズムあそびや絵本タイムで、遊びながら自然に英語に親しめる🎵\n✅ 英語に自信がなくても大丈夫！日本語サポートつきだか",
       "id": 45
     },
     {
-      "title": "東京フラフェスタin池袋2026",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "ねんドル岡田ひとみ　郵政博物館で本格ミニチュア寿司レッスン",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -905,16 +908,16 @@
         "family"
       ],
       "cats": [
-        "festival"
+        "museum"
       ],
       "area": "other",
-      "desc": "今年も前夜祭を含め3日間、池袋西口公園グローバル会場、サンシャインシティ噴水広場会場など4つの会場で、豊島区全体が熱いフラの風に包まれる華麗なフラの祭典「東京フラフェスタin池袋」を開催。今年で24回目を迎え、日本でも最大級のフラフェスティ",
+      "desc": "郵政博物館で開催される「ちいちゃくてかわいい展示」で岡田ひとみのミニ展示会(5/16-5/31)開催！\nその中でスペシャルねんど教室を開催します。\n2回に分けて、樹脂ねんどを使った本格的なミニチュア寿司に挑戦！\n難易度が高いため、小さなお子",
       "id": 46
     },
     {
-      "title": "日枝神社 山王祭",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "【多摩センター】5/23(土)アニバーサリー撮影会のお知らせ",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -926,13 +929,158 @@
         "festival"
       ],
       "area": "other",
-      "desc": "徳川時代、江戸城内に神輿が入御し、三代将軍徳川家光以来、歴代将軍が上覧拝礼した“天下祭り”として受け継がれてきた伝統行事。山王祭は日本三大祭の一つに数えられる。期間中は、厳かに執り行われる「例祭奉幣」や、子どもの健やかな成長を願う「稚児行列",
+      "desc": "東京都多摩市で活動している【MayDecor】です。\n\n記念日の撮影会『アニバーサリー撮影会』のお知らせです♬\n\n子供部屋でのバースデーパーティーをコンセプトにしたフォトブース。\n子供部屋ならではのカラフルでやさしい色使いと、バルーンやガー",
       "id": 47
     },
     {
-      "title": "昔あそび体験",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "【昭島】6/14(日)０歳からの親子コンサート",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "アキシマエンシス「音楽室」で、楽し親子コンサート♪\nオペラの名曲や、さんぽ、童謡、ディズニー、おかあさんといっしょのあの曲まで！\n\n【Program】\n♪さんぽ　\n♪私が街を歩けば\n♪ディズニーソング\n♪ぼよよん行進曲　　　　　ほか\n\n..",
+      "id": 48
+    },
+    {
+      "title": "【二子玉川】入場無料GW親子で楽しむワークショップ&amp;カ...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "ゴールデンウィーク何しよう？\n毎日外遊びはキツイかも😭\n\nそんなママに朗報ですっ！\n\n涼しい屋内で子供たちはワークショップに熱中してもらいながら\nママはほっと一息☕️\n\nそんなゴールデンウィークイベントのお知らせです✨\n\nコンテンツは...",
+      "id": 49
+    },
+    {
+      "title": "【お子さま連れ限定】恐竜のジオラマをつくろう @成増",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "好きな恐竜を選んで、自分だけのジオラマを作っちゃおう！\n※完成品はお持ち帰りいただけます。\n※お子様連れのご家族に限ります。",
+      "id": 50
+    },
+    {
+      "title": "あさがやPICNIC 2026",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【あさがやPICINIC2026は5/23,24開催!】\n\n阿佐ヶ谷のまちを1日ピクニックするように、ぶらぶら歩いてあそぶイベント「あさがや\nPICNIC」。駅前広場のメリーゴーランドをはじめ、ワークショップや体験コーナーなどを\n通じて、「",
+      "id": 51
+    },
+    {
+      "title": "ハンドメイドのワークショップ　聖蹟桜ヶ丘",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop",
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ハンドメイドのワークショップで世界に一つを作りませんか。お子様から大人の方までお楽しみいただけます。",
+      "id": 52
+    },
+    {
+      "title": "くらしのまにまに　ーたたみの上の12ヶ月ー　5月 読む...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "くらしのまにまに ーたたみの上の12ヶ月ー\nかつて、日本人の暮らしの中心にはいつも「畳」がありました。畳の上で、季節の風を読み、旬を味わい、神様を迎え、家族と語らう。私たちは、そうして自然の流れに身をまかせて日々を営む、しなやかで豊かな知恵",
+      "id": 53
+    },
+    {
+      "title": "親子で昔遊び",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "コマ、ベーゴマ、けん玉など昔の遊びを体験できます。遊び方を教えてくれる人もいるので、知らない遊びにもチャレンジしてみましょう。遊び道具は、その時によって異なります。時間内に自由にご参加いただけます。",
+      "id": 54
+    },
+    {
+      "title": "天空ガーデンの植え替え",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "3階にある天空ガーデンに、夏から秋にかけての花の苗を植えます。\n軍手やシャベルなどの道具は全てご用意しますので、手ぶらでご参加いただけます。\n5・６・９・１０月の第２木曜日と、7月の第１木曜日の10：00からお手入れをしています。こちらもど",
+      "id": 55
+    },
+    {
+      "title": "主役はママ！親子でファストメイク体験",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -944,159 +1092,13 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "さわやかな風がふきぬけるかやぶき屋根の古民家とお庭で、のんびりかつ伸び伸びと自分時間・家族時間を楽しもう。新聞紙カブトのデコレーション工作・こどもの日クイズ（難易度は複数！ 先着で押し花しおりプレゼント）。輪投げ・ヨーヨー・百人一首かるた・",
-      "id": 48
-    },
-    {
-      "title": "1時間の小さな演奏会 楽しい弦楽器の世界",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "preschool",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "0歳から6歳のお子様が気軽に楽しめる弦楽四重奏コンサート。\n入退場自由、親子で楽しむことができる。\n授乳スペース、オムツ替えコーナーもあり。\n人気のアニメソングやクラシック曲が演奏されます。\n全席自由席または指定席で、参加チケットはteke",
-      "id": 49
-    },
-    {
-      "title": "善福寺プレーパーク",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子ども自身から生まれる自由なアイデアや好奇心を応援する遊び場を開催します。\nロープ遊具、ターザン、ハンモック、お絵かき、ペーゴマ、木工作、鬼ごっこ、楽器遊び、ボール遊び、焚き火（冬）などがあります。\n雨天時の開催有無も発信されます。",
-      "id": 50
-    },
-    {
-      "title": "善福寺の家 マルシェ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "癒し、楽しみ、体感する地域応援マルシェを開催！\n雑貨、お菓子、珈琲、マッサージ、音楽演奏などが楽しめます。\n毎月第3日曜日の10:00〜16:00に開催（4月と8月は休み）。",
-      "id": 51
-    },
-    {
-      "title": "ひまわりプロジェクト　種まきの巻",
-      "date": "2026-04-27",
-      "endDate": "2026-05-06",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "参加者と一緒に、館のまわりでひまわりを育てるイベントです。今回は、種まきの回です。\n家族で種をまいて、自分のお名前を書いておきましょう。夏に大きな花が咲いたらまた見に来てね。\nまた、4月25日（土）～5月6日（水休）には、ひまわりの種を配布",
-      "id": 52
-    },
-    {
-      "title": "紙芝居一座がやって来る！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "大田区内で活動している読み聞かせ活動団体「ぐーちょきぱー」のみなさんが、楽しい紙芝居を携えてきてくれます。\n楽しい内容やこころ温まる内容など、参加者に合わせてさまざまな紙芝居を読みます。\nお子様連れは、靴を脱ぎ、絨毯の上でしゃがんで聞くこと",
-      "id": 53
-    },
-    {
-      "title": "企画展「船模型が語る大田区の海苔養殖」",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "大田区の海苔養殖が終わった後、海苔のまちの記憶を後世に伝えたいという想いから、船大工や手先の器用な人々が精巧な船模型を製作し、元海苔生産者宅や公共施設などで保管されてきました。\nこの企画展では、大田区が収集・保管してきた船模型8艘と船が写っ",
-      "id": 54
-    },
-    {
-      "title": "初心者OK♪うさぎ・猫のぬいぐるみ作り",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "裁縫が苦手でも大丈夫◎\nはじめてでも“ちゃんと可愛い”ぬいぐるみが作れます\n\n🧵講座内容\nこの講座では、うさぎか猫どちらかひとつのぬいぐるみを作ります🐰🐱\n\nコットンなど扱いやすい布を使い、手縫いで仕上げていきます。\n線に沿ってぐるっと一周",
-      "id": 55
-    },
-    {
-      "title": "＜味覚のレッスン＞バターの選択❌どのバターのフィナンシ...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "毎回、一つの素材にフォーカスします。\n\n素材そのものを食べ比べ、\nお菓子や料理に生かした時、\nどう風味が異なるのか、\n\n五感で体験する、\nちょっとマニアックな講座です。\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\n＜今回のテーマはバター＞\n\n...",
+      "desc": "年に一度の母の日💐\n親子でメイクアップして素敵な1日を過ごしませんか？\nプロのメイクアップアーティストが10分程度でママとお子さまをかわいく変身させます❤\n気になるところはコツをお伝えしながら臨機応変にお直しします。\nキレイになったママを主",
       "id": 56
     },
     {
       "title": "文字サイズ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -1131,8 +1133,8 @@
     },
     {
       "title": "東京の3歳向け体験スポット15選【2026年版】｜発達段階で選ぶジャンル別完全ガイド",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/3years-taiken-tokyo/",
       "source": "kids",
@@ -1311,8 +1313,8 @@
     },
     {
       "title": "TORANOMON HILLS PLAY PARK vol.3（虎ノ門ヒルズ プレイパーク vol.3）＆「SWEETS & FLOWER」（スイーツ＆フラワー）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260503toranomonhillsplaypark/",
       "source": "kids",
@@ -1329,8 +1331,8 @@
     },
     {
       "title": "2026年 親子で楽しむゴールデンウィーク “おすすめ映画”！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026gw_movie/",
       "source": "kids",
@@ -1383,8 +1385,8 @@
     },
     {
       "title": "手塚治虫特集！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/20260408_tezukaosamu_special/",
       "source": "kids",
@@ -1437,8 +1439,8 @@
     },
     {
       "title": "『キッズイベント』ライター・編集者 募集！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026_spring_staff_recruitment/",
       "source": "kids",
@@ -1599,8 +1601,8 @@
     },
     {
       "title": "東京の子ども無料遊び場15選【2026年版】｜完全無料から子ども無料まで年齢別に完全ガイド",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/free-kids-tokyo/",
       "source": "kids",
@@ -1617,8 +1619,8 @@
     },
     {
       "title": "東京の雨の日｜子連れ室内おでかけ15選【2026年版】年齢別・無料スポット完全ガイド",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/rainy-day-kids-tokyo/",
       "source": "kids",
@@ -1635,8 +1637,8 @@
     },
     {
       "title": "東京のGW子連れおでかけ15選【2026年版】｜5/4・5/5無料施設＆穴場スポット年齢別ガイド",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/gw-kids-tokyo/",
       "source": "kids",
@@ -1652,11 +1654,11 @@
       "id": 87
     },
     {
-      "title": "3人のバッハが紡いだ新しい風",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603091777424.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1672,11 +1674,11 @@
       "id": 88
     },
     {
-      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "3人のバッハが紡いだ新しい風",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202603091777424.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1692,11 +1694,11 @@
       "id": 89
     },
     {
-      "title": "NTT東日本東京吹奏楽団 第59回定期演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "ASK歌劇団 第4回オペラ公演",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603177759545.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202603101854690.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1712,11 +1714,11 @@
       "id": 90
     },
     {
-      "title": "ASK歌劇団 第4回オペラ公演",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "ル スコアール管弦楽団 第59回演奏会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603101854690.html",
+      "url": "https://www.concertsquare.jp/blog/2026/20260415548022.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1732,11 +1734,11 @@
       "id": 91
     },
     {
-      "title": "ル スコアール管弦楽団 第59回演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/20260415548022.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1752,11 +1754,11 @@
       "id": 92
     },
     {
-      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "NTT東日本東京吹奏楽団 第59回定期演奏会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202603177759545.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1772,11 +1774,11 @@
       "id": 93
     },
     {
-      "title": "アンサンブルフラン　第49回定期演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "池袋アニメフィル演奏会《交響剣譚-Fantasia of Blades-》",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604145486900.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604153110116.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1793,8 +1795,8 @@
     },
     {
       "title": "オーケストラ・ルゼル第33回演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202604136430653.html",
       "source": "concert",
@@ -1812,11 +1814,11 @@
       "id": 95
     },
     {
-      "title": "池袋アニメフィル演奏会《交響剣譚-Fantasia of Blades-》",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "アンサンブルフラン　第49回定期演奏会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604153110116.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604145486900.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1833,8 +1835,8 @@
     },
     {
       "title": "吹田市吹奏楽団 第80回 定期演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/20260309811587.html",
       "source": "concert",
@@ -1852,11 +1854,11 @@
       "id": 97
     },
     {
-      "title": "ランチタイムコンサート〜笛とピアノ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "title": "【丸太やフレンドリーコンサート2026春】6日目",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604166005088.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202602163016976.html",
       "source": "concert",
       "cost": "free",
       "ages": [

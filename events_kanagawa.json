@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-27T02:25:51.038849",
+  "updated": "2026-04-28T02:32:42.759021",
   "region": "kanagawa",
-  "count": 48,
+  "count": 47,
   "events": [
     {
       "title": "パンどろぼうひろば",
@@ -341,11 +341,11 @@
       "id": 16
     },
     {
-      "title": "2026-27 BABYMONSTER WORLD TOUR IN JAPAN",
-      "date": "2026-08-01",
-      "endDate": "2026-08-02",
+      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
+      "date": "2027-03-19",
+      "endDate": "2026-09-26",
       "place": "神奈川県",
-      "url": "https://www.babymonster.jp/babymonster-yokohama-2026/",
+      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
       "source": "yokohama",
       "cost": "paid",
       "ages": [
@@ -362,30 +362,513 @@
       "id": 17
     },
     {
-      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
-      "date": "2027-09-26",
-      "endDate": "2027-09-26",
+      "title": "演奏会形式オペラコンサート「ランメルモールのルチア」",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "瀬谷区民文化センターあじさいプラザによる2026年5月のマンスリーイベントインフォメーション。写真は瀬谷区瀬谷町で撮影されたもの。\n心を彩るひととき、アートと文化をあじさいプラザと共に体験できます。",
+      "id": 18
+    },
+    {
+      "title": "あじさいプラザマンスリーイベント",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 18
+      "desc": "瀬谷区民文化センターあじさいプラザのマンスリーイベント案内です。心を彩るアートと文化のひとときを提供します。\n7～８日はピアノを弾こう！atあじさいプラザ、15日はみきあんどりさPresents”おんがくとあそぼう♪”Vol.14を開催。",
+      "id": 19
+    },
+    {
+      "title": "横浜開港祭花火観覧クルーズ",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "毎年恒例の「横浜開港祭」最終日に打ち上がる花火を、船上の特等席から楽しめる乗合クルーズ企画である。クラス最大級の広さを誇る「フロンティアルーツ」2階スカイデッキから、遮るもののないダイナミックな花火を満喫できるのも人気の一つである。混雑を避",
+      "id": 20
+    },
+    {
+      "title": "SAI SAI SAI",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "SAISAISAIは、いま注目を集める12名のイラストレーターの作品が一堂に会する版画複合展である。 タイトルには 「彩（色彩）」 「才（才能）」 「祭（祝祭）」という意味が重ねられており、多様な表現が集い、アートを楽しむ場としての広がりを",
+      "id": 21
+    },
+    {
+      "title": "なかやまきんに君 来たる！ えのすい筋肉祭",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "水族館で筋肉のイベント？！とミスマッチなようで、しっかりと“魚”の筋肉についてのトークセッションを楽しめるイベントが開催される。なかやまきんに君も登場し、筋肉好きは必見！高たんぱく・低カロリーの「筋肉メシ」の販売も。チケットは開館からいつで",
+      "id": 22
+    },
+    {
+      "title": "みんなでラジオ体操＆子ども向けうたごえ広場（ビオトピア...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "今年もゴールデンウィークは8周年のビオトピアで！みんなで楽しく体を動かすミニイベントを開催。おなじみのラジオ体操で体をリフレッシュした後は、季節に合わせた歌をみんなで1曲歌おう。",
+      "id": 23
+    },
+    {
+      "title": "じゅえき太郎さんと一コマ漫画を描こう！",
+      "date": "2026-06-12",
+      "endDate": "2026-06-12",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "イラストレーターのじゅえき太郎さんと太郎作品を鑑賞してから、一コマ漫画を描いてみよう！ 講師は第19回TARO賞入選作家のじゅえき太郎。対象は小学校3年生以上（子どもへの付き添いは1名まで）。定員は各回16名。申込は電話受付（6月12日(金",
+      "id": 24
+    },
+    {
+      "title": "\\お外で開催/ ホッといといき　ママサロン",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "5/16(土) ホッとひといき　ママサロン\n\nママさん毎日お疲れさまです♡\n\n今回は特別版♡\nお外でピクニックしながらの開催です!\n\nお仕事復帰で平日のママサロンに参加できなくなったママさんも増え\n土日開催のご要望もいただいておりましたの.",
+      "id": 25
+    },
+    {
+      "title": "ホッといといき　ママサロン",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "5/20(水) ホッとひといき　ママサロン\n\nママさん毎日お疲れさまです♡\n子育て中ママ2人がそれぞれの得意ごとをご提供\n+α リラクゼーションをご用意して \nホッとひといきつけるママサロンを開催いたします\n\n【参加費】\n\\ 試用期間価格.",
+      "id": 26
+    },
+    {
+      "title": "みんなの庭×東京ガス横浜ショールームコラボ☆春の収穫体験",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "今年もやります！ みんなの庭と東京ガス横浜ショールームのコラボ企画\nMARK IS みなとみらい\n５F みんなの庭にて皆さんと育てた春野菜や果実を収穫。\n４F 東京ガス横浜ショールームクッキングスタジオで簡単な調理と試食を行います。\n\n野菜",
+      "id": 27
+    },
+    {
+      "title": "5月キドキドたまプラーザテラス店「ボブルス赤ちゃんエク...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "６ヵ月から歩き始める前のお子さんを対象としたからだ遊びイベントです。\nデンマーク生まれの「ボブルス」を使って、赤ちゃんの多様なからだの動きを遊びを通して体験できます。\n\n赤ちゃんの運動機能の発達にとって大切な5つの要素（①腹ばいに寝る・②ハ",
+      "id": 28
+    },
+    {
+      "title": "5月　キドキドたまプラーザテラス店　「１歳のお誕生日会」",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "キドキドの中を探検したり、写真撮影をしたり、お祝いの歌をみんなで歌ったりします。\nご参加の記念にお子様の足型スタンプをお持ち帰り頂けます。",
+      "id": 29
+    },
+    {
+      "title": "5月　キドキドたまプラーザテラス店「はいはいチャレンジ」",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "大人気のベビーイベント「はいはいチャレンジ」は、ハイハイを始めたばかりのお子様からもうすぐ歩き始めそうなお子様まで幅広くご参加いただけます。\nご参加の記念にお子様の足型スタンプをお持ち帰りいただけます。皆様のご参加、心よりお待ちしております",
+      "id": 30
+    },
+    {
+      "title": "エアブラシ応用！一歩先行く表現術5/2（土）コジマ大隊...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「初めてのエアブラシ」講座の技術をベースに、さらに表現の幅を広げる応用編です！カーボン塗装などの特殊なテクニックから、質感の出し方までプロの技を伝授。「普段使っているけど、もっと自由自在に操りたい！」という経験者さんも大歓迎です。\n\n★横浜",
+      "id": 31
+    },
+    {
+      "title": "エアブラシ入門！線と面の基礎講座5/2（土）コジマ大隊...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「エアブラシを始めたい」方はもちろん、「持っているけどうまく塗れない」という方の不安もスッキリ解消！\n基本の準備から、きれいに塗るためのちょっとしたコツまで大隊長が丁寧に教えます。いまさら聞けない悩みもここで解決して、自信を持って塗装デビュ",
+      "id": 32
+    },
+    {
+      "title": "【5月3日(日)・4日（月）・5日（火）開催】こどもの...",
+      "date": "2026-05-05",
+      "endDate": "2026-05-05",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "5月5日は「こどもの日」☆\nキドキドでみんなといっしょに季節の行事をたのしもう！\n内容は、当日のおたのしみに♪",
+      "id": 33
+    },
+    {
+      "title": "【5月1日(金)・2日（土）・6日（水）開催】パラシュ...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "おうちではなかなかできない『パラバルーン』あそび♪\nパパママ・おともだちみんなで輪になって、たのしもう☆",
+      "id": 34
+    },
+    {
+      "title": "【5月7日(木)開催】赤ちゃんイベント♪母の日　カードづくり",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「母の日」のステキなおもいでをキドキドでつくりましょう☆\n内容は、当日のおたのしみです♪\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 35
+    },
+    {
+      "title": "【5月9日(土)・10（日）開催】母の日イベント",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「母の日」のステキなおもいでをキドキドでつくりましょう☆\n内容は、当日のおたのしみです♪\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 36
+    },
+    {
+      "title": "【5月12日火開催】赤ちゃんイベント♪はいはいチャレン...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "大人気のハイハイレースがバージョンアップ☆\nハイハイレースだけでなく、記念の足形など盛りだくさん！\nみんなでたのしいおもいでをつくりましょう♪\n\n※武蔵小杉店は予約不要で参加できます。\n※イベント時間 約１時間の有料イベントでございます。",
+      "id": 37
+    },
+    {
+      "title": "【5月14日(木)開催】赤ちゃんイベント♪パラシュート...",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "おうちではなかなかできないパラシュートあそび！\nカラフルな色を楽しんだり、風を感じたり、おやこでふれあいましょう♪\n\n※赤ちゃんイベントは6ヶ月～1歳半までのお子様が対象です。",
+      "id": 38
+    },
+    {
+      "title": "5/1～5/6無料イベントが盛りだくさん。GWは平塚競...",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
+      "place": "ログステージ",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "5月1日～5月6日　日本選手権競輪GⅠ　平塚競輪場イベント情報\n●5月1日\n・山田あい　トークショー\n①5R発売中12：21頃～\n②9R発売中14：41頃～\n場所：ログステージ\n\n・林祐衣　ダンス＆トークショー\n①6R発売中12：56頃～.",
+      "id": 39
+    },
+    {
+      "title": "【5月16日(土)・17日（日）】キドキド探検隊",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "キドキドではどんなあそびができるの？\nプレイリーダーが探検を通して、キドキドの楽しみ方をお伝えします！\n\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 40
+    },
+    {
+      "title": "【5月19日(火)開催】赤ちゃんイベント♪遊具体験",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "ボーネルンドの遊具をご存知ですか？\n知っている方も知らない方もプレイリーダーが遊び方をレクチャーします★\n\n※赤ちゃんイベントは6ヶ月～1歳半までのお子様対象です。\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 41
+    },
+    {
+      "title": "【5月21日(木)開催】赤ちゃんイベント♪ミニミニ運動会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "雨の日でも、晴れの日でも、キドキドで運動会開催！！\n赤ちゃんのみんな！！\nパパママ・おともだちといっしょにがんばるぞ♪\n※赤ちゃんイベントは6ヶ月～1歳半までのお子様対象です。\n※イベントの内容や時間は変更になる場合がございます。予めご了承",
+      "id": 42
+    },
+    {
+      "title": "【5月23日(土)開催】キドキドお誕生日会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "お誕生月のお子さまをみんなでお祝いします♪\n参加してくれたお子さま全員に、手形のプレゼントがありますよ☆\nみなさまのご参加、お待ちしております！",
+      "id": 43
+    },
+    {
+      "title": "【5月26日㈫開催】赤ちゃんイベント♪1歳のお誕生日会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "初めてむかえるお誕生日をキドキドでお祝いしましょう♪\n\nお子様の成長の記念に手形や足形をとってプレゼント☆\n遊具の体験や、お手持ちのカメラやスマートフォンで動画撮影も行います！\nステキなおもいでをいっしょにつくりましょう♪\n\n※イベント時間",
+      "id": 44
+    },
+    {
+      "title": "【5月24日(日)・30日（土）開催】キドキド運動会",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "晴れの日でも、雨の日でも、キドキドで「運動会」開催！！\nお母さん・お父さん・保護者の方も、いっしょに楽しみましょう♪\n内容は、当日のおたのしみに☆",
+      "id": 45
     },
     {
       "title": "「和菓子のほのか」５月の体験教室　菖蒲・あやめ（６個）...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -398,12 +881,12 @@
       ],
       "area": "other",
       "desc": "【5月の和菓子について】\n５月は葛仕立ての練り切り餡を使い、あやめの花をお作りいただきます。\n同じモチーフを６個お作り頂くことによって、ご自宅でも再現できるように、成型のコツをつかんで頂きたいと思います。\n\n【体験教室について】\n定員4名（",
-      "id": 19
+      "id": 46
     },
     {
       "title": "ウルトラヒーローズミッション @相模原・古淵",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
+      "date": "2026-04-28",
+      "endDate": "2026-04-28",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -416,516 +899,7 @@
       ],
       "area": "other",
       "desc": "会場内に隠されたウルトラヒーロー＆怪獣の人形を捜し出そう！\n参加者にはもれなくプレゼントがあります。",
-      "id": 20
-    },
-    {
-      "title": "ママハピEXPO＠イオンモール大和",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "好評！ リピート開催！「子育てに情報を、弧育てにサポートを」ママハピEXPOは子育てをしているファミリーを対象とする情報イベント。赤ちゃんと一緒に楽しめる撮影ブースやワークショップなど『Littleマルシェ』も同時開催。当日スタンプラリー参",
-      "id": 21
-    },
-    {
-      "title": "ビオトピアマルシェ　ＧＷフェア",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "今年もゴールデンウィークは8周年のビオトピアで！ 8周年を記念したイベントや母の日ギフト特集、クイズラリー、鯉のぼり工作コーナーなど大人も子どもも楽しめるイベントが盛りだくさん。ビオトピアで採れた食材を使用したレストランメニューもお楽しみに",
-      "id": 22
-    },
-    {
-      "title": "理科実験",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "親子で楽しめる理科実験をご覧いただけます。\nテーマは「真空」や「遠心力」などその日のお楽しみ！\n実験の結果を一緒に考えながら、楽しく理科を学ぶことができます。",
-      "id": 23
-    },
-    {
-      "title": "〇✖クイズ～エネルギーについて考えてみよう！～",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2階「陸ゾーン」で〇×クイズに挑戦！\n暮らしに欠かせない電気やエネルギーについて、親子で学ぶことができます。",
-      "id": 24
-    },
-    {
-      "title": "みんなで公園に花を植えよう！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "サカタのタネの公園スタッフと一緒に、花苗を植えてみては。植物のプロとお話ができ、お土産に花苗をひとつ持ち帰れる。汚れてもよい服装で参加を。雨天中止。対象は小学生以上。定員15名、先着順にて受付。要事前申込。電話にて辻堂海浜公園管理事務所へ。",
-      "id": 25
-    },
-    {
-      "title": "DIDIM×鯉のぼり工作コーナー（ビオトピアマルシェＧ...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "今年もゴールデンウィークは8周年のビオトピアで！ 世界にひとつだけ！ 色鉛筆やスタンプ、折り紙を使って自分だけのオリジナル鯉のぼりを作ろう！ 完成させた鯉のぼりは持ち帰りOK。さらにme=byoエクスプラザ内の「DIDIM」（ディディム）に",
-      "id": 26
-    },
-    {
-      "title": "草木をさがそう！たんけんクイズ（ビオトピアマルシェＧＷ...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "今年もゴールデンウィークは8周年のビオトピアで！クイズに参加しながら今咲いている季節の花や、身近な自然について楽しく知れることができる。散歩がてら、初夏の風を感じながら植物博士を目指そう！クリアした人にはうれしい参加賞の用意も！イベントやス",
-      "id": 27
-    },
-    {
-      "title": "たんぽぽフリーマーケット（6月）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶ「たんぽぽフリーマーケット」。こどもの国に掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット",
-      "id": 28
-    },
-    {
-      "title": "たんぽぽフリーマーケット（5月）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶたんぽぽフリーマーケット。掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット",
-      "id": 29
-    },
-    {
-      "title": "たんぽぽフリーマーケット（4月）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子ども服やおもちゃなど、子ども関連の品物が並ぶたんぽぽフリーマーケット。掘り出し物を探しに行こう！ 出店希望の人は主催者へ直接問い合わせを。　主催：たんぽぽフリーマーケット　TEL：090-9376-6098。",
-      "id": 30
-    },
-    {
-      "title": "児童センター工作室　こいのぼりペンダント",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "こどもの国の児童センターで、丸棒に色を塗って、こいのぼり型のペンダントを作る。制作時間は約30分。小学3年以下は大人と一緒に参加。参加事前申込制。定員は各回12組（先着順）。1組単位（5人以下）の申込。1組で最大3個まで作れる。申込方法など",
-      "id": 31
-    },
-    {
-      "title": "こどもの国 春まつり",
-      "date": "2026-05-05",
-      "endDate": "2026-05-05",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "こどもの国の春まつり期間中は、自然スタンプビンゴ、カブトをつくろうなど、子どもたちが楽しめるイベントが盛りだくさん。こどもの日の5月5日（祝）は中学生以下の子どもの入園が無料に！ イベントにより開催日時が異なる。詳細はこどもの国のホームペー",
-      "id": 32
-    },
-    {
-      "title": "横浜開港祭　貸切花火鑑賞クルーズ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "夏の始まりを告げる、みなとみらいの恒例イベント「開港祭」のフィナーレを飾る花火。レーザービームを駆使した音と光の融合「ビームスペクタクルinハーバー」！ 豪華クルーザー「MY3」（15名様～）を貸切って花火鑑賞してみては。海上の特等席でゆっ",
-      "id": 33
-    },
-    {
-      "title": "工場夜景＆花火クルーズ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "工場夜景ジャングルクルーズに花火鑑賞がプラスされた特別バージョン。みなとみらいを眺めながら、工場地帯へ。工場夜景を楽しんだ後は、幻想的な輝きに包まれた横浜港で、「横浜ナイトフラワーズ（旧：スパークリングトワイライト）」の花火を船上から鑑賞。",
-      "id": 34
-    },
-    {
-      "title": "こどもが主役！ こどもまつり",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "こどもを中心に、家族や友達と一緒に楽しめる企画が日替わりで開催される。民具の着用体験、鯉のぼりに見立てたお散歩バッグを作るワークショップ、かぶれる大きな兜（かぶと）づくり、むかしあそびなど盛りだくさんの内容。このほか、兜飾りの展示、古民家カ",
-      "id": 35
-    },
-    {
-      "title": "エコな紙漉きとライト作り",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "日本の伝統的な紙漉き（かみすき）を簡単にアレンジしたワークショップ。園内古民家の障子の張替えで出た古い障子紙を再利用。そこに植物などの飾りを漉き込んで、ハガキサイズ程度のオリジナル和紙を作り、ガラス瓶に貼って温かみのあるライトをつくる。会場",
-      "id": 36
-    },
-    {
-      "title": "かぶれる！大きなかぶと",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "78cm×78cmの大きな紙を折って、少し難しいけれどもかっこいいかぶとを作る。大きな紙を使うため、完成品は実際にかぶることができる大きさ。飾り付けの材料がセットになっているので、家に帰ってからも楽しむことができる。材料一式をセットにした兜",
-      "id": 37
-    },
-    {
-      "title": "こいのぼり　おさんぽバッグ",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "縦型のショルダーバッグを「鯉」に見立て、ウロコの形に切った布を貼って「おさんぽバッグ」をつくる。完成後はバッグを身につけて園内散策を楽しめる。対象はだれでも（小学生以下は保護者の付き添いが必要）。事前申込制で各日各回定員10名。日本民家園ウ",
-      "id": 38
-    },
-    {
-      "title": "初夏の田んぼへGo！トゥクトゥクで行く「田植え体験」",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "裸足になって田んぼの中へ！カエル発見！足が泥んこになって、歩くのもちょっと大変。でも、それが楽しい！！トゥクトゥクに乗車して風を感じながら田んぼへ移動し、昔ながらの手植えでの田植えを体験する。泥のにおいや触感、水の冷たさ・温かさ、苗の柔らか",
-      "id": 39
-    },
-    {
-      "title": "『Love Beyond（Act of Remembr...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "最優秀スコットランド作品賞ほか多数受賞の名作、日本初上演！自身もろう者である演劇アーティスト、ラメシュ・メイヤッパンの最新作を、マシュー・レントンが演出。手話（英国手話）、視覚言語、口話で、繊細かつ豊かに表現されたラブ・ストーリーを楽しもう",
-      "id": 40
-    },
-    {
-      "title": "ママハピEXPO＠ららぽーと横浜",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "好評！ リピート開催！「子育てに情報を、弧育てにサポートを」ママハピEXPOは子育てをしているファミリーを対象とする情報イベント。赤ちゃんと一緒に楽しめる撮影ブースやワークショップなど『Littleマルシェ』も同時開催。当日スタンプラリー参",
-      "id": 41
-    },
-    {
-      "title": "韓国編 キンパを作ろう！",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2015年からスタートしたこどもレストランのイベントです。今年で12年目を迎えています。今回は韓国風のり巻き「キンパ」を作り、食後には韓国にちなんだ音楽を楽しみます。親子で食と音楽の世界旅行に出かけましょう。",
-      "id": 42
-    },
-    {
-      "title": "あの有名なベビースマイルのおひるねアート撮影会 @相模...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "赤ちゃんに背景や小物をつけて撮影する、赤ちゃんと一緒に作るアート写真です。\n※ご持参のカメラで撮影ができます。\n※ご衣装は各自でお持ち込みください。\n\n■時間　①10:30　②11:00　③11:30　④12:00　⑤13:30　⑥14:0",
-      "id": 43
-    },
-    {
-      "title": "ゆらりんころりん",
-      "date": "2027-03-11",
-      "endDate": "2027-03-11",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "toddler",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "0歳～2歳児とその保護者対象の親子向けイベントです。\n親子で動きやすい服装で参加ください。\nふれあい遊び、パラバルーン、読み遊びなどが楽しめます。\n参加費は300円です。\n定員は20組で先着順、3月11日から申し込み開始です。",
-      "id": 44
-    },
-    {
-      "title": "【1回1時間〜】ゼロから始めるギターレッスン【ご自宅で...",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＜ギターを持ってなくてもOK＞\nなんとなーくギターに興味がある、という方から、ギターを買ってみたもののどうしたらいいか分からない\nという方に、日々の練習の仕方や簡単な目標設定等、ギターを使ってやってみたい事を形にするお手伝いをします！\nギタ",
-      "id": 45
-    },
-    {
-      "title": "三田国際科学学園吹奏楽部　第11回定期演奏会",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "三田国際科学学園吹奏楽部による定期演奏会。第1部は吹奏楽のステージ、第2部はアンサンブルのステージ、第3部はポップスステージ。1年間の活動の集大成となる演奏会。入場無料・全自由席、気軽に会場へ。",
-      "id": 46
-    },
-    {
-      "title": "馬車道エキナカフリマ（6月）",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "リニューアルした馬車道駅中の会場。出店数は最大60店舗！ 衣類や小物などが並び、駅利用者や観光客でにぎわう。赤レンガ倉庫やワールドポーターズにも近く、おでかけついでに気軽に立ち寄れるのも魅力。完全屋内のため雨風の心配なし！",
       "id": 47
-    },
-    {
-      "title": "なりきりハイハイレース CAKE PARTY 鎌倉・大船",
-      "date": "2026-04-27",
-      "endDate": "2026-04-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "昨年10月から約100組が体験済み！県外からも参加者が集まる大人気のイベント。ハイハイ期という貴重な期間を形に残そう。ケーキになりきったハイハイレースを含む4つのコンテンツがすべて楽しめる。体験できるコンテンツは、ケーキになりきって！ハイハ",
-      "id": 48
     }
   ]
 }
