@@ -1,92 +1,8 @@
 {
-  "updated": "2026-04-30T02:35:32.387867",
+  "updated": "2026-05-01T02:40:19.895686",
   "region": "chiba",
-  "count": 38,
+  "count": 16,
   "events": [
-    {
-      "title": "BOTANICA MUSEUM",
-      "date": "2026-04-03",
-      "endDate": "2026-04-03",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/botanica-museum-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
-    {
-      "title": "Spring Bakery×Art",
-      "date": "2026-04-11",
-      "endDate": "2026-04-12",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/spring-bakery-art-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 2
-    },
-    {
-      "title": "むにフェス -act19-",
-      "date": "2026-04-12",
-      "endDate": "2026-04-12",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/munifes-act19-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "title": "GO!GO!ボランティア2026 Vol.7 in千葉",
-      "date": "2026-04-18",
-      "endDate": "2026-04-18",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/go-go-volunteer-chiba-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
     {
       "title": "ポケモンベースボールフェスタ2026 ～30年の想いをボールに込めて～",
       "date": "2026-05-15",
@@ -106,7 +22,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 1
     },
     {
       "title": "SBI舞花火",
@@ -127,32 +43,14 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
+      "id": 2
     },
     {
-      "title": "市少年自然の家の催し",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "title": "子どもの日行事に参加しよう！",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "①スポーツクライミング体験会\n3メートルまでのボルダリングや9メートルまで登るトップロープ体験。\n対象に年齢と身長・ウエスト条件あり。\n②草木染めワークショップ〜新緑染め〜\nヨモギなどの野草を摘み染め物作品を製作。\n③キャンプインストラクタ",
-      "id": 7
-    },
-    {
-      "title": "【GW限定】親子で楽しむフットサル！初めてでも安心「お...",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/564994",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -162,15 +60,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "ゴールデンウィーク限定！\n親子で一緒に楽しめるフットサルイベント\n「おやこサル」を開催します⚽️👨‍👩‍👧‍👦\n\nお子さまと一緒にボールを蹴って、\n笑顔あふれる時間を過ごしてみませんか？😊\n\n【おやこサルとは？】\n親子で一緒に参加できる、.",
-      "id": 8
+      "desc": "",
+      "id": 3
     },
     {
-      "title": "流山グリーンフェスティバル2026",
-      "date": "2026-05-04",
-      "endDate": "2026-05-04",
+      "title": "【5/1(金)開催】ベビーイベント★ハイハイチャレンジ",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/566990",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -180,70 +78,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "約3000個の花と野菜の苗でつくる花絵が広場に登場！ 可愛いフォトスポットでさらにイベントを盛り上げる。5月4日（10時～16時）のイベントデイには、花や緑に関わるプログラムが行われ、こだわりの食や雑貨、ワークショップの出店やステージイベン",
-      "id": 9
-    },
-    {
-      "title": "ベビーリトミック教室",
-      "date": "2026-05-02",
-      "endDate": "2026-05-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "1歳から1歳8カ月の乳児と保護者を対象にしたベビーリトミック教室です。\n全2回の開催で、時間は10時から12時までとなっています。\n定員は6組で、申し込みは5月2日（土）から5月20日（水）必着です。\n申込みは往復はがきで、住所を明記して千",
-      "id": 10
-    },
-    {
-      "title": "エレクトーンコンサート〜懐かしの昭和ソング＆ポップス～",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "エレクトーンのコンサートです。懐かしい昭和の歌とポップスを演奏します。小学生以下は上履きを持参してください。小学校4年生以下は保護者の同伴が必要です。",
-      "id": 11
-    },
-    {
-      "title": "南部青少年センターの講座",
-      "date": "2026-06-13",
-      "endDate": "2026-06-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "高校生と一緒に作る電子工作講座と英会話入門の2つの講座があります。電子工作講座は6月13日(土)13:30〜16:00、英会話入門は6月20日(土)と27日(土)13:30〜15:00に開催されます。対象は小学3年生〜中学生および16歳以上",
-      "id": 12
+      "desc": "",
+      "id": 4
     },
     {
       "title": "★GW個サル祭りCP‼🎉個サル日程⚽【ゼット市川】",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/568809",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -253,51 +96,87 @@
         "festival"
       ],
       "area": "other",
-      "desc": "■ゴールデンウィークは、毎日たっぷり個サル開催！\n各カテゴリー(スタンダード・エンジョイなど)を毎日実施するので、自分のレベルや予定に合わせて気軽に参加できます！\n\n【エンジョイ】\n初心者＆女性向け‼️シュート制限のある個サル（腰より低いシ",
-      "id": 13
+      "desc": "",
+      "id": 5
     },
     {
-      "title": "消防音楽隊「けやきコンサート」",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "title": "「選び抜いた4品種と、白。大人が唸るいちご狩り」",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/551209",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "concert"
+        "festival"
       ],
       "area": "other",
-      "desc": "探偵コナンやタッチ主題歌などの演奏と消防に関する広報を行います。\n当日は直接会場へお越しください。\n詳しくは、千葉市消防音楽隊けやきコンサートのHPで検索。",
-      "id": 14
+      "desc": "",
+      "id": 6
     },
     {
-      "title": "昭和の森自然観察会「昭和の森をぐるっと一回り」",
-      "date": "2026-05-07",
-      "endDate": "2026-05-07",
+      "title": "水郷おみがわ桜つつじまつり",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/554081",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "昭和の森自然観察会「昭和の森をぐるっと一回り」開催。雨天中止、先着25名。駐車場は1時間100円、最大400円。予約は5月7日(木)までに電話で昭和の森管理事務所へ。",
-      "id": 15
+      "desc": "",
+      "id": 7
     },
     {
-      "title": "金融教育を通じて子どもたちの未来を創る　おかねのがっこう",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "title": "【船橋】見えない世界をのぞいてみよう！",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/562674",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "【船橋】顕微鏡実習　ミクロの世界をさぐろう！",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/562695",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "GW！ 小学生から遊べるボードゲームコーナー設置",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/564483",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -307,15 +186,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "私達は金融リテラシー醸成を目的として活動しています。\nこれまでに恵庭市、千歳市、札幌市の小学校や中学校で外部授業を開催し、イベントコラボも実施しています。\n小学生から高校生まで、お金の知識を育てるための出張授業も承っています。",
-      "id": 16
+      "desc": "",
+      "id": 10
     },
     {
-      "title": "2026学校キャンプ supported by Col...",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "title": "もちもちパスタの工場見学ツアー／柏の葉スマートシティ見学ツアー",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/566107",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -325,15 +204,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "学校キャンプが2026年に千葉県君津市でリニューアル開催されます。主催は学校キャンプ実行委員会、後援は千葉県教育委員会、協力は千葉県・CAMPiece君津、協賛はColemanです。開催日は4月から11月まで複数回あり、翌日がチェックアウト",
-      "id": 17
+      "desc": "",
+      "id": 11
     },
     {
-      "title": "【5/26】イオン内で快適！ベビーイベント開催！チェキ付き♪",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
+      "title": "わくわくキングダムウィーク",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/567264",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -343,15 +222,33 @@
         "festival"
       ],
       "area": "other",
-      "desc": "イオンモール柏店内で快適に過ごしながら、親子でふれあい時間を楽しめる「ベビー体操・ワークショップ」を開催します👶💞\n今月はお子様の手形足形アートを♪\n\n【詳細】\n時間は10:30～11:15／11:30～12:15の2枠⏰✨\n場所はイオンモ",
-      "id": 18
+      "desc": "",
+      "id": 12
     },
     {
-      "title": "日光さる軍団 伝統芸能 猿まわし",
-      "date": "2026-05-09",
-      "endDate": "2026-05-09",
+      "title": "LOVOTおさんぽ体験 in 三井アウトレットパーク 木更津",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/567378",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "松戸市観光協会主催まち歩き「松戸はじめてさんぽ」第1弾",
+      "date": "2026-05-01",
+      "endDate": "2026-05-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/567677",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -361,317 +258,8 @@
         "festival"
       ],
       "area": "other",
-      "desc": "日本の大道芸団体【日光さる軍団】村崎太郎プロデュース \n太郎次郎一門の 日光さる軍団による伝統芸能 猿まわし が 5月もBIG HOPにやってきます！\n■日程：2026年5月9日(土)、16日(土)\n■時間：11:00～18:00の間（約2",
-      "id": 19
-    },
-    {
-      "title": "親子フェスティバルin千葉ポートパーク",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "toddler",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "無料イベントがたくさん！　受付は各ゲームの30分前から。ゲーム数に限りがあるものもあるため、早めの受付をおすすめ。「ハイハイレース」…ずりばいができる子～2歳まで／「パン食い競争」…無料でパンがGETできちゃう！？／「玉入れ競争」…チーム戦",
-      "id": 20
-    },
-    {
-      "title": "親子で楽しむ室内管弦楽コンサート～0歳からのクラシック～",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "クラシックの名曲や人気アニメーション映画のテーマソングなど大人から子供まで楽しめる約1時間の公演。子供たちが対象の公演なので、赤ちゃんが泣きだしたり、子供たちが騒いでしまっても心置きなく鑑賞できる。もちろん演奏途中でも退室可能。演奏後は、弦",
-      "id": 21
-    },
-    {
-      "title": "親子でまなぶ 成田空港見学ツアー はじめての空港入門（5月）",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "日本の空の玄関口成田空港について親子で学べるガイドツアー。子ども用に作成したワークシートが配られるので楽しみながら勉強ができる。国際線の飛行機に乗る手順や、管制塔、滑走路等、初めて空港を訪れる子どもでも理解できるようなやさしい案内となってい",
-      "id": 22
-    },
-    {
-      "title": "ご当地キャラ成田詣 うなふぁん2026",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「成田詣」とは、江戸から成田山までの参詣を意味し、江戸時代には、成田のお不動さまの名で親しまれる成田山新勝寺へ、多くの庶民が徒歩でお詣りしていた。成田市特別観光大使である「うなりくん」のおともだちや、ゲストアーティストたちが全国から一堂に会",
-      "id": 23
-    },
-    {
-      "title": "2026.5親子サロンあっぷっぷ",
-      "date": "2026-05-07",
-      "endDate": "2026-05-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子サロンあっぷっぷで\n毎月の成長記録を残しませんか？\n\n✶日程\n5月7日㊍\n\n✶場所\n流山市東初石3丁目自治会館⠀\n(千葉県流山市東初石3丁目98-26)⠀\n \n✶時間\n9:30～11:30  \n時間内なら何時に来ていただいても...",
-      "id": 24
-    },
-    {
-      "title": "2026.5流山市おひるねアート撮影会",
-      "date": "2026-05-21",
-      "endDate": "2026-05-21",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "5月流山市定期撮影会のお知らせです🐸\n\n🍺日程 ⁡\n5月21日㈭\n\n🍺場所\n流山市 市野谷自治会館⁡\n（千葉県流山市おおたかの森西２丁目6−１３）⁡\n\n⁡\n🍺時間⁡⁡\n①9:45-10:30 残1\n②10:30-11:30 残2\n...",
-      "id": 25
-    },
-    {
-      "title": "ハイハイレースinおおたかの森",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "開催日:：2026 年 5月 24日(日)\n開催地：スターツおおたかの森\n住所：〒270-0119 千葉県流山市おおたかの森北1-2-1\n\n参加費用：2500円より\n参加内容：ハイハイレース、フォト撮影会\n※人数調整によりお時間の変更をお願",
-      "id": 26
-    },
-    {
-      "title": "世界とつながる！映像劇場　ワークショップ参加者募集！",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "stage"
-      ],
-      "area": "other",
-      "desc": "ネパールの子どもたちと リアルタイムでつながる！\nネパール人とわいわい楽しくコミュニケーションしながら、作品づくり！\n\n思考力の養成や自発性を引き出し、記憶に残る知識や応用力を育てていきます！\nプロフェッショナルのアーティストと共に、イマジ",
-      "id": 27
-    },
-    {
-      "title": "谷津干潟の日フェス",
-      "date": "2026-06-06",
-      "endDate": "2026-06-06",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "谷津干潟自然観察センターでは、6月6日(土)・7日(日)の2日間を入館無料にし、人形劇や紙芝居、工作イベントなどのワークショップ、野外では模擬店も出店し、飲食販売やワークショップなど、干潟で楽しむイベントを行います。\n来場いただいた方には、",
-      "id": 28
-    },
-    {
-      "title": "【GWは千葉ポートパークへ】働く車の登場など遊びが盛り...",
-      "date": "2026-05-02",
-      "endDate": "2026-05-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子フェスティバルin千葉ポートパーク\n2026年5月2・3・4・5・6日\n10：00～16：00（5月3日のみ10：00～17:30）\n〒260-0024\n千葉県千葉市中央区中央港１丁目\n\n無料イベントがたくさん！\n受付は各ゲームの30分",
-      "id": 29
-    },
-    {
-      "title": "カブトムシの幼虫を無料配布",
-      "date": "2026-05-30",
-      "endDate": "2026-05-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "日時　５月３０日土曜日１３時から\n場所　東邦大学医療センター佐倉病院近くの畑\n【先着５家族】\n　雨天決行",
-      "id": 30
-    },
-    {
-      "title": "男女共同参画週間「西村宏堂さん講演会」",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "テーマ=「好きな私」で生きていくには〜ハイヒールを履いたお坊さんと考える新しい社会〜。\nメイクアップアーティストであり、僧侶としても活動する西村宏堂さんの体験をもとにした講演会。\n先着150人。\n1歳6カ月以上の就学前児を対象に託児あり（先",
-      "id": 31
-    },
-    {
-      "title": "仕事のリアルを体感！高校生向け自分発見イベント",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "適職診断などのワークショップを実施。就職を考えている高校生向けの自分発見イベントです。\n詳細は千葉新卒応援ハローワークのホームページをご確認ください。",
-      "id": 32
-    },
-    {
-      "title": "春のバラ展",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "都市緑化植物園で春のバラ展が開催されます。切り花の展示やバラ苗・花苗の販売があります。月曜日（祝・休日の場合は翌日）は休園です。",
-      "id": 33
-    },
-    {
-      "title": "いちかわオープンガーデン2026",
-      "date": "2026-05-02",
-      "endDate": "2026-05-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "いちかわオープンガーデン2026は、個人や団体の庭を公開し交流の場とするイベントです。\n開催日時は2026年5月2日(土)から6日(水・休)、9日(土)、10日(日)の午前10時から午後4時まで。小雨決行です。\n詳細な公開日時は市川市公式W",
-      "id": 34
-    },
-    {
-      "title": "第27回江戸川・水フェスタinいちかわ",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "スーパーボールすくいやペタンク・グラウンドゴルフ・モルックなどのアクティビティ。\nキッチンカー・BBQスペースもあります。\n10人1組のEボートレースやうなぎのつかみどり体験が楽しめます。\n水上バイク・モーターボートの体験乗船も実施。",
-      "id": 35
-    },
-    {
-      "title": "肥前千葉氏と下総千葉氏～新天地を求めた武士たちの系譜～",
-      "date": "2026-04-30",
-      "endDate": "2026-04-30",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "千葉氏は房総でのみ発展していたわけではありません。北は東北から南は九州まで、日本列島の各地に広がり活躍しました。その代表が肥前国（佐賀県）小城を中心に大きな勢力を築いた千葉氏の一族です。本講演では、九州に新天地を求めた千葉氏の系譜をひもとき",
-      "id": 36
+      "desc": "",
+      "id": 14
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -689,7 +277,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 37
+      "id": 15
     },
     {
       "title": "SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA",
@@ -707,7 +295,7 @@
       ],
       "area": "other",
       "desc": "花火と音楽を楽しむ「SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA」が、2026年5月30日（土）いなげ海浜公園で開催！",
-      "id": 38
+      "id": 16
     }
   ]
 }
