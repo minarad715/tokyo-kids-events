@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-14T02:42:14.920864",
+  "updated": "2026-05-15T02:42:41.809287",
   "region": "tokyo",
-  "count": 77,
+  "count": 93,
   "events": [
     {
       "title": "第97回中央メーデー",
@@ -489,210 +489,47 @@
       "id": 23
     },
     {
-      "title": "ワンコイン⭐サンシャイン6０展望台deベビーヨガ体験＆知育リング制作",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "title": "普段できないモデルハウスの撮影を楽しもう！ @成増",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
-      "url": "https://iko-yo.net/events/566388",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "＼モデルハウス自由見学デイで同時開催！／\n今回は、 「普段できないモデルハウス撮影」を楽しめる 体験イベントをご用意\nお気に入りのお部屋を撮って、 “推し部屋”ボードをつくろう♪！\n\nお子さまがぐずってしまったり、途中で飽きてしまっても自分",
       "id": 24
     },
     {
-      "title": "【池袋教室】気軽に本格水墨画",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "title": "町田子ども劇場　2026年度活動のごあんない",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
-      "url": "https://iko-yo.net/events/376742",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "family"
+        "toddler"
       ],
       "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "新宿駅南口徒歩4分、毎日開催マンツーマンバク転教室、（未経験歓迎）",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/379071",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "【おやつ付】こども囲碁体験会【親子参加OK】",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/380543",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 27
-    },
-    {
-      "title": "ベビーマッサージ撮影会　＠稲城市立iプラザ",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/523022",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 28
-    },
-    {
-      "title": "💎スワロフスキーでハンドメイドアクセサリー作り体験 ✨初心者歓迎♪",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/420040",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 29
-    },
-    {
-      "title": "鶴めい七叶亭",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/567728",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "初心者OK♪うさぎ・猫のぬいぐるみ作り",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/567824",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 31
-    },
-    {
-      "title": "【春キャンペーン中】生カカオ豆焙煎から本格チョコレート作り講座",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/520375",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 32
-    },
-    {
-      "title": "あなたの英語が変わる「本当に話せる」スピーキング実践レッスン✨",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/569201",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 33
-    },
-    {
-      "title": "【演劇】新しい趣味を！未経験でも楽しめちゃう演劇ワークショップ！",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events/569211",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
         "stage"
       ],
       "area": "other",
-      "desc": "",
-      "id": 34
+      "desc": "町田子ども劇場は、多様な体験と人とのつながりを通し、大人も子どもも育ちあっていく活動をしています。非営利団体で、発足から47周年となります。1960年代からの歴史ある子どもの劇場活動です。\n\n会費・入会金ともに大人・子ども同額で、3歳以上ひ",
+      "id": 25
     },
     {
-      "title": "北千住🌈ストレス緩和！右脳で描く筆文字♡絵葉書♡己書道場🌈",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "title": "高円寺マシタ BUSKING LIVE",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
-      "url": "https://iko-yo.net/events/570168",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -702,13 +539,445 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "高円寺のカルチャーに合ったストリートライブイベントです。\n毎月第1金曜日に開催され、複数のアーティストが出演します。\n投げ銭制の気軽に楽しめるライブです。",
+      "id": 26
+    },
+    {
+      "title": "高円寺マシタひろば イベントスケジュール",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "高円寺マシタひろばの2026年5月および6月初旬の開催スケジュールです。さまざまな古本市やバスキングライブ、リユース古着市、マーケット、マルシェなど多彩なイベントが開催されます。",
+      "id": 27
+    },
+    {
+      "title": "花の朝市",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "季節の切り花・ミニ鉢植えなど300円から取り揃えています。\n毎月第2・4土曜日の9時から12時まで阿佐谷地域区民センター1階テラスで開催されます。",
+      "id": 28
+    },
+    {
+      "title": "【父の日限定】黄色いバラのチーズケーキを一緒に作りましょう！",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "和気あいあいとした雰囲気で、みんなで数種類のお菓子や料理を作り、できたてを食べるお料理会です。\n毎月、東京都江戸川区でお料理会をしています。\n\n\n「6月は、父の日のプレゼントに、黄色いバラのチーズケーキを作ります！」\n\n父の日に黄色い花を贈",
+      "id": 29
+    },
+    {
+      "title": "ICC アニュアル 2026　遺す／残る／受けとめる",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「ICC アニュアル」は、メディア・アート作品をはじめとする、現代のメディア環境における多様な表現をとりあげる展覧会。今展ではメディアと歴史の関係を多角的にとらえ、歴史と記憶のあり方をあらためて問い直す。出品作家：ウー・チーユー、キム・ヨン",
+      "id": 30
+    },
+    {
+      "title": "「りおのおりがみ」絵本原画展",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "この4月に出た絵本「りおのおりがみ」(あすなろ書房)の出版記念原画展。おばあちゃんの折るおりがみを通して、認知症の悲しさと孤独を描いた絵本。6月18日、14:00～・15:00～には作家の由美村嬉々さんと絵を担当した室井さと子さんとのお話し",
+      "id": 31
+    },
+    {
+      "title": "着物古布でつくる雑貨いろいろワークショップ",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「御朱印帳づくり」「豆々蛇腹本づくり」「着物古布絵づくり」の3種類から選択。あらかじめ用意された簡単キットがあるので、誰でも簡単に本格的な着物古布雑貨づくりを愉しむことができる。時間帯により選べる内容が異なるので、HPで事前に確認を。",
+      "id": 32
+    },
+    {
+      "title": "第77回東京みなと祭",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今年は、東京国際クルーズターミナルをメイン会場として第77回東京みなと祭を開催する。普段見ることができない珍しい船の一般公開、東京港に関連する団体のPRコーナー、さらに、豪華な賞品が当たる抽選会やキッチンカ―など盛りだくさん。詳細については",
+      "id": 33
+    },
+    {
+      "title": "Skylight プラネタリウムで聴く極上のピアノコンサート",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "見上げれば果てしない宇宙、耳を澄ませば心に染み入るピアノの旋律。イタリアのピアニスト、アルベルト・ピッツォが贈る「Skylight」は、プラネタリウムという特別な空間で繰り広げられる、音と光の物語。「光が差し込むその一瞬を求めて。」忙しい日",
+      "id": 34
+    },
+    {
+      "title": "認知症サポーター養成講座（タムスさくらの杜一之江）",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】「認知症サポーター」は、認知症について正しく理解し偏見を持たず、認知症の人や家族を温かく見守る応援者です。受講後に何か活動を求めることはありません。\n自分のためにも、家族や大切な人のためにも、認知症を正しく知って、認知症の人の応援",
       "id": 35
     },
     {
+      "title": "区民カヌー体験教室",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "【概要文】初心者向けのカヌー教室を開催します。\n旧中川は、休日にはカヌーやボートの愛好家で賑わいます！\n自然の中に溶け込みながら、旧中川をゆったりカヌー散歩しませんか？",
+      "id": 36
+    },
+    {
+      "title": "葛西海浜公園　西なぎさビーチクリーン",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "【概要文】子どもたちが裸足で遊べる浜を目指し、砂浜の清掃を行います。\n小学生以上の方は是非お申込みください。",
+      "id": 37
+    },
+    {
+      "title": "介護の担い手研修",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【内容】介護の基本や心得について学びます。全ての講義に参加された方には修了証を交付します。就業に関する事業者との相談会も行います。",
+      "id": 38
+    },
+    {
+      "title": "動物園のうらがわ探検",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "【概要文】飼育員によるガイドツアーです。動物たちの寝小屋や動物病院をのぞいてみませんか。【内容】普段は見ることができない動物たちの寝小屋・調理室・飼料庫などの裏側の施設と、動物病院を見学する飼育係によるガイドツアーです。",
+      "id": 39
+    },
+    {
+      "title": "サイエンステーブルAI使って化学実験",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "【概要文】AIはどうやって考えるの？\nAIの「ディープラーニング」の仕組みを、\n化学実験（電気泳動）にとりいれます。\nすると、目に見えないイオンが分けられるようすが見えてきます。",
+      "id": 40
+    },
+    {
+      "title": "煮干しの解剖",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】乾燥した煮干しを解剖すると、魚の体の中の様子をみることができます。\nようじをつかって丁寧にひらきながらそれらを観察し、\n人の体のつくりについても興味をひろげましょう。",
+      "id": 41
+    },
+    {
+      "title": "ヤゴとにらめっこ",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】空を飛ぶトンボは、幼虫の時には水中で生活しています。\n羽化する前のヤゴの体のつくりや、顔のつくりをじっくりと観察します。\nきっとびっくりすることがいっぱい。\nトンボのこともますます興味もいっぱいになります。",
+      "id": 42
+    },
+    {
+      "title": "紙飛行機であそぼう",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】いろいろなおりがみ飛行機をつくってみよう。\nそして、ハネの形を変えるなど調整し、飛行機の飛び方を変える実験をします。\nまた、ジャイロ飛行機や風船ロケットを作って回転する飛行機で遊んでみよう。",
+      "id": 43
+    },
+    {
+      "title": "野花のお弁当",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "【概要文】身のまわりでみられるたくさんの野草たち。\n草花のことを学びながら、草花できれいなお弁当を作りましょう。\n弁当箱（12cm×10cmくらい）親子でそれぞれ1つずつ\n持ってきてください。",
+      "id": 44
+    },
+    {
+      "title": "水害から命を守るために",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】梅雨や夏は多くの雨がふる季節です。\nもし河川の氾濫が予想される事態になったら、あなたはどうしますか。\n江戸川区防災危機管理課のこの講座に参加して、家族と話し合ってみましょう。",
+      "id": 45
+    },
+    {
+      "title": "ミジンコ3きょうだい",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】ミジンコ、ケンミジンコ、カイミジンコ。\n名前は似てるけれど全然ちがう3きょうだい。\nそれぞれどこがちがってなにが同じなのかな。\nミジンコを知ると動物の世界が見えてくるよ。",
+      "id": 46
+    },
+    {
+      "title": "切る（小学校5年生と6年生）",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】作品は何もできないけれど、\n工作の基本である「切る」ことに慣れましょう。\n（注）小学校5年生と6年生",
+      "id": 47
+    },
+    {
+      "title": "切る（小学校3年生と4年生）",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】作品は何もできないけれど、\n工作の基本である「切る」ことに慣れましょう。\n（注）小学校3年生と4年生",
+      "id": 48
+    },
+    {
+      "title": "トンボの幼虫ヤゴの飼育教室",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "【概要文】身近にいる昆虫、トンボ。その幼虫であるヤゴを飼って、生態を深く学びましょう。\n飼いたい人はPETボトルなど持ち帰り用の容器を2個持ってきてださい。",
+      "id": 49
+    },
+    {
+      "title": "【煌めきマルシェ】宝石職人夢工房開催",
+      "date": "2026-06-28",
+      "endDate": "2026-06-28",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "宝石（天然石）を専用のやすりでぴかぴかに磨く体験が煌めきマルシェにやってくる！！\n初めての方でも夢中で愉しめる宝石磨き体験を、来る6月28日（日）東京たま未来メッセ煌めきマルシェにて開催いたします。\n\nフローライトという天然石を専用のやすり",
+      "id": 50
+    },
+    {
       "title": "文字サイズ",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -721,12 +990,48 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 36
+      "id": 51
+    },
+    {
+      "title": "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』完成披露試写会ご招待！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "東京都",
+      "url": "https://www.kids-event.jp/present/keroro_movie/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』が2026年6月26日（金）全国公開！それを記念して完成披露試写会にご招待！ 舞台挨拶のある特別な試写会です！",
+      "id": 52
+    },
+    {
+      "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "東京都",
+      "url": "https://www.kids-event.jp/movie/keroro/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "大人気漫画『ケロロ軍曹』のアニメ放送20周年記念プロジェクトの一環として2010年以来16年ぶりの新作『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』が2026年6月26日（金）全国公開！",
+      "id": 53
     },
     {
       "title": "【東京・2歳】おでかけおすすめ15選｜発達別×シーン別で選ぶ完全ガイド【2026年版】",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/2years-outing-tokyo/",
       "source": "kids",
@@ -741,7 +1046,7 @@
       ],
       "area": "other",
       "desc": "2歳を連れて東京のどこに出かけるか、金曜の夜に検索タブを何個も開いてはため息、という親はきっと多いはずです。 1歳のころより体力もイヤイヤもひと回り増えて、かといって5歳向けのテーマパークはまだ早い。ちょうどその狭間で、 […]",
-      "id": 37
+      "id": 54
     },
     {
       "title": "【取材レポート】ディノサファリ 2026（DINO SAFARI 2026）開幕！ AI時代だからこそ、子どもたちの脳に一生刻まれる “本物の衝撃” を。初登場のフクイサウルスに親子で熱狂！",
@@ -759,12 +1064,12 @@
       ],
       "area": "other",
       "desc": "体験型「恐竜」ライブエンターテインメント「ディノサファリ 2026（DINO SAFARI 2026）」が2026年4月24日（金）～5月6日（水・振休）のゴールデンウィークに渋谷ヒカリエで開催！ 初日24日（金）に行われたディノサファリ ",
-      "id": 38
+      "id": 55
     },
     {
       "title": "東京の3歳向け体験スポット15選【2026年版】｜発達段階で選ぶジャンル別完全ガイド",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/3years-taiken-tokyo/",
       "source": "kids",
@@ -777,7 +1082,7 @@
       ],
       "area": "other",
       "desc": "3歳は、言葉も体も一気に成長し、「自分でやりたい」気持ちが強くなる時期です。一方で集中力は15〜30分ほどで切れやすく、身長100cm前後の壁に遊具の対象年齢で引っかかることもあります。おでかけサイトの「3歳から」という […]",
-      "id": 39
+      "id": 56
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -795,7 +1100,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 40
+      "id": 57
     },
     {
       "title": "『ザ・スーパーマリオギャラクシー・ムービー』特製ノート プレゼント！",
@@ -813,7 +1118,7 @@
       ],
       "area": "other",
       "desc": "待望の続編『ザ・スーパーマリオギャラクシー・ムービー』が2026年4月24日（金）より全国公開！ 映画の公開を記念して『ザ・スーパーマリオギャラクシー・ムービー』特製ノートをプレゼント！",
-      "id": 41
+      "id": 58
     },
     {
       "title": "映画『トムとジェリー時をこえる魔法の羅針盤』オリジナル巾着プレゼント！",
@@ -831,7 +1136,7 @@
       ],
       "area": "other",
       "desc": "世代を超えて世界中で愛される “トムとジェリー” 最新映画『トムとジェリー時をこえる魔法の羅針盤』が2026年5月29日（金）全国公開！それを記念して映画『トムとジェリー』のオリジナル巾着をプレゼント！",
-      "id": 42
+      "id": 59
     },
     {
       "title": "MANGALOGUE（マンガローグ）：火の鳥",
@@ -849,7 +1154,7 @@
       ],
       "area": "other",
       "desc": "2026年3月28日（土）に誕生した「モン タカナワ：ザ ミュージアム オブ ナラティブズ」では、こけら落とし公演「MANGALOGUE（マンガローグ）：火の鳥」を2026年4月22日（水）～5月16日（土）に開催！",
-      "id": 43
+      "id": 60
     },
     {
       "title": "ぐるぐる展—進化しつづける人類の物語",
@@ -867,7 +1172,7 @@
       ],
       "area": "other",
       "desc": "2026年3月28日（土）に誕生した「モン タカナワ：ザ ミュージアム オブ ナラティブズ」では、開館を記念した特別展「ぐるぐる展—進化しつづける人類の物語」を2026年3月28日（土）～9月23日（水・祝）に開催！",
-      "id": 44
+      "id": 61
     },
     {
       "title": "高輪ワールドフェスティバル2026（TAKANAWA WORLD FESTIVAL 2026）",
@@ -885,7 +1190,7 @@
       ],
       "area": "other",
       "desc": "2026年3月28日（土）にグランドオープンを迎えた「高輪ゲートウェイシティ」ではゴールデンウィークに多彩なイベントを開催！「高輪ワールドフェスティバル2026」は2026年5月5日（火・祝）～6日（水・休）に開催！",
-      "id": 45
+      "id": 62
     },
     {
       "title": "高輪ゲートウェイシティ キッチンカーフェス",
@@ -903,7 +1208,7 @@
       ],
       "area": "other",
       "desc": "2026年3月28日（土）にグランドオープンを迎えた「高輪ゲートウェイシティ」ではゴールデンウィークに多彩なイベントを開催！「高輪ゲートウェイシティ キッチンカーフェス」は2026年5月2日（土）～3日（日）に開催！",
-      "id": 46
+      "id": 63
     },
     {
       "title": "お台場ファンライジング～楽しくアガる！真夏のエンタメ最前線～",
@@ -921,7 +1226,7 @@
       ],
       "area": "other",
       "desc": "多彩な番組、キャラクターが集結し、ここでしか味わえない楽しさを届けるリアルイベント「お台場ファンライジング」が2026年7月25日（土）〜8月23日（日）にフジテレビ本社屋で開催！",
-      "id": 47
+      "id": 64
     },
     {
       "title": "めざましWANGANフェス～人気バラエティと夏の最強コラボ～",
@@ -939,12 +1244,12 @@
       ],
       "area": "other",
       "desc": "話題のアーティスト、アイドル、芸人、俳優、インフルエンサーが大集合するイベント「めざましWANGANフェス～人気バラエティと夏の最強コラボ～」が、2026年8月3日（月）～9日（日）と8月13日（木）・14日（金）の9日間にわたり豊洲PIT",
-      "id": 48
+      "id": 65
     },
     {
       "title": "TORANOMON HILLS PLAY PARK vol.3（虎ノ門ヒルズ プレイパーク vol.3）＆「SWEETS & FLOWER」（スイーツ＆フラワー）",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260503toranomonhillsplaypark/",
       "source": "kids",
@@ -957,12 +1262,12 @@
       ],
       "area": "other",
       "desc": "ゴールデンウィークに虎ノ門ヒルズでワークショップや春のスイーツを楽しめる「TORANOMON HILLS PLAY PARK vol.3」（虎ノ門ヒルズ プレイパーク vol.3）＆「SWEETS & FLOWER」（スイーツ＆フラワー）が",
-      "id": 49
+      "id": 66
     },
     {
       "title": "2026年 親子で楽しむゴールデンウィーク “おすすめ映画”！",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026gw_movie/",
       "source": "kids",
@@ -975,7 +1280,7 @@
       ],
       "area": "other",
       "desc": "子どもと一緒に楽しめる2026年ゴールデンウィークおすすめ映画！いよいよ待望の『ザ・スーパーマリオギャラクシー・ムービー』や『映画 ラブライブ！』、そして仮面ライダー生誕55周年記念作『アギトー超能力戦争ー』が公開！ 大人気公開中の『映画ド",
-      "id": 50
+      "id": 67
     },
     {
       "title": "【取材レポート】キティとアンパンマンの意外な絆？「サンリオ展 FINAL」で語られた、世界を救う「カワイイ」の哲学",
@@ -993,7 +1298,7 @@
       ],
       "area": "other",
       "desc": "「サンリオ展 FINAL ver. ニッポンのカワイイ文化60年史」が2026年4月9日（木）～6月21日（日）に森アーツセンターギャラリーで開催！ サンリオの60年を超える歴史を辿るとともに、「カワイイ」文化の根底にあるサンリオの想いを貴",
-      "id": 51
+      "id": 68
     },
     {
       "title": "【取材レポート】M!LK 曽野舜太さん＆吉田仁人さんがサンリオキャラと「爆裂愛してる」を夢のダンスコラボ！ 推しとの対面に「かわいすぎて滅！」連発！「2026年サンリオキャラクター大賞」開幕イベント",
@@ -1011,12 +1316,12 @@
       ],
       "area": "other",
       "desc": "「2026年サンリオキャラクター大賞」開幕イベントが4月9日（木）東京・恵比寿で開催！ スペシャルゲストとして「M!LK」からクロミ “推し” の曽野舜太さんとシナモロール “推し” の吉田仁人さんが登場し「爆裂愛してる」を夢のダンスコラボ",
-      "id": 52
+      "id": 69
     },
     {
       "title": "手塚治虫特集！",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/20260408_tezukaosamu_special/",
       "source": "kids",
@@ -1029,7 +1334,7 @@
       ],
       "area": "other",
       "desc": "『火の鳥』『ブラック・ジャック』『どろろ』『鉄腕アトム』『三つ目がとおる』など、ぜひ子どもたちにも手塚治虫作品に触れてほしいと思い、今まで取材した手塚治虫先生に関するコンテンツをまとめてみました！",
-      "id": 53
+      "id": 70
     },
     {
       "title": "スマートシティフェスタ2026",
@@ -1047,7 +1352,7 @@
       ],
       "area": "other",
       "desc": "AR・VRをはじめとする最新のデジタル技術を活用した先端サービスを体験できるイベント「スマートシティフェスタ2026」が、2026年4月24日（金）〜26日（日）に東京・西新宿エリアで開催！参加無料！",
-      "id": 54
+      "id": 71
     },
     {
       "title": "【取材レポート】新内眞衣さんが実演！『マンガローグ：火の鳥』の新感覚没入型マンガ体験！ AIユーミン発表、制作秘話を語るトークショーも！",
@@ -1065,12 +1370,12 @@
       ],
       "area": "other",
       "desc": "「モン タカナワ」こけら落とし公演となる新感覚没入型マンガ体験『マンガローグ：火の鳥』を元乃木坂46 新内眞衣さんが実演！2026年4月22日（水）から上演！AIユーミン発表、制作秘話を語るトークショーも！",
-      "id": 55
+      "id": 72
     },
     {
       "title": "『キッズイベント』ライター・編集者 募集！",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026_spring_staff_recruitment/",
       "source": "kids",
@@ -1083,7 +1388,7 @@
       ],
       "area": "other",
       "desc": "『キッズイベント』のライター・編集者を募集。『キッズイベント』の記事制作にご協力いただけるライター、編集者を募集しています。ご興味のある方は、ぜひお力添えください。",
-      "id": 56
+      "id": 73
     },
     {
       "title": "映画名探偵プリキュア！",
@@ -1101,7 +1406,7 @@
       ],
       "area": "other",
       "desc": "プリキュアシリーズ最新作「名探偵プリキュア！」が映画化！「映画名探偵プリキュア！」が2026年9月18日（金）全国ロードショー！",
-      "id": 57
+      "id": 74
     },
     {
       "title": "【仮面ライダー55周年発表会レポ】夏映画ゼッツの奇跡の共闘から、次作『仮面ライダーマイス』初解禁＆アギト・カブト復活、3つの新映画レーベル始動！",
@@ -1119,7 +1424,7 @@
       ],
       "area": "other",
       "desc": "2026年4月3日（金）で生誕55周年を迎える「仮面ライダーシリーズ」、今後に向けた展開についての「仮面ライダー生誕55周年発表会」が開催！仮面ライダーゼッツの夏映画やアギト・カブトの映画、そして次作『仮面ライダーマイス』も発表！",
-      "id": 58
+      "id": 75
     },
     {
       "title": "仮面ライダーゼッツ＆超宇宙刑事ギャバン インフィニティ　Wヒーロー夏映画2026",
@@ -1137,7 +1442,7 @@
       ],
       "area": "other",
       "desc": "『仮面ライダーゼッツ＆超宇宙刑事ギャバン インフィニティ　Wヒーロー夏映画2026』が、2026年7月24日（金）豪華2本立てで全国公開！",
-      "id": 59
+      "id": 76
     },
     {
       "title": "パウ・パトロール ザ・ダイノ・ムービー",
@@ -1155,7 +1460,7 @@
       ],
       "area": "other",
       "desc": "“パウパト” の愛称で大人気のアニメシリーズ「パウ・パトロール」の劇場版第3弾となる最新作『パウ・パトロール ザ・ダイノ・ムービー』が、2026年7月24日（金）に全国公開！",
-      "id": 60
+      "id": 77
     },
     {
       "title": "映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party",
@@ -1173,7 +1478,7 @@
       ],
       "area": "other",
       "desc": "ラブライブ！シリーズより「蓮ノ空」が待望の完全新作映画化！『映画 ラブライブ！蓮ノ空女学院スクールアイドルクラブ Bloom Garden Party』が、2026年5月8日（金）に全国公開！",
-      "id": 61
+      "id": 78
     },
     {
       "title": "SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA",
@@ -1191,7 +1496,7 @@
       ],
       "area": "other",
       "desc": "花火と音楽を楽しむ「SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA」が、2026年5月30日（土）いなげ海浜公園で開催！",
-      "id": 62
+      "id": 79
     },
     {
       "title": "東京たま大恐竜博",
@@ -1209,7 +1514,7 @@
       ],
       "area": "other",
       "desc": "大迫力で動き迫る実物大恐竜など、恐竜が生きている世界への没入感を体験することができる「東京たま大恐竜博」が、2026年4月29日（水・祝）〜5月6日（水・祝）東京たま未来メッセで開催！",
-      "id": 63
+      "id": 80
     },
     {
       "title": "謎解き冒険ラリー不思議ハンターin大師公園",
@@ -1227,48 +1532,12 @@
       ],
       "area": "other",
       "desc": "謎解きイベント2026年4月18日（土）〜5月6日（水・祝）に開催！",
-      "id": 64
-    },
-    {
-      "title": "東京の子ども無料遊び場15選【2026年版】｜完全無料から子ども無料まで年齢別に完全ガイド",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/tips/free-kids-tokyo/",
-      "source": "kids",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "土日に子どもを連れてどこかに行くと、入場料だけで家族全員分が数千円かかることがあります。テーマパークや大型水族館は、気軽に何度も行ける値段ではありません。 でも東京には、無料で子どもを遊ばせられる場所が意外なほど多くあり […]",
-      "id": 65
-    },
-    {
-      "title": "東京の雨の日｜子連れ室内おでかけ15選【2026年版】年齢別・無料スポット完全ガイド",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/tips/rainy-day-kids-tokyo/",
-      "source": "kids",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「また雨か……今週末、子どもをどこに連れていけばいいんだろう」 そんなため息をついたことが、一度はあるのではないでしょうか。天気予報を見るたびに頭を抱えて、でも家にこもれば子どもはエネルギーを持て余します。この記事では、 […]",
-      "id": 66
+      "id": 81
     },
     {
       "title": "オーケストラフィルハーモニーリラ創立記念演奏会",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202603167137740.html",
       "source": "concert",
@@ -1283,12 +1552,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 67
+      "id": 82
     },
     {
       "title": "フィルハーモニック・ソサィエティ・東京 10周年記念演奏会II",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202601046801135.html",
       "source": "concert",
@@ -1303,92 +1572,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 68
-    },
-    {
-      "title": "川井郁子 影を抱く女たち",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604274467183.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 69
-    },
-    {
-      "title": "NTT東日本東京吹奏楽団 第59回定期演奏会",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603177759545.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 70
-    },
-    {
-      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 71
-    },
-    {
-      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 72
+      "id": 83
     },
     {
       "title": "ベイジャ・フロー四重奏団 来日公演",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202605064495454.html",
       "source": "concert",
@@ -1403,12 +1592,52 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 73
+      "id": 84
+    },
+    {
+      "title": "NTT東日本東京吹奏楽団 第59回定期演奏会",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202603177759545.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 85
+    },
+    {
+      "title": "川井郁子 影を抱く女たち",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202604274467183.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 86
     },
     {
       "title": "Orchestrada 第27回演奏会",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202603075888767.html",
       "source": "concert",
@@ -1423,14 +1652,14 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 74
+      "id": 87
     },
     {
-      "title": "神奈川チェンバーオーケストラ　サマーコンサート2026",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604301283758.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1443,12 +1672,72 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 75
+      "id": 88
+    },
+    {
+      "title": "第22回みなとみらいアイメイトチャリティーコンサート",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202512059773983.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 89
+    },
+    {
+      "title": "オペラ パリアッチ （道化師）",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202605139150064.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 90
+    },
+    {
+      "title": "東京アカデミーオーケストラ",
+      "date": "2026-05-15",
+      "endDate": "2026-05-15",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202605082630752.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 91
     },
     {
       "title": "アンサンブル　WAN　第15回室内楽演奏会",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "date": "2026-05-16",
+      "endDate": "2026-05-16",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202605019927185.html",
       "source": "concert",
@@ -1463,14 +1752,14 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 76
+      "id": 92
     },
     {
-      "title": "カメラタ・アグアヨ サロンコンサート 2026春",
-      "date": "2026-05-14",
-      "endDate": "2026-05-14",
+      "title": "千葉交響楽団ストリングス 親子で楽しむ室内管弦楽コンサート",
+      "date": "2026-05-16",
+      "endDate": "2026-05-16",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/20260324772119.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604024505418.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1483,7 +1772,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 77
+      "id": 93
     }
   ]
 }
