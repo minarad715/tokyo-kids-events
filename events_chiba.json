@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-18T02:52:32.063443",
+  "updated": "2026-05-19T02:49:10.405248",
   "region": "chiba",
-  "count": 18,
+  "count": 19,
   "events": [
     {
       "title": "初夏の北海道物産展",
@@ -152,11 +152,11 @@
       "id": 7
     },
     {
-      "title": "【鴨川シーワールド】特別レクチャー",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "東庄町いちご狩り",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/565562",
+      "url": "https://iko-yo.net/events/534572",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -170,11 +170,11 @@
       "id": 8
     },
     {
-      "title": "新浦安で味のある字を描いて新たな自分を楽しもう！",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "いちご狩り　マザー牧場",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/557563",
+      "url": "https://iko-yo.net/events/550219",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -188,18 +188,18 @@
       "id": 9
     },
     {
-      "title": "いぐちとものぶ個展「絵と花の世界」",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "おしゃべりと美味しさを楽しむ！ こみなと「恵キハ」お弁当とドリ...",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/569188",
+      "url": "https://iko-yo.net/events/569775",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature"
+        "festival"
       ],
       "area": "other",
       "desc": "",
@@ -207,8 +207,8 @@
     },
     {
       "title": "5月17日(日),22日(金)おひるねアート撮影会",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
       "url": "https://iko-yo.net/events/570834",
       "source": "ikoy",
@@ -224,11 +224,11 @@
       "id": 11
     },
     {
-      "title": "おしゃべりと美味しさを楽しむ！ こみなと「恵キハ」お弁当とドリ...",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "親子で楽しむフットサル【千葉県市川市】【5月16日/30日/31日】",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/569775",
+      "url": "https://iko-yo.net/events/570668",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -242,29 +242,29 @@
       "id": 12
     },
     {
-      "title": "いちご狩り　マザー牧場",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "電子工作ワークショップ【稲毛マイコン部】",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/550219",
+      "url": "https://iko-yo.net/events/560370",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
       "desc": "",
       "id": 13
     },
     {
-      "title": "東庄町いちご狩り",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "初心者歓迎！ 5月親子サバゲー　in　BATTLE",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/534572",
+      "url": "https://iko-yo.net/events/562619",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -278,11 +278,11 @@
       "id": 14
     },
     {
-      "title": "親子で楽しむフットサル【千葉県市川市】【5月16日/30日/31日】",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "【松戸】ひらめきが動きだす！マイアートクロック",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/570668",
+      "url": "https://iko-yo.net/events/556879",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -296,22 +296,41 @@
       "id": 15
     },
     {
-      "title": "電子工作ワークショップ【稲毛マイコン部】",
-      "date": "2026-05-18",
-      "endDate": "2026-05-18",
+      "title": "3月-5月/theGreen Spring Holidays",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/560370",
+      "url": "https://iko-yo.net/events/560877",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
       "desc": "",
       "id": 16
+    },
+    {
+      "title": "フランス発音楽教室 DUMI（デュミ） 流山市で体験会開催中！",
+      "date": "2026-05-19",
+      "endDate": "2026-05-19",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/564659",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert",
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -329,7 +348,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 17
+      "id": 18
     },
     {
       "title": "SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA",
@@ -347,7 +366,7 @@
       ],
       "area": "other",
       "desc": "花火と音楽を楽しむ「SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA」が、2026年5月30日（土）いなげ海浜公園で開催！",
-      "id": 18
+      "id": 19
     }
   ]
 }
