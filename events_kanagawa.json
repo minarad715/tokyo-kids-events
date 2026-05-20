@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-19T02:48:04.373701",
+  "updated": "2026-05-20T02:48:37.703781",
   "region": "kanagawa",
-  "count": 48,
+  "count": 46,
   "events": [
     {
       "title": "Fresh!Fun!HAWAI❛I 2026",
@@ -803,33 +803,34 @@
       "id": 38
     },
     {
-      "title": "【マークイズみなとみらい】5月開催　1歳のお誕生日会",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "よこはま・みんなの音楽体験ひろば〜0歳からシニアまで楽しめるリ...",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/559130",
+      "url": "https://iko-yo.net/events/555515",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "baby"
       ],
       "cats": [
-        "festival"
+        "concert",
+        "workshop"
       ],
       "area": "other",
       "desc": "",
       "id": 39
     },
     {
-      "title": "【テラスモール湘南店】2026年 5月ボブルスで赤ちゃんエクササイズ",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "【マークイズみなとみらい】5月ベビーイベント「大きい布であそぼう」",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/561453",
+      "url": "https://iko-yo.net/events/559140",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "baby"
+        "family"
       ],
       "cats": [
         "festival"
@@ -839,47 +840,47 @@
       "id": 40
     },
     {
-      "title": "【5月19日(火)開催】赤ちゃんイベント♪遊具体験",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "ホッといといき　ママサロン",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/568332",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 41
-    },
-    {
-      "title": "2日間で作る海アート！体験教室！！",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/559982",
+      "url": "https://iko-yo.net/events/568560",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 41
+    },
+    {
+      "title": "親子で楽しむ手形アート（5月）",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/569957",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
       ],
       "area": "other",
       "desc": "",
       "id": 42
     },
     {
-      "title": "【藤沢/水道橋】2個作成【ウエットティッシュケースデコ＆ロゼット】",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "フォフォフォ撮影会",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/528079",
+      "url": "https://iko-yo.net/events/570093",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -893,11 +894,11 @@
       "id": 43
     },
     {
-      "title": "この春から新振付スタート🌸武蔵小杉ベリーダンス【経験者向】",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "磯の生き物探し！親子で楽しむ海の探検＠葉山",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/532197",
+      "url": "https://iko-yo.net/events/565163",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -911,11 +912,11 @@
       "id": 44
     },
     {
-      "title": "新原画展『大長編ドラえもん のび太の海底鬼岩城と冒険のひみつ展』",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "【初心者向け】【少人数制】初めてのミシン教室",
+      "date": "2026-05-20",
+      "endDate": "2026-05-20",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/533966",
+      "url": "https://iko-yo.net/events/421368",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -929,59 +930,22 @@
       "id": 45
     },
     {
-      "title": "５/12・１６・19　横浜市日吉　0歳からの運動で心と体を育む",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
+      "title": "展覧会「マリー・アントワネット・スタイル」で、自分らしく生きる “生き方” を学ぶ",
+      "date": "2026-08-01",
+      "endDate": "2026-08-01",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/564200",
-      "source": "ikoy",
+      "url": "https://www.kids-event.jp/report/20260519_marieantoinettestyle/",
+      "source": "kids",
       "cost": "paid",
       "ages": [
-        "baby"
+        "family"
       ],
       "cats": [
-        "sport"
+        "museum"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "横浜美術館で2026年8月1日（土）から開催される展覧会「マリー・アントワネット・スタイル」の発表会が5月19日（火）に行われ、横浜美術館 館長の蔵屋美香氏、展覧会アンバサダーの中条あやみさんが登壇し展覧会の内容や見どころを紹介！",
       "id": 46
-    },
-    {
-      "title": "横浜北仲マルシェ",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/564297",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 47
-    },
-    {
-      "title": "どろんこ体験！親子で楽しむ田んぼあそび＠葉山｜春の自然体験",
-      "date": "2026-05-19",
-      "endDate": "2026-05-19",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/565161",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 48
     }
   ]
 }
