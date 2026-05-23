@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-22T02:53:53.607563",
+  "updated": "2026-05-23T02:38:18.744540",
   "region": "chiba",
-  "count": 38,
+  "count": 14,
   "events": [
     {
       "title": "初夏の北海道物産展",
@@ -152,11 +152,11 @@
       "id": 7
     },
     {
-      "title": "ホタルに会いに行く！東京ドイツ村 キャンプ",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "スカイランタンin館山城",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/566867",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -166,15 +166,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "ホタルに会いに行く。東京ドイツ村キャンプ。自然の中で過ごす特別な1泊2日キャンプを開催する。内容：キャンプ1泊2日・ホタル観察。「世界のふわもこ動物王国」「世界の昆虫爬虫類王国」「世界のふれあい水族館」利用券プレゼント（6/6(土)のみ利用",
+      "desc": "",
       "id": 8
     },
     {
-      "title": "市川駅前アイリンクタウンフリーマーケット（6月）",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "第２５回京成グループＢＭＫお客様感謝フェスティバル",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/568858",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -184,15 +184,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "再開発によって、とても綺麗に再整備された市川駅南口。そのランドマークとなる「I-link（アイリンク）タウンいちかわ」の低層商業棟の前で開催されるフリーマーケット。駅前広場に隣接するお勧めのロケーション。探していた“あれ”を見つけられるチャ",
+      "desc": "",
       "id": 9
     },
     {
-      "title": "県民の日イベントアートと文化と遊びの展望台「ビュージョ...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "大人気！オリジナル“ぷっくりシール”を作ろう♪",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/569450",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -202,15 +202,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "県民の日をきっかけに、多くの人に館山城や城山公園へ足を運んでもらい、公園の景色や歴史、文化に触れてもらいたい。今回は、吉良康矢氏の白墨画（チョークアート）の展示や古本市、伝統文化体験などを通じて、大人から子どもまで楽しめる“文化の広場”のよ",
+      "desc": "",
       "id": 10
     },
     {
-      "title": "【7/20(祝)千葉開催】ゼビオジュニアベースボールフ...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "はじめてのバスケットボール教室",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/569779",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -220,15 +220,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "野球が初めてでも大丈夫！お友達と参加も大歓迎です！\nTボール形式の試合でみんなで野球を楽しもう！\n\n【実施内容】\n✓BATTING TEE GAME\n　全チーム2試合保証のTボール形式の試合を行います！\n✓豪華景品が当たる抽選会を実施！\n\n",
+      "desc": "",
       "id": 11
     },
     {
-      "title": "ざらざら❓ぬるぬる❓手ざわりで感じるカエルの世界✋",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "【5/23(土)開催】からだあそびスゴロク",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/570001",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -238,15 +238,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "🤩火・水・木・日曜日、子どもクラス大募集中🤩\n\nカエルが暮らす地面や水辺は、おもしろい手触りであふれています🤏\nぬかるんだ泥の柔らかさ、ザラザラした岩肌、ツルツルした葉っぱ……🍀🪨\nカエルが感じている「質感（テクスチャー）」に着目して、立体",
+      "desc": "",
       "id": 12
     },
     {
-      "title": "キッズデー2026年6月【本八幡】【親子ヨガ】",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
+      "title": "うんがいい！朝市＆のりものフェスタ",
+      "date": "2026-05-23",
+      "endDate": "2026-05-23",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/570906",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -256,444 +256,8 @@
         "festival"
       ],
       "area": "other",
-      "desc": "てらすでは未就園児のいる\n親子の方向けにキッズデーを開催しています。\n\n6月は「親子ヨガ」です！\n\n今回は、てらす本フリマの店長さんでお馴染み＆アロマヨガ講師としてご活躍中の大城明子さんとのコラボレーション企画。\n\n◆開催日時 2026.6",
+      "desc": "",
       "id": 13
-    },
-    {
-      "title": "お米づくりにチャレンジ～古代米の田んぼの「代かき」～",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "古代米の田んぼの代かき体験イベントです。小学3年生以下は保護者の付き添いが必要です。汚れてもよい服装、タオルやビーチサンダル、着替えを持参してください。",
-      "id": 14
-    },
-    {
-      "title": "ブックスタート絵本講座",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "赤ちゃん向け絵本の選び方やわらべうたの紹介を行う講座です。1月生まれの子どもとその保護者が対象で、初めて参加する対象月以前生まれの子どもも参加可能です。",
-      "id": 15
-    },
-    {
-      "title": "浦安ウインドアンサンブル輝く！第24回定期演奏会",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "浦安ウインドアンサンブル輝く！第24回定期演奏会です。小さなお子様も大歓迎でお気軽にお越しください。\nゲストは浦安市立堀江中学校吹奏楽部です。\nプログラムには「パリのアメリカ人」「千と千尋の神隠し」「スイートメモリーズ」「嵐メドレー」「セプ",
-      "id": 16
-    },
-    {
-      "title": "GO!GO!ボランティア × ジャパンビーチゲームズフ...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2024年World Cleanup Dayでコラボした、 ジャパンビーチゲームズフェスティバルと再びコラボ！海辺の環境保全活動「ブルービーチプロジェクト（ビーチクリーン）」を開催する。日本にビーチ・マリンスポーツ国際大会を招致し、ビーチか",
-      "id": 17
-    },
-    {
-      "title": "あじさい祭り",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "長南町一の絶景スポット、野見金公園で「あじさいまつり」が開催。野見金公園では6月ごろから約1,700株のアジサイが見ごろを迎える。あじさいまつり当日は模擬店やキッチンカーの出店のほか、野外ステージでは歌や演奏などの音楽イベントがおこなわれる",
-      "id": 18
-    },
-    {
-      "title": "みどり町ふれあい音楽会～箏の日によせて～",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "「邦楽って楽しいの？」「もちろん！」をモットーに演奏活動をしているドルチェ邦楽合奏団有志によるミニコンサート。尺八・箏・三絃による「昭和歌謡メドレー」「ジブリメドレー」、他。",
-      "id": 19
-    },
-    {
-      "title": "レ・シャンテール第17回演奏会",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "『歌曲、オペラアリア、日本の歌、そして世界の名曲コンサート』。\nNHK文化センター千葉教室『クラシックを歌う』受講メンバーと『青ねこ会』参加メンバーによる演奏会です。",
-      "id": 20
-    },
-    {
-      "title": "市原ハワイアンフラフェスティバル2026",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「市原にハワイの風を！」をスローガンに、地域に根差して皆さまとの交流を目指すイベントです。",
-      "id": 21
-    },
-    {
-      "title": "千葉開府900年記念お祝いケーキコンテスト",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ハッピー製菓調理専門学校で開催された千葉市開府900年を記念したオリジナルケーキコンテスト。学生たちが千葉市の歴史や文化を学び、思いを込めてケーキを制作。優勝作品は校内カフェで販売される。\nコンテストにはＡ・Ｂ各組10グループが参加。\nＡ組",
-      "id": 22
-    },
-    {
-      "title": "アフリカン現代アート ティンガティンガ原画展＠柏高島屋",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "柏高島屋　本館３階 POP UP SPA",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「しあわせを呼ぶ鳥～シェルレ～」、\n『アフリカン現代アート ティンガティンガ原画展』\n\nティンガティンガ原画展＠柏高島屋\n\n○会場：柏高島屋　本館３階 POP UP SPACE ふらり ザ・ステージ\n○日程：2026.6/24（水）～ 6/",
-      "id": 23
-    },
-    {
-      "title": "5/23(土)【柏市】RWS単発キッズスクール（年少-...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "⭐️単発キッズスクール⭐️\n‼️千葉県【柏市】で開催‼️ \n✅️年少〜年長のお子様限定✅️\n\nサッカーが大好きなお子様\nこれからサッカーを始めたいお子様\n走ったり体を動かしたいお子様\nどなた様も大歓迎‼️\n\n◇メインコーチ...たすくコ..",
-      "id": 24
-    },
-    {
-      "title": "年中-小3【市川市】1dayサッカースクール『対人強化...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "‼️千葉県【市川市】で開催‼️\n🌟低学年専門1DAYスクール『対人強化』🌟\n✅年中〜小学3年生✅\n\n◇メインコーチ…たすくコーチ\n\n□内容\n『対人強化』\n基礎技術やドリブル、【試合で相手を抜く・ボールを奪われない】為の対人強化トレーニング.",
-      "id": 25
-    },
-    {
-      "title": "第11回いちはら環境フェスタ",
-      "date": "2026-06-06",
-      "endDate": "2026-06-06",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ワークショップや体験、ステージショー、工場見学を通して親子で環境を学べるイベントです。環境戦隊ステレンジャーやかがくママによる実験ショーが目玉で、展示や実演で3Rやリサイクルを身近に感じられます。\n\n屋外は6月6日(土)10:00ー15:0",
-      "id": 26
-    },
-    {
-      "title": "０歳からの『うたってあそぼ！りとみっくコンサート』＠お...",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "うたって、あそんで、演奏もしちゃう、\nリトミックの要素も取り入れたクラシックコンサートを親子で楽しみませんか？\n\nこれまでたくさんの子どもたちにクラシック音楽を届けてきたプロのアーティストが、\nフルートやハープ・ヴァイオリン・チェロのクラシ",
-      "id": 27
-    },
-    {
-      "title": "こどもフリマ　 千葉公園",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "出店も買い物も子どもだけ！\n本物のお金で自由にお買い物を楽しめるフリーマーケットです♪\n「お金の大切さ」「物の価値」「コミュニケーションの重要性」が学べる体験イベントです！",
-      "id": 28
-    },
-    {
-      "title": "【イオンスタイル千葉みなと】ゲットしよう！こども免許証",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "タイムズ２４は、お子様が楽しみながら交通ルールを学べるイベントを開催しています。\n親子で一緒に楽しめるコンテンツが盛りだくさん！\n参加は完全無料！ぜひご来場ください☆\n\n━━━━━━━━━━\n「ゲットしよう！こども免許証」詳細\n━━━━━━",
-      "id": 29
-    },
-    {
-      "title": "ビッグバンドジャズコンサート",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "大人気ビッグバンド、「ザ・フォースアベニュービッグサウンズオーケストラ」によるコンサートが開催。スペシャルゲストとして小高正志さん(Ba.)、稲垣貴庸さん(Dr.)、田中哲也さん(Tp.)、三上貴大さん(Tp.)の4名が出演予定。定員140",
-      "id": 30
-    },
-    {
-      "title": "七夕ワークショップ",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "足型でつくる織姫彦星の七夕ワークショップを開催。保育士がそばでサポートするので初めての工作でも安心。工作後は園内遊びもOK。1歳半頃〜小学生対象（親子で楽しむ人は1歳半になってなくてもOK）。可愛いパーツが選べる。50分ごとに各回4枠。予約",
-      "id": 31
-    },
-    {
-      "title": "ガーデンパーク フェスティバル　2026",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "花苗や野菜の販売、ハンドメイド雑貨販売やカラーボール収穫祭、サツマイモ植え付け体験など、おいもプロジェクトをスタート！キッチンカーやフードブースの出店もあり。",
-      "id": 32
-    },
-    {
-      "title": "親子で作文&amp;時事ノート教室",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子で楽しく作文と時事ノートを学べる教室です。作文の書き方や時事問題の対策に役立ちます。TBS「ひるおび」に出演中の教育アドバイザー清水章弘先生の動画を見て作文を学習。新聞記事をスクラップして時事ノートを作成し、テスト対策にも最適です。スタ",
-      "id": 33
-    },
-    {
-      "title": "わんぱくらんど！",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "わんぱくらんどはふわふわ遊具エリアで楽しく遊べるイベントです。開催は香取市のカインズ香取小見川店で、雨天や強風時は中止になります。",
-      "id": 34
-    },
-    {
-      "title": "【5月24日】ひつじの毛刈りショー開催🐑！！",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "📣超必見👀\n\\ ‼️1年に一度の‼️ /\n🐑ひつじの毛刈りショー開催🐑\n\n📅2026年5月24日(日)\n①11:00〜\n②14:00～\n\n📍Moff animal world 印西店ファームエリア\n\n🎁毛刈りした羊の毛をプレゼント🐏\n...",
-      "id": 35
-    },
-    {
-      "title": "はまかぜ保育園おやこ会",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "toddler",
-        "preschool",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子でわらべうたを楽しんだり、おもちゃで遊べます。\n会費は無料で気軽に参加できます。\n育児相談や栄養相談も可能です。\n対象は0、1、2歳児の親子・妊産婦、付き添いの祖父母も歓迎。\n夏祭りや親子運動遊びの行事も別日開催予定。",
-      "id": 36
-    },
-    {
-      "title": "対面ふんわり白パン♡ランチコラボレッスン",
-      "date": "2026-05-22",
-      "endDate": "2026-05-22",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "柏BeARIKAにて1時間ちょっとで完成するパン教室を開催いたします(^^♪\n\nパン生地は1人1台自分の生地を捏ね、発酵時間にはサラダやスープのデモレッスンがありますので、ランチプレートでお召し上がり頂けます！\n\nレッスン後は、動画を配信致",
-      "id": 37
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -711,7 +275,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 38
+      "id": 14
     }
   ]
 }
