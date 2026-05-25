@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-24T02:48:41.887237",
+  "updated": "2026-05-25T02:58:00.472334",
   "region": "saitama",
-  "count": 27,
+  "count": 45,
   "events": [
     {
       "title": "アートアクアリウム展 さいたまスーパーアリーナ2026",
@@ -341,47 +341,47 @@
       "id": 16
     },
     {
-      "title": "プラザイースト　ふらっとコンサート～ようこそ音楽市場へ～",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "かぎ針編みレッスン（フリー）〜心ほどくリラックス時間",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/560113",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "concert"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "これからかぎ針編みを始めたい方、自己流で編んできたけれど基礎を見直したい方におすすめのレッスンです。\nフリーレッスンですので講座内容は自由に決めていただけます。\n\n鎖編み・細編み・中長編み・長編みなどの基本から、編み図や記号の読み方まで、実",
       "id": 17
     },
     {
-      "title": "★草加★【無料】5/24(日)☆ベビー・キッズ・マタニティ撮影会♪",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "移動水族館がやってくる＆海のいきものタッチプール @本庄",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/560727",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "nature"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "はこめがねで海の中を覗いてみよう！\n海のいきものにさわって観察できるタッチプールも開催します。",
       "id": 18
     },
     {
-      "title": "5月24日開催！ポピーのフォトブース撮影会＠ふじみ野屋内撮影会",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "季節を感じるあじさいリースづくり @本庄",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/561288",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -391,17 +391,35 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "季節を感じるあじさいリースづくり \n～お部屋のインテリアアイテムとして～\n季節の花「あじさい」をつかってすてきなリースをつくろう",
       "id": 19
     },
     {
-      "title": "【埼玉県鶴ヶ島市】5/24 無料　足形アートワークショップ",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "季節限定！さくらんぼのパフェプレゼント @浦和Miraizu",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/569798",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "季節限定！さくらんぼのパフェプレゼント\n～ご見学の合間にどうぞ～\n\n季節のスウィーツをめしあがれ\n※１家族最大２個まで。",
+      "id": 20
+    },
+    {
+      "title": "今だけの成長をカタチに 手形足形アートワークショップ@浦和",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
       "ages": [
         "family"
       ],
@@ -409,33 +427,15 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 20
-    },
-    {
-      "title": "【大宮】家族で1日楽しめるマルシェ開催！ハズレなし抽選会付き",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events/569846",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
+      "desc": "小さな手、小さな足。\n今この瞬間のサイズは、あっという間に大きくなってしまいます。\nそんな**“今だけの成長”を、かわいいアートとして残してみませんか？**\n\nお子さまの手形・足形をスタンプして、季節のデザインで仕上げる人気のワークショップ",
       "id": 21
     },
     {
-      "title": "ペッツファーストグループ譲渡会",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "ロードトレイン リニア新幹線に乗ろう&amp;新幹線クラフト@浦和",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/570232",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -445,33 +445,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "ロードトレイン リニア新幹線に乗って場内を旅しよう！\n\n▼同時開催  新幹線クラフト工作\n新幹線のペーパクラフトに挑戦！\n完成した作品はお持ち帰りいただけます。\n定員先着：30名様\n※お子様連れのご家族が対象です。\n※最終受付 15：30\n",
       "id": 22
     },
     {
-      "title": "わくわく野あそび隊「初夏の野はらで虫さがし」",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "サンサンキッズTVがやってくる！　サンサンとふれあい撮...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/570438",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 23
-    },
-    {
-      "title": "【東浦和】5/24　ショベルカーで、お菓子おもちゃをすくおう！",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events/570800",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -481,52 +463,51 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "チャンネル登録者数206万人超!\n総再生回数33億回越えの大人気YouTubeチャンネル「サンサンキッズTV」\nのサンサンと一緒に写真をとったり公式グッズが当たる抽選会に参加してみよう！\n\n■ミニステージショー＆撮影会\nサンサンと一緒に写真",
+      "id": 23
+    },
+    {
+      "title": "メダカすくい＆ボトルアクアリウムづくり @熊谷",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "楽しいメダカすくいにチャレンジ！\nボトル瓶でメダカのボトルアクアリウムをつくります！\n作ったボトルアクアリウムはプレゼント♪\n\n※写真はイメージです。\n※小学生以下のお子様が対象です。",
       "id": 24
     },
     {
-      "title": "世界の昆虫展示即売会 BEETLE MANIACS MINI",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "オカヤドカリ釣り＆テラリウム飼育セットをつくろう@浦和...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/572027",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "museum",
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "①11：00～　5名様\n②11：40～　5名様\n③12：20～　5名様\n④14：00～　5名様\n⑤14：40～　5名様\n⑥15：20～　5名様\n\n※オカヤドカリはテラリウムごとお持ち帰りいただけます！\n※オカヤドカリ釣りは気温によっては手.",
       "id": 25
     },
     {
-      "title": "休日の単発サッカー教室『ホリデーレッスン』　Z 新三郷",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
+      "title": "”ぷち”Baby Party&amp;ハイハイレース@浦和Mi...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/572125",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "【5/24(日)久喜】赤ちゃんハイハイレース ｉｎモラージュ菖蒲",
-      "date": "2026-05-24",
-      "endDate": "2026-05-24",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events/566041",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -536,8 +517,352 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "赤ちゃんとパパママのはじめてのイベントを応援♪\nハイハイレース\n\nあっという間に大きくなる赤ちゃんの成⾧の１ページに、ハイハイレースに参加してみませんか？\nハイハイ出来る赤ちゃんならどなたでもご参加いただけます。カワイイその瞬間を一緒に楽し",
+      "id": 26
+    },
+    {
+      "title": "オペラ「王さまの耳はロバの耳！」＆ミニコンサート（川口...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "1万人動員の大人気オペラ。ユーモア満載で、ちょっぴり心温まる音楽劇。普段のお出かけスタイルで気軽に！ 0歳～入場可能。全席自由席、途中入退場自由。生のお芝居と生演奏を家族で。",
       "id": 27
+    },
+    {
+      "title": "絵本×アート×おもちゃ！あそびの大冒険@埼玉おもちゃ美術館",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "museum"
+      ],
+      "area": "other",
+      "desc": "絵本・アート・おもちゃを楽しめる特別イベントを開催！\n\nえほんはうすの平間美帆さん、はっぴーあーとぽけっと キッズアートクリエイター®認定講師の中川ゆきさんをお招きし、親子で楽しめるコラボイベント「とびだす！あそびのだいぼうけん」を開催しま",
+      "id": 28
+    },
+    {
+      "title": "2026幸手あじさいまつり「気ままにライブ」",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "幸手のあじさいまつりが開催される。土、日は雑貨品等の販売マルシェやキッチンカーも出店。その中で幸手市内のアマチュアバンドY&T+が、なつかしの昭和歌謡を中心に演奏を行う。ゲスト出演も予定されており、中高生のダンスなども披露される。10時から",
+      "id": 29
+    },
+    {
+      "title": "【浦和美園】ディズニー英語システム　わくわく英語PARK♪",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🌈親子で楽しめる英語イベント @イオンモール浦和美園🌈\n⁡\n見て・さわって・体を動かして♪\n親子で楽しめる英語イベントが\nイオンモール浦和美園で開催✨\n⁡\nネイティブの先生と歌って踊れる英語ショーや、\n高さ90cmのBIG BOOKなど\n.",
+      "id": 30
+    },
+    {
+      "title": "2026夏シーズンイベント「クールサマーパーク」開催します！",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "本イベントは、「涼しい公園」をコンセプトに、\n宿泊・日帰りどちらのお客さまにも、暑い夏を快適に楽しんでいただける体験型イベントです。\n\n夏は外で思いきり遊びたい一方、厳しい暑さや熱中症への不安から、\n長時間のレジャーを楽しみにくい季節でもあ",
+      "id": 31
+    },
+    {
+      "title": "名探偵プリキュア！ショー @川越",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "観覧無料\n※ショー終了後に握手会があります。\n※諸般の事情によりショー内容を変更・中止する場合があります。\n※雨天時は内容を変更して実施いたします。\n※当日各回1時間前に着座観覧席の整理券を配布致します。（各回30組様）\n※着座スペースが満",
+      "id": 32
+    },
+    {
+      "title": "ボルダーキッズツアー2026 第３戦（埼玉）",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【ボルダーキッズツアーとは？】\nボルダーキッズツアーは、小学生の子どもたちにボルダーの楽しさを知ってもらいながら、挑戦の中で成長を実感し、未来のクライマーを応援するイベントです✨\n\n\n本ツアーのメインとなる“コンペティション”では、日頃の練",
+      "id": 33
+    },
+    {
+      "title": "2026年6月13日10時～じゃがいも収穫体験イベント...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "【日時】\n2025年6月13日10時～　雨天時は6月20日10時～に延期\n\n【持ち物】\n収穫物を入れる袋\n農作業の出来る格好でお越しください。\n\n【概要】\n契約者のお友達との参加も可能です。\n掘ったイモはお持ちかえりいただけます。\n\n...",
+      "id": 34
+    },
+    {
+      "title": "音と絵本の森【7/23】",
+      "date": "2026-07-23",
+      "endDate": "2026-07-23",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "アーティストによる朗読と生演奏を楽しめる絵本の読み聞かせ会。\nゆったりとした和室でくつろぎながらおはなしの世界を楽しみましょう。\n年４回、第３木曜日に開催。\n第３木曜日は木が３つで森の日と覚えてね。\n\n日時：令和8年度第2回　7月23日(木",
+      "id": 35
+    },
+    {
+      "title": "ハリネズミやうさぎと一緒に記念撮影をしよう＆えさやり体...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "かわいい動物たちと遊ぼう！\n※動物は生体につき出展内容が変更になる場合があります。\n※13：00-14：00は休憩をいただきます。\n※気温によって一部屋内での開催となる場合がございます。\n\n第一種動物取扱業登録証　名称：ティジョップ ズー／",
+      "id": 36
+    },
+    {
+      "title": "フルーツサンドプレゼント【お子様連れ限定】 @川越",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "モデルハウスを１棟見学でプレゼント\n※１家族最大２個まで。\n\n\n■開催場所\n川越ハウジングステージ\n〒350-1124 埼玉県川越市新宿町５丁目13−６２",
+      "id": 37
+    },
+    {
+      "title": "さつまいもチップス＆アイスプレゼント【お子様連れ限定】...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "モデルハウスを１棟見学でプレゼント\n※１家族最大２個まで。\n\n\n■開催場所\n川越ハウジングステージ\n〒350-1124 埼玉県川越市新宿町５丁目13−６２",
+      "id": 38
+    },
+    {
+      "title": "【お子様連れ限定！】パパと一緒に似顔絵を描いてもらおう...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "お父さんとの大切なひとときを、その場で似顔絵にお描きします。(1組 約30分)\n父の日にちなんだ特別バージョンの似顔絵をプレゼント！\n①11：00②11：30③12：00④12：30⑤13：00\n⑥13：30⑦14：00⑧14：30⑨15：",
+      "id": 39
+    },
+    {
+      "title": "第17回　駒込学園合唱部　定期演奏会　summer c...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "東京都にある私立駒込高等学校・駒込中学校の合唱部である「駒込学園合唱部」の定期演奏会を開催。混声合唱・女声合唱・男声合唱・ピアノソロの演奏を予定。若さと情熱があふれる歌声を届ける。",
+      "id": 40
+    },
+    {
+      "title": "minahan手作りマーケット in川越U_PLACE...",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今回も初出店が盛りだくさん。ウクライナの伝統刺繍雑貨や、紙のアクセサリー販売他ミニチュアかき氷や風鈴絵付けなど楽しいワークショップが約30組出店！ 毎回大好評のハンドメイド資材販売会では大玉ビーズなどもたくさん。お買い物かワークショップ参加",
+      "id": 41
+    },
+    {
+      "title": "SCRATCHフリマ！ in 宮代町（7月）",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "埼玉県宮代町スキップ広場にてフリーマーケットが開催される。オリジナルポストカードや新品・不用品雑貨などもあり。お気に入りを見つけにいこう。",
+      "id": 42
+    },
+    {
+      "title": "SCRATCHフリマ！ in 宮代町（6月）",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "埼玉県宮代町スキップ広場にてフリーマーケットが開催される。オリジナルポストカードや新品・不用品雑貨などもあり。お気に入りを見つけにいこう。",
+      "id": 43
+    },
+    {
+      "title": "ふかや花園プレミアム・アウトレット「はたらくクルマ大集合！」",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "人気車両が一堂に会する体験型イベント「はたらくクルマ大集合！」を初開催。レアなGT-Rパトカーや白バイ、自衛隊車両、パッカー車などと記念撮影ができる。寄居警察署が実施する、「ガリガリ君」の「安心の街づくり親善大使」就任式も見どころ。ガリガリ",
+      "id": 44
+    },
+    {
+      "title": "【6/11】赤ちゃんとことばの不思議連続体験講座",
+      "date": "2026-05-25",
+      "endDate": "2026-05-25",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「赤ちゃんのことばの不思議」を探りながら、子どもだけでなくママ･パパたちにもことばの習得のプロセスを体験していただきます。親子で体験することで、お子さんはもちろんママ･パパ自身にもことばの発見や変化を感じていただけます。親子一緒の体験で、不",
+      "id": 45
     }
   ]
 }
