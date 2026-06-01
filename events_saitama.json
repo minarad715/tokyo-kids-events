@@ -1,29 +1,8 @@
 {
-  "updated": "2026-05-31T02:58:24.730862",
+  "updated": "2026-06-01T03:34:52.371814",
   "region": "saitama",
-  "count": 47,
+  "count": 41,
   "events": [
-    {
-      "title": "アートアクアリウム展 さいたまスーパーアリーナ2026",
-      "date": "2026-05-10",
-      "endDate": "2026-05-10",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/art-aquarium-saitama-super-arena-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
     {
       "title": "TSQ presents「MYSTERY GATE」",
       "date": "2027-03-31",
@@ -43,134 +22,28 @@
       ],
       "area": "other",
       "desc": "",
+      "id": 1
+    },
+    {
+      "title": "SDGsフェア＠コクーンシティ2026",
+      "date": "2026-06-05",
+      "endDate": "2026-06-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/sdgs-fair-cocooncity-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
       "id": 2
-    },
-    {
-      "title": "THE MEAT SAITAMA 2026",
-      "date": "2026-05-01",
-      "endDate": "2026-05-06",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/the-meat-saitama-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "title": "第4回 めぐるフェス",
-      "date": "2026-05-09",
-      "endDate": "2026-05-10",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/meguru-fes-vol4-2026-keyaki-hiroba/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "2026けやきひろば春のビール祭り",
-      "date": "2026-05-13",
-      "endDate": "2026-05-17",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/keyaki-hiroba-beer-matsuri-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 5
-    },
-    {
-      "title": "さいたまスポーツフェスティバル2026",
-      "date": "2026-05-23",
-      "endDate": "2026-05-24",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/saitama-sports-festival-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "sport",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "SAITAMA SUPER ニジマスまつり",
-      "date": "2026-05-29",
-      "endDate": "2026-05-31",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/saitama-super-nijimasu-matsuri-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "KIDS FES in さいたま",
-      "date": "2026-05-30",
-      "endDate": "2026-05-31",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/kids-fes-in-saitama-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
     },
     {
       "title": "タッチでクーポン～寄ってけヤキ！～",
@@ -191,7 +64,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 3
     },
     {
       "title": "フリーマーケット in さいたま新都心けやきひろば",
@@ -212,7 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 4
     },
     {
       "title": "おもちゃの広場＆エデュベンチャー",
@@ -233,7 +106,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 5
     },
     {
       "title": "けやきde大道芸",
@@ -254,7 +127,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 6
     },
     {
       "title": "けやきの下のマルシェ",
@@ -275,7 +148,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 7
     },
     {
       "title": "LOVE JAZZ TIME 2026",
@@ -296,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 8
     },
     {
       "title": "行方不明展 A MISSING EXHIBITION",
@@ -317,7 +190,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 9
     },
     {
       "title": "Thanks 15th Anniversary ゆるバース by ゆるキャラグランプリ実行委員会",
@@ -338,7 +211,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 10
     },
     {
       "title": "さいたまマラソン",
@@ -359,7 +232,25 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 11
+    },
+    {
+      "title": "まちのヒーローアカデミー 番外編 ～サイエンス～",
+      "date": "2026-07-04",
+      "endDate": "2026-07-04",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "2026年7月4日（土）、22日（水）、8月25日（火）に、「まちのヒーローアカデミー 番外編 ～サイエンス～」が開催されます。子どもたちが地域課題を発見し、アイデアを主体的に発案する全3回の連続講座です。\n\n第1回では「電気」と「油圧」の",
+      "id": 12
     },
     {
       "title": "初山参り（東間浅間神社の例大祭）",
@@ -377,12 +268,12 @@
       ],
       "area": "other",
       "desc": "「初山参り」は、毎年6月30日・7月1日に浅間神社で行われる。1歳の誕生日前の子どもが、浅間様へお参りすることを初山参りという。すこやかな成長を願って赤ちゃんの額に朱印が押され、お札やうちわを頂く。",
-      "id": 18
+      "id": 13
     },
     {
       "title": "【花・見ごろ】国営武蔵丘陵森林公園　ヤマユリ",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -395,30 +286,12 @@
       ],
       "area": "other",
       "desc": "国営武蔵丘陵森林公園は関東最大級のヤマユリの自生地で、園内全体で約1万株のヤマユリが自生し、うち約3千株が7月中旬から下旬にかけて花を咲かせる。雑木林の中に咲く大輪で豪華な花は里山風景の代表花であり、開花期には甘い香りを漂わせ来園者を楽しま",
-      "id": 19
-    },
-    {
-      "title": "森林公園　水遊び場",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "森林公園の夏の風物詩『水遊び場』がオープン。水面積約1,300平方メートル・水深が5～30cmのじゃぶじゃぶ池で、小さな子どもも安全に遊べる。日差しの強い日は、涼しげな水遊び場を訪れてみてはいかが。利用にあたり注意事項や、清掃日は使用ができ",
-      "id": 20
+      "id": 14
     },
     {
       "title": "お寺deマルシェ Present　CAINZ×Belc...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -431,12 +304,12 @@
       ],
       "area": "other",
       "desc": "今回、始めてのカインズ×ベルク夏祭り！ 夜のマルシェ、グルメや縁日でみんなでいい夏の思い出を！ 手持ち花火エリアがあり、店舗で購入すると花火ができる。日曜日には打ち上げ花火あり。",
-      "id": 21
+      "id": 15
     },
     {
       "title": "禅庭を楽しむ・数学",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -449,12 +322,12 @@
       ],
       "area": "other",
       "desc": "「私の収入は同世代の3割で、自己満足は4割程度。それなら人物スコアは3.5かと思いき\nや、実は5割になる。」\n\n実収入を数直線で右に「3」進み、そこから90度上に「4」進む。この縦の動き「4」こそが、現実的なプラスマイナスのどこにもない「虚",
-      "id": 22
+      "id": 16
     },
     {
       "title": "【7/20(月祝)大宮】ハイハイレース｜はじめてイベン...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -467,12 +340,12 @@
       ],
       "area": "other",
       "desc": "あっという間に大きくなる赤ちゃんの成⾧の１ページに、ハイハイレースに参加してみませんか？\n\nハイハイ（ズリバイ）出来る赤ちゃんならどなたでもご参加いただけます。カワイイその瞬間を一緒に楽しみましょう！\n※レースは【屋外】での開催です。雨天時",
-      "id": 23
+      "id": 17
     },
     {
       "title": "【7/12(日)新座】赤ちゃんハイハイレース！",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -485,12 +358,12 @@
       ],
       "area": "other",
       "desc": "あっという間に大きくなる赤ちゃんの成⾧の１ページに、ハイハイレースに参加してみませんか？\n\nハイハイ（ズリバイ）出来る赤ちゃんならどなたでもご参加いただけます。カワイイその瞬間を一緒に楽しみましょう！\n※レースは【室内】での開催です。\n\nご",
-      "id": 24
+      "id": 18
     },
     {
       "title": "AMAZING KIDS FESTA（ららぽーと新三郷）",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -503,12 +376,12 @@
       ],
       "area": "other",
       "desc": "「こどもたちに夢を、地域に希望の光を。」そんな想いのもと、AMAZING COFFEE（アメコ）とBeBlockが手を取り合い、AMAZING KIDS FESTAは誕生した。今イベントでは、こどもたちがアメコのお仕事を体験できるワークショ",
-      "id": 25
+      "id": 19
     },
     {
       "title": "エミテラス所沢 ハワイフェア2026",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -521,12 +394,12 @@
       ],
       "area": "other",
       "desc": "この夏、エミテラス所沢内の「TOKOROZAWA e-CUBE」が、常夏ハワイアンリゾートに大変身！ 見どころは、所沢エリアをはじめとする総勢1,000名以上のダンサーによる、フラ＆タヒチアンダンスステージ。さらに、ハワイ直輸入のレアな雑貨",
-      "id": 26
+      "id": 20
     },
     {
       "title": "初夏にただよう光の正体？～夜の里山でホタル観察～",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -539,12 +412,12 @@
       ],
       "area": "other",
       "desc": "環境整備をしてホタル保全している「アオジシ谷」でホタルの観察を行う。発光の秘密や生態、歴史や文化から意外と知らない人とのつながりなど、ゲンジボタル、ヘイケボタルをガッツリ学べる夕方から夜のツアー。",
-      "id": 27
+      "id": 21
     },
     {
       "title": "吾野宿散策と高麗川でゲンジボタルとカジカガエルの鑑賞",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -557,12 +430,12 @@
       ],
       "area": "other",
       "desc": "高麗川を舞うゲンジボタルと、鹿に似た高い美声で鳴くカジカガエルに会いにいかない？ 宿場町の趣が残るまちなみを散策し、市の景観重要建造物である築160年の古民家内で有機野菜のカレーも味わう。",
-      "id": 28
+      "id": 22
     },
     {
       "title": "ちょこっとお手軽ツアー～川の生きもの探しとおらが自慢の...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -575,12 +448,12 @@
       ],
       "area": "other",
       "desc": "テーマは名栗の水。飯能の山間地を源流とした上流域ならではの美しい水質の川に生息する生きものを観察する。午後は名栗の名水を使ってうどん打ち体験も行う。ツアーを通して、水の大切さを学ぶ。午前または午後のみの参加も可能。",
-      "id": 29
+      "id": 23
     },
     {
       "title": "ちょこっとお手軽ツアー～ホタル観察会～",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -593,12 +466,12 @@
       ],
       "area": "other",
       "desc": "美しい里地里山環境が残る天覧山の谷戸環境。普段なかなか歩くことのできない夜の森を専門のガイドが解説しながら安心安全に散策する。そこで見られるホタルや夜行性の生きものたちの息遣いを感じてみよう。",
-      "id": 30
+      "id": 24
     },
     {
       "title": "キッズガイドがご案内！　田んぼの風に吹かれて～もち米の...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -611,12 +484,12 @@
       ],
       "area": "other",
       "desc": "田んぼの中で稲について学ぶツアー。風やにおいを感じながら田植えをしてみない？ 地元小学生ガイド達との交流も魅力のひとつ。マコモダケの植え付けと、狭山茶とおやつも味わえ、地元野菜のお土産付とボリューム満点ツアー。",
-      "id": 31
+      "id": 25
     },
     {
       "title": "メッツァの水辺でホタル観察！～夜を照らすグリーンライト！？～",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -629,12 +502,12 @@
       ],
       "area": "other",
       "desc": "日本人に馴染みのある昆虫「ホタル」の光を灯しながら飛ぶ姿は幻想的でうっとりしてしまう。そんなホタルを観察するだけではなく、ホタルが好む環境やくらし、発光メカニズムなどを座学とフィールドでがっつり学ぶツアー。",
-      "id": 32
+      "id": 26
     },
     {
       "title": "川は遊びや生きものの学び場～名栗川リバーウォッチング～...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -647,12 +520,12 @@
       ],
       "area": "other",
       "desc": "名栗川（入間川）にくらす生きものを観察しながら、水辺にすむ生きものたちの繋がりや、水質指標生物について、遊びながら学ぶ。また、釣り竿で魚を釣った後、魚を調理する。川遊びで一緒に楽しく学んでみよう！",
-      "id": 33
+      "id": 27
     },
     {
       "title": "へんてこ吸血生物「ヤマビル」の不思議な生きかた",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -665,12 +538,12 @@
       ],
       "area": "other",
       "desc": "ヒルには血を吸うイメージがあるが、人の血を吸う種類のヒルはごくわずか。このツアーでは、身近にいる吸血性のヤマビルの生態から他の生きものとの繋がりまで学び、観察を通して隠れた魅力を発見し、不思議なくらしに迫る。",
-      "id": 34
+      "id": 28
     },
     {
       "title": "雨の日限定！　梅雨の天覧山で生きもの観察",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -683,7 +556,7 @@
       ],
       "area": "other",
       "desc": "雨の日だからこそ、普段見られない奇妙な生きものたちが活発に動き始める。このツアーでは、カエルやカタツムリをはじめとした生きものを主役に、天覧山を歩いていくもの。これまでとは一味違う雨の日に生きもの観察はいかが？",
-      "id": 35
+      "id": 29
     },
     {
       "title": "オリジナルペーパーに願いを〜七夕クラフト〜",
@@ -701,12 +574,12 @@
       ],
       "area": "other",
       "desc": "7月7日の七夕は織姫と彦星が年に一度会える日。手芸や習い事が上手な織姫に願いを込めて、上達を願って短冊を書く風習が生まれた。今年は自分だけのオリジナル短冊を作り、いつもと少し違う七夕を楽しんでみてはいかが。",
-      "id": 36
+      "id": 30
     },
     {
       "title": "里山を五感で味わう～二八そば打ち体験をしよう！！～（6月）",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -719,12 +592,12 @@
       ],
       "area": "other",
       "desc": "吾野地域の里山を見て、聞いて、味わうツアー。そば打ちは、生地作りから捏ね、のばし、切りまでのほぼ全工程を体験し、地元野菜の天ぷらと一緒に自分たちで打った“二八そば”を昼食としていただく。",
-      "id": 37
+      "id": 31
     },
     {
       "title": "里山を五感で味わう～こんにゃく手作り体験をしよう！！！...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -737,12 +610,12 @@
       ],
       "area": "other",
       "desc": "吾野地域の里山の季節を見て、聞いて、味わうツアー。こんにゃく芋は成長するまでに約3年かかる。昔ながらの調理法でこんにゃくを作ってみよう。自分で作ったこんにゃくは持ち帰りOK！",
-      "id": 38
+      "id": 32
     },
     {
       "title": "森のまち飯能で楽しむ菌ちゃん畑づくりと夏野菜植えつけ体...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -755,12 +628,12 @@
       ],
       "area": "other",
       "desc": "落ち葉や枝を活かした「菌ちゃん畑」で、夏野菜の植え付け体験とウネづくり。菌ちゃん農法ならではの苗の植え方、育て方のコツをアドバイザーが分かりやすく伝授。ランチはレストラン「ラ ノーラ」で、菌ちゃん野菜を使ったイタリアンを堪能。",
-      "id": 39
+      "id": 33
     },
     {
       "title": "初心者OK！手ぶらで気軽にSUP体験！名栗湖で癒しのひ...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -773,12 +646,12 @@
       ],
       "area": "other",
       "desc": "名栗湖でのSUP体験は、四季折々の自然と湖の静けさを全身で感じながら楽しめる、心と体にやさしいエコツアー。水面をゆったりと進みながら、環境に配慮したスタイルで名栗の生態系や自然の魅力を紹介する。",
-      "id": 40
+      "id": 34
     },
     {
       "title": "自分だけのククサを磨く体験＆窯焼きピザランチ（6月）",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -791,12 +664,12 @@
       ],
       "area": "other",
       "desc": "北欧由来の木のカップ「ククサ」を磨いて仕上げる体験と、窯焼きピザランチが楽しめる。木のぬくもりに触れ、手作りの喜びを感じながら、森や湖の自然の中でのんびり過ごす一日。初心者や家族連れも安心して参加できる。",
-      "id": 41
+      "id": 35
     },
     {
       "title": "カナディアンカヌー中級講習＠名栗湖～自在に湖を楽しむた...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -809,12 +682,12 @@
       ],
       "area": "other",
       "desc": "名栗湖で開催するカナディアンカヌー講習・中級編では、Cストローク、Jストローク、スカーリングなどの操作技術を重点的に学ぶ。シングルブレードパドルによる精度の高い操船が可能になる。",
-      "id": 42
+      "id": 36
     },
     {
       "title": "カナディアンカヌー初級講習＠名栗湖～ゆったり湖を楽しも...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -827,12 +700,12 @@
       ],
       "area": "other",
       "desc": "カナディアンカヌーは、シングルブレードパドルを使って水面をスイスイ進む、アクティブでダイナミックなカヌー。シングルブレードパドルで舵を取る感覚や、思い通りにカヌーを動かすテクニックを楽しみながら身につけよう！",
-      "id": 43
+      "id": 37
     },
     {
       "title": "禅寺で修行体験（坐禅・法話・写経・精進料理・修行体験）...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -845,12 +718,12 @@
       ],
       "area": "other",
       "desc": "飯能の自然の中、川の音、風の音、鳥のさえずりを聞きながらの坐禅を中心とした修行体験。昼食は精進料理をいただく。また、一文字一文字心を込めて般若心経を写す写経も体験する。",
-      "id": 44
+      "id": 38
     },
     {
       "title": "川越　誕生石ペンダント作り",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -863,12 +736,12 @@
       ],
       "area": "other",
       "desc": "川越の手作り体験！純銀粘土と誕生石(キュービックジルコニア)で、ホンモノの純銀ペンダントを作ります。\n大人になってもずっと着けれます！　10分で成形、1時間後に10分磨いて完成！当日着けて帰れます。5歳から作れます。\n＊作り方　まずは12種",
-      "id": 45
+      "id": 39
     },
     {
       "title": "パウ・パトロール パウフェクトショー @新座・朝霞",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -881,12 +754,12 @@
       ],
       "area": "other",
       "desc": "チェイスとマーシャルが新座・朝霞ハウジングステージにやってくる！\n観覧無料\n※諸般の事情によりショー内容を変更・中止する場合があります。\n※雨天時は内容を変更して実施いたします。",
-      "id": 46
+      "id": 40
     },
     {
       "title": "７月開催！アニバーサリー撮影会de向日葵フォトブース＠...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -899,7 +772,7 @@
       ],
       "area": "other",
       "desc": "お子様の成長記念のご撮影ならpapagraphyにお任せください\n写真が未来につなぐ、あなただけのストーリーを描きます\n\npapagraphyは東京、埼玉を中心に撮影会を開催しております\nフォトブース・リーズナブルな価格・参加しやすい内容・",
-      "id": 47
+      "id": 41
     }
   ]
 }

@@ -1,71 +1,8 @@
 {
-  "updated": "2026-05-31T02:59:07.532853",
+  "updated": "2026-06-01T03:35:36.136045",
   "region": "chiba",
-  "count": 40,
+  "count": 36,
   "events": [
-    {
-      "title": "初夏の北海道物産展",
-      "date": "2026-05-08",
-      "endDate": "2026-05-17",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/sogo-chiba-hokkaido-bussanten-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
-    {
-      "title": "ポケモンベースボールフェスタ2026 ～30年の想いをボールに込めて～",
-      "date": "2026-05-15",
-      "endDate": "2026-05-17",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/pokemon-baseball-festa-2026-marines/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 2
-    },
-    {
-      "title": "湘南美容クリニック presents SBI舞花火 in 千葉・稲毛海浜公園（いなげの浜）feat. SKY ORCHESTRA",
-      "date": "2026-05-30",
-      "endDate": "2026-05-30",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/sbi-maihanabi-inage-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 3
-    },
     {
       "title": "INA WAN FESTA",
       "date": "2026-06-06",
@@ -85,7 +22,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 4
+      "id": 1
     },
     {
       "title": "マイナビ転職フェア幕張",
@@ -106,7 +43,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 2
     },
     {
       "title": "キッチンカー屋台総選挙2026 千葉大会・全芸オープン2026 千葉大会",
@@ -127,7 +64,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
+      "id": 3
     },
     {
       "title": "PIST6夏まつり2026",
@@ -148,7 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 4
     },
     {
       "title": "千葉開府900年記念 幕張ビーチ花火フェスタ2026（第48回千葉市民花火大会）",
@@ -170,7 +107,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
+      "id": 5
     },
     {
       "title": "SUMMER SONIC 2026（サマーソニック2026）東京会場",
@@ -191,7 +128,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 6
     },
     {
       "title": "ROCK IN JAPAN FESTIVAL 2026",
@@ -212,12 +149,48 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 7
     },
     {
-      "title": "酒々井プレミアム・アウトレット　県民の日キャンペーン開催",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "title": "​【浦安市川】元鹿島アントラーズコーチのサッカーパーソ...",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "​■ なぜ、今「パーソナル指導」が必要なのか？\nチーム練習は「組織としての戦術」を学ぶ場です。しかし、選手一人ひとりの身体のクセや技術の細かなミスを、その場でマンツーマンで修正することは非常に困難です。\n本講座では、鹿島アントラーズ育成部で",
+      "id": 8
+    },
+    {
+      "title": "【2026夏休み限定工作】ベルトコンベアからくり引き出...",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "＼宝物を運ぶ！ベルトコンベアーからくり引き出し／\n\n上の穴から宝物やお金を入れて、ハンドルをクルクル回すと…ベルトコンベアーに乗って運ばれて、引き出しの中にストン！\n\nでも、この引き出しはただの収納ではありません。\n\nからくり仕掛けになって",
+      "id": 9
+    },
+    {
+      "title": "【房の駅】夏のあま味噌つくり教室",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -229,13 +202,31 @@
         "festival"
       ],
       "area": "other",
-      "desc": "千葉県では県民の日に公立の小中学校が休校となることが多く、土日に比べて混雑を避けながらゆったりとお出かけできる貴重な機会。千葉県に在住・在勤・在学の人々を対象に、対象店舗で使えるお得なクーポンシートやオリジナルノベルティの進呈、公式アプリ「",
+      "desc": "麹1.5倍・塩分8％の甘味噌が、\n一ヶ月ほどで約２kg出来上がります！\n\n\n味噌仕込みと言えば冬が本番。\n･･･なのですが、暖かい陽気を利用し、麹割合を増やし、\n塩を少なくした短期熟成で、約2kgのあま味噌を仕込みます。\nひと月ほどで出来上",
+      "id": 10
+    },
+    {
+      "title": "成田祇園祭特別講演会",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "300年の歴史をもち、毎年約45万人の見物客が訪れる成田の一大イベント「成田祇園祭」。そんな成田祇園祭についてまとめた『成田祇園祭々禮考』の著者である関根賢次氏（前成田市副市長）による「成田祇園祭をより楽しむため」の講演会を開催。祭りの歴史",
       "id": 11
     },
     {
       "title": "キッズ入門スポーツ教室",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -252,8 +243,8 @@
     },
     {
       "title": "ふれあいサマーハーティ＆パーティー",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -270,8 +261,8 @@
     },
     {
       "title": "プラネタリウム特別上映 千葉開府900年記念番組",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -288,8 +279,8 @@
     },
     {
       "title": "ことばと音楽であそぼう♪ and はじめての多言語",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -306,8 +297,8 @@
     },
     {
       "title": "【船橋】　6/27　オリジナルMY傘づくり",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -324,8 +315,8 @@
     },
     {
       "title": "【船橋】　わなげチャレンジ!",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -342,8 +333,8 @@
     },
     {
       "title": "楽器の自由研究",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -360,8 +351,8 @@
     },
     {
       "title": "Summer English Concert",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -378,8 +369,8 @@
     },
     {
       "title": "初心者歓迎！ 6月親子サバゲー　in　BATTLE",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -396,8 +387,8 @@
     },
     {
       "title": "Yohasの寺子屋",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -414,8 +405,8 @@
     },
     {
       "title": "ウミホタル観察会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -432,8 +423,8 @@
     },
     {
       "title": "はじめてのスケートボード教室",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -451,8 +442,8 @@
     },
     {
       "title": "第30回～赤ちゃんから大人まで～ ​みんなのクラシック...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -469,8 +460,8 @@
     },
     {
       "title": "夏至の光と紫陽花守りの花時間",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -487,8 +478,8 @@
     },
     {
       "title": "麻雀カードゲームしてあそぼう！",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -505,8 +496,8 @@
     },
     {
       "title": "DIPART WORKSHOP ワイヤーと合成樹脂で作る",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -523,8 +514,8 @@
     },
     {
       "title": "2026夏の千葉県民特別招待",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -541,8 +532,8 @@
     },
     {
       "title": "ビッグバンドジャズコンサート",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -559,8 +550,8 @@
     },
     {
       "title": "第3回 歌紡会コンサート",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -577,8 +568,8 @@
     },
     {
       "title": "第26回クラシックギターアンサンブル合同演奏会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -595,8 +586,8 @@
     },
     {
       "title": "第22回四街道市美術協会展",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -631,8 +622,8 @@
     },
     {
       "title": "⏰不思議な形の時計づくり⏰",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -649,8 +640,8 @@
     },
     {
       "title": "3種のじゃがいも堀り",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -664,78 +655,6 @@
       "area": "other",
       "desc": "農業体験を通じて、食育や情操教育、生命力を学んでみませんか？\n\n５月後半より７月まで3種類じゃがいもが楽しめます。\n味はエダマメよりも甘く美味しいです。\n場所は千葉県木更津市矢那3692\n時間は9:00~17:00\n持ち物、タオル、長靴、飲",
       "id": 35
-    },
-    {
-      "title": "ホタル観賞会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子で楽しむホタル観賞会！\n幻想的なホタルの光は素敵な夏休みの思い出になることと思います。",
-      "id": 36
-    },
-    {
-      "title": "幕張万博",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "WBGに幕張の魅力が大集合！子どもから大人まで楽しめるイベントやブースが盛りだくさん！3つに分かれたイベントエリアで幕張の魅力を存分に体感できる。3つのイベントエリア…1.STAGE AREA/音楽とダンスのステージを展開2.FOOD ST",
-      "id": 37
-    },
-    {
-      "title": "親子で作文&amp;時事ノート教室",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "親子で作文と時事ノートを楽しく学ぶ講座です。TBS「ひるおび」に出演中の清水章弘先生の動画を視聴し、作文を書きながらスタッフが丁寧にサポートします。新聞記事をスクラップして時事ノートを作成し、時事ニュースのテスト対策にもなります。\n参加無料",
-      "id": 38
-    },
-    {
-      "title": "【印西市】6月6日（土）「とかみDEマルシェ」開催 ※...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "印刷市戸神のサービス付き高齢者向け住宅「戸神ホームズ」 @tokamihomes さん、\n美味しいパンのお店「戸神ベイカリー」 @tokamibakery さん、\n児童図書館「とかみらいぶらり」 @tokamilibrary さんの敷地を会",
-      "id": 39
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -753,7 +672,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 40
+      "id": 36
     }
   ]
 }

@@ -1,326 +1,8 @@
 {
-  "updated": "2026-05-31T02:56:58.129333",
+  "updated": "2026-06-01T03:33:44.901247",
   "region": "tokyo",
-  "count": 104,
+  "count": 91,
   "events": [
-    {
-      "title": "第97回中央メーデー",
-      "date": "2026-05-01",
-      "endDate": "2026-05-01",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/mayday-2026-central-tokyo/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
-    {
-      "title": "SHIBUYA ONE PARK 2026 - PARK ATTACK & 台湾發祭 -",
-      "date": "2026-05-02",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/shibuya-one-park-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 2
-    },
-    {
-      "title": "「充レン×ラブライブ！スーパースター!!」スタンプラリー",
-      "date": "2026-05-02",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/juren-lovelive-superstar-stamp-rally-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 3
-    },
-    {
-      "title": "カンボジアフェスティバル2026",
-      "date": "2026-05-03",
-      "endDate": "2026-05-04",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/cambodia-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "東京ノミの市",
-      "date": "2026-05-03",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/tokyo-nominoichi-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 5
-    },
-    {
-      "title": "CREATE YOUR DOT!",
-      "date": "2026-05-05",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/create-your-dot-2026-yoyogi-park/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "子ども交流体験フェスティバル",
-      "date": "2026-05-05",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/kodomo-koryu-taiken-festival-yoyogi-park-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "タイフェスティバル東京2026",
-      "date": "2026-05-09",
-      "endDate": "2026-05-10",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/thai-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
-    },
-    {
-      "title": "OKINAWA FES Milafete",
-      "date": "2026-05-16",
-      "endDate": "2026-05-17",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/okinawa-fes-milafete-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "STAiNY one-man LIVE「#フライングサマー」",
-      "date": "2026-05-20",
-      "endDate": "2026-05-20",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/stainy-flying-summer-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "東京ナイトマーケット",
-      "date": "2026-05-20",
-      "endDate": "2026-05-24",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/tokyo-night-market-2026-may/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "ラオスフェスティバル2026",
-      "date": "2026-05-23",
-      "endDate": "2026-05-24",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/laos-festival-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "YOYOGI PARK CULTURE FES -集-",
-      "date": "2026-05-30",
-      "endDate": "2026-05-30",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/yoyogi-park-culture-fes-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "ベトナムフェスティバル2026",
-      "date": "2026-05-30",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/vietnam-festival-2026-yoyogi/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "YOYOGI-PARK 1周年記念イベント＜DAY2＞サッカースペシャルトーク＆スポーツ体験フェスティバル",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://www.yoyogikoen.info/yoyogi-park-be-stage-1st-anniversary-day2-2026/",
-      "source": "yoyogi",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "sport",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
     {
       "title": "Tokyo Pride 2026",
       "date": "2026-06-06",
@@ -340,7 +22,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 1
     },
     {
       "title": "トルコフェスティバル2026",
@@ -361,7 +43,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 2
     },
     {
       "title": "第4回ジョージアフェスティバル",
@@ -382,7 +64,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 18
+      "id": 3
     },
     {
       "title": "第9回タイフードフェスティバル",
@@ -403,7 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 19
+      "id": 4
     },
     {
       "title": "アフリカヘリテイジフェスティバル in 代々木公園 2026",
@@ -425,7 +107,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 20
+      "id": 5
     },
     {
       "title": "ジャマイカフェスティバル 2026 レゲエ＆キュイジーヌ in 東京",
@@ -446,7 +128,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 21
+      "id": 6
     },
     {
       "title": "LOVE FOR NOTO 2026",
@@ -467,7 +149,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 22
+      "id": 7
     },
     {
       "title": "星と太陽のマーケット produced by 東京ナイトマーケット",
@@ -488,7 +170,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 23
+      "id": 8
     },
     {
       "title": "アースガーデン 夏 ヨルイチ 2026",
@@ -509,7 +191,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 24
+      "id": 9
     },
     {
       "title": "GMO渋谷エンタメ祭2026",
@@ -530,7 +212,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 25
+      "id": 10
     },
     {
       "title": "ブラジル＆ラテンフェスティバル2026",
@@ -551,7 +233,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 26
+      "id": 11
     },
     {
       "title": "原宿表参道元氣祭スーパーよさこい 2026",
@@ -572,7 +254,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 27
+      "id": 12
     },
     {
       "title": "ナマステ・インディア2026",
@@ -593,7 +275,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 28
+      "id": 13
     },
     {
       "title": "第17回 九州観光・物産フェアin代々木2026",
@@ -614,7 +296,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 29
+      "id": 14
     },
     {
       "title": "カリブ・ラテンアメリカストリート代々木2026",
@@ -635,7 +317,28 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 30
+      "id": 15
+    },
+    {
+      "title": "東京ナイトマーケット",
+      "date": "2026-10-21",
+      "endDate": "2026-10-25",
+      "place": "東京都",
+      "url": "https://www.yoyogikoen.info/tokyo-night-market-2026-october/",
+      "source": "yoyogi",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
     },
     {
       "title": "アースガーデン 秋 2026",
@@ -656,7 +359,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 31
+      "id": 17
     },
     {
       "title": "東京雪祭2026",
@@ -677,7 +380,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 32
+      "id": 18
     },
     {
       "title": "渋谷フェスティバル2026",
@@ -698,7 +401,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 33
+      "id": 19
     },
     {
       "title": "フィエスタ・デ・エスパーニャ 2026",
@@ -719,6 +422,259 @@
       ],
       "area": "other",
       "desc": "",
+      "id": 20
+    },
+    {
+      "title": "浜口陽三と白倉嘉入展",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ミュゼ浜口陽三・ヤマサコレクションによる夏の企画展。浜口陽三と白倉嘉入の作品を展示します。",
+      "id": 21
+    },
+    {
+      "title": "トミカ・プラレールわくわくパーク @成増",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「トミカハンティング！」や「プラレールあみだくじ」に参加するとトミカかプラレールがもらえるよ！\nお子さまお一人につき1回ご参加いただけます！\n\n▼トミカハンティング！\n①11：00　②14：00\n定員：80名\n\n▼プラレールあみだくじ\n①.",
+      "id": 22
+    },
+    {
+      "title": "【東銀座駅5分】「金継ぎ」伝統工芸体験を活版印刷「中村...",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "壊れた器をよみがえらせ、新たな美しさを与える「金継ぎ」。\n\n今回の会場は、1910年創業・銀座の一等地にある活版印刷所『中村活字』。\n116年以上の歴史を誇り、今も稼働する活版印刷機が並ぶ空間は、まさに文化財級の貴重な場所です。\n活字棚が壁",
+      "id": 23
+    },
+    {
+      "title": "【東京・日本橋】 紫陽花と雨色のブーケ/アレンジメント",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "レッスン紹介\n\n紫陽花と季節のブーケ/アレンジメント\n\n紫陽花を使い、ブーケまたはアレンジメントのどちらかをお選びいただけます。\n雨の季節に映える瑞々しい紫陽花の表情を、ブルー～グリーン系の涼やかな\n色合いで表現します。\n\n講師が基本から.",
+      "id": 24
+    },
+    {
+      "title": "自分だけのガラスドームフラワーアレンジメント",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ガラスドームの中に\nご自身がときめく花材を選んで立体的に飾る\nフラワーアレンジメント。\n\n日常のあれこれから離れて、\nものづくりに集中したり\n雑談しながら楽しく作ったり\n自分の『好き』や『心地いい』に触れる時間はいかがでしょう？\n\n\n...",
+      "id": 25
+    },
+    {
+      "title": "料理の基本をしっかり学ぶ　Basicクラス",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "＜こんなことを学びます＞\n今さら聞けない、野菜の選び方、扱い方、保存の仕方から、調理の基本から応用まで\nすぐに使えるわざとコツをしっかりとレッスンします。\n\n＜こんなことが出来るようになります＞\n習ったレシピはもちろん、今まで自分で作ってい",
+      "id": 26
+    },
+    {
+      "title": "宝探しイベント『コースターおじさんのへそくり大捜索︕』",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "普段は入ることのできない「お茶の間」に特別に潜入し、「コースターおじさん」が隠し場所を忘れてしまった“へそくり”を大捜索するゲーム。発見したへそくりの金額に応じて、景品をプレゼント。",
+      "id": 27
+    },
+    {
+      "title": "15倍天体天体望遠鏡作りと月観察会",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "海苔の養殖に欠かせない潮の満ち引きは月や太陽の力によって起きている。その仕組みを学習し、ワークショップでは月観察用の15倍天体望遠鏡を組み立てる。暗くなってからは、ふるさとの浜辺公園で自分で作った天体望遠鏡や、会場に用意された本格的な天体望",
+      "id": 28
+    },
+    {
+      "title": "負けるな！ギョーザランド！！TOKYO×MOON 東京公演",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "栃木県のご当地漫画を原作とした朗読劇「負けるな！ギョーザランド！！」が、ついに東京で公演決定！ 今作は、栃木の魅力をテーマにした作品で、地域発のエンタメとして注目を集めている。今回の東京公演では、実力派キャストが集結。",
+      "id": 29
+    },
+    {
+      "title": "認知症サポーター養成講座（清心町コミュニティ会館）",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】「認知症サポーター」は、認知症について正しく理解し偏見を持たず、認知症の人や家族を温かく見守る応援者です。受講後に何か活動を求めることはありません。\n自分のためにも、家族や大切な人のためにも、認知症を正しく知って、認知症の人の応援",
+      "id": 30
+    },
+    {
+      "title": "認知症サポーター養成講座（大雲寺）",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】「認知症サポーター」は、認知症について正しく理解し偏見を持たず、認知症の人や家族を温かく見守る応援者です。受講後に何か活動を求めることはありません。\n自分のためにも、家族や大切な人のためにも、認知症を正しく知って、認知症の人の応援",
+      "id": 31
+    },
+    {
+      "title": "東なぎさクリーン作戦～ラムサール条約登録湿地で清掃活動...",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】普段は立ち入ることができない東なぎさに上陸し、漂着ごみの清掃活動を行い、清掃活動後に自然観察会を行います。",
+      "id": 32
+    },
+    {
+      "title": "間伐したマダケで水鉄砲を作ろう",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】葛西臨海公園・鳥類園の繁茂したマダケを間伐し、このマダケを使って、鋸、剪定鋏で水鉄砲を作ります。",
+      "id": 33
+    },
+    {
+      "title": "えどがわエコセンターおもちゃの病院",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【概要文】幼児・児童用のおもちゃの修理を行います。\n（注）保証期間内のものなど、修理できない場合もあります。\n（注）修理は原則無料ですが、交換部品が必要になった場合には部品代が必要になります。\n（注）1名につき1点でお願いいたします。",
       "id": 34
     },
     {
@@ -741,8 +697,8 @@
     },
     {
       "title": "Hobie足漕ぎカヤック＠豊洲ぐるり公園",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -759,8 +715,8 @@
     },
     {
       "title": "銀座 富士フォトギャラリーねこ写真展2026",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -777,8 +733,8 @@
     },
     {
       "title": "保護犬お迎え相談会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -795,8 +751,8 @@
     },
     {
       "title": "高幡不動尊あじさいまつり",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -813,8 +769,8 @@
     },
     {
       "title": "丸1日奥多摩「ドキワク」の沢遊び満喫（元気で動ける3年...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -831,8 +787,8 @@
     },
     {
       "title": "丸1日奥多摩「ドキワク」の沢遊び満喫（ちびっ子DAY）",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -849,8 +805,8 @@
     },
     {
       "title": "おはなし会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -903,8 +859,8 @@
     },
     {
       "title": "空と緑のみらいフェス",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -921,8 +877,8 @@
     },
     {
       "title": "【できる子は動きが違う】筑波OB直伝 受験本番で輝くク...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -939,8 +895,8 @@
     },
     {
       "title": "【1回1時間〜】ゼロから始めるギターレッスン【ご自宅で...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -957,8 +913,8 @@
     },
     {
       "title": "【手ぶらでOK！】藝大生が教える「透明水彩で描く花」",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -975,8 +931,8 @@
     },
     {
       "title": "飾るよろこび暮らすたのしみ 竹久夢二のデザインワーク",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -992,245 +948,9 @@
       "id": 49
     },
     {
-      "title": "人形劇「かえるくんかえるくん」",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "stage"
-      ],
-      "area": "other",
-      "desc": "小さな人たちもお膝の上で安心して見られるように、静かなピアノ曲にあわせて丁寧につくった作品。「今日はとくべつなひ」だと野うさぎくんに聞いたかえるくんが「とくべつ」を探しにでかけるお話と、森の中で新しい友達に出逢うお話の２本立て。原作はオラン",
-      "id": 50
-    },
-    {
-      "title": "文化庁『親子で伝統食教室〜夏の自由研究 in 東久留米...",
-      "date": "2026-06-14",
-      "endDate": "2026-06-14",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "昔ながらの「日本の伝統食」を親子で学び作る「夏の自由研究向け特別プログラム」。第1回梅干し作り6/28（日）、第2回麦から麦茶作り7/5（日）、第3回ワラ納豆作り7/26（日）全3連続講座。6月14日（日）先着申込締切。対象は4歳～小中学生",
-      "id": 51
-    },
-    {
-      "title": "キュレーター・トーク Vol. 10",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "インドのベンガルールを拠点に、アート、科学、および新興テクノロジーの交差点で活動するキュレーター兼クリエイティブ・プロデューサーのマデュスリー・カマック、そしてエクアドルとポルトガルにルーツをもち、ノマド的、多言語的、文化横断的な主体性を探",
-      "id": 52
-    },
-    {
-      "title": "Brass For Kids～こどものための金管コンサート～",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "0歳から参加OK！5種類の金管楽器とピアノによる「こどものための金管コンサート」。泣いたり、笑ったり、踊ったり！？世界の音楽で盛り上がろう！出演者：高橋 律哉(Tp,Tb,Eup,Hrn,Tuba)篠田 淳(Piano)。",
-      "id": 53
-    },
-    {
-      "title": "令和8年（第49回）隅田川花火大会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "享保18年(1733)に始まった両国川開きの花火の伝統を受け継ぐ花火大会。第一会場では花火コンクールを開催し、第二会場では豪快なスターマインを中心に、両会場で約20,000発を打ち上げる。",
-      "id": 54
-    },
-    {
-      "title": "江戸川区特産金魚まつり",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "【概要文】今年も「金魚まつり」の季節がやってきました。金魚まつりでは、中学生まで無料で参加いただける金魚すくいや、金魚すくいではあまり見られない品種の金魚が泳ぐ高級金魚すくい(有料)、金魚の展示販売、金魚関連グッズ販売、新鮮野菜や花の販売、",
-      "id": 55
-    },
-    {
-      "title": "【上野】0歳〜OK親子キッズヨガ♪英語もOK！英語耳と...",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「子どもの運動不足が気になる」\n「親子で一緒に楽しめるイベントを探している」\n「0歳・1歳でも参加できる室内イベントに行きたい」\n「上野エリアで親子体験を探している」\n\nそんなご家族におすすめの、親子で楽しめるキッズヨガ＆ふれあい運動あそび",
-      "id": 56
-    },
-    {
-      "title": "都美セレクション グループ展",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "東京都美術館開館100周年を記念した都美セレクションのグループ展です。\nGallery AからCまで複数のギャラリーで展示が開催されます。\n観覧は無料です。",
-      "id": 57
-    },
-    {
-      "title": "環境問題について親子で考えるイベント 「生分解クエスト...",
-      "date": "2026-06-27",
-      "endDate": "2026-06-27",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "株式会社オープンハウスグループは、株式会社カネカと共同で、夏休み前の時期である2026年6月27日(土)にイベント「生分解クエスト」を実施いたします。2024年から始まり、毎回満員をいただく人気企画として、今回で3度目の実施となります！\n\n",
-      "id": 58
-    },
-    {
-      "title": "東京シティアイ落語会",
-      "date": "2026-06-08",
-      "endDate": "2026-06-08",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "stage"
-      ],
-      "area": "other",
-      "desc": "2026年6月8日（月）に東京シティアイで開催される落語会です。\n出演は春風亭昇羊（しゅんぷうていしょうよう）。\n17時開場、18時開演。\n入退場自由でチケット不要。席は先着順です。\n当日、東京シティアイカフェbyプロントで1000円（税込",
-      "id": 59
-    },
-    {
-      "title": "拡大するシュルレアリスム",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "視覚芸術から広告、ファッション、インテリアへとシュルレアリスムが及ぼす影響をテーマにした展覧会です。\n日常を変え、世界を変えるシュルレアリスムの魅力を紹介します。\n同時開催の関連企画もあります。",
-      "id": 60
-    },
-    {
-      "title": "葛飾菖蒲まつり",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "葛飾区内の水元公園はなしょうぶ園と堀切菖蒲園で開催される菖蒲の祭典です。\n2026年5月25日（月）から6月14日（日）まで開催。\n全国みどりと花のフェア かつしかも同期間開催されます。",
-      "id": 61
-    },
-    {
-      "title": "第四十二回 文京あじさいまつり",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "文京区制80周年記念の第四十二回文京あじさいまつりです。白山神社で開催され、多くのあじさいが楽しめます。駐車場はありませんので公共交通機関の利用がおすすめです。",
-      "id": 62
-    },
-    {
       "title": "文字サイズ",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -1243,7 +963,62 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 63
+      "id": 50
+    },
+    {
+      "title": "上野は子ども無料が原則。親子で本物に触れる博物館・美術館ガイド",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://www.kids-event.jp/tips/ueno-kids-free-museum/",
+      "source": "kids",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "museum"
+      ],
+      "area": "other",
+      "desc": "「博物館って入館料が高いし、子どもには退屈なのでは」。 そう感じて、つい候補から外していませんか。 静かにしなければいけない場所で、子どもが騒いだらどうしようと身構える気持ちも、よく分かります。 でも、上野公園に関しては […]",
+      "id": 51
+    },
+    {
+      "title": "小学校低学年の「好き」が見つかる、東京の体験スポット15選【2026年版】",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://www.kids-event.jp/tips/teigakunen-taiken-tokyo/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "週末になると、決まって頭をよぎる問いがあります。「今週、子どもをどこに連れていこう」。小学校に上がると、この悩みが少しだけ複雑になります。 幼児向けのプレイスペースは、低学年の子には簡単すぎて物足りない。かといって高学年 […]",
+      "id": 52
+    },
+    {
+      "title": "【梅雨まるごと攻略】東京の子ども遊び場ガイド｜体を動かせる屋内スポット＆週末ローテで約40日を乗り切る",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都",
+      "url": "https://www.kids-event.jp/tips/tsuyu-kids-aso-biba-tokyo/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「また今日も家か」と、窓の外の雨を見てため息が出る朝。 気づけば子どもにYouTubeばかり見せてしまって、少し罪悪感が残る。 「そういえば梅雨って、あと何週間あるんだっけ」と数えはじめると、なんだか気が遠くなってきます […]",
+      "id": 53
     },
     {
       "title": "リアル脱出ゲーム「危機迫る展望台からの脱出」",
@@ -1261,7 +1036,7 @@
       ],
       "area": "other",
       "desc": "海抜250m・天高11mという特別なロケーションならではの体験ができる、リアル脱出ゲーム「危機迫る展望台からの脱出」が、2026年6月19日（金）から7月21日（火）まで六本木ヒルズ展望台「東京シティビュー」で開催！",
-      "id": 64
+      "id": 54
     },
     {
       "title": "スパイダーマン：ブランド・ニュー・デイ",
@@ -1279,7 +1054,7 @@
       ],
       "area": "other",
       "desc": "トム・ホランド演じるピーター・パーカー= スパイダーマンの新たなる物語『スパイダーマン：ブランド・ニュー・デイ』が、2026年7月31日（金）日米同時公開！ 世界が僕を忘れても、愛する人を守り、戦う！",
-      "id": 65
+      "id": 55
     },
     {
       "title": "第123回サマーステップコンサート ～ドリーミー・ナイトミュージカル＆クラシック～",
@@ -1298,7 +1073,7 @@
       ],
       "area": "other",
       "desc": "子どもと一緒に家族そろって楽しめるコンサート住友不動産グループの『第123回サマーステップコンサート』が2026年7月24日（金）東京ガーデンシアターで開催！6,000名を無料招待！ミュージカルの名曲とクラシックをオーケストラでお届け！",
-      "id": 66
+      "id": 56
     },
     {
       "title": "Nikon Small World / NIKON JOICO AWARD展『ミクロの世界 －生命（いのち）の未来を照らす－』",
@@ -1316,7 +1091,7 @@
       ],
       "area": "other",
       "desc": "優れた光学技術で世界をリードする株式会社ニコンの顕微鏡事業が2026年7月に101年目を迎えることを機に、子どもから大人まで、専門知識がなくてもミクロの世界の魅力に触れることができる特別展示Nikon Small World / NIKON",
-      "id": 67
+      "id": 57
     },
     {
       "title": "OUTDOOR CINEMA 2026（アウトドア シネマ 2026）",
@@ -1334,7 +1109,7 @@
       ],
       "area": "other",
       "desc": "緑が広がる麻布台ヒルズの中央広場で、ゆったりと映画を楽しめる屋外映画イベント「OUTDOOR CINEMA 2026（アウトドア シネマ 2026）」が2026年5月30日（土）・31日（日）に開催！",
-      "id": 68
+      "id": 58
     },
     {
       "title": "ミニオンズ＆モンスターズ",
@@ -1352,7 +1127,7 @@
       ],
       "area": "other",
       "desc": "全世界で大人気のアニメーション映画『怪盗グルー』『ミニオンズ』シリーズ。その大人気シリーズの最新作『ミニオンズ＆モンスターズ』が、2026年8月7日（金）より全国公開！",
-      "id": 69
+      "id": 59
     },
     {
       "title": "逃走中リミナルワールドVR空間で逃げ切れ",
@@ -1370,7 +1145,7 @@
       ],
       "area": "other",
       "desc": "「逃走中」の世界をVR空間で体験できる次世代型イベント「逃走中リミナルワールド VR空間で逃げ切れ」が、6月27日（土）～9月27日（日）にダイバーシティ東京プラザ6Fにて開催！",
-      "id": 70
+      "id": 60
     },
     {
       "title": "TVアニメ「Dr.STONE」×Space Travelium TeNQ 企画展「ROAD TO THE MOON（ロード トゥ ザ ムーン）」",
@@ -1388,7 +1163,7 @@
       ],
       "area": "other",
       "desc": "東京ドームシティにある宇宙体感施設「Space Travelium TeNQ（スペーストラベリウムテンキュー）」と大人気TVアニメ「Dr.STONE」が2026年7月18日（土）～10月18日（日）にコラボ！",
-      "id": 71
+      "id": 61
     },
     {
       "title": "音楽の絵本 with パイプオルガン（7/25 東京オペラシティ）",
@@ -1406,7 +1181,7 @@
       ],
       "area": "other",
       "desc": "動物たちによる楽しい演奏で、毎年子どもたちを中心に大人気の演奏会「音楽の絵本 with パイプオルガン」が、2026年7月25日（土）に東京オペラシティで開催！",
-      "id": 72
+      "id": 62
     },
     {
       "title": "夏休みスペシャル！こども性教育2026 大人も子どもも学べる！令和の「カラダとココロのまもり方」",
@@ -1424,7 +1199,7 @@
       ],
       "area": "other",
       "desc": "子ども性教育2026 令和の「カラダとココロのまもり方」が2026年7月26日（日）Zoomによるオンライン開催！",
-      "id": 73
+      "id": 63
     },
     {
       "title": "ロバの音楽座とチリンとドロン「ガランピーな音楽会」",
@@ -1442,7 +1217,7 @@
       ],
       "area": "other",
       "desc": "ロバの音楽座とチリンとドロン「ガランピーな音楽会」が2026年6月7日（日）ノバホール（つくば市）で開催！",
-      "id": 74
+      "id": 64
     },
     {
       "title": "プラザ・マルシェVol.6",
@@ -1460,7 +1235,7 @@
       ],
       "area": "other",
       "desc": "川崎市内の「おいしいもの」と「たのしいもの」を集めて開催しているプラザ・マルシェが 2026年6月20日（土）川崎市民プラザで開催！",
-      "id": 75
+      "id": 65
     },
     {
       "title": "ミニ盆栽植え込み体験講座",
@@ -1478,7 +1253,7 @@
       ],
       "area": "other",
       "desc": "手のひらに感じる日本文化　ミニ盆栽の植え込み体験ワークショップ「ミニ盆栽植え込み体験講座」が2026年7月18日（土）に玉川せせらぎホールで開催！",
-      "id": 76
+      "id": 66
     },
     {
       "title": "ソープボックス・モックカー作り＆タイムアタックレース体験教室",
@@ -1496,7 +1271,7 @@
       ],
       "area": "other",
       "desc": "夏休みに親子でものづくりの楽しさを体験できるイベント「ソープボックス・モックカー作り＆タイムアタックレース体験教室」が8月1日（土）に玉川せせらぎホールで開催！",
-      "id": 77
+      "id": 67
     },
     {
       "title": "【球心会】野球原体験イベント“PLAY KIDS”",
@@ -1514,7 +1289,7 @@
       ],
       "area": "other",
       "desc": "野球原体験イベント「BEYOND OH！PLAY KIDS」が2026年6月14日（日）明治神宮野球場および周辺施設で開催！",
-      "id": 78
+      "id": 68
     },
     {
       "title": "三井不動産 SAMURAI BLUE 3D EXPERIENCE Presented by SAISON（サムライブルー スリーディー エクスペリエンス プレゼンテッド バイ セゾン）",
@@ -1532,12 +1307,12 @@
       ],
       "area": "other",
       "desc": "三井不動産 サムライブルー スリーディー エクスペリエンス プレゼンテッド バイ セゾンが、2026年5月29日（金）〜7月20日（月・祝）MIYASHITA PARKで開催！",
-      "id": 79
+      "id": 69
     },
     {
       "title": "AIは「依存」の対象か「共創」のツールか？『ショートショート フィルムフェスティバル＆アジア 2026』ノミネートの現役高専生・福田悠人監督が描く、デジタル世代の “AIとの距離感”",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://www.kids-event.jp/interview/ssff_director_fukuda/",
       "source": "kids",
@@ -1550,7 +1325,7 @@
       ],
       "area": "other",
       "desc": "アジア最大級の国際短編映画祭『ショートショート フィルムフェスティバル＆アジア 2026（SSFF 2026）』にノミネートされた『箱庭のAI』を制作した奈良工業高等専門学校在学中の福田悠人監督に、AIとの恋愛をテーマとした作品、そしてAI",
-      "id": 80
+      "id": 70
     },
     {
       "title": "「FunFunおんがく団」ミニライブ（ゆり鑑賞ラブウィーク2026）",
@@ -1568,7 +1343,7 @@
       ],
       "area": "other",
       "desc": "「ゆり鑑賞ラブウィーク2026」最終日の2026年6月7日（日）14時より「FunFunおんがく団」ミニライブが実施！NHKの子ども番組で人気を博した“ともとも”こと山口ともさんも登場！",
-      "id": 81
+      "id": 71
     },
     {
       "title": "展覧会「マリー・アントワネット・スタイル」で、自分らしく生きる “生き方” を学ぶ",
@@ -1586,7 +1361,7 @@
       ],
       "area": "other",
       "desc": "横浜美術館で2026年8月1日（土）から開催される展覧会「マリー・アントワネット・スタイル」の発表会が5月19日（火）に行われ、横浜美術館 館長の蔵屋美香氏、展覧会アンバサダーの中条あやみさんが登壇し展覧会の内容や見どころを紹介！",
-      "id": 82
+      "id": 72
     },
     {
       "title": "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』完成披露試写会ご招待！",
@@ -1604,7 +1379,7 @@
       ],
       "area": "other",
       "desc": "『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』が2026年6月26日（金）全国公開！それを記念して完成披露試写会にご招待！ 舞台挨拶のある特別な試写会です！",
-      "id": 83
+      "id": 73
     },
     {
       "title": "新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！",
@@ -1622,12 +1397,12 @@
       ],
       "area": "other",
       "desc": "大人気漫画『ケロロ軍曹』のアニメ放送20周年記念プロジェクトの一環として2010年以来16年ぶりの新作『新劇場版☆ケロロ軍曹 復活して速攻地球滅亡の危機であります！』が2026年6月26日（金）全国公開！",
-      "id": 84
+      "id": 74
     },
     {
       "title": "【東京・2歳】おでかけおすすめ15選｜発達別×シーン別で選ぶ完全ガイド【2026年版】",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/2years-outing-tokyo/",
       "source": "kids",
@@ -1642,7 +1417,7 @@
       ],
       "area": "other",
       "desc": "2歳を連れて東京のどこに出かけるか、金曜の夜に検索タブを何個も開いてはため息、という親はきっと多いはずです。 1歳のころより体力もイヤイヤもひと回り増えて、かといって5歳向けのテーマパークはまだ早い。ちょうどその狭間で、 […]",
-      "id": 85
+      "id": 75
     },
     {
       "title": "【取材レポート】ディノサファリ 2026（DINO SAFARI 2026）開幕！ AI時代だからこそ、子どもたちの脳に一生刻まれる “本物の衝撃” を。初登場のフクイサウルスに親子で熱狂！",
@@ -1660,12 +1435,12 @@
       ],
       "area": "other",
       "desc": "体験型「恐竜」ライブエンターテインメント「ディノサファリ 2026（DINO SAFARI 2026）」が2026年4月24日（金）～5月6日（水・振休）のゴールデンウィークに渋谷ヒカリエで開催！ 初日24日（金）に行われたディノサファリ ",
-      "id": 86
+      "id": 76
     },
     {
       "title": "東京の3歳向け体験スポット15選【2026年版】｜発達段階で選ぶジャンル別完全ガイド",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/3years-taiken-tokyo/",
       "source": "kids",
@@ -1678,7 +1453,7 @@
       ],
       "area": "other",
       "desc": "3歳は、言葉も体も一気に成長し、「自分でやりたい」気持ちが強くなる時期です。一方で集中力は15〜30分ほどで切れやすく、身長100cm前後の壁に遊具の対象年齢で引っかかることもあります。おでかけサイトの「3歳から」という […]",
-      "id": 87
+      "id": 77
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -1696,7 +1471,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 88
+      "id": 78
     },
     {
       "title": "『ザ・スーパーマリオギャラクシー・ムービー』特製ノート プレゼント！",
@@ -1714,7 +1489,7 @@
       ],
       "area": "other",
       "desc": "待望の続編『ザ・スーパーマリオギャラクシー・ムービー』が2026年4月24日（金）より全国公開！ 映画の公開を記念して『ザ・スーパーマリオギャラクシー・ムービー』特製ノートをプレゼント！",
-      "id": 89
+      "id": 79
     },
     {
       "title": "映画『トムとジェリー時をこえる魔法の羅針盤』オリジナル巾着プレゼント！",
@@ -1732,66 +1507,12 @@
       ],
       "area": "other",
       "desc": "世代を超えて世界中で愛される “トムとジェリー” 最新映画『トムとジェリー時をこえる魔法の羅針盤』が2026年5月29日（金）全国公開！それを記念して映画『トムとジェリー』のオリジナル巾着をプレゼント！",
-      "id": 90
-    },
-    {
-      "title": "MANGALOGUE（マンガローグ）：火の鳥",
-      "date": "2026-03-28",
-      "endDate": "2026-04-22",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/event/20260422_mangalogue_hinotori/",
-      "source": "kids",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2026年3月28日（土）に誕生した「モン タカナワ：ザ ミュージアム オブ ナラティブズ」では、こけら落とし公演「MANGALOGUE（マンガローグ）：火の鳥」を2026年4月22日（水）～5月16日（土）に開催！",
-      "id": 91
-    },
-    {
-      "title": "ぐるぐる展—進化しつづける人類の物語",
-      "date": "2026-03-28",
-      "endDate": "2026-03-28",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/event/20260328_tgc_spiral/",
-      "source": "kids",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2026年3月28日（土）に誕生した「モン タカナワ：ザ ミュージアム オブ ナラティブズ」では、開館を記念した特別展「ぐるぐる展—進化しつづける人類の物語」を2026年3月28日（土）～9月23日（水・祝）に開催！",
-      "id": 92
-    },
-    {
-      "title": "高輪ワールドフェスティバル2026（TAKANAWA WORLD FESTIVAL 2026）",
-      "date": "2026-03-28",
-      "endDate": "2026-05-05",
-      "place": "東京都",
-      "url": "https://www.kids-event.jp/event/20260505_tgc_worldfes/",
-      "source": "kids",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2026年3月28日（土）にグランドオープンを迎えた「高輪ゲートウェイシティ」ではゴールデンウィークに多彩なイベントを開催！「高輪ワールドフェスティバル2026」は2026年5月5日（火・祝）～6日（水・休）に開催！",
-      "id": 93
+      "id": 80
     },
     {
       "title": "オーケストラ・チェルカトーリ 第7回演奏会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202603085836271.html",
       "source": "concert",
@@ -1806,32 +1527,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 94
-    },
-    {
-      "title": "東京アカデミーオーケストラ",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605082630752.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 95
+      "id": 81
     },
     {
       "title": "横浜開港祭 ザ ブラス クルーズ 2026   夜公演 志　公募御招待",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202605234084338.html",
       "source": "concert",
@@ -1846,12 +1547,32 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 96
+      "id": 82
+    },
+    {
+      "title": "東京カンマーフィルハーモニー 第32回定期演奏会",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202605319897959.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 83
     },
     {
       "title": "REICH90『 2 x 4 x 6 』彩の国さいたま芸術劇場",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202604055594924.html",
       "source": "concert",
@@ -1866,12 +1587,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 97
+      "id": 84
     },
     {
       "title": "ベイジャ・フロー四重奏団 来日公演",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202605064495454.html",
       "source": "concert",
@@ -1886,12 +1607,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 98
+      "id": 85
     },
     {
       "title": "🍊マザーズバンドおれんじ🍊「第17回おれんじコンサート」",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202604069586618.html",
       "source": "concert",
@@ -1906,12 +1627,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 99
+      "id": 86
     },
     {
       "title": "ムービー・シアター・オーケストラ 2026年公演",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202604259599548.html",
       "source": "concert",
@@ -1926,52 +1647,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 100
-    },
-    {
-      "title": "羽田アカデミー管弦楽団 第8回定期演奏会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202603246256254.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 101
-    },
-    {
-      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 102
+      "id": 87
     },
     {
       "title": "丸山かおり 丹沢広樹 Piano＆Violin DUO CONCERT",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202605221949321.html",
       "source": "concert",
@@ -1986,14 +1667,14 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 103
+      "id": 88
     },
     {
-      "title": "三田フィルハーモニーオーケストラ 第34回定期演奏会",
-      "date": "2026-05-31",
-      "endDate": "2026-05-31",
+      "title": "陸上自衛隊東部方面音楽隊第85回定期演奏会",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/20250527111.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202604162389551.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -2006,7 +1687,47 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 104
+      "id": 89
+    },
+    {
+      "title": "サラトガ高校x岩倉高等学校吹奏楽部ジョイントコンサート",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202604221821973.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 90
+    },
+    {
+      "title": "九州交響楽団「公開リハーサル」",
+      "date": "2026-06-01",
+      "endDate": "2026-06-01",
+      "place": "東京都内",
+      "url": "https://www.concertsquare.jp/blog/2026/202604128139941.html",
+      "source": "concert",
+      "cost": "free",
+      "ages": [
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 91
     }
   ]
 }
