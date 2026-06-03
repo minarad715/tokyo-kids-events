@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-02T03:32:39.512714",
+  "updated": "2026-06-03T03:40:14.612657",
   "region": "chiba",
-  "count": 36,
+  "count": 38,
   "events": [
     {
       "title": "INA WAN FESTA",
@@ -46,6 +46,27 @@
       "id": 2
     },
     {
+      "title": "X Games Chiba 2026",
+      "date": "2026-07-03",
+      "endDate": "2026-07-05",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/x-games-chiba-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 3
+    },
+    {
       "title": "キッチンカー屋台総選挙2026 千葉大会・全芸オープン2026 千葉大会",
       "date": "2026-07-04",
       "endDate": "2026-07-05",
@@ -64,7 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 3
+      "id": 4
     },
     {
       "title": "PIST6夏まつり2026",
@@ -85,7 +106,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 4
+      "id": 5
     },
     {
       "title": "千葉開府900年記念 幕張ビーチ花火フェスタ2026（第48回千葉市民花火大会）",
@@ -107,7 +128,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 6
     },
     {
       "title": "SUMMER SONIC 2026（サマーソニック2026）東京会場",
@@ -128,7 +149,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
+      "id": 7
     },
     {
       "title": "ROCK IN JAPAN FESTIVAL 2026",
@@ -149,12 +170,33 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 8
     },
     {
-      "title": "酒々井プレミアム・アウトレット　PREMIUM OUT...",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "title": "Beachside Art Festival Nuts Party 2026",
+      "date": "2026-09-27",
+      "endDate": "2026-09-27",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/beachside-art-festival-nuts-party-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "松竹大歌舞伎 尾上菊之助改め 八代目 尾上菊五郎 襲名披露",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -166,13 +208,121 @@
         "festival"
       ],
       "area": "other",
-      "desc": "夏物ファッションや暑い夏に役立つアイテムをお得に購入できる「PREMIUM OUTLETS SALE（プレミアム・アウトレット セール）」。抹茶スイーツを扱う「辻利兵衛本店」が催事出店。また、地元特産品を販売する「ちばI・CHI・BA」（6",
-      "id": 8
+      "desc": "音羽屋にゆかりある演目を揃えた今回の公演は、歌舞伎味の詰まった舞踊『雨の五郎（片岡愛之助）』、『藤娘（八代目尾上菊五郎）』、河竹黙阿弥作の江戸情緒溢れる名作『魚屋宗五郎』と、初めて歌舞伎を鑑賞する人も十分楽しめる内容となっている。襲名披露公",
+      "id": 10
+    },
+    {
+      "title": "「東京湾口道路建設促進」第11回富津市民花火大会",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "「富津市民花火大会」として11回目の節目を迎える今年。「東京湾口道路建設促進」を冠に掲げ、地域の夢と希望を象徴する花火大会として開催。東京湾からの涼しい潮風にあたりながらレーザー光線や音で多彩な演出の花火が楽しめる。打上球数は2000発、2",
+      "id": 11
+    },
+    {
+      "title": "浅間神社例祭「羯鼓舞」",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "明治以前より同地区内の長男の間に伝承され、7月の第1日曜日に浅間神社例祭および旱魃の続く年、雨乞い祈願のために上演奉納されてきた伝統ある行事。",
+      "id": 12
+    },
+    {
+      "title": "鴨川市民花火大会",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "鴨川の夏の風物詩として親しまれている「鴨川市民花火大会」が、今年も開催。雄大な太平洋を背景に、夜空を彩る約3,000発の花火が市民と観光客を魅了する。打ち上げの舞台は「日本の渚100選」にも選ばれた前原・横渚海岸。会場周辺では屋台も出店し、",
+      "id": 13
+    },
+    {
+      "title": "ちょいphoto",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "前回大好評をいただきましたイベント【ちょいphoto】を限定開催します♪\n通常の撮影プランでは、70cutで33,800円〜（税抜）となっておりますが、\n「フォトスタジオでの撮影が気になっていたのでお試しで撮ってみたい！」\n「バースデーフォ",
+      "id": 14
+    },
+    {
+      "title": "【柏】ショベルカーdeおかしすくい",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "★ショベルカーdeおかしすくい★\n＼＼あこがれのショベルカー登場！？／／\n大人気のショベルカーを操縦して\nおかしを沢山GETしよう☆\n\nはたらく車好きもそうでないお友だちも、\nワクワク＆ドキドキの操縦体験！！\nシャッターチャンス満載になるこ",
+      "id": 15
+    },
+    {
+      "title": "♪父の日　ワークショップ♪",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "お絵描きやシールを張ってオリジナルスマホスタンドを作ろう！！\n似顔絵やメッセージを書いてもOK♪ぜひこの機会に作ってみてはいかがでしょうか？",
+      "id": 16
     },
     {
       "title": "​【浦安市川】元鹿島アントラーズコーチのサッカーパーソ...",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -185,12 +335,12 @@
       ],
       "area": "other",
       "desc": "​■ なぜ、今「パーソナル指導」が必要なのか？\nチーム練習は「組織としての戦術」を学ぶ場です。しかし、選手一人ひとりの身体のクセや技術の細かなミスを、その場でマンツーマンで修正することは非常に困難です。\n本講座では、鹿島アントラーズ育成部で",
-      "id": 9
+      "id": 17
     },
     {
       "title": "【2026夏休み限定工作】ベルトコンベアからくり引き出...",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -203,12 +353,12 @@
       ],
       "area": "other",
       "desc": "＼宝物を運ぶ！ベルトコンベアーからくり引き出し／\n\n上の穴から宝物やお金を入れて、ハンドルをクルクル回すと…ベルトコンベアーに乗って運ばれて、引き出しの中にストン！\n\nでも、この引き出しはただの収納ではありません。\n\nからくり仕掛けになって",
-      "id": 10
+      "id": 18
     },
     {
       "title": "【房の駅】夏のあま味噌つくり教室",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -221,12 +371,30 @@
       ],
       "area": "other",
       "desc": "麹1.5倍・塩分8％の甘味噌が、\n一ヶ月ほどで約２kg出来上がります！\n\n\n味噌仕込みと言えば冬が本番。\n･･･なのですが、暖かい陽気を利用し、麹割合を増やし、\n塩を少なくした短期熟成で、約2kgのあま味噌を仕込みます。\nひと月ほどで出来上",
-      "id": 11
+      "id": 19
+    },
+    {
+      "title": "子どものための箏・尺八クラブ in ちば",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "①説明会・体験会、②稽古(30分毎の少人数グループレッスン)、③おさらい会。県三曲協会の教授資格者が優しく丁寧に指導します。\n対象は小学2年〜中学生。先着20人。箏と尺八は主催者が用意します。",
+      "id": 20
     },
     {
       "title": "成田祇園祭特別講演会",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -239,7 +407,152 @@
       ],
       "area": "other",
       "desc": "300年の歴史をもち、毎年約45万人の見物客が訪れる成田の一大イベント「成田祇園祭」。そんな成田祇園祭についてまとめた『成田祇園祭々禮考』の著者である関根賢次氏（前成田市副市長）による「成田祇園祭をより楽しむため」の講演会を開催。祭りの歴史",
-      "id": 12
+      "id": 21
+    },
+    {
+      "title": "【6月】思いっきり描こう！好奇心を刺激するインクルーシ...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆\n思いっきりつくろう！\n「考え、みつけ、つくる」たのしさを体験する\nアートワークショップです\n◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆◇◆\n\n「つめたい！ぐにゃぐにゃ！気持ちいい！」\n子どもたちは手のひら",
+      "id": 22
+    },
+    {
+      "title": "ぽかぽか ぷらす+",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "月に一回、親子でふれあいながら参加できる五感遊びでママとの時間をより豊かにしたり🤱\nフォトブースやワークショップを通してお子さまの成長記録を残したり📷\n\n各時間、ふれあいを通しておやこで楽しめる内容となっております☺️❤️\n1歳からの子育て",
+      "id": 23
+    },
+    {
+      "title": "人形劇「カメジロー宇宙にいく」NPOこどもすぺーす柏親...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "カメジローとカメタローは仲良し兄弟。けれど遊んでいるといつもケンカになってしまいます。\nある日「おまえなんか宇宙へ飛んでっちゃえ！」兄弟ゲンカの末、お兄ちゃんのカメタローが弟のカメジローに言ってしまいます。そんな二人の前に「いいんですね？」",
+      "id": 24
+    },
+    {
+      "title": "【6/6(土)・13(土)・20(土)開催！】たまいれ...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "大盛り上がりイベント！\n\nみんなでたくさんボールをつつに入れて、\n声を合わせて「ドッカーン！！」\n掛け声と同時にボールが大噴火するよ！\n\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 25
+    },
+    {
+      "title": "【6/12(金)開催】ベビーイベント★1さいのお誕生日会",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "初めてのお誕生日を迎えるお友達を、みんなでお祝い！\n最後に足形スタンプをおして素敵な思い出づくりをしましょう♪\n\n※1歳のお誕生日を迎えるお子様が対象です。",
+      "id": 26
+    },
+    {
+      "title": "【6/19(金)・29(月)開催】ベビーイベント★はい...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ハイハイで進む赤ちゃん達を、ゴールまで誘導してあげましょう！\n参加してくれた赤ちゃんには、記念の足形スタンプもプレゼント♪\n\n※6ヶ月～1歳半までのお子様が対象です。",
+      "id": 27
+    },
+    {
+      "title": "🍹食品サンプル風のクリームソーダをつくろう🍹",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🤩火・水・木・日曜日、子どもクラス大募集中🤩\n\n今回の工作レッスンでは食品サンプルのクリームソーダをつくります🍹\nトッピングなどもほんものらしく見えるように工夫してみましょう🌟\n\n\n\n東武野田線豊四季駅から徒歩5分の場所にある絵画造形教室で",
+      "id": 28
+    },
+    {
+      "title": "6月21日(日)開催！海苔好きですか？自分でつくる海苔...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "おにぎり、寿司はもちろん、日本の食卓に欠かせない海苔。\n海苔って、どこで獲れて、どうやってつくるか知ってる？\n\n木更津を含む千葉内房地域では昔から海と共に暮らし海苔づくりの文化が受け継がれてきました。\n木の枠に海苔を流し込み、一枚一枚丁寧に",
+      "id": 29
     },
     {
       "title": "6月26日(金)松戸市馬橋　アニバーサリー撮影会",
@@ -257,12 +570,12 @@
       ],
       "area": "other",
       "desc": "6月26日(金)に松戸にておひるねアート撮影会を開催いたします！\nテーマはアニバーサリーです♡\n\n100日祝いやハーフバースデー、お誕生日の記念におひるねアートで素敵な写真を残しませんか？\nもちろん記念日以外のご参加でも大丈夫です(^^)\n",
-      "id": 13
+      "id": 30
     },
     {
       "title": "【7/11(土)船橋】無料✨夏のお子さま撮影会",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -275,12 +588,12 @@
       ],
       "area": "other",
       "desc": "＼ 来場80,000組突破！／\n＜無料＞プロカメラマンが撮影☆\n写真10枚＋抽選で追加プレゼント🎁\n\n\nイベントの詳細・ご予約は、\n▽▼ページ下部の「予約サイト」へ▼▽\n\n\n-------------------------------..",
-      "id": 14
+      "id": 31
     },
     {
       "title": "★松戸★【無料】7/28(火)☆ベビー・キッズ・マタニ...",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -293,12 +606,30 @@
       ],
       "area": "other",
       "desc": "◎家族写真撮影に無料でご招待！\n撮影したお写真はカメラマンがチョイスしてデータで10 枚プレゼントいたします。\n✓　お着換えや衣装替えなども大歓迎！貸し切りでたっぷり撮影いたします。\n✓　小物などのお持ち込みも大歓迎です。たくさんお持ちくだ",
-      "id": 15
+      "id": 32
+    },
+    {
+      "title": "特撮がるず フリーライブ＆鳳神ヤツルギ11 ミニアクシ...",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "特撮がるずのフリーライブと鳳神ヤツルギ11のミニアクションショーを開催します。\n合同優先入場整理券の配布、入場開始、ハイタッチ会や有料のチェキ・スマホ撮影会もあります。\n雨天決行・荒天中止のイベントです。",
+      "id": 33
     },
     {
       "title": "【DCM新船橋店】7月DIYイベント",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -311,12 +642,12 @@
       ],
       "area": "other",
       "desc": "スタッフが丁寧に教えますので、\n初心者の方や小さなお子さまも安心してご参加ください♪\n◎手ぶらでOK\n◎後片付け不要\n\n《開催日時・開催内容》\nワークショップスケジュールをご確認ください。\n\n《予約方法》\nご予約は各開催日の【2日前まで..",
-      "id": 16
+      "id": 34
     },
     {
       "title": "【DCM八街店】7月DIYイベント",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -329,12 +660,12 @@
       ],
       "area": "other",
       "desc": "スタッフが丁寧に教えますので、\n初心者の方や小さなお子さまも安心してご参加ください♪\n◎手ぶらでOK\n◎後片付け不要\n\n《開催日時・開催内容》\nワークショップスケジュールをご確認ください。\n\n《予約方法》\nご予約は各開催日の【2日前まで..",
-      "id": 17
+      "id": 35
     },
     {
       "title": "【DCM白井店】7月DIYイベント",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -347,12 +678,12 @@
       ],
       "area": "other",
       "desc": "スタッフが丁寧に教えますので、\n初心者の方や小さなお子さまも安心してご参加ください♪\n◎手ぶらでOK\n◎後片付け不要\n\n《開催日時・開催内容》\nワークショップスケジュールをご確認ください。\n\n《予約方法》\nご予約は各開催日の【2日前まで..",
-      "id": 18
+      "id": 36
     },
     {
       "title": "6/24 ベビコメおはなし会/音楽と絵本",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
+      "date": "2026-06-03",
+      "endDate": "2026-06-03",
       "place": "千葉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
@@ -365,296 +696,7 @@
       ],
       "area": "other",
       "desc": "内容\n①コメットさんのおはなし会\nシアターを交えながら、コンサートリーディングという絵本に音楽をのせた読み聞かせをお届けします。\n最後に、ママに向けて1冊読ませていただきます。\n②交流タイム\nお子さまにおもちゃを出します。見守りながら、育児",
-      "id": 19
-    },
-    {
-      "title": "キッズ入門スポーツ教室",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "キッズ入門スポーツ教室は、スポーツの基礎知識や基本動作を身に付ける初心者向けの教室です。\n中央区のYohaSアリーナなどで、バドミントン、卓球、合気道、バレーボールの教室を開催します。\n美浜区の真砂コミュニティセンターではヒップホップダンス",
-      "id": 20
-    },
-    {
-      "title": "ふれあいサマーハーティ＆パーティー",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ステージ発表、盆踊り、ゲートボール体験、ボディペイント、わたあめなどのイベントです。\n当日は直接会場へお越しください。詳しくはお問い合わせください。",
-      "id": 21
-    },
-    {
-      "title": "プラネタリウム特別上映 千葉開府900年記念番組",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "千葉開府900年記念番組のプラネタリウム投影を行います。900年前の千葉の様子や星空、「妙見信仰」に関する星々（北極星、北斗七星）を紹介します。\nプログラムは一般向け「星空散歩～千葉・星空の記憶～」と小・中学生向け「ほしぞら学校 900年前",
-      "id": 22
-    },
-    {
-      "title": "ことばと音楽であそぼう♪ and はじめての多言語",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "世界のことばとリズムで親子ふれあいタイム。親子で参加できる体験講座「7カ国語で話そう。」主催：（一財）言語交流研究所 ヒッポファミリークラブ、後援：千葉市。0才からのお子さまとママのための多言語と音楽を楽しむ内容。参加費無料、予約優先、当日",
-      "id": 23
-    },
-    {
-      "title": "【船橋】　6/27　オリジナルMY傘づくり",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "オリジナルMY傘づくり ※限定15組様\n☆…★…☆…★…☆…★…☆…★…☆…★…☆…\nin 体感すまいパーク船橋\n\n雨の日が待ち遠しくなる☆ハンドクラフト「デコパージュ」を使ったオリジナル傘づくりを開催します！\n簡単に楽しくデコレーションが",
-      "id": 24
-    },
-    {
-      "title": "【船橋】　わなげチャレンジ!",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "わなげチャレンジ！ \n☆…★…☆…★…☆…★…☆…★…☆…★…☆…\nin 体感すまいパーク船橋\n\nわなげチャレンジを開催します！\n\n見事、輪が入れば、嬉しい景品をプレゼント！\n点数に応じて素敵な日用品をご用意しております♪\n小さいお子様か.",
-      "id": 25
-    },
-    {
-      "title": "楽器の自由研究",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "夏休みの自由研究にぴったり。\n古くから伝わる楽器の“音”と“しくみ”を聴いて・触れて・学べる体験型ワークショップです。\n\n【笙】\n世界で最も古いリード楽器の仲間、笙（しょう）。\n雅楽の中でも特に神秘的な役割を持つ楽器です。\n実際に楽器に触れ",
-      "id": 26
-    },
-    {
-      "title": "Summer English Concert",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子どもたちが“英語って楽しい！”と自然に感じられる、\n音楽とお話がひとつになった 40分のスペシャルコンサートです。\n\nMCはインターナショナル幼稚園でも活躍する英語のお姉さん。\nソプラノ歌手とピアニストと一緒に、\n英語で歌を聴いたり、歌っ",
-      "id": 27
-    },
-    {
-      "title": "初心者歓迎！ 6月親子サバゲー　in　BATTLE",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "全員が通常より威力の弱いボーイズガンを使うのでサバゲーデビューにピッタリ！\n安心安全にサバゲーが楽しめます。\n\nまた、サバゲー初心者には初心者講習をします。\n初心者講習ではエアガンの使い方や、基本ルール、注意事項など丁寧に説明させていただき",
-      "id": 28
-    },
-    {
-      "title": "Yohasの寺子屋",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "『芝庭の寺子屋』は、文化やアートとの新たな出会いを生み、子どもたちの好奇心をはぐくむ場です。\n一流アーティストや地元に根付いたクリエイターなど、子どもたちが様々な人の知識・経験・知恵と出会い、学校では学びきれない文化やアートを体験する場です",
-      "id": 29
-    },
-    {
-      "title": "ウミホタル観察会",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "館山では、夏期に子どもから大人まで楽しめるウミホタル観察会を開催。各日30組が館山夕日桟橋にて、ウミホタルを自分で捕まえ、手のひらで青白く発光する様子を観察。参加希望者は往復はがきに、希望日、参加人数（5名まで）、参加者全員の氏名・年齢・住",
-      "id": 30
-    },
-    {
-      "title": "はじめてのスケートボード教室",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "スケートボードに乗ったことのない人や、何からはじめたらよいのかわからない人に乗り方から教えてくれる。この機会にスケートボードで楽しんでみては？ 対象は4歳～小学生。定員10人（先着順）。持ち物：スケートボード・ヘルメット・肘当て・ひざ当て・",
-      "id": 31
-    },
-    {
-      "title": "第30回～赤ちゃんから大人まで～ ​みんなのクラシック...",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "『赤ちゃん連れでも気軽に聴きにいけるコンサートがあればいいのに』\n『出産後すぐに復帰できて、無理なく続けられるオーケストラがあったらいいのに』\nそんな多くの声を受けて、一人のママさん演奏家が立ち上がり、その呼びかけに同じ思いを抱いていた仲間",
-      "id": 32
-    },
-    {
-      "title": "夏至の光と紫陽花守りの花時間",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "火を使わないLEDキャンドルポットと、紫陽花を使った手のひらサイズのミニスワッグを制作するワークショップです。",
-      "id": 33
-    },
-    {
-      "title": "麻雀カードゲームしてあそぼう！",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "麻雀のカードゲームを使った体験イベントです。\n午前の部は初心者向けで無料、10:30-11:30に開催されます。\n午後の部はスキル向上の勉強講座で、動画とアプリを使い13:00-14:30に行います。\n午後の部は有料で1,000円(税込)で",
-      "id": 34
-    },
-    {
-      "title": "DIPART WORKSHOP ワイヤーと合成樹脂で作る",
-      "date": "2026-06-02",
-      "endDate": "2026-06-02",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ワイヤーと合成樹脂で紫陽花のアクセサリーを作るワークショップです。\nイヤリングかピアスのどちらかを選べます。\n手ぶらで気軽に参加可能です。\n定員は各回6名です。\n参加費は3000円（税込、材料費込）。\n申し込みはs.o.f.i.の公式LIN",
-      "id": 35
+      "id": 37
     },
     {
       "title": "【取材レポート】子どもと「命」を語り合う65分。又吉直樹さんと没入する『マンガローグ：火の鳥』。手塚治虫が未来の君たちへ託したメッセージとは？",
@@ -672,7 +714,7 @@
       ],
       "area": "other",
       "desc": "『マンガローグ：火の鳥』のゲネプロ（最終リハーサル）が2026年4月21日（火）に開催！又吉直樹さんがマンガローガーを務め新しい『火の鳥』を見せてくれました。さらにキャストの夏木マリさん、古田新太さん、花總まりさん、千葉一磨さん、新内眞衣さ",
-      "id": 36
+      "id": 38
     }
   ]
 }
