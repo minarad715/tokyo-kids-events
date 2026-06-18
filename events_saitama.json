@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-17T03:36:13.823222",
+  "updated": "2026-06-18T03:28:44.285874",
   "region": "saitama",
-  "count": 22,
+  "count": 41,
   "events": [
     {
       "title": "TSQ presents「MYSTERY GATE」",
@@ -235,11 +235,11 @@
       "id": 11
     },
     {
-      "title": "初心者歓迎！親子で楽しむハーバリウム",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "殺陣総合武術指導〜亜里香塾〜若駒プロpresents🌱",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/576500",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -249,33 +249,34 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "【殺陣と武術の融合】\n先ずは殺陣、武道の楽しさを知って欲しい。知って頂く為に実生活でも役に立つ基礎体力作りからスタートします。\n準備運動から始まり基本の空手で身体を目覚めさせる、組む相手と呼吸、タイミングを合わせる練習として相対動作、突き攻",
       "id": 12
     },
     {
-      "title": "かぎ針編みレッスン（フリー）〜心ほどくリラックス時間",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "森林公園　夏まつり・納涼盆踊大会",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/573516",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
+        "nature",
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "昨年に続き、滑川町伝統の盆やぐらが森林公園に登場。滑川音頭に合わせた納涼盆踊り大会をはじめ、手持ち花火を楽しめるエリアや、縁日・屋台コーナー、大抽選会などを実施。普段は体験できない、夏の夜の特別な森林公園を楽しもう。",
       "id": 13
     },
     {
-      "title": "『エンジョイ個サル』強いシュート、激しい接触禁止！中学生からOK！",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "第31回 深谷まつり",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578783",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -285,53 +286,53 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "深谷まつりは、深谷城にあった三社天王を天和年間に移し、祭祀した「八坂まつり」が起源で、三百有余年の歴史があるお祭り。山車・屋台の巡行をはじめ、神輿渡御、花こいソーラン、居囃子など見どころが満載。",
       "id": 14
     },
     {
-      "title": "『スキルアップラボ』テーマはシュート！小学生の秘密のサッカー教室！",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "三島樹一展　たねから宙へ",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578688",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "elementary"
+        "family"
       ],
       "cats": [
-        "sport"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "彫刻家・三島樹一（みしまきいち・1949-　）は、還暦を機に、自身の殻から脱皮しようとする志と豆と重ね、その生命力や包容力と、豆を作り出す大地の力を感じさせる作品を制作している。今展では、大きな豆、集合体としての豆など、「豆」をテーマとした",
       "id": 15
     },
     {
-      "title": "『ファーストキックレッスン』小学生1～6年生の初心者向けサッカー教室",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "秩父川瀬祭",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578780",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "elementary"
+        "family"
       ],
       "cats": [
-        "sport"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "秩父神社の夏祭りであり、秩父では「お祇園」とも言われている「秩父川瀬祭」。祭りの主役である笠鉾・屋台の「囃子手」や、花笠を付けた「拍子木」を子どもたちが務める姿も可愛らしい子どもが中心のお祭り。19日宵宮は、秩父神社摂社・日御碕宮の祭神須差",
       "id": 16
     },
     {
-      "title": "『ゆる～い個サル』浮かしたシュート、接触禁止！小学生から参加OK！",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "オープニングイベント（祝）元日本代表ハーフナーマイクサ...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578782",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
-      "cost": "paid",
+      "cost": "free",
       "ages": [
         "elementary"
       ],
@@ -339,15 +340,180 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "注意事項\n■対象のお子様は小学4～6年生\n■参加費無料\n■先着30名まで！\n■予約の際のお名前はお子様のお名前を入れてください。\n■チーム名は現在所属しているチーム名を入れてください。※スクールのみの場合はスクール名\n■当日はハーフナーマイ",
       "id": 17
     },
     {
-      "title": "今年の夏は自作風鈴で涼もう（ガラス風鈴絵付け体験）",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "【越谷】この夏、リトプラに恐竜×パウ・パトロールがやっ...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/577656",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "パウ・パトロールの映画公開を記念して、夏の特別イベント『リトルプラネット DINO FESTIVAL 2026 with パウ・パトロール』の開催決定!!\n\n最新デジタル技術を駆使した屋内パークで、この夏だけの特別なアトラクションが体験でき",
+      "id": 18
+    },
+    {
+      "title": "1泊2日 ピタゴラ流しそうめんイベント 8/8（土）～...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今年は8月上旬に、流しそうめんイベントを開催します！\nTVチャンピオン「進め！コロコロからくり装置王選手権」初代チャンピオンのMuku-Studio・野出さん製作、\n古川さんにてパワーアップしてもらった、流しそうめん装置。安定感抜群で、組み",
+      "id": 19
+    },
+    {
+      "title": "8/17（月）野村まなぼう教室（越谷）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ゲームを通じて楽しみながら「円高・円安」を学びます。サイコロを振るごとに、為替レートが変わっていく中、皆さんには会社の社長になったつもりで、消しゴムを輸入する体験をしてもらいます。\nはたして、皆さんは安く消しゴムを買えるのか・・・？\nぜひ親",
+      "id": 20
+    },
+    {
+      "title": "8/1（土）野村まなぼう教室（川越）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ゲームを通じて楽しみながら「円高・円安」を学びます。サイコロを振るごとに、為替レートが変わっていく中、皆さんには会社の社長になったつもりで、消しゴムを輸入する体験をしてもらいます。\nはたして、皆さんは安く消しゴムを買えるのか・・・？\nぜひ親",
+      "id": 21
+    },
+    {
+      "title": "7/22（水）野村まなぼう教室（川口）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ゲームを通じて楽しみながら「円高・円安」を学びます。サイコロを振るごとに、為替レートが変わっていく中、皆さんには会社の社長になったつもりで、消しゴムを輸入する体験をしてもらいます。\nはたして、皆さんは安く消しゴムを買えるのか・・・？\nぜひ親",
+      "id": 22
+    },
+    {
+      "title": "8/14（金）野村まなぼう教室（浦和）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ゲームを通じて楽しみながら「円高・円安」を学びます。サイコロを振るごとに、為替レートが変わっていく中、皆さんには会社の社長になったつもりで、消しゴムを輸入する体験をしてもらいます。\nはたして、皆さんは安く消しゴムを買えるのか・・・？\nぜひ親",
+      "id": 23
+    },
+    {
+      "title": "お子様と一緒に楽しむハイハイレース！INイオンタウンふじみ野",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ハイハイ期にしか楽しめない、赤ちゃんの熱き戦いが繰り広げられるハイハイレース！\n親子で楽しみませんか。\n\n参加されたお子様へは賞状とメダルをご用意しております。",
+      "id": 24
+    },
+    {
+      "title": "【川口】この夏、リトプラに恐竜×パウ・パトロールがやっ...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "パウ・パトロールの映画公開を記念して、夏の特別イベント『リトルプラネット DINO FESTIVAL 2026 with パウ・パトロール』の開催決定!!\n\n最新デジタル技術を駆使した屋内パークで、この夏だけの特別なアトラクションが体験でき",
+      "id": 25
+    },
+    {
+      "title": "P.G.A低学年専門1DAYサッカースクールin吉川",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "‼️埼玉県【吉川市】で開催‼️ \n⭐️キッズスクール＆ボールタッチ徹底講座⭐️\n✅️3歳〜年長、年長〜小学3年生の2部制✅️\n\n◇メインコーチ...ひろコーチ\n\n□内容\n①キッズスクール→運動能力向上トレーニング＋簡単なドリブル練習をやらせ",
+      "id": 26
+    },
+    {
+      "title": "夏休み自由研究ワークショップ　スライダー貯金箱づくり....",
+      "date": "2026-07-18",
+      "endDate": "2026-07-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -357,15 +523,51 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 18
+      "desc": "針やノコギリなどの工具は使わずに接着剤だけで作ることができます！\n夏休み工作や自由研究におすすめ♪\n※お子様連れのご家族が対象です\n\n開催日　2026年7月18日",
+      "id": 27
     },
     {
-      "title": "令和8年度　立正大学交通地理研究室ミニ展 「秩父のセメント産業史」",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "夏休み自由研究ワークショップ クレイ粘土でシーサーづ....",
+      "date": "2026-07-18",
+      "endDate": "2026-07-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/576097",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "夏休みの自由研究にぴったり！\n※小学生以下のお子様が対象となります。\n\n\n開催日　2026年7月18日",
+      "id": 28
+    },
+    {
+      "title": "さいたま市花火大会　東浦和　大間木公園会場",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "3ヶ所で行われる、さいたま市花火大会。この会場は、見沼の大自然を満喫しながら、花火を堪能することができる。早打ちやスターマインなど、色とりどりの花火が夜空を焦がす。",
+      "id": 29
+    },
+    {
+      "title": "川越百万灯夏まつり",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -375,15 +577,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 19
+      "desc": "嘉永3年（1850年）、川越城主松平大和守斉典の徳を偲び、家臣の娘が軒先に灯篭を掲げたの起源といわれる。このことがきっかけになり、町中をあげて斉典候の遺徳を偲び、趣向をこらした見事な提灯まつりとなった。期間中は提灯の飾りつけが行われるほか、",
+      "id": 30
     },
     {
-      "title": "【大宮】５月& ６月の撮影会",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "令和8年度 与野夏祭り",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/572687",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -393,15 +595,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 20
+      "desc": "上町、仲町、下町、上峰地区の御輿が、1日目は揃いで、2日目はそれぞれ本町通り周辺を渡御（とぎょ）する。宝永年間（1704～1711年）から続いていると言われる歴史あるお祭り。",
+      "id": 31
     },
     {
-      "title": "おふろcafe ハレニワの湯 ゴールデンウィークイベント",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "世界に一つだけの似顔絵うちわプレゼント！【お子様連れ....",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/566106",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -411,15 +613,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 21
+      "desc": "プロが描くお子様の似顔絵入りうちわをプレゼント。今しか残せない夏の思い出に残る特別な一枚です！\n※所要時間は1名で約15分。\n※参加券は１家族１枚となります。\n※1つのうちわに1名お描きいたします。",
+      "id": 32
     },
     {
-      "title": "メッツァの夏至祭2026",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "わくわくカブトムシ狩り【お子様連れ限定！】 @大宮北",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/566138",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -429,8 +631,154 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 22
+      "desc": "森の探検気分でカブトムシ探しに挑戦！雄と雌をセットでプレゼントいたします。\n親子で楽しむ夏休み限定のわくわくイベントです。\n＊お子様のみのご参加はできません。必ず保護者の方ご同伴にて受付をお願い致します。\n＊写真はイメージです。",
+      "id": 33
+    },
+    {
+      "title": "ベビーパーティー×ハイハイレース @大宮北",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "赤ちゃんの成長を一緒に感じながら、楽しいひと時を過ごしてみませんか。\n●ハイハイレース（参加無料）\n事前ご予約お土産あり・最速タイムで名入り盾贈呈\n＜開催時間＞\n①１１：１５②１1：45③１３：３０④１４：００⑤１４：３０\n\n●カタカタレー",
+      "id": 34
+    },
+    {
+      "title": "ジャンボプールでジャブジャブお宝さがし【お子様連れ限定...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "大きなプールで水遊びを楽しみながら、ビーチグッズが当たる宝探しにチャレンジしよう！プールの中に大量のカプセルを浮かべて、１つ選んでいただき、その中に入っているメダルの色で抽選します。",
+      "id": 35
+    },
+    {
+      "title": "夏をたのしむ！超すいかフェア2026【お子様連れ限定！...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "■イベント①：本格！？　すいか割り体験イベント\n大玉すいかを使用して、すいか割り専用棒で、家族やスタッフの掛け声をもとに本格的なすいか割りにチャレンジしよう！\n（小さなお子様用に、プラスチック製のバットなどもございます。） \nすいか割りに挑",
+      "id": 36
+    },
+    {
+      "title": "第10回ナチュ・くら・市　～ナチュラルな暮らしの市場～",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "お天気に左右されない屋内で「ナチュラルな暮らし」をコンセプトに蚤の市のような雰囲気のハンドメイドイベントを開催する。ハンドメイド作品、ハンドメイド材料資材、お花や植物、リラクゼーション、ワークショップなどの他、手作りお菓子、パン、野菜など美",
+      "id": 37
+    },
+    {
+      "title": "【朝霞】7/5　手形足形アート",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "可愛いベビーサイズの手形足形を使った七夕アートで\n今しか残せない可愛い記念のアートを作っていただけます。\n講師の先生が優しくフォローするので小さなお子様でも安心して体験いただけます！\n\n\n《開催期間》 2026/7/5(日)\n《開催時間》 ",
+      "id": 38
+    },
+    {
+      "title": "週末の家族イベント『ファミリー個サル』お子様は小1～6...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "【ファミリー個サルとは？】\n親子参加の個人参加フットサルです。その日に集まった親子でチームを組み、フットサルの試合を2時間たっぷり楽しむコンテンツです！\n「子供とサッカー、フットサルをしたい」、「パパやママと運動がしたい」など、家族でサッカ",
+      "id": 39
+    },
+    {
+      "title": "父の日労いビンゴ大会",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "玉川温泉では父の日期間中、男性浴室にお父さんの“苦労”を書いたヒノキ角材をおもちゃのアヒルに背負わせて浮かべる「父の日アヒル風呂」を実施します。 家族で温泉に入りながら笑ってお父さんを労う趣向で、館内では「お父さん川柳」の募集や父の日労いギ",
+      "id": 40
+    },
+    {
+      "title": "あそべ〜る水族館",
+      "date": "2026-06-27",
+      "endDate": "2026-06-27",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "toddler",
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "親子・ファミリーで参加できるあそべ〜る水族館です。2026年6月27日(土)から6月28日(日)の2日間、イオンタウン吉川美南にて開催されます。入場料はおひとりさま800円（税込）、2歳以下は無料です。ワークショップコーナーは入場料不要で、",
+      "id": 41
     }
   ]
 }

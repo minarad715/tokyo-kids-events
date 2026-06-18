@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-17T03:36:33.969812",
+  "updated": "2026-06-18T03:29:27.815334",
   "region": "chiba",
-  "count": 21,
+  "count": 45,
   "events": [
     {
       "title": "BRIDGE DANCE PARTY vol.4",
@@ -194,6 +194,27 @@
       "id": 9
     },
     {
+      "title": "松戸花火大会2026",
+      "date": "2026-08-01",
+      "endDate": "2026-08-01",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/matsudo-hanabi-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
       "title": "SUMMER SONIC 2026（サマーソニック2026）東京会場",
       "date": "2026-08-14",
       "endDate": "2026-08-16",
@@ -212,7 +233,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 11
     },
     {
       "title": "ONE PIECE DAY '26",
@@ -233,7 +254,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 12
     },
     {
       "title": "千葉みなと・さんばしまつり2026",
@@ -254,7 +275,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     },
     {
       "title": "ROCK IN JAPAN FESTIVAL 2026",
@@ -275,7 +296,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     },
     {
       "title": "Beachside Art Festival Nuts Party 2026",
@@ -296,32 +317,14 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
-    },
-    {
-      "title": "プリザーブドフラワー「パフェ風アレンジ」",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/572303",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
       "id": 15
     },
     {
-      "title": "そのままギフトにもなる！　プリザーブドフラワー「薔薇の宝石箱」",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "お気に入りの毛糸でお好きな作品を作ろう！",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/572304",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -331,15 +334,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "＜こんなことを学びます＞\n編み物作品を作りたい方の為に、材料選びのポイント、針の持ち方から、編み図の見方など基礎の基礎からお教えします。\n棒針もかぎ針もOKです！\n課題はありません。お気に入り毛糸でお好きな物にチャレンジしてください。\n\n＜",
       "id": 16
     },
     {
-      "title": "プリザーブドフラワー「クリームソーダ風アレンジ」",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "3時間でマスコットを作ろう！",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/573908",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -349,15 +352,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "＜羊毛フェルトって何？＞\n毛糸になる前段階の羊毛を専用の針で差し固め、その上に植毛をして本物そっくりのアニマルドールを作ります。\nいくらでも直せる失敗のない手芸なのでぶきっちょさんでも安心♡\nどなたでも出来ますので、まずはやってみましょう。",
       "id": 17
     },
     {
-      "title": "お米はひと粒ずつ、具はゴロゴロ！ミニチュア「カレーライス」づくり",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "ひんやりアイスドロップinせせらぎ",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/571514",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -367,15 +370,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "キラキラ光る大きな氷の中に、かわいいおもちゃがいっぱい！冷たい氷をさわってみたり、溶けて出てくるおもちゃをみつけたり…まるで宝さがしみたいな“ひんやり体験”を楽しもう！ 氷から溶け出たおもちゃは持ち帰りできる！",
       "id": 18
     },
     {
-      "title": "6月開催！発達障害当事者が対応するお悩み相談（個別セッション）🗣",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "第2回ホタルに会いに行く！東京ドイツ村 キャンプ",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/577468",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -385,33 +388,106 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "好評につき、第二回「ホタルに会いに行く。東京ドイツ村キャンプ」の開催が決定！ 自然の中で過ごす特別な1泊2日キャンプを開催する。内容：キャンプ1泊2日・ホタル観察。「世界のふわもこ動物王国」「世界の昆虫爬虫類王国」「世界のふれあい水族館」利",
       "id": 19
     },
     {
-      "title": "おやこヨガ祭",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "第62回　館山観光まつり　館山湾花火大会",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/566928",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
+        "nature",
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "花火が海岸の夜空を彩る、館山の夏の風物詩。約5,000発の花火が予定される。名物の水中花火も見ごたえあり。当日の会場付近は大変混雑するので、公共交通機関の利用を推奨。",
       "id": 20
     },
     {
-      "title": "【6/6(土)・13(土)・20(土)開催！】たまいれドッカーン",
-      "date": "2026-06-17",
-      "endDate": "2026-06-17",
+      "title": "夏休み仮説実験教室わくわくドキドキ科学ワールド2026",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/575118",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "①8/5(水)10：30～15：30＊受付10：15～\n科学【足はなんぼん】\nアート【ブラッシングアート】\n〈会場〉千葉市美術館５F/ワークショップルーム\n〈持ち物〉筆記用具、絵具セット（水入れ・パレット・筆・絵具・ぞうきん）、お弁当、水筒",
+      "id": 21
+    },
+    {
+      "title": "親子の自然あそび教室！　（7月）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "近くの公園や、雑木林などで、楽しめる自然遊びをいろいろ体験して、普段のあそびに活かせるプログラム！\n\n　親子で自然の中で楽しく遊ぶあそびを、たくさん覚えて使っちゃおう！\n\n　いろんな自然あそびを、親子でたくさん楽しみましょう！\n\n　楽しく覚",
+      "id": 22
+    },
+    {
+      "title": "【7月募集中】ベビーマッサージ千葉市生涯学習センター教室",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ママたち毎日の子育て、本当にお疲れさまです！\n\nつながるベビーマッサージ教室のレッスンは\n赤ちゃんの様子を見ながらゆったり進めていきます♬\n\nだから初めてのベビーマッサージでも安心💕\n\n🤱当日のレッスンの流れはこんな感じです⏬\n\n1.マ..",
+      "id": 23
+    },
+    {
+      "title": "【無料体験教室】プロクラ　ａｕ　Ｓｔｙｌｅ　エルム八千代台校",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "マインクラフトの世界で「考える力」と「伝える力」を育てるプログラミング教室\n遊びが、学びに変わる。\n好きだから、夢中になれる。夢中だから、力が伸びる。\nプロクラは、子どもたちに大人気のマインクラフトの世界でプログラミングを学べる教室です。\n",
+      "id": 24
+    },
+    {
+      "title": "【蘇我】この夏、リトプラに恐竜×パウ・パトロールがやっ...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -421,8 +497,371 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 21
+      "desc": "パウ・パトロールの映画公開を記念して、夏の特別イベント『リトルプラネット DINO FESTIVAL 2026 with パウ・パトロール』の開催決定!!\n\n最新デジタル技術を駆使した屋内パークで、この夏だけの特別なアトラクションが体験でき",
+      "id": 25
+    },
+    {
+      "title": "ママさんブラス　森のおんがくたい　第21回ファミリーコ...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "++++++++++++++++++++++++++++++++++++++\n指揮：薗田　可奈子\n曲目：ききみみずきん（おはなし付き）\n　　　大航海時代（初演）\n　　　J-POP　Stage　Vol.1　【A・RA・SHI～ Monster",
+      "id": 26
+    },
+    {
+      "title": "8/4（火）・8/22（土）野村まなぼう教室（柏）",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ゲームを通じて楽しみながら「円高・円安」を学びます。サイコロを振るごとに、為替レートが変わっていく中、皆さんには会社の社長になったつもりで、消しゴムを輸入する体験をしてもらいます。\nはたして、皆さんは安く消しゴムを買えるのか・・・？\nぜひ親",
+      "id": 27
+    },
+    {
+      "title": "成田祇園祭",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "成田祇園祭は、成田に夏の訪れを告げる成田の一大イベントで毎年約45万人の見物客が訪れる。見事な彫刻や装飾で彩られた9町内10台の山車・屋台と御輿1台が繰り出し、3日間にわたり成田山表参道などを練り歩く。",
+      "id": 28
+    },
+    {
+      "title": "うなぎのぼりの街 成田　成田うなぎ祭り",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "成田は江戸時代より、旅館や料理店で成田ならではの食文化としてうなぎ料理をいまに伝えてきたうなぎの街。夏の土用の丑の日に合わせ約1ヶ月半開催されるスタンプラリー形式の祭りでは、参加店で食事や買い物をすると1,000円につきスタンプ1個押印。こ",
+      "id": 29
+    },
+    {
+      "title": "おはなしにんぎょうをつくろう",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "子どもの自由な発想でつくった「夏のおはなし」を、クレヨン画とペーパークラフトで表現する。講師は児童書挿画でも活躍中のイラストレーター・丸山ゆき。対象：3歳から小学生2年生まで（未就学児1名につき保護者1名要同伴）",
+      "id": 30
+    },
+    {
+      "title": "【TOKYO-BAY】リトプラに恐竜×パウ・パトロール...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "パウ・パトロールの映画公開を記念して、夏の特別イベント『リトルプラネット DINO FESTIVAL 2026 with パウ・パトロール』の開催決定!!\n\n最新デジタル技術を駆使した屋内パークで、この夏だけの特別なアトラクションが体験でき",
+      "id": 31
+    },
+    {
+      "title": "シンチャオ︕ふなばし Vietnam Fes 2026",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「シンチャオ︕ふなばし Vietnam Fes 2026」は、昨年初開催で延べ6万⼈が来場した⽇越交流イベントの第2回⽬として、2026年7⽉18⽇(⼟)・19⽇(⽇)の2⽇間、船橋競⾺場にて開催いたします。本イベントは、「在留ベトナム⼈数",
+      "id": 32
+    },
+    {
+      "title": "【上野悠河  個展　質量の精霊】6/20～27、7/1...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ギャラリーわらね6月7月は 、サウンド・アート、インスタレーション・アートで活躍中の 上野悠河 の個展「 質量の精霊 」を開催します。質量をテーマに約25点をギャラリーだけでなく、竹林の庭で展示。豊かな自然と古民家で開かれる表現をお楽しみく",
+      "id": 33
+    },
+    {
+      "title": "warmoria【ワモリア】年前中開校 6月オープン記...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby",
+        "toddler"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "0歳～3歳の新たな遊び場がOPEN！\n🎊 無料体験会開催🎊 ⏰10:00～12:00\n\n【この日の体験内容】\n\n🎵リトミック音楽に合わせて身体を動かそう！ （10:00～10:40 / 11:00～11:40 各回定員8名・予約優先）\n\n📸",
+      "id": 34
+    },
+    {
+      "title": "2026/7/24（金）WOMAMフェスタ＠イオンモー...",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🎉 7/24(金) 入場無料！\n来場者全員にプレゼントあり🎁\n千葉・幕張エリアで開催🌸\n＼子育て応援イベント・予約受付中！／\n\n♡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈♡\n\n子育てに情報を　孤育てにサポートを✨\n📅7/24(金)　10:00-16.",
+      "id": 35
+    },
+    {
+      "title": "０歳からの親子リトミック♪リトピュア♪体験レッスン",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "松戸駅前にあるリトミック教室です♪\n\nレッスンは 0歳から楽しめるリトピュアメソッド。\n「できた！」の小さな積み重ねをたくさん感じられます。\n親子で一緒に動き、笑い、ふれあう時間。\n「できた」「たのしい」「やってみたい」\nお子さんの自信や意",
+      "id": 36
+    },
+    {
+      "title": "水辺で乾杯！利根運河",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "3日は「乾杯フェス＆七夕ランタン」。利根運河流域3市のクラフトビールやジン、各地の日本酒が登場。夜7時7分にみんなでカウントダウンして乾杯し、LEDを灯したランタンを打ち上げる。4日はこども縁日がテーマ。両日、グルメ屋台、和太鼓やアジア大会",
+      "id": 37
+    },
+    {
+      "title": "第127回水郷おみがわ花火大会",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "関東でも有数の歴史と規模を誇り、明治41年から続く花火大会は今年で127回目。利根川の水面を利用した豪快な花火は自然の恩恵を受けた水と緑の街ならではのものであり、中でも利根川の大空間に炸裂する超特大スターマインは迫力満点。また、全国の煙火店",
+      "id": 38
+    },
+    {
+      "title": "小見川祇園祭",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "文献によると寛永16年より始められたといわれる。須賀神社の例祭であり、愛知県津島神社祗園祭の流れをくむ。神事の神輿の渡御に付随する屋台の引き廻しが特徴。屋台は6台あり、彫物や色彩があでやかで、当時内田氏一万石の城下町であると共に利根川水運の",
+      "id": 39
+    },
+    {
+      "title": "佐原の大祭　夏祭り",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "関東三大山車祭りの一つと称され、およそ300年の伝統がある「佐原の大祭」夏祭り。日本三大囃子「佐原囃子」の音色を響かせながら、小江戸と呼ばれる町並み（国選定重要伝統的建造物群保存地区）を、江戸・明治期の名人人形師によって制作された大人形など",
+      "id": 40
+    },
+    {
+      "title": "2026.7流山市おひるねアート撮影会",
+      "date": "2026-07-10",
+      "endDate": "2026-07-10",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "7月流山市定期撮影会のお知らせです📸\n\n🍅日程 ⁡\n7月10日㈮\n\n🍅場所\n流山市 市野谷自治会館⁡\n（千葉県流山市おおたかの森西２丁目6−１３）⁡\n\n⁡\n🍅時間⁡⁡\n①9:45-10:30 残2\n②10:30-11:15 残1\n...",
+      "id": 41
+    },
+    {
+      "title": "【柏】7/12　夏のペイント植木鉢づくり",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼日常にワクワクを／\nペイント植木鉢づくり\n\n字でも絵でもなんでもOK！\nたまには無になってラクガキ♪\n\n今回はお気に入りの植木鉢をいろどるよ～\n\nインスピレーションのおもむくままに...\n同じものは二度と描けないイマを楽しもう★\n\n...",
+      "id": 42
+    },
+    {
+      "title": "【柏】7/12　ひんやり魔法のアイスづくり",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼夏限定！！／\n\nひんやり美味しいアイスクリーム\nを作ってみよう★\n\nワクワク楽しい♪\nまぜまぜカンタンな作業で\n小さなおさま～大人まで\n家族みんなでHAPPY体験\n\n自分でつくったできたてのアイス\nきっと格別の味になること間違...",
+      "id": 43
+    },
+    {
+      "title": "いちはらおしごとフェスタ2026『こどもおしごとらんど』",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "市原市のおしごとやものづくりの魅力が大集合！\nいちはら子ども未来館が、2日間限定の「おしごと体験テーマパーク」に大変身します！\nものづくりやお仕事の楽しさを「見て・聞いて・体験して」、将来のお仕事の選択肢を広げよう！\nあこがれのお仕事に出会",
+      "id": 44
+    },
+    {
+      "title": "いちはらおしごとフェスタ2026『ものづくりらんど』",
+      "date": "2026-06-18",
+      "endDate": "2026-06-18",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "～市原市のおしごとやものづくりの魅力が大集合！～\nいちはら子ども未来館が、2日間限定の「おしごと体験テーマパーク」に大変身します！\nものづくりやお仕事の楽しさを「見て・聞いて・体験して」、将来のお仕事の選択肢を広げよう！\nあこがれのお仕事に",
+      "id": 45
     }
   ]
 }
