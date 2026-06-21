@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:53:15.239448",
+  "updated": "2026-06-21T03:37:49.139205",
   "region": "kanagawa",
   "count": 60,
   "events": [
@@ -550,6 +550,27 @@
       "id": 26
     },
     {
+      "title": "『映画ちいかわ 人魚の島のひみつ』in横浜市コラボ",
+      "date": "2026-07-24",
+      "endDate": "2026-08-02",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/chiikawa-movie-yokohama-collab-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
       "title": "Red Brick Sunset 2026",
       "date": "2026-08-01",
       "endDate": "2026-08-30",
@@ -568,7 +589,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 27
+      "id": 28
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -589,12 +610,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 28
+      "id": 29
     },
     {
       "title": "親子で楽しむ手形アート（7月）",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -608,30 +629,12 @@
       ],
       "area": "other",
       "desc": "こどもの成長記録である手形や足形をおしゃれにかわいくアート作品にしよう。作品づくりの時間も楽しく、パパ・ママもリフレッシュできる。フレーム付きで、プレゼントにもぴったり。赤ちゃんも安心して使えるインクを使用。事前申込制（先着順）。参加申込は",
-      "id": 29
-    },
-    {
-      "title": "OSC湘南シティフリーマーケット（8月）",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "平塚ショッピングモール OSC湘南シティで開催されるフリーマーケット。毎月第2・第4土曜日開催予定。家庭の不用品から掘り出し物までバラエティ豊かに揃い、ショッピングや映画のついでに立ち寄るのもおすすめ！",
       "id": 30
     },
     {
-      "title": "OSC湘南シティフリーマーケット（7月）",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "title": "OSC湘南シティフリーマーケット（8月）",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -647,9 +650,27 @@
       "id": 31
     },
     {
+      "title": "OSC湘南シティフリーマーケット（7月）",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "平塚ショッピングモール OSC湘南シティで開催されるフリーマーケット。毎月第2・第4土曜日開催予定。家庭の不用品から掘り出し物までバラエティ豊かに揃い、ショッピングや映画のついでに立ち寄るのもおすすめ！",
+      "id": 32
+    },
+    {
       "title": "海老名駅西口中心広場（ららぽーと海老名前）フリーマーケ...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -662,30 +683,12 @@
       ],
       "area": "other",
       "desc": "超人気ショッピングモールである、ららぽーと海老名前の海老名駅西口中心広場で開催されるフリーマーケット。お気に入りを見つけに足を運ぼう！",
-      "id": 32
-    },
-    {
-      "title": "馬車道エキナカフリマ（8月）",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "リニューアルした馬車道駅中の会場。出店数は最大60店舗！ 衣類や小物などが並び、駅利用者や観光客でにぎわう。赤レンガ倉庫やワールドポーターズにも近く、おでかけついでに気軽に立ち寄れるのも魅力。完全屋内のため雨風の心配なし！",
       "id": 33
     },
     {
-      "title": "馬車道エキナカフリマ（7月）",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "title": "馬車道エキナカフリマ（8月）",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -701,9 +704,27 @@
       "id": 34
     },
     {
+      "title": "馬車道エキナカフリマ（7月）",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "リニューアルした馬車道駅中の会場。出店数は最大60店舗！ 衣類や小物などが並び、駅利用者や観光客でにぎわう。赤レンガ倉庫やワールドポーターズにも近く、おでかけついでに気軽に立ち寄れるのも魅力。完全屋内のため雨風の心配なし！",
+      "id": 35
+    },
+    {
       "title": "さわれるシネマ ワークショップ「コマ撮りアニメーション...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -716,12 +737,12 @@
       ],
       "area": "other",
       "desc": "身のまわりのものに命が宿ったら、どんな動きをするでしょう？文具やお気に入りのものを主人公に、コマ撮りアニメーション制作に挑戦してみよう。参加者は「動かす人」と「撮影する人」を交代で担当。フレームインからフレームアウトまでの動きを撮影し、最後",
-      "id": 35
+      "id": 36
     },
     {
       "title": "夏のグルメフェアin 横須賀2026～サンセット in...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -734,12 +755,12 @@
       ],
       "area": "other",
       "desc": "飛行機いらずでハワイへ！ 横須賀でハワイのサンセットをテーマにしたブッフェと飲み放題トロピカルドリンクを楽しもう。現地を旅しているかのようなリゾート気分を横須賀で体験できる。20F特設会場では夕暮れに染まる横須賀港の絶景とともに、横須賀なら",
-      "id": 36
+      "id": 37
     },
     {
       "title": "布が紡ぐ物語 〜リユース×アートの可能性 Vol.2 ...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -752,12 +773,12 @@
       ],
       "area": "other",
       "desc": "昨年好評だった「めぐる布市 in アートフォーラムあざみ野」の第2弾。家庭で使われなくなった布や手芸用品を次の使い手へつなぐ販売会を中心に、ハギレ活用コンテスト作品展示、ワークショップ、横浜美術大学とのコラボ展示、トークイベントなどを開催す",
-      "id": 37
+      "id": 38
     },
     {
       "title": "生田緑地にひそむ？粘土の奇獣をつくろう",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -770,12 +791,12 @@
       ],
       "area": "other",
       "desc": "自分が想像したオリジナル奇獣を粘土つくるワークショップ。岡本太郎作品には不思議な魅力をもつモチーフがたくさん登場。色とりどりのふかしぎな奇獣を一緒に作ろう！7/9(木)10:00から電話にて受付開始、先着順。",
-      "id": 38
+      "id": 39
     },
     {
       "title": "夏休み！ちょこっとTARO彫刻スケッチ会",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -788,12 +809,12 @@
       ],
       "area": "other",
       "desc": "「ちょこっとTARO」で開催する、子ども向けのミニ鑑賞ツアー＆スケッチ会。本物の太郎作品をスケッチし、鑑賞ツアーで学んだことをもとに文章にし、夏休みの思い出をつくろう！ 対象は小学生（小学校3年生以下は要保護者同伴）。定員20名。7/10(",
-      "id": 39
+      "id": 40
     },
     {
       "title": "つぶらな瞳の仲間達の湘南大作戦 inテラスモール湘南",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -806,31 +827,12 @@
       ],
       "area": "other",
       "desc": "子供から大人までSNSを中心に人気を集める「つぶらな瞳の仲間達」が、テラスモール湘南と期間限定でコラボレーション。オリジナルぷっくりシールやオリジナル壁紙がゲットできるデジタルラリー、限定商品が販売されるつぶらな瞳の仲間達POP UP SH",
-      "id": 40
-    },
-    {
-      "title": "【キッズワークショップ＆ニュースポーツ体験】6/20（...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "sport"
-      ],
-      "area": "other",
-      "desc": "2026年6月20日（土）、横浜油脂工業本社/横浜工場でキッズワークショップとニュースポーツ体験会を開催いたします。\n大好評の親子で楽しめるワークショップと年代問わず、誰でも気軽に楽しめるニュースポーツ体験会も同時開催！\n横浜油脂工業株式会",
       "id": 41
     },
     {
       "title": "SPARKキッズ夏まつり",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -847,8 +849,8 @@
     },
     {
       "title": "まころん♪ベビーマッサージ&amp;リトミック",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -865,7 +867,7 @@
     },
     {
       "title": "まころん ベビーマッサージ&amp;リトミック",
-      "date": "2026-06-20",
+      "date": "2026-06-21",
       "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
@@ -884,8 +886,8 @@
     },
     {
       "title": "ちびっこパーク クラフト＆よみきかせ",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -921,8 +923,8 @@
     },
     {
       "title": "花火シンフォニア",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -939,8 +941,8 @@
     },
     {
       "title": "令和8年度　出張展示 Part.1 おでかけTARO美...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -957,8 +959,8 @@
     },
     {
       "title": "第38回大野北銀河まつり",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -975,8 +977,8 @@
     },
     {
       "title": "東林間サマーわぁ！ニバル",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -993,8 +995,8 @@
     },
     {
       "title": "上溝夏祭り",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1011,8 +1013,8 @@
     },
     {
       "title": "さがみ湖湖上祭花火大会",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1029,8 +1031,8 @@
     },
     {
       "title": "みんなの津久井湖夏祭り2026",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1047,8 +1049,8 @@
     },
     {
       "title": "横浜キネマ倶楽部 第89回上映会『日本フィルハーモニー...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1083,8 +1085,8 @@
     },
     {
       "title": "桂雀太・月亭方正 ふたり会 in 横浜",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1101,8 +1103,8 @@
     },
     {
       "title": "おみせやさんごっこ【都筑公会堂】",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1119,8 +1121,8 @@
     },
     {
       "title": "第６回【０歳からのワニナルサロン】親子の絆をもっと深め...",
-      "date": "2026-06-20",
-      "endDate": "2026-06-20",
+      "date": "2026-06-21",
+      "endDate": "2026-06-21",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
