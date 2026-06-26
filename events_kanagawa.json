@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-25T02:48:13.762445",
+  "updated": "2026-06-26T02:52:54.310647",
   "region": "kanagawa",
-  "count": 61,
+  "count": 60,
   "events": [
     {
       "title": "横浜ローズウィーク",
@@ -613,6 +613,421 @@
       "id": 29
     },
     {
+      "title": "ベビーマッサージ・赤ちゃん体操教室にっこりこ ... ...",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "インフォメーションセンター２F",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "・小さい月齢の赤ちゃんとの遊びを知りたいな\n・お出かけしたいけど多人数の場所はまだ心配\n・ちょっとお話したり、気分転換したいな\n　そんなママにおすすめです♡\n\n場所：インフォメーションセンター２F\n対象：２か月から歩き始め頃の赤ちゃんとその",
+      "id": 30
+    },
+    {
+      "title": "キッズテーブル＆チェアセット（無塗装小１以上親子参加可能）",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "電動ドリルドライバーと電動インパクトドライバーを使用してキッズサイズのテーブルとイスを作ります。\nテーブルの天板は取り外し可能で、中に物がしまえます。\nイスはお子様が座っても大丈夫です。花台にもおすすめです。\n\n＜お子様参加について＞6歳以",
+      "id": 31
+    },
+    {
+      "title": "推し活に！トレカケース風アイシングクッキー",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＜こんなことを学びます＞\n基本的なアイシングの作り方(アウトラインの引き方、塗りつぶし方法)\nWet on Wetやレタリング(文字入れ)、装飾の仕方など\n\n＜こんなことが出来るようになります＞\nアイシングの基礎的な作り方が学べます\n\n＜こ",
+      "id": 32
+    },
+    {
+      "title": "夏休み特別企画　聴こえる絵本コンサート　ピノッキオのぼうけん",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "プロの演奏家と共に、本格ステージ体験ができる、聴こえる絵本コンサート。事前の歌の練習は、YouTubeを見て自宅で練習するので、何度も通う必要はなく、当日にリハーサルをして、午後本番。20名限定で年少から中学生までの出演者を募集している。歌",
+      "id": 33
+    },
+    {
+      "title": "水中ドローン潜航調査ライブ中継 Vol.13 ～江の島沖編～",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "“水中ドローン”を使った相模湾調査のようすを、ドローンの母船から生中継するプログラム。話の内容は小学生以上向け。どんな発見があるか、レアな生き物に出会えるか、水族館の深海担当飼育員と一緒に見てみよう！ 6月26日（金）より新江ノ島水族館の公",
+      "id": 34
+    },
+    {
+      "title": "夏休み☆親子で楽しむ！開運サマーフェスタin鶴見公会堂",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "⋆｡˚☀︎˚｡⋆🍉⋆｡˚☀︎˚｡⋆🍧⋆｡˚☀︎˚｡⋆🌻⋆｡˚☀︎˚｡⋆\n\n🌴🌻夏休み特別企画🌻🍉✨\n\n＼夏休み☆親子で楽しむ／\n🌻開運サマーフェスタ in 鶴見公会堂🍧\n\n■日時\n2026年7月28日（火）\n\n10:00～16:00\n...",
+      "id": 35
+    },
+    {
+      "title": "【平塚駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 36
+    },
+    {
+      "title": "【平塚店】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 37
+    },
+    {
+      "title": "【平塚市】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 38
+    },
+    {
+      "title": "【辻堂駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 39
+    },
+    {
+      "title": "【茅ヶ崎店】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 40
+    },
+    {
+      "title": "【大船駅】iPadで未来を描こう！デジタルアートアート体験",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "id": 41
+    },
+    {
+      "title": "【鎌倉市】無料！iPadで楽しむスクラッチアート体験！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「暑くて外遊びは難しい」「室内でも子供が夢中になれるイベントはないかな？」\nそんなパパ・ママに耳寄りなお知らせです。\n\nドコモショップで、まるで魔法のようなお絵描き体験をしてみませんか？\n今回のテーマは、子供たちに大人気の**『スクラッチア",
+      "id": 42
+    },
+    {
+      "title": "【藤沢店】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 43
+    },
+    {
+      "title": "【藤沢駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 44
+    },
+    {
+      "title": "【横浜関内】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 45
+    },
+    {
+      "title": "【東神奈川駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 46
+    },
+    {
+      "title": "【川崎市】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 47
+    },
+    {
+      "title": "【鶴ヶ峰駅前】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 48
+    },
+    {
+      "title": "【横浜ビブレ】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 49
+    },
+    {
+      "title": "【二俣川駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 50
+    },
+    {
+      "title": "【新横浜】iPadで未来を描こう！デジタルアートアート体験",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "id": 51
+    },
+    {
+      "title": "【ららぽーと横浜】夏休みの宿題にも◎無料デジタルおえか...",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "id": 52
+    },
+    {
       "title": "よこはまにしろく2026夏祭り",
       "date": "2026-07-18",
       "endDate": "2026-07-18",
@@ -628,12 +1043,12 @@
       ],
       "area": "other",
       "desc": "よこはまにしろくの夏祭りです。2026年7月18日から8月22日まで開催されます。\nおもちゃやゲーム、スーパーボールなどの縁日が楽しめます。\n盆踊りや抽選会も行われます。\n屋台やグルメの出店もあり、ビール、飲み物、焼きそば、焼き鳥、かき氷な",
-      "id": 30
+      "id": 53
     },
     {
       "title": "初心者OK！海レジンアート体験｜2.5hワークショップ...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -646,12 +1061,12 @@
       ],
       "area": "other",
       "desc": "＜こんなことを学びます＞\n海のグラデーションをアクリル絵の具で描く方法やエポキシレジンの扱い方、ヒートガンで白波を作る方法などを学びます。\n\n＜こんなことが出来るようになります＞\nアクリル絵の具で美しい海を描けるようになります。\n\n＜こんな",
-      "id": 31
+      "id": 54
     },
     {
       "title": "第24回 新横浜 盆おどり",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -664,12 +1079,12 @@
       ],
       "area": "other",
       "desc": "新横浜駅北口西広場にて第24回新横浜盆踊りが開催されます。\n開催時間は午後5時から午後9時までです。\n主催は新横浜盆踊り実行委員会、共催は新横浜町内会、新横浜自治会、アテニウム新横浜自治会です。\n\n盆踊りを楽しめる地域の伝統的な夏のお祭りで",
-      "id": 32
+      "id": 55
     },
     {
       "title": "高津さんの市",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -682,12 +1097,12 @@
       ],
       "area": "other",
       "desc": "「高津さんの市」は、「地元“産”、市民“参”加、“SUN”DAY（日曜）開催」をキャッチフレーズに、川崎市高津区で収穫された新鮮野菜と野菜を使ったお菓子などの食品を生産者が直接販売するファーマーズマーケット。今回は「紙しばいや　もっちぃ」さ",
-      "id": 33
+      "id": 56
     },
     {
       "title": "パラコード PARACODE WORKSHOP",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -700,12 +1115,12 @@
       ],
       "area": "other",
       "desc": "夏休みに小学生から参加できるパラコードのワークショップです。\nショルダーストラップを作ります。\n募集人数は3〜4名。\n参加費は1人5000円（材料費・お茶菓子込）。\n所要時間は約4〜5時間です。\nお問い合わせはインスタグラムのDMからどうぞ",
-      "id": 34
+      "id": 57
     },
     {
       "title": "横浜アンパンマンこどもミュージアムの夏イベント",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
+      "date": "2026-06-26",
+      "endDate": "2026-06-26",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -718,444 +1133,7 @@
       ],
       "area": "other",
       "desc": "横浜アンパンマンこどもミュージアムは、2027年春に迎える開業20周年に向けて、親子で楽しめる人気イベントを続々と開催いたします。当施設は、天候を気にせず猛暑の日でも涼しく快適に遊べる全天候型施設です。今夏は、日陰で小さなお子様でも安心して",
-      "id": 35
-    },
-    {
-      "title": "台風研究の最前線と「その先」をめざすキャリアパス",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "空を見るのが好き、台風や天気のことを考えるのが好き…それが、仕事になるとしたら？このイベントでは、最新の台風研究についてわかりやすく解説。さらに後半のトークセッションでは、気象を学んだり仕事にしたりするためのキャリアパスについて気象大学校生",
-      "id": 36
-    },
-    {
-      "title": "夏休み　わくわく川崎宿歴史セミナー",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "夏休みの自由研究や郷土の歴史学習などのお手伝いをする、ワークショップを開催します！\n\n《学習テーマ》\n\n①身近なまちの歴史(学区や地域の移り変わり)\n\n②川崎の産業と交通(川崎市内を走る鉄道・バス等)\n\n③東海道五十三次と川崎宿(江戸時代.",
-      "id": 37
-    },
-    {
-      "title": "【夏休み特別企画】ソプラノ歌手と楽しむ　親子の音楽遊び",
-      "date": "2026-07-18",
-      "endDate": "2026-07-18",
-      "place": "藤沢市 鵠沼橘市民の家",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "涼しいお部屋で、ソプラノ歌手のミニコンサートや親子で楽しめる簡単なリトミック等を予定しています♪\n\n日時： 7月18日（土）10:00〜10:45（受付9:45〜）\n場所： 藤沢市 鵠沼橘市民の家\n対象年齢： 0歳〜未就学児の親子\n持ち物：",
-      "id": 38
-    },
-    {
-      "title": "夏休み1ｄay　親子で工作 カキ氷を作ろう　8/9",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "毎年開催している幼児から小学生まで対象の「夏休み短期教室」です。\nそれぞれの対象年齢にあった絵画・工作の楽しい教室をたくさんご用意しています。\n楽しく制作しましょう！\n\n●カキ氷を作ろう\n溶かしたロウソクを水面にポタポタ…固めるとまるでカキ",
-      "id": 39
-    },
-    {
-      "title": "夏休み1ｄay　工作教室　ビー玉迷路を作ろう　8/5",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "1day工作教室です。\n板の上に紙粘土で道を作り、ビー玉を転がして遊ぶゲームを作ります。\n絵の具で色を塗ったり飾りを作って仕上げましょう。",
-      "id": 40
-    },
-    {
-      "title": "夏休み2ｄay　絵画教室/夏のモチーフ・パンを描こう　...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "毎年開催している幼児から小学生まで対象の「夏休み短期教室」です。\nそれぞれの対象年齢にあった絵画・工作の楽しい教室をたくさんご用意しています。\n楽しく制作しましょう！\n\n８/4（火）『静物画を描こう』〜テーマ夏〜\n8/5（水）『パンを描こう",
-      "id": 41
-    },
-    {
-      "title": "夏休み2ｄay　工作教室/木琴を作ろう　8/4・5",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "elementary"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "毎年開催している幼児から小学生まで対象の「夏休み短期教室」です。\nそれぞれの対象年齢にあった絵画・工作の楽しい教室をたくさんご用意しています。\n楽しく制作しましょう！\n\n8/4（火）・5（水）\n\n角棒をノコギリで切って木琴を作ります。\nポコ",
-      "id": 42
-    },
-    {
-      "title": "夏季特別企画展「いきもの宝石箱展　～宝石のようないきも...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "生き物たちは多種多様な進化をとげ、その見た目は様々です。形だけでなく色合いも多様で、中には宝石のようにカラフルでキラキラと輝くものもいます。その色合いは、ただ美しいだけではない様々な役割があります。今回の企画展では、宝石のように色鮮やかに輝",
-      "id": 43
-    },
-    {
-      "title": "リトミック、無料体験会",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "０〜３歳のお子様と保護者様を対象とした親子リトミック教室です。\n五感を刺激する活動、生のピアノの音、親子の触れ合い。\nお子様の成長にとってリトミックには様々な効果があります。\n安定した心の発達・豊かな感性・全身で音楽する身体作り。\nグループ",
-      "id": 44
-    },
-    {
-      "title": "★溝ノ口★【無料】8/25(火)☆ベビー・キッズ・マタ...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "◎家族写真撮影に無料でご招待！\n撮影したお写真はカメラマンがチョイスしてデータで10 枚プレゼントいたします。\n✓　お着換えや衣装替えなども大歓迎！貸し切りでたっぷり撮影いたします。\n✓　小物などのお持ち込みも大歓迎です。たくさんお持ちくだ",
-      "id": 45
-    },
-    {
-      "title": "本物と同じ構造のモデルロケットを作って、飛ばそう🚀 7/20",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "３・２・１でロケット発射！！\n0.3秒で時速200㌔。上空でパラシュートを開いてゆっくりとロケットは降下。\n作るロケットは本物のロケットと同じ構造のモデルロケット。エンジンをつめて、ロケットを発射。\n「下町ロケット」のモデルになった植松電機",
-      "id": 46
-    },
-    {
-      "title": "臨港パークフリーマーケット（7月）",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "横浜屈指の観光地。みなとみらい臨港パークにてフリーマーケットが開催される。港の景色を楽しみながら、キッチンカーや掘り出し物ショッピングが楽しめる。海と緑に囲まれたロケーションで、ぶらりお散歩にもぴったりな一日に！",
-      "id": 47
-    },
-    {
-      "title": "ららぽーと海老名 presents 雪でアソビナ 2026",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "海老名駅前に、今年も“雪のオアシス”が出現。今年で10回目を迎える海老名の真夏の風物詩ららぽーと海老名 presents 雪でアソビナ。運び込まれるのは、280kmの旅をする約40tもの天然雪。気候変動の影響で雪遊びが貴重な体験となった今、",
-      "id": 48
-    },
-    {
-      "title": "キッズフリマ@イオンモール座間",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "子どもだけで売り買いを行うキッズフリマ！ 全国で人気のイベントが神奈川県座間市のイオンモール座間にて1年ぶりに開催。お金の勉強・コミュニケーション力UP・リユース意識の向上等子どもたちの学びになるイベント。保護者も子どもの成長を実感ができる",
-      "id": 49
-    },
-    {
-      "title": "7月10日フォトチャムベビー撮影会（はだかんぼ撮影会®...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "✎𓂃 内容\n写真撮影をいたします。\n\n𖧷対象月齢：生後3-10ヶ月（おひとり歩き前）のお子様\n\n𖧷所要時間：約45分〜1時間（集団開催を致します。待ち時間にはおしゃべりなどゆったりと過ごしていただきます。）\n\n𖧷撮影内容：お子様のはだかんぼ",
-      "id": 50
-    },
-    {
-      "title": "水鉄砲合戦　下鶴間ふるさと館夏の陣",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "暑さを吹き飛ばせ！びしょ濡れ必至の水遊びイベント。3名1チームのチーム戦で、1試合3分のサバイバル・リーグ戦方式。受付は各回開始15分前。優勝チームには景品贈呈。\n関連講座として7/15と7/26に水鉄砲作り講座も開催。参加無料。",
-      "id": 51
-    },
-    {
-      "title": "太鼓の練習 はじまります",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "盆踊り本番に向けて、元気いっぱい練習しよう！\nお友だちをさそって、ぜひ参加してね！\n中学生まで大歓迎！\n持ち物はタオルと水筒。",
-      "id": 52
-    },
-    {
-      "title": "海の公園ビーチ",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "夏の遊び場として海の公園のビーチが開放されます。海水浴やピクニック、BBQ、ビーチスポーツ、ジョギング、散策、なぎさ広場や水遊びが楽しめます。休憩テント・更衣室・水シャワーは無料で利用可能。バーベキューは予約制（有料）。期間中はライフセーバ",
-      "id": 53
-    },
-    {
-      "title": "YOKOHAMA FC × こっころはぴふぁみ",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "YOKOHAMA FCとこっころが共同で開催する土曜プログラム「はぴふぁみ」です。ボールを使って身体を動かし、歩けるお子さまから5歳とそのお父さんが対象。パパ同士の交流もあります。参加者は飲み物、タオル、室内履きを持参してください。定員は先",
-      "id": 54
-    },
-    {
-      "title": "リアル謎解きゲーム in箱根園　ハコネクエスト-巨大龍...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "今年開業70周年を迎える箱根園を舞台にした、まるでゲームの世界で試練に挑むような気分で楽しめるリアル謎解きゲームを開催！\n箱根園内にある水族館やロープウェイ乗り場、芦ノ湖の畔などを巡り、景色やグルメを満喫しながら、謎を解き明かしていく体験型",
-      "id": 55
-    },
-    {
-      "title": "Ferris Music Festival 2026",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "フェリス女学院大学の山手キャンパスで、子どもから大人まで楽しめる音楽イベント「フェリスミュージックフェスティバル」を開催します！\nクラシックやポップスの生演奏はもちろん、ヴァイオリン・ヴィオラ・チェロ体験、パイプオルガンやチェンバロのコンサ",
-      "id": 56
-    },
-    {
-      "title": "7/16ベビーサイン体験 スターバックスコーヒー西武東...",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "＊「伝えたい」「わかってあげたい」そのような願いが叶うベビーサイン＊\n\n赤ちゃんが最初に覚えるのは「泣く」ということ。お母さんは、お腹が空いたのかな？ねんねしたいのかな？と声色から察知して、赤ちゃんの気持ちを理解する、そのようなコミュニケー",
-      "id": 57
-    },
-    {
-      "title": "たべっ子どうぶつ MIRAI LAB. ～星降るキラリウム～",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "たべっ子どうぶつの世界観を体感できる屋内イベントです。 直径約10m・外周約30mの巨大円形LEDとミラーで星が降るような「星降るキラリウム」をはじめ、ボールプールに入って撮影できるフォトスポットや、スマホのフラッシュで変身するフォト演出、",
       "id": 58
-    },
-    {
-      "title": "鬼滅の刃×ユネッサン 箱根温泉譚 ー藤の花の休息ー",
-      "date": "2026-06-25",
-      "endDate": "2026-06-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "箱根小涌園ユネッサンでは、アニメ「鬼滅の刃」とコラボした『鬼滅の刃×ユネッサン 箱根温泉譚 ー藤の花の休息ー』（2026/7/18ー10/4）を中心に、コラボ風呂やコラボサウナ、オリジナルグッズ付きチケットや宿泊のコラボルームなどを展開しま",
-      "id": 59
     },
     {
       "title": "Red Brick Sunset 2026（レッド ブリック サンセット2026）",
@@ -1173,7 +1151,7 @@
       ],
       "area": "other",
       "desc": "1950年代のアメリカンダイナーやカラフルな “レトロ可愛い” が溢れる「Red Brick Sunset 2026（レッド ブリック サンセット2026）」が、横浜・赤レンガ倉庫で2026年8月1日（土）～30日（日）に開催！ 西海岸で人",
-      "id": 60
+      "id": 59
     },
     {
       "title": "ウルトラヒーローと一緒に怪獣から横浜を守ろう！「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」で、リアルスケールのウルトラマンや怪獣を体験＆撮影！",
@@ -1191,7 +1169,7 @@
       ],
       "area": "other",
       "desc": "新感覚の没入型ARアクション体験「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」が2026年6月5日（金）〜11月30日（月）まで開催！プレス内覧会の体験レポート！",
-      "id": 61
+      "id": 60
     }
   ]
 }
