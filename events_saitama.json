@@ -1,12 +1,297 @@
 {
-  "updated": "2026-06-28T02:59:37.052670",
+  "updated": "2026-06-29T02:59:32.456763",
   "region": "saitama",
-  "count": 30,
+  "count": 41,
   "events": [
     {
-      "title": "第138回岩槻安穏朝市・朝市に夏が来た！スイカ割りにプ...",
+      "title": "TSQ presents「MYSTERY GATE」",
+      "date": "2027-03-31",
+      "endDate": "2027-03-31",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/mystery-gate-2026-saitama-shintoshin/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 1
+    },
+    {
+      "title": "SDGsフェア＠コクーンシティ2026",
+      "date": "2026-06-05",
+      "endDate": "2026-06-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/sdgs-fair-cocooncity-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 2
+    },
+    {
+      "title": "タッチでクーポン～寄ってけヤキ！～",
+      "date": "2026-06-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 3
+    },
+    {
+      "title": "フリーマーケット in さいたま新都心けやきひろば",
+      "date": "2026-06-06",
+      "endDate": "2026-06-07",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 4
+    },
+    {
+      "title": "おもちゃの広場＆エデュベンチャー",
+      "date": "2026-06-13",
+      "endDate": "2026-06-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 5
+    },
+    {
+      "title": "けやきde大道芸",
+      "date": "2026-06-13",
+      "endDate": "2026-06-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 6
+    },
+    {
+      "title": "けやきの下のマルシェ",
+      "date": "2026-06-20",
+      "endDate": "2026-06-21",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
+      "title": "LOVE JAZZ TIME 2026",
       "date": "2026-06-28",
       "endDate": "2026-06-28",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/shoka-keyaki-sai-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "行方不明展 A MISSING EXHIBITION",
+      "date": "2026-07-18",
+      "endDate": "2026-09-06",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/missing-exhibition-2026-saitama/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "Thanks 15th Anniversary ゆるバース by ゆるキャラグランプリ実行委員会",
+      "date": "2026-10-03",
+      "endDate": "2026-10-04",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/yuruverse-2026-saitama-shintoshin/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "さいたまマラソン",
+      "date": "2027-02-14",
+      "endDate": "2027-02-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/saitama-marathon-2027/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "Pythonで学ぶ競技プログラミングの体験入門講座",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "＜こんなことを学びます＞\n・AI時代の人気言語Pythonでプログラミングを競技プログラミング形式で体験します。\n・こちらは初回体験用です。（継続講座は準備中）\n\n＜こんなことが出来るようになります＞\n・Python言語で入力、出力、四則演",
+      "id": 12
+    },
+    {
+      "title": "第35回ふれあいカーニバル2026",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "道の駅おかべに夏祭りがやってくる！　屋台巡行･お囃子･年番送り･火男･叩き合い、神輿巡行、集合写真、キッズ、ダンス、太鼓演奏、よさこい、ビンゴ大会、旨グルメ、縁日など…楽しい･嬉しい･アツイ企画がもりだくさん！",
+      "id": 13
+    },
+    {
+      "title": "型紙で楽しいお絵描き🧩夜空をステンシルアートで描いてみ...",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "夜空をテーマに型紙を作って絵を描こう🌌\n星や月の型紙を作ったら、自分の好きな色で色付け🎨\nカラフルでおしゃれな夜空を完成させよう💡\n\n【このカリキュラムの成長、学びポイント】\n・夜空の広がりと星、月を対比させて描くことで色彩感覚を成長させま",
+      "id": 14
+    },
+    {
+      "title": "第138回岩槻安穏朝市・朝市に夏が来た！スイカ割りにプ...",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -19,12 +304,12 @@
       ],
       "area": "other",
       "desc": "岩槻安穏朝市は9:00にスタートし、整列入場と詰め放題参加券の配布を開始。9:30から詰め放題の先着順ナンバリングを行う。10:00からは子ども限定のプール遊びコーナーがスタート。10:30から詰め放題を実施し、参加には参加券2枚が必要とな",
-      "id": 1
+      "id": 15
     },
     {
       "title": "こどもシアター夏「シャボン玉のコンサートのはじまりはじまり」",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -37,12 +322,12 @@
       ],
       "area": "other",
       "desc": "指揮者も楽器もない不思議なコンサート。シャボン玉の魔術師ミケーレ・カファッジが織りなす楽しい音と光の世界！ ふわふわきらきら、時に驚きいっぱいの幻想的なステージは、子どもから大人まで楽しめ、まるでシャボン玉の中に迷い込んだような不思議で優し",
-      "id": 2
+      "id": 16
     },
     {
       "title": "親子で楽しむ料理教室",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -57,12 +342,12 @@
       ],
       "area": "other",
       "desc": "料理好きの子ども、これからチャレンジしてみたい子ども達と一緒に、親子で楽しむ料理教室を開催。地場産の野菜を使い、季節に合わせた料理を紹介する。今回は夏に嬉しいうどんと野菜の天ぷらにチャレンジ！　対象は満5歳～小学生。※事前申込",
-      "id": 3
+      "id": 17
     },
     {
       "title": "飯能夏祭り満喫ツアー！～底抜け屋台巡行・引き合わせに参...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -75,12 +360,12 @@
       ],
       "area": "other",
       "desc": "某情報番組で取りあげられた底抜け屋台。飯能夏祭りは「飯能の底抜け屋台行事」として市の無形民俗文化財に指定されている。地元の人たちと一緒に巡行や、8ヵ町の底抜け屋台が一堂に会する引き合わせに参加し夏祭りを満喫しよう。お祭り博士の楽しい解説と、",
-      "id": 4
+      "id": 18
     },
     {
       "title": "飛んで灯に入る夏の虫～ライトトラップで昆虫を観察しよう～",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -93,12 +378,12 @@
       ],
       "area": "other",
       "desc": "「飛んで火にいる夏の虫」ということわざがあるが、夜の灯りには人気者から全く知られていない種類まで、多種多様な昆虫が集まる。飯能市の豊かな里山の中でライトトラップを行い、のんびりと昆虫たちを観察していく。飯能にいる昆虫以外の野生動物と出会える",
-      "id": 5
+      "id": 19
     },
     {
       "title": "飯能のジビエを学ぶ！いただく命に感謝するツアー",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -111,12 +396,12 @@
       ],
       "area": "other",
       "desc": "飯能産の捕獲した鹿の解体から、ジビエ料理を食べるところまでの体験ツアー。山間地域の課題である獣害対策の中で山の恵みを感謝しながらいただく。解体施設ムジカを見学し、鳥獣被害対策の現状を学び、ジビエレストラン・ログキャンプで、美味しいジビエを味",
-      "id": 6
+      "id": 20
     },
     {
       "title": "初心者OK！手ぶらで気軽にSUP体験！名栗湖で癒しのひ...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -129,12 +414,12 @@
       ],
       "area": "other",
       "desc": "名栗湖でのSUP体験は、四季折々の自然と湖の静けさを全身で感じながら楽しめる、心と体にやさしいエコツアー。水面をゆったりと進みながら、環境に配慮したスタイルで名栗の生態系や自然の魅力を紹介する。",
-      "id": 7
+      "id": 21
     },
     {
       "title": "ちょこっとお手軽ツアー～ホタル観察会～",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -147,12 +432,12 @@
       ],
       "area": "other",
       "desc": "美しい里地里山環境が残る天覧山の谷戸。普段なかなか歩くことのできない夜の森を専門のガイドが解説しながら安心安全に散策する。そこで見られるホタルや夜行性の生きものたちの息遣いを感じてみよう。",
-      "id": 8
+      "id": 22
     },
     {
       "title": "カナディアンカヌー初級講習＠名栗湖～ゆったり湖を楽しも...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -165,12 +450,12 @@
       ],
       "area": "other",
       "desc": "カナディアンカヌーは、シングルブレードパドルを使って水面を軽やかに進む、アクティブでダイナミックなカヌー。パドルで舵を取る感覚や、思い通りに操作するテクニックを楽しみながら身につけよう！",
-      "id": 9
+      "id": 23
     },
     {
       "title": "禅寺で修行体験（坐禅・法話・写経・精進料理・修行体験）...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -183,12 +468,12 @@
       ],
       "area": "other",
       "desc": "飯能の自然の中、川の音、風の音、鳥のさえずりを聞きながらの曹洞宗認可参禅道場での坐禅を中心とした修行体験。昼食は修行僧が本山で使用する応量器で動物性の食材を一切使用しない精進料理をいただく。また、一文字一文字心を込めて般若心経を写す写経も体",
-      "id": 10
+      "id": 24
     },
     {
       "title": "志木の夏祭り　敷島神社祭典",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -201,12 +486,12 @@
       ],
       "area": "other",
       "desc": "明治時代から続く伝統的な祭りであり、昼間は子ども御輿2基と山車2台、夜は大人御輿2基が氏子7町内を練り歩く。また、敷島神社境内、参道、駅前には多くの露店が並ぶ。",
-      "id": 11
+      "id": 25
     },
     {
       "title": "志木の夏祭り　民踊流し",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -219,12 +504,48 @@
       ],
       "area": "other",
       "desc": "志木市の夏を代表する一大イベント「民踊流し」。敷島神社祭典にあわせ、市内の町内会や婦人会をはじめとした地域の人など、総勢約250人が華やかな浴衣を着て本町通り（約650メートル）を盛大に踊る。昭和48年から続く志木市の夏の恒例行事で、郷土の",
-      "id": 12
+      "id": 26
+    },
+    {
+      "title": "単発参加OK!夏休みスキルアップ『夏期講習』　Z 新三郷",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "Zサッカースクール新三郷校では7月より毎年恒例の夏休み限定「夏期講習」を実施いたします♪\n夏期講習では小学校１年生から６年生を対象に主に「止める」「蹴る」「運ぶ」の基礎技術を徹底的に磨いていきます。サッカーにおいて最も大事な基礎トレーニング",
+      "id": 27
+    },
+    {
+      "title": "ゲーム形式サッカーイベント『試合特化レッスン』　Z 新三郷",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "Z FUTSAL SPORT 新三郷では、試合形式のレッスンの”『試合特化レッスン』”を開催しております。\nスクール生だけでなく、外部生のお子様も参加可能！\n細かい実践形式の技術のポイントを丁寧にお教えします。\n\nレッスン内容\n内容は、試合",
+      "id": 28
     },
     {
       "title": "3歳からのはじめてのカブトムシさがし in 狭山",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -238,12 +559,12 @@
       ],
       "area": "other",
       "desc": "夏といえば、カブトムシ！ ということで、今回まっくらな森の中でカブトムシを探す活動をします！森の中で育った天然のカブトムシ、親子で是非探してみてくださいね。また、実際に見つけたカブトムシは親子で責任を持って飼える分であればお持ち帰りいただく",
-      "id": 13
+      "id": 29
     },
     {
       "title": "夏休み体験！！サンアゼリアこども寄席 ～見て、知って、...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -256,12 +577,12 @@
       ],
       "area": "other",
       "desc": "和光市民文化センターサンアゼリアで落語体験ワークショップを開催！はじめて大歓迎！夏休みの自由研究にも！和光市在住落語家、柳家緑也師匠が楽しく教える。",
-      "id": 14
+      "id": 30
     },
     {
       "title": "サンアゼリア寄席 夏休み！特別口演 ～こどもたちの挑戦...",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -274,12 +595,12 @@
       ],
       "area": "other",
       "desc": "夏休み！体験！サンアゼリアこども寄席の参加者たちが、柳家緑也と高座に挑戦。会場で落語を楽しみ、温かい拍手で応援しよう。　※要入場整理券",
-      "id": 15
+      "id": 31
     },
     {
       "title": "流灯まつり",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -292,12 +613,12 @@
       ],
       "area": "other",
       "desc": "杉戸町の夏の風物詩となった、川面を埋め尽くす幻想的な光の帯。その一つひとつは、地域の人々の手によって、丁寧に、想いを込めて作られている。",
-      "id": 16
+      "id": 32
     },
     {
       "title": "子ども向け講座「「調理」を科学の目で見ながら再発見！」",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -310,12 +631,12 @@
       ],
       "area": "other",
       "desc": "私たちが毎日飲んでいる牛乳は、骨や歯を作るカルシウム源だけでなく、体を作るたんぱく質をはじめ、ビタミン、ミネラルなども含まれ、とても栄養価の高い食品です。また、この牛乳からは様々な製品が作られ、私たちの食生活を豊かなものにしています。\n乳製",
-      "id": 17
+      "id": 33
     },
     {
       "title": "子ども向け講座「けんちく入門ワークショップ」",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -328,12 +649,12 @@
       ],
       "area": "other",
       "desc": "「未来の大学」をデザインするワークショップを開催します！まずはキャンパスを巡り、建物を観察して写真撮影やスケッチを行います。\nその後、理想の校舎を構想し、厚紙で立体模型を製作。自分の理想の大学について、最後は一人ずつプレゼンテーションで発表",
-      "id": 18
+      "id": 34
     },
     {
       "title": "星空を型紙で描いてみよう✂️ステンシルアート体験❣️",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -346,12 +667,12 @@
       ],
       "area": "other",
       "desc": "夜空を黒などで塗って下地を作ったら、月や星を切り出した型紙で色塗りしよう☪️\nオリジナルの型紙を作って、組み合わせを考えると楽しいかも🤔💭\n\n\n【このカリキュラムの成長、学びポイント】\n・夜空の広がりと星、月を対比させて描くことで色彩感覚を",
-      "id": 19
+      "id": 35
     },
     {
       "title": "夜空を描いてみよう⭐️型紙でステンシルアート✂️🌌",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -364,12 +685,12 @@
       ],
       "area": "other",
       "desc": "紙を切って型紙を作り、星や月を自由に描こう🎨\n同じ形でも塗る色を変えるだけで見え方が全然違うよ👀✨\n工夫をこらしてオリジナルのステンシルアートを完成させよう👍\n\n【このカリキュラムの成長、学びポイント】\n・夜空の広がりと星、月を対比させて描",
-      "id": 20
+      "id": 36
     },
     {
       "title": "子ども向け講座「親子DEアート」",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -382,12 +703,12 @@
       ],
       "area": "other",
       "desc": "アート作品を作ることにより脳と心を元気にする臨床美術は、子どもの感性教育や自己肯定感の醸成、クリエイティブシンキングにも効果があります。新しい時代に必要な思考力と実践力を身につける日本発のアートソリューションメソッドを親子で体験してみません",
-      "id": 21
+      "id": 37
     },
     {
       "title": "【浦和美園】iPadで未来を描こう！デジタルアートアート体験",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -400,12 +721,12 @@
       ],
       "area": "other",
       "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 22
+      "id": 38
     },
     {
       "title": "【春日部】夏休みの宿題にも◎無料デジタルおえかき教室！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -418,12 +739,12 @@
       ],
       "area": "other",
       "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 23
+      "id": 39
     },
     {
       "title": "【深谷市】iPadで未来を描こう！デジタルアートアート体験",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -436,12 +757,12 @@
       ],
       "area": "other",
       "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 24
+      "id": 40
     },
     {
       "title": "【飯能】iPadで未来を描こう！デジタルアートアート体験",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
+      "date": "2026-06-29",
+      "endDate": "2026-06-29",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -454,97 +775,7 @@
       ],
       "area": "other",
       "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 25
-    },
-    {
-      "title": "【イオン羽生】無料！iPadで楽しむスクラッチアート体験！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑くて外遊びは難しい」「室内でも子供が夢中になれるイベントはないかな？」\nそんなパパ・ママに耳寄りなお知らせです。\n\nドコモショップで、まるで魔法のようなお絵描き体験をしてみませんか？\n今回のテーマは、子供たちに大人気の**『スクラッチア",
-      "id": 26
-    },
-    {
-      "title": "【本庄市】無料！iPadで楽しむスクラッチアート体験！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑くて外遊びは難しい」「室内でも子供が夢中になれるイベントはないかな？」\nそんなパパ・ママに耳寄りなお知らせです。\n\nドコモショップで、まるで魔法のようなお絵描き体験をしてみませんか？\n今回のテーマは、子供たちに大人気の**『スクラッチア",
-      "id": 27
-    },
-    {
-      "title": "【さいたま市】無料！iPadで楽しむスクラッチアート体験！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑くて外遊びは難しい」「室内でも子供が夢中になれるイベントはないかな？」\nそんなパパ・ママに耳寄りなお知らせです。\n\nドコモショップで、まるで魔法のようなお絵描き体験をしてみませんか？\n今回のテーマは、子供たちに大人気の**『スクラッチア",
-      "id": 28
-    },
-    {
-      "title": "【熊谷駅】夏休みの宿題にも◎無料デジタルおえかき教室！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 29
-    },
-    {
-      "title": "【東大宮】夏休みの宿題にも◎無料デジタルおえかき教室！",
-      "date": "2026-06-28",
-      "endDate": "2026-06-28",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 30
+      "id": 41
     }
   ]
 }
