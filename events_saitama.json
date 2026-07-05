@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-04T02:29:11.473597",
+  "updated": "2026-07-05T02:38:49.326915",
   "region": "saitama",
-  "count": 20,
+  "count": 36,
   "events": [
     {
       "title": "タッチでクーポン～寄ってけヤキ！～",
@@ -130,11 +130,11 @@
       "id": 6
     },
     {
-      "title": "7/4　里山の森の生き物調査隊",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "クラフトカフェ夏祭り「スライム作り」+レインボーかき氷",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/583534",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -144,70 +144,69 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "さいたま市の体験工房クラフトカフェ浦和でかき氷付きのスライム作り体験を開催する。パーツを自分流にアレンジしたオリジナルのスライムを作ったあとはレインボーカラーのかき氷でクールダウン。事前予約制。　※詳細は予約サイトを参照",
       "id": 7
     },
     {
-      "title": "ルートインホテルズ プレゼンツ BCリーグオールスターゲーム2026",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "今年の夏は自作風鈴で涼もう（ガラス風鈴絵付け体験）",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/573715",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "さいたま市の体験工房クラフトカフェ浦和でガラス風鈴の絵付け体験を開催する。絵具やカラーペンを使いオリジナルの風鈴を作成する。事前予約制。　※詳細は予約サイトを参照",
       "id": 8
     },
     {
-      "title": "友禅染体験教室",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "第77回星川とうろう流し",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/566789",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "終戦日の前夜に始まった熊谷空襲から今年で81年。犠牲者を追悼する星川とうろう流しは77回目の開催を迎える。とうろうの販売は17時から。",
       "id": 9
     },
     {
-      "title": "7/4所沢　０歳からの・はじめてのオーケストラ動物大行進",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "世界最大の350種類のクワガタ・カブトムシ展",
+      "date": "2027-06-30",
+      "endDate": "2027-06-30",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/569849",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "concert",
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "Youtubeちゃんねる「クワカブの部屋」の三森大輔氏が目指したのは世界唯一の「究極の施設」！他に類を見ない350種類以上（6月30日時点では350種類を超える）の世界中から集められたクワガタムシ・カブトムシの生きている姿を観察できる世界最",
       "id": 10
     },
     {
-      "title": "【JR武蔵浦和駅】からだ全部で遊ぼ！ぐちゃぐちゃ遊び®の新聞紙あそび",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "狭山市入間川七夕まつり",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578870",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -217,15 +216,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "関東三大七夕祭りに数えられる「狭山市入間川七夕まつり」。「都市景観大賞都市空間部門」で優秀賞を受賞した狭山市駅西口から七夕通り商店街周辺を中心とした沿道には、商店、事業所、市民の方が出展した七夕飾りで埋めつくされる。昼間はもちろん、一味違っ",
       "id": 11
     },
     {
-      "title": "わくわくカブトムシ狩り【お子様連れ限定！】 @大宮北",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "2026伊奈まつり",
+      "date": "2026-08-22",
+      "endDate": "2026-08-22",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/579357",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -235,33 +234,33 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "「バラのまち」といわれる伊奈町の夏の一大イベント「伊奈まつり」を8月22日に開催。会場では神輿や和太鼓の演奏、盆踊りがにぎやかに行われ、観光物産展や模擬店も立ち並ぶ。祭り終盤には打ち上げ花火が夜空を華やかに彩り、送り太鼓の力強い演奏で締めく",
       "id": 12
     },
     {
-      "title": "禅寺で修行体験（坐禅・法話・写経・精進料理・修行体験）（7月）",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "納涼盆踊り大会＆KUMAGAYA水かけ祭り",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/582185",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "水てっぽうやミニバケツで水をかけあって涼める。バケッシャーの世界大会も開催。安全のため強力な水鉄砲の持ち込みは禁止。盆踊りやお菓子まき、こども縁日など、こどもが楽しめる企画を多数準備。※濡れてもいい服装でいこう。",
       "id": 13
     },
     {
-      "title": "世界に一つだけの似顔絵うちわプレゼント！ @新座・朝霞",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "2026環境科学国際センター 夏休み特別企画",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/580784",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -271,15 +270,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "環境科学国際センターがキミの自由研究を応援！ 科学実験や工作教室など、楽しい講座が盛りだくさん。自由研究のヒントを探しに参加してみては？ ※事前申し込み制の講座あり。詳しくは埼玉県環境科学国際センターHPをチェック！",
       "id": 14
     },
     {
-      "title": "【抽選会】ベビーグッズが当たる！モデルハウス見学スタン... @三郷",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "ジャン・チャクムル　ピアノ・リサイタル",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/581179",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -289,34 +288,52 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "2018年浜松国際ピアノ・コンクールで優勝し、一躍注目を集めたトルコ出身のピアニスト、ジャン・チャクムルがいよいよ彩の国に初登場。深く共感し、ライフワークとして大切に取り組んできたシューベルトの音楽を中心に、多彩なプログラムを届ける。まるで",
       "id": 15
     },
     {
-      "title": "所沢「0歳からの・はじめてのオーケストラ」動物大行進",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "親子うどんづくり体験会",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/570605",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "baby"
+        "family"
       ],
       "cats": [
-        "concert",
-        "nature"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "親子で手打ちうどんづくりに挑戦してみては？ 足で踏んでうどん生地をつくり、包丁で切って、みんなでゆでたてのうどんを味わおう。おみやげ付き。",
       "id": 16
     },
     {
-      "title": "爆笑！星兄プラネタリウムショー",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "ママハピEXPO＠イオンモール羽生",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/578288",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ママハピEXPOは、子育てをしているファミリーを対象とする情報イベント。今回は羽生エリアで開催！「子育てに情報を、孤育てにサポートを」。赤ちゃんと一緒に楽しめるワークショップやかわいいグッズ販売などの『Littleマルシェ』も同時開催。当日",
+      "id": 17
+    },
+    {
+      "title": "第70回星川夜市 ～HOSHIKAWA Night B...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -326,15 +343,160 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 17
+      "desc": "熊谷駅前を流れる星川沿いで開催のナイトバザール。飲食・クラフト・パフォーマー・キッチンカーがたくさん集まる。雨天時は中止。最新情報は「星川夜市Instagram」を確認。",
+      "id": 18
     },
     {
-      "title": "LOVEダンゴムシ きみに夢虫！3",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "８月８日～９日プラ鉄道信号ゲーム2026夏 in プラ...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/576495",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「プラ鉄道 信号ゲーム」は、お子さまから大人まで楽しめる、プラレール線路のポイントとストップレールを使って、追い抜き、分岐、合流など「線路の交通整理」を体験いただくイベントです。ご自分のプラレール車両を持参いただき走らせていただきます。机の",
+      "id": 19
+    },
+    {
+      "title": "【吉川美南】7/18　ぷにぷに楽しい♪オリジナルスクイ...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ビーズやスライムなど、好きなものを入れて、自分だけのオリジナルスクイーズを作ろう♪\n\nどんな触り心地になるか、考えながら作る時間もワクワク！\n完成したスクイーズは、思わず何度も触りたくなるお気に入りアイテムになります。\n\nさらに、スクイーズ",
+      "id": 20
+    },
+    {
+      "title": "【吉川美南】7/11　アイス屋さんになろう♪",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "コックさんに変身して、アイス屋さん気分を楽しもう♪\n\nかわいいコスチュームを着て、自分だけのオリジナルアイスづくりにチャレンジ！\n\n好きなトッピングで自由にデコレーションして、世界にひとつだけのアイスが完成！\nつくる楽しさはもちろん、できあ",
+      "id": 21
+    },
+    {
+      "title": "子どもの足の計測会",
+      "date": "2026-07-11",
+      "endDate": "2026-07-11",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "専門の足計測機器でお子様の足のサイズや特徴を測定し、スタッフが靴選びのポイントやサイズの目安をその場でご案内します。 夏休み直前の時期に、成長に合わせた正しい靴選びを家族で確認できる機会です。 開催日は7月11日（土）・12日（日）で、会場",
+      "id": 22
+    },
+    {
+      "title": "【埼玉県戸田市】1日限りのビジタースクールかけっこ教室",
+      "date": "2026-07-11",
+      "endDate": "2026-07-11",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "SPRINT SCHOOL 石原塾は、2026年7月11日（土）、埼玉県戸田市戸田スポーツセンター陸上競技場にて一日を実施いたします。\n\n【時間】\nかけっこ教室　11：00-11：50（対象：小1～小6、年長要相談）\n\n【内容】\nウォームア",
+      "id": 23
+    },
+    {
+      "title": "理科マルシェ【8/1】",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "理科のワークショップが大集合します。\nワークショップの事前申込は不要です。開催当日に直接会場へお越しください。\n大人の方もご参加いただけます。\n涼しい室内開催です。皆様のご来館をお待ちしております。",
+      "id": 24
+    },
+    {
+      "title": "スマイルワールドカップ",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "スマイルワールドカップは、スマイルサッカーキッズが大切にしている「笑顔・挑戦・成長」をテーマにした特別なイベントです。子どもたちは世界各国の代表チームになりきり、ワールドカップさながらの雰囲気の中で仲間と力を合わせて戦います。勝ち負けだけで",
+      "id": 25
+    },
+    {
+      "title": "完成度１２０％！笑顔のアルコールインクアート",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ワークショップですので45分位で仕上げます。\n\n小さな紙に練習用していただいてからA4サイズに本番です。\n\n当日選んだ3色のインクで描きます。\nアルコールを垂らした上にインクと乗せて風で色を広げていきます。\n\n気に入った部分を切り取りフレー",
+      "id": 26
+    },
+    {
+      "title": "8/22　夏休み自由研究解決！昆虫採集と生き物観察＆M...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -344,34 +506,51 @@
         "nature"
       ],
       "area": "other",
-      "desc": "",
-      "id": 18
+      "desc": "子どもたちだけで、夏休みの思い出作り！\n\n大谷戸湿地や雑木林広場を歩きながら、昆虫採集や生き物観察をしよう。つかまえた生き物や、絶滅危惧種の生き物たちをまとめたMAPや図鑑を作ろう！昆虫大好きなみんなと、夏休みの自由研究を解決するぞ！\n初め",
+      "id": 27
     },
     {
-      "title": "350種のクワガタ・カブトムシ展示と特大ケージでの採集体験イベント！",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "8/6　夏休み自由研究解決！昆虫採集と生きもの観察＆M...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/582930",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "museum",
-        "workshop"
+        "nature"
       ],
       "area": "other",
-      "desc": "",
-      "id": 19
+      "desc": "子どもたちだけで、夏休みの思い出作り！\n\n大谷戸湿地や雑木林広場を歩きながら、昆虫採集や生き物観察をしよう。つかまえた生き物や、絶滅危惧種の生き物たちをまとめたMAPや図鑑を作ろう！昆虫大好きなみんなと、夏休みの自由研究を解決するぞ！\n初め",
+      "id": 28
     },
     {
-      "title": "週末の家族イベント『ファミリー個サル』お子様は小1～6年生対象！",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
+      "title": "8/15　ボタニカルラボ　里山の草花で遊ぼう",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
       "place": "埼玉県",
-      "url": "https://iko-yo.net/events/583559",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "「見る・触る・知る」の体験型プログラム。\n\n葉っぱ、お花、木の枝。\n色んなものから色を作ったり、昔ながらの草あそびをします。\n里山には、どんな色が隠れているかな？\n\nこの季節の野草は、太陽をたくさん浴び夏の暑さにも負けないエネルギーを豊富に",
+      "id": 29
+    },
+    {
+      "title": "週末の家族イベント『ファミリー個サル』お子様は小1～6...",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -382,8 +561,116 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 20
+      "desc": "【ファミリー個サルとは？】\n親子参加の個人参加フットサルです。その日に集まった親子でチームを組み、フットサルの試合を2時間たっぷり楽しむコンテンツです！\n「子供とサッカー、フットサルをしたい」、「パパやママと運動がしたい」など、家族でサッカ",
+      "id": 30
+    },
+    {
+      "title": "7/18　ボタニカルラボ　里山の草花で遊ぼう",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "「見る・触る・知る」の体験型プログラム。\n\n葉っぱ、お花、木の枝。\n色んなものから色を作ったり、昔ながらの草あそびをします。\n里山には、どんな色が隠れているかな？\n\nこの季節の野草は、太陽をたくさん浴び夏の暑さにも負けないエネルギーを豊富に",
+      "id": 31
+    },
+    {
+      "title": "8/15　里山の水辺の生き物調査隊",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「見る・触る・知る」の体験型プログラム。水辺の生き物調査隊では、大谷戸湿地周辺を歩いて、水辺にすむ生きものを観察します。アメンボやトンボのヤゴなど、個性豊かないろいろな生きものたちに出会えます。専門ガイドと一緒に五感をフル活用して、里山へ生",
+      "id": 32
+    },
+    {
+      "title": "7/18　里山の水辺の生き物調査隊",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「見る・触る・知る」の体験型プログラム。水辺の生き物調査隊では、大谷戸湿地周辺を歩いて、水辺にすむ生きものを観察します。アメンボやトンボのヤゴなど、個性豊かないろいろな生きものたちに出会えます。専門ガイドと一緒に五感をフル活用して、里山へ生",
+      "id": 33
+    },
+    {
+      "title": "💝🌟 世界にひとつだけ！ダンボールくつデザイン 👟🎨",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "オリジナルの模様や色を考えながら、自分だけの特別な靴を制作します👟\n完成した作品は思い出として部屋に飾ることもできます🎀👟\n小さなお子様にも、ハサミの使い方などの基本的なところから丁寧にお教えします❣️\n\n\n【このカリキュラムの成長、学びポ",
+      "id": 34
+    },
+    {
+      "title": "8/1　里山の森の生き物調査隊",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「見る・触る・知る」の体験型プログラム。森の生き物調査隊では、大谷戸湿地と雑木林を歩いて、夏の里山にあらわれる昆虫たちを探します。つかまえたいきものたちは、観察道具を活用して、記録をしたら森に返します。チョウやトンボ、カブトムシなどの甲虫た",
+      "id": 35
+    },
+    {
+      "title": "🧵🎉 ひも通しにチャレンジ！ダンボールくつ工作 👣✨",
+      "date": "2026-07-05",
+      "endDate": "2026-07-05",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "ダンボールで作った靴にひもを通し、自分らしく飾り付けを楽しみます🪢\n工作と遊びが一緒になった体験型レッスンです🎁✨\n\n\n【このカリキュラムの成長、学びポイント】\n 順番を考えながら制作することで、考える力や集中力を育てます\n挑戦する気持ちを",
+      "id": 36
     }
   ]
 }
