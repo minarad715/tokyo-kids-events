@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T02:14:50.865315",
+  "updated": "2026-07-13T02:16:26.837658",
   "region": "chiba",
-  "count": 41,
+  "count": 20,
   "events": [
     {
       "title": "X Games Chiba 2026",
@@ -236,29 +236,29 @@
       "id": 11
     },
     {
-      "title": "岩井花火2026　夏花火",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "【7/13(月)開催】ベビーイベント★はいはいチャレンジ",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/581833",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "千葉県南房総市の岩井海岸で開かれる「岩井花火」。市民をはじめ、観光客や宿泊客など数多くの人達が楽しみにしており、近隣からも多くの見物客が訪れる。今年の岩井花火は「懐かしい思い出」をテーマにした打上花火。 短い時間の中にたくさんの想いを込めた",
+      "desc": "",
       "id": 12
     },
     {
-      "title": "多田良北浜海岸キャンプ場オープン",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "サバイバルクエスト ロープワークチャレンジ【千葉県流山おおたかの森】",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/584546",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -268,15 +268,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "多田良北浜キャンプ場は、大房岬より見下ろせる美しい浜辺にある。4月下旬～5月上旬の大型連休と、7～8月にオープンする、海岸の砂浜のキャンプ場。多くの家族連れや若人で賑わいを見せるスポット。オートキャンプ場ではないが、車両乗り入れは可能。",
+      "desc": "",
       "id": 13
     },
     {
-      "title": "根本マリンキャンプ場　オープン",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "【7月】縄文ひろば",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585053",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -286,15 +286,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "根本海水浴場開設にあわせ、根本マリンキャンプ場がオープン。海水浴場に隣接しているので、一日中海が満喫できる。テントのレンタル、コテージ等は無いので用具は各自で用意をすること。",
+      "desc": "",
       "id": 14
     },
     {
-      "title": "【海水浴】和田浦海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "【7月】加曽利JOMONアカデミア",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585057",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -304,15 +304,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "透明度の高い水質で、貝殻混じりの白い砂浜と青い松の海岸線が美しい海水浴場。海水浴場のなかに磯場があり、海の生き物観察も可能。「日本快水浴場百選」にも選ばれている人気の海水浴場に出かけてみては。現地に配置されたライフセーバーの指示に従い、楽し",
+      "desc": "",
       "id": 15
     },
     {
-      "title": "【海水浴】瀬戸浜海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "初心者歓迎！ 7月親子サバゲー　in　BATTLE",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/582788",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -322,15 +322,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "磯遊びのできる岩場を併せ持ち、貝殻採取、カニ獲りなどが楽しめる第1海水浴場と、波が高く、ボディボード等が楽しめる第2海水浴場の二つを併せ持つ人気のビーチ。現地に配置されたライフセーバーの指示に従い、楽しく安全に遊泳しよう。",
+      "desc": "",
       "id": 16
     },
     {
-      "title": "【海水浴】南千倉海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "雑貨のマルシェ Luna Relier ［夏のマルシェ］",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/582951",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -340,15 +340,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "きれいな海と白い砂浜が人気の南千倉海水浴場。適度に波立つため、海水浴場区域外ではサーファーやボディーボーダーなどマリンスポーツを楽しむ人が多い。商店街や飲食店も近く、便利な海水浴場。現地に配置されたライフセーバーの指示に従い、楽しく安全に遊",
+      "desc": "",
       "id": 17
     },
     {
-      "title": "【海水浴】塩浦海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "ブラッシュピンクローズ～淡いピンクのエレガントなバラを作ろう～船橋市",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/577618",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -358,15 +358,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "白浜でもっとも東側に位置する「塩浦海水浴場」。非常に波の穏やかな遠浅の海で、岩場もあり小魚など色々な海の生き物を観察できる。波が穏やかなので、遊泳禁止になることが少なく子ども連れのいるファミリーにもおすすめの海水浴場。現地に配置されたライフ",
+      "desc": "",
       "id": 18
     },
     {
-      "title": "【海水浴】根本海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "title": "【2026年7月～12月】ジュニアガン・アドバンス",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/584274",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -376,105 +376,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "目の前に伊豆七島が一望できる海水浴場。磯場では海の生き物観察も楽しめる。ビーチコーミングではタカラガイの貝殻などが拾えることも！　根本マリンキャンプ場に隣接しており、キャンプも楽しめる（有料）。現地に配置されたライフセーバーの指示に従い、楽",
+      "desc": "",
       "id": 19
     },
     {
-      "title": "【海水浴】豊岡海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "古くから海水浴場として栄えてきた富浦。波が穏やかなので子どもにも優しく、家族連れに適した海水浴場。砂浜と岩場での磯遊びの両方が楽しめる。現地に配置されたライフセーバーの指示に従い、楽しく安全に遊泳しよう。",
-      "id": 20
-    },
-    {
-      "title": "【海水浴】岩井海水浴場",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "約2キロメートルにも及ぶ海岸線。穏やかで波静かな岩井海岸は小さなこどもも安心して楽しめる海水浴場。弓なりの海岸線と緑の山並みが訪れる人の心を和ませる。また、海の向こうに沈む夕陽もロマンティック。現地に配置されたライフセーバーの指示に従い、楽",
-      "id": 21
-    },
-    {
-      "title": "ちくらBONフェスタ2026",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "毎年恒例となっている、ちくらBONフェスタ。3日間2会場に分けて花火が打ち上げられる。各日70発程度の打ち上げ花火を予定していて、千倉漁港では露天商も！",
-      "id": 22
-    },
-    {
-      "title": "さわら・町並み・夕涼み～ゆかたで楽しむ灯りと音～",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "着物の似合うまち「佐原」夏の夕暮れに竹灯りで飾られた町並みを浴衣姿でゆったり散策。22日（土）には、ゆかたレンタル、夢灯ろう流しを実施。イベントの詳細は、佐原おかみさん会HPで確認を。",
-      "id": 23
-    },
-    {
-      "title": "八坂神社祭礼",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「天王様」と親しまれる八坂神社の夏祭り。現在では2日間行われるお祭りの初日を宵宮(よいみや)と言い、八坂神社で神輿の御霊入れの儀が行われるほか、町内会ごとの子供神輿が地区内を渡御(とぎょ:練り歩く)する。本祭りの2日目は神輿の行列(神輿1基",
-      "id": 24
-    },
-    {
       "title": "夏休み2026　ワークショップで思い出作り(7月)",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
+      "date": "2026-07-13",
+      "endDate": "2026-07-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585843",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -484,296 +394,8 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "キッズクラフト「Fancy」が千葉ポートタワーに出店。貝を使ってフレームづくり、アクアリウムのペンライトなど涼しげなクラフトが盛りだくさん。今年の夏はポートタワーで楽しもう！",
-      "id": 25
-    },
-    {
-      "title": "夏休み自由研究フェス2026「バクテリオファージ～そな...",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「生き物って何だろう？」「ウイルスは生物？無生物？」「細菌に感染するウイルス＝バクテリオファージ！？」 そんなバクテリオファージの謎めいた生態に迫りながら、モノづくりもできるワークショップを開催。彼らは細菌に感染して、自分自身のコピーを大量",
-      "id": 26
-    },
-    {
-      "title": "諏訪大神秋季大祭（笹川相撲まつり）",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "笹川の相撲まつりは、浪曲や講談で有名な「天保水滸伝」にも登場する由緒あるおまつり。現在は、7つの地区の廻り番により、毎年7月最終土曜日に開催され、町内の子どもによる土俵入りや勝ち抜き戦、「三役相撲」など多くの取組が行われる。今回は仲内区が当",
-      "id": 27
-    },
-    {
-      "title": "東京リャマ計画　ライブアルバム発売記念全国ツアー202...",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "2019年結成のフォルクローレバンド『東京リャマ計画』が『たこらぼ』で単独ライブを開催！ アンデス地方の民族楽器が織りなす独特の音色、リズム、そして魂を揺さぶる情熱的なメロディ。小さな子どもたちから大人まで楽しめるエネルギッシュなステージは",
-      "id": 28
-    },
-    {
-      "title": "ちばでおどれば！市原公演",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "stage"
-      ],
-      "area": "other",
-      "desc": "サブタイトルは「おどれお富さん！よはなさけうきなのよこぐし」。千葉にゆかりのあるお富さんを題材に、家族で楽しめる本格的なダンス公演をお届けします。作品上演前に中村蓉さんによるダンスワークショップを行いますので、ご参加される場合は開演時間まで",
-      "id": 29
-    },
-    {
-      "title": "🌽🎨見て・感じて・描こう！とうもろこしデッサン✨🎈",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "🤩火・水・木・日曜日、子どもクラス大募集中🤩\n\n  とうもろこしを観察し、形や立体感、細かな特徴を意識してデッサンします🔍😳\n楽しみながら絵の基本を学べるカリキュラムです😄\n\n\n\n\n【このカリキュラムの成長、学びポイント】\n 見る力・考..",
-      "id": 30
-    },
-    {
-      "title": "【柏】7/18.19　七輪で★焼きトウモロコシをつくろう",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "自分で焼いたできたて焼きトウモロコシは、格別の美味しさになること間違いなし☆彡\n\n夏休みの思い出づくりにぜひ！\nお父さん・お母さんも一緒に、家族みんなでHAPPYな時間を過ごしましょう。\n\n大人気のクッキングイベントのため、各回【完全予約・",
-      "id": 31
-    },
-    {
-      "title": "ふわふわ・もこもこに癒やされる。針を使わず手ぶらで楽し...",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "SNSやメディアで大人気！ ふわふわ・もこもこに癒やされる。針を使わず手ぶらで楽しめる「モールドール」つくりのワークショップを開催。「手先が不器用だから心配…」「毎日持ち歩けるお気に入りアイテムが欲しい！」という人も大歓迎！ 針や糸を一切使",
-      "id": 32
-    },
-    {
-      "title": "八天堂カフェリエきさらづ「夏やすみフェア」",
-      "date": "2026-08-10",
-      "endDate": "2026-08-10",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "特製ヨーグルトソースに付けながら食べる新スタイルの桃のかき氷や、野菜たっぷり！温玉と絡めて食べるスパイシータコライスといった夏限定メニューが登場。また七夕用短冊の設置など、夏ならではの体験コンテンツも用意。8月10日は八天堂の日を記念した限",
-      "id": 33
-    },
-    {
-      "title": "江見納涼花火2026",
-      "date": "2026-08-12",
-      "endDate": "2026-08-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "8月12日（水）に市内江見漁港にて約800発の花火を打ち上げる「江見納涼花火大会」を開催。至近距離で上がる花火は迫力満点！江見漁港内では露店の出店もあり。鴨川市の夏の風物詩を友だちや家族、大切な人と一緒に楽しもう。",
-      "id": 34
-    },
-    {
-      "title": "音で考える力を育てる 絵本「ココロンの旅」",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「音で考える力を育てる 絵本「ココロン の旅」×楽器作り×オリジナル作曲ワークショップ」\n\n絵本「ココロンの旅」と楽器作り、オリジナル作曲を組み合わせたワークショップです。絵本や手づくり楽器、ミニ作曲で音と仲良くなろう！音楽経験がなくても参",
-      "id": 35
-    },
-    {
-      "title": "わたしの&quot;いのち&quot;のはじまり 「いのちの力」を感じよう",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "わたしはどうやって生まれてきたの？それは自分のいのちの力を学ぼうとする大切な問いです。\n助産師から人権に基づく性教育を親子で楽しく学びましょう。\n自分の存在を肯定でき、性を含めて心が豊かになるための講座です。",
-      "id": 36
-    },
-    {
-      "title": "千葉開府900年 記念イベント",
-      "date": "2026-08-01",
-      "endDate": "2026-08-01",
-      "place": "豊砂公園",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "千葉開府900年を記念した複数のイベントが開催されます。\n・NEO文化祭（2026年8月1日）\n　会場：豊砂公園、イオンモール幕張新都心\n　主催：千葉市、株式会社ZOZO\n・幕張ビーチ花火フェスタ2026（2026年8月1日）\n　千葉開府9",
-      "id": 37
-    },
-    {
-      "title": "【1日完結】遊びながら学ぶ！探究型1dayサマースクール",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "もうすぐ待ちに挑戦の夏休みがやってきますね！ 保護者のみなさま、こんなお悩みはありませんか？\n\n「長い夏休み、せっかくなら子どもが夢中になれる特別な体験をさせたい」\n「家でYouTubeやゲームばかり過ごさせるのは、ちょっと罪悪感がある…」",
-      "id": 38
-    },
-    {
-      "title": "2026/8/19（水）ママハピＥＸＰＯ＠ユニモちはら台",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "🎉 8/19(水) 入場無料！\n来場者全員にプレゼントあり🎁\nユニモちはら台で初開催🌈「ママハピＥＸＰＯ」\n関東、関西主要エリアで大盛況のファミリーイベント🌸\n＼予約受付中！／\n\n♡┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈♡\n\n子育てに情報を　孤育.",
-      "id": 39
-    },
-    {
-      "title": "東庄ポーク＆ビア夏祭り2026",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "東庄町の特産品である美味しい豚肉料理とビールが楽しめる小さな町の大イベント。今年で8回目の開催！ メインゲストは、14日 千葉グルメ「地元は旭市タカギです」でお馴染みの地域密着型インフルエンサーたかぎさん、15日 代表曲homeの歌手・木山",
-      "id": 40
-    },
-    {
-      "title": "九十九里町ふるさとまつり",
-      "date": "2026-07-12",
-      "endDate": "2026-07-12",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "毎年8月の第1土曜日に行われる九十九里町の真夏の祭典。千葉県内でも有数のイベントとして最高の盛り上がりを見せる。誰でも参加できる盆踊りをはじめ、会場には出店も並び、お祭りグルメも味わえる。当日は踊りを楽しんでもよし、食事を楽しんでもよし、子",
-      "id": 41
+      "desc": "",
+      "id": 20
     }
   ]
 }
