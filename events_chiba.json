@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-15T01:59:06.790615",
+  "updated": "2026-07-16T02:08:36.074512",
   "region": "chiba",
-  "count": 42,
+  "count": 21,
   "events": [
     {
       "title": "X Games Chiba 2026",
@@ -257,11 +257,11 @@
       "id": 12
     },
     {
-      "title": "風の巡礼",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "プリザーブドフラワー「パフェ風アレンジ」",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/571999",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -271,17 +271,17 @@
         "festival"
       ],
       "area": "other",
-      "desc": "風の巡礼―チベットの歌とインドの竹笛が紡ぐ ヒマラヤの祈り―　ヒマラヤの大地から生まれた歌声。チベットの伝統弦楽器ダムニェンと竹笛リンブー。そして、インド古典音楽の横笛バーンスリー。世界で活躍する3人の音楽家が特別なひと時をお送りする。出演",
+      "desc": "",
       "id": 13
     },
     {
-      "title": "山崎育三郎「19BOX ～STARMAN～」リリース記...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "プリザーブドフラワー「クリームソーダ風アレンジ」",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/573911",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
         "family"
       ],
@@ -289,69 +289,69 @@
         "festival"
       ],
       "area": "other",
-      "desc": "7月8日（水）発売「19BOX ～ STARMAN ～」のリリースを記念して、リリース記念フリーライブと特典会を開催します。どなたでも観覧無料で参加いただけます。\n実施時間は第1部12:00～、第2部15:00～です。\nイベント当日に「19",
+      "desc": "",
       "id": 14
     },
     {
-      "title": "７月３１日～８月３日　ユニモちはら台にてドームプラネッ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【花・見ごろ】マザー牧場　桃色吐息（ペチュニア）",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/580446",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "nature"
       ],
       "area": "other",
-      "desc": "ドームプラネットでは「知らない世界を体験する」をテーマに地球上の様々な自然・文化・生き物を360度映像にて切り取りみなさまにお届けします。巨大なエアドームの壁一面に広がる360度映像を、寝ながら観ることで、まるでその場にいるかのような体験が",
+      "desc": "",
       "id": 15
     },
     {
-      "title": "【ちはら台】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【成田空港店】ゆびアートでアイスクリーム屋さん",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585089",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "desc": "",
       "id": 16
     },
     {
-      "title": "【君津市】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【千葉ニュータウン店】ゆびアートでアイスクリーム屋さん",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/569456",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
+      "desc": "",
       "id": 17
     },
     {
-      "title": "【イオンモール船橋】描いた作品がキーホルダーに！デジタ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【アリオ市原店】ゆびアートでアイスクリーム屋さん",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585091",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -361,441 +361,62 @@
         "festival"
       ],
       "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "desc": "",
       "id": 18
     },
     {
-      "title": "【南船橋】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【木更津店】ゆびアートでアイスクリーム屋さん",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585093",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "desc": "",
       "id": 19
     },
     {
-      "title": "【テラスモール松戸】描いた作品がキーホルダーに！デジタ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "夏休み2026　ワークショップで思い出作り(7月)",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/585843",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "desc": "",
       "id": 20
     },
     {
-      "title": "【船橋】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "ブラッシュピンクローズ～淡いピンクのエレガントなバラを作ろう～船橋市",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "url": "https://iko-yo.net/events/577618",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
+      "desc": "",
       "id": 21
-    },
-    {
-      "title": "【新松戸】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 22
-    },
-    {
-      "title": "【新八柱店】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 23
-    },
-    {
-      "title": "【松戸駅】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 24
-    },
-    {
-      "title": "大人気♪モールを使ったワークショップ^_^★in市川店",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "モールを使ってぬいぐるみやキーホルダーを作ろう^^\n\n■韓国で大人気！モールで作るぬいぐるみ\n■もこシャカキーホルダー\n■もこシャカステッキ\n■もこもこトレカケース\n\nぜひ、夏休みの自由工作などにご利用ください☆\n\n♡o。+..:*♡o..",
-      "id": 25
-    },
-    {
-      "title": "津軽三味線名人 五錦竜二 「ケヤキ喜ぶ三味の音」",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "国指定重要文化財「旧吉田家住宅」の土間にて作り上げた一音ー音は五錦竜二の人生そのもの…「津経三味線で人様の役に立つことが自分の役目、これでいいということはない一生勉強」と語る。津軽三味線一筋60年以上力強くも絨細な五錦竜二の心・魂の音色を間",
-      "id": 26
-    },
-    {
-      "title": "スイーツファクトリー®夏祭りデコランドワークショップ",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "スイーツファクトリー®　\n作って、使える！体験型ワークショップ　夏祭りデコランド♪\n★15分で簡単につくれちゃう★\n\n選ぶ時間も、作る時間もワクワクがいっぱい。\n夢中になれる！\nできた！がうれしい♪\nスイーツファクトリー®の魔法のワークショ",
-      "id": 27
-    },
-    {
-      "title": "手賀沼花火大会2026",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "約13,500発の花火が打ち上げられます。尺玉（10号玉）やウルトラジャンボスターマイン、子どもに人気のキャラクターマインなど迫力満点の内容です。\n手賀沼の水面に浮かぶ水中花火も見どころで、大迫力の花火が夜空に咲き乱れます。\n雨天時は中止と",
-      "id": 28
-    },
-    {
-      "title": "いけばな体験フェスティバル　いけばなの　“ナゾ”",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "festival"
-      ],
-      "area": "other",
-      "desc": "【この夏、はじめてのいけばな体験へ！！いけばなの７つのナゾ　を解き明かそう。】\n\n「いけばなって何？」\n「いけばなは何のためにするの？」\nなど、いけばなの７つのナゾを実際にお花を生けながら見つけていく体験型イベントです。\n\n先生のお話を聞く",
-      "id": 29
-    },
-    {
-      "title": "【四街道】経験者向け 王道オリエンタル振付ワークショップ",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "このワークショップについて\n\nベリーダンスにはさまざまなスタイルがありますが、このワークショップでは、\nどこか懐かしいエジプシャンオリエンタルの雰囲気を大切にした、王道のオリエンタル振付をシェアします。\n\n近年はスピード感のある振付や高度な",
-      "id": 30
-    },
-    {
-      "title": "ちょいphoto",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "大人気イベント【ちょいphoto】を限定開催します♪\n通常の撮影プランでは、70cutで33,800円〜（税抜）となっておりますが、\n「フォトスタジオでの撮影が気になっていたのでお試しで撮ってみたい！」\n「バースデーフォトとは別に、赤ちゃん",
-      "id": 31
-    },
-    {
-      "title": "【柏】7/26　夏のペイント植木鉢づくり",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＼日常にワクワクを／\nペイント植木鉢づくり\n\n字でも絵でもなんでもOK！\nたまには無になってラクガキ♪\n\n今回はお気に入りの植木鉢をいろどるよ～\n\nインスピレーションのおもむくままに...\n同じものは二度と描けないイマを楽しもう★\n\n...",
-      "id": 32
-    },
-    {
-      "title": "【柏】7/26　ひんやり魔法のアイスづくり",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＼夏限定！！／\n\nひんやり美味しいアイスクリーム\nを作ってみよう★\n\nワクワク楽しい♪\nまぜまぜカンタンな作業で\n小さなおさま～大人まで\n家族みんなでHAPPY体験\n\n自分でつくったできたてのアイス\nきっと格別の味になること間違...",
-      "id": 33
-    },
-    {
-      "title": "ハイハイレースinフレスポ稲毛",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "開催日:：2026 年 8月 9(日)\n開催地：フレスポ稲毛 EASTMALL\n〒263-0001千葉県千葉市稲毛区長沼原町731-17\n\n参加費用：3500円より\n参加内容：ハイハイレース、フォト撮影会\n※人数調整によりお時間の変更をお願",
-      "id": 34
-    },
-    {
-      "title": "ハイハイレースinおおたかの森",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "開催日:：2026 年 8月 1日(土)\n開催地：スターツおおたかの森\n住所：〒270-0119 千葉県流山市おおたかの森北1-2-1\n\n参加費用：3500円より\n参加内容：ハイハイレース、フォト撮影会\n※人数調整によりお時間の変更をお願い",
-      "id": 35
-    },
-    {
-      "title": "修了証付！1日完結・初級ベビーマッサージ講座・千葉・船...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "1日約3時間でベビーマッサージの実技と理論が\n\n学べる、初級ベビーマッサージ講座。\n\n\n大阪で人気がありますので、講師実家の千葉船橋\n\nでも開催します。\n\n修了証も発行され、履歴書にも書けます。\n\n\n\n育児ママ・妊婦さん・保育士...",
-      "id": 36
-    },
-    {
-      "title": "★流山おおたかの森【無料】9/11(金)ベビーキッズマ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "◎家族写真撮影に無料でご招待！\n撮影したお写真はデータで10枚、自分で選べます！\n✓　お着換えや衣装替えなども大歓迎！貸し切りでたっぷり撮影いたします。\n✓　小物などのお持ち込みも大歓迎です。たくさんお持ちください。\n✓　お友達と、ご家族全",
-      "id": 37
-    },
-    {
-      "title": "夏のネイチャーハント ７月",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "今年もはじまりました。夏のネイチャーハント、木の謎をといて景品をゲット！\n毎月変わるコースを回って、木のクイズをとき、キーワードをみつけよう！\n参加方法は、みどりの相談所内にある、解答用紙＆マップを受け取り、木のクイズに挑戦。\n最後にみどり",
-      "id": 38
-    },
-    {
-      "title": "一宮町SOTOBOサマースクール",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "夏休みだからこそできる、「知りたい！」「やってみたい！」を応援する少人数制小学生向けサマースクールです。\n\nSOTOBOコミュニティスクールでは、自然遊びや探究学習、英語、アート、クラフトなど、多彩な体験プログラムを実施します。地域の自然や",
-      "id": 39
-    },
-    {
-      "title": "岩井花火2026　夏花火",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "千葉県南房総市の岩井海岸で開かれる「岩井花火」。市民をはじめ、観光客や宿泊客など数多くの人達が楽しみにしており、近隣からも多くの見物客が訪れる。今年の岩井花火は「懐かしい思い出」をテーマにした打上花火。 短い時間の中にたくさんの想いを込めた",
-      "id": 40
-    },
-    {
-      "title": "ちくらBONフェスタ2026",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "毎年恒例となっている、ちくらBONフェスタ。3日間2会場に分けて花火が打ち上げられる。各日70発程度の打ち上げ花火を予定していて、千倉漁港では露天商も！",
-      "id": 41
-    },
-    {
-      "title": "さわら・町並み・夕涼み～ゆかたで楽しむ灯りと音～",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "着物の似合うまち「佐原」夏の夕暮れに竹灯りで飾られた町並みを浴衣姿でゆったり散策。22日（土）には、ゆかたレンタル、夢灯ろう流しを実施。イベントの詳細は、佐原おかみさん会HPで確認を。",
-      "id": 42
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-15T01:57:41.421630",
+  "updated": "2026-07-16T02:07:31.805625",
   "region": "kanagawa",
-  "count": 47,
+  "count": 29,
   "events": [
     {
       "title": "僕のヒーローアカデミア 第2回 雄英高校オープンスクール",
@@ -298,49 +298,49 @@
       "id": 14
     },
     {
-      "title": "クリスタル・ガラスの水上花火",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【残３】ちきゅうのにわdeはいはいレース！ベビーサンプル🎁",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/577102",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature"
+        "festival"
       ],
       "area": "other",
-      "desc": "芦ノ湖の花火をイメージした「クリスタル・ガラスの水上花火」を庭園中央の池に展示する。約7万粒のクリスタル・ガラスで構成された、世界で唯一の日中に輝く水上花火である。今年は開館30周年を記念し、花火3基と約2万2千粒を増設し、より華やかな景観",
+      "desc": "",
       "id": 15
     },
     {
-      "title": "クリスタル・ガラスのアジサイ",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【7月16日(木)開催】赤ちゃんイベント♪キドキドエクササイズ",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/582605",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "family"
+        "baby"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "箱根ガラスの森美術館の庭園を彩るクリスタル・ガラスのアジサイ。太陽光と風を受けて、直径1.4cm・約15,000粒のクリスタル・ガラスが七色に輝く。この時期だけの珍しい“アジサイ”をお見逃しなく。",
+      "desc": "",
       "id": 16
     },
     {
-      "title": "アニヴェルセル大開放祭",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "1時間でバク転に挑戦！(バク転をしたことない方向け！)",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/586674",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
         "family"
       ],
@@ -348,106 +348,105 @@
         "festival"
       ],
       "area": "other",
-      "desc": "「アニヴェルセル大開放祭」は、入退館自由・参加費無料（一部コンテンツを除く）で、だれでも気軽に楽しめるイベント。4回目となる今年は初の2日間開催となり、ドレスショーや限定ランチ、キャンドルナイトに加え、公益財団法人横浜市観光協会と連携した「",
+      "desc": "",
       "id": 17
     },
     {
-      "title": "3連休限定！話題のベアアート体験ワークショップ",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "バク転やバク宙を教えてもらおう！",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/587212",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "神奈川県厚木市で3連休に「ベアアート体験イベント」が開催される。SNSで大バズりのベアアートをはじめ、新入荷の可愛いキャラクター風キーホルダー作りを誰でも簡単に楽しむことができる。大人から子どもまで時間を忘れて夢中になれるワークショップだ。",
+      "desc": "",
       "id": 18
     },
     {
-      "title": "3x3.EXE PREMIER JAPAN 2026 ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "7月開催 一度に 低イーストで作るパンとお料理を学べるレッスン",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/566929",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "国内最高峰の3人制バスケ・3x3のプロリーグ『3x3.EXE PREMIER』を開催。湘南を本拠地とする地元チーム・SHONAN SEASIDE.EXEや日本代表選手が所属するチームが出場！観戦は基本無料。プロ選手の熱い戦いをぜひ会場で楽し",
+      "desc": "",
       "id": 19
     },
     {
-      "title": "農林水産省後援　五感で体験、みらいをつくろう「木育フェ...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【青葉台・7/16】0歳からOK！人気のヴァイオリンを聴こう！",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/506599",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
-        "family"
+        "baby"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "AQ Group（アキュラホーム）では7/18〜8/31の夏休み期間、全国の展示場・モデルハウスで入場・参加無料の体験型イベント「木育フェス2026」を一斉開催！木造建築を数多く手がける同社だからこそできる、本物の木に触れ合う特別な体験を用",
+      "desc": "",
       "id": 20
     },
     {
-      "title": "箱根園70周年記念 夏のイベント「リアル謎解きゲーム」",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "小学生対象！楽しくバレエ体験レッスン！",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/558131",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "family"
+        "elementary"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "箱根園全体を舞台にした体験型リアル謎解きゲームを開催。 参加者は伝説の巨大龍にまつわる謎を解き明かしながら、箱根園内を巡り、3つの試練に挑戦する。家族やグループで協力しながら楽しめる、この夏限定の特別イベント。",
+      "desc": "",
       "id": 21
     },
     {
-      "title": "9/7(月) なりきりハイハイ・よちよちレース にじい...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "【藤沢/水道橋】2個作成【ウエットティッシュケースデコ＆ロゼット】",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/528079",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "これまで約130組の親子にご参加✨\n⁡大人気のなりきり！ハイハイ＆よちよちレース👣\n⁡\n今回のテーマは…\n⁡\n／\nカラフルクレヨン\nにじいろパーティー🌈🖍️✨\n＼\n⁡\n今年の1月に開催して以来2度目の開催🎉\n⁡\nカラフルなクレヨン...",
+      "desc": "",
       "id": 22
     },
     {
-      "title": "フリ・フリ・フェスタ2026",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "猫背が気になる人のための、美姿勢になれるフラ【横浜市/木曜/土曜】",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/541129",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -457,17 +456,17 @@
         "festival"
       ],
       "area": "other",
-      "desc": "不登校・ひきこもり等の当事者や家族が参加して作り上げるフリースクール・フリースペース等によるお祭りです。今年で20回目を迎え、新規団体も参加して盛り上げます。",
+      "desc": "",
       "id": 23
     },
     {
-      "title": "【無料・たまプラーザ】ママのほっとタイム+（プラス）",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "7月　キドキドたまプラーザテラス店　「１歳のお誕生日会」",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/581817",
       "source": "ikoy",
-      "cost": "free",
+      "cost": "paid",
       "ages": [
         "family"
       ],
@@ -475,33 +474,33 @@
         "festival"
       ],
       "area": "other",
-      "desc": "こんにちは！「ママのほっとタイム＋」運営事務局です。\n\n毎日のお子さまとの生活、本当にお疲れさまです。\n「公園は暑くて、でも家だと子どもの体力が有り余る…」\nそんなママの悩みを叶える、民間運営の自由さと国後援の安心感を両立した子育て応援サロ",
+      "desc": "",
       "id": 24
     },
     {
-      "title": "Summer Concert",
-      "date": "2026-07-18",
-      "endDate": "2026-07-18",
+      "title": "【演技初心者ならココ！】演劇・演技！短い台本で役を演じてみよう！",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/544487",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "stage"
       ],
       "area": "other",
-      "desc": "Summer Concert\n～Hiroshi HASEBE with his Amazing Friend～\n\n2026年7月18日（土）に「大和市文化創造拠点 シリウス やまと芸術ホール サブホール」に開催されるサマーコンサート。\nバリ",
+      "desc": "",
       "id": 25
     },
     {
-      "title": "子ども納涼会ースイカ割を楽しもうー",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
+      "title": "☆少人数制のレッスン☆ ゆっくり丁寧な指導！JAZZ FUNK♪",
+      "date": "2026-07-16",
+      "endDate": "2026-07-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "url": "https://iko-yo.net/events/518159",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -511,332 +510,8 @@
         "festival"
       ],
       "area": "other",
-      "desc": "子ども納涼会でスイカ割りを楽しみましょう。\nスイカ割は午後2時から4時まで、美味しいスイカを食べられます。\n花火は午後7時30分から9時まで同じ会場で実施されます。\n花火は必ず大人と一緒に行い、後片付けもきちんと行いましょう。",
+      "desc": "",
       "id": 26
-    },
-    {
-      "title": "夏休みラジオ体操",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "夏休み期間中、毎朝みんなで元気にラジオ体操を行います。子どもからシニアの方まで参加歓迎。出欠カードも配布されます。",
-      "id": 27
-    },
-    {
-      "title": "８月７日～９日　イオン相模原ショッピングセンター：ドー...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ドームプラネットでは「知らない世界を体験する」をテーマに地球上の様々な自然・文化・生き物を360度映像にて切り取りみなさまにお届けします。巨大なエアドームの壁一面に広がる360度映像を、寝ながら観ることで、まるでその場にいるかのような体験が",
-      "id": 28
-    },
-    {
-      "title": "バク転やバク宙を教えてもらおう！",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＜バク転、バク宙をやろう！！＞\nこんにちは、今まで一度でもバク転、バク宙をしたいと思ったことはありませんか？\n難しそうだから躊躇していた方、実は言われた通りにやればとても簡単なのをご存知ですか？🎵\n\nバク転はどなたでも出来ますので、まずはや",
-      "id": 29
-    },
-    {
-      "title": "夏休み開催！横浜アソビル短期かけっこ教室・サッカースプ...",
-      "date": "2026-08-13",
-      "endDate": "2026-08-13",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "2026年8月13日（木） 神奈川県横浜市（横浜アソビル屋上 横浜駅直結）にて、かけっこ教室＆サッカーフィジカル教室を開催いたします！\n\n今回の短期スクールでは、”走り方”をトレーニングするではなく、お子さまの基礎体力も向上するようなトレー",
-      "id": 30
-    },
-    {
-      "title": "【平塚駅】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 31
-    },
-    {
-      "title": "【平塚店】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 32
-    },
-    {
-      "title": "【平塚市】夏休みの宿題にも◎無料デジタルアート体験！",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 33
-    },
-    {
-      "title": "【辻堂駅】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 34
-    },
-    {
-      "title": "【茅ヶ崎店】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 35
-    },
-    {
-      "title": "【藤沢駅北口店】描いた作品がキーホルダーに！デジタルア...",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 36
-    },
-    {
-      "title": "【鎌倉市】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 37
-    },
-    {
-      "title": "【藤沢駅】夏休みの宿題にも◎無料デジタルアート体験！",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 38
-    },
-    {
-      "title": "【大船駅】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 39
-    },
-    {
-      "title": "【横浜関内】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 40
-    },
-    {
-      "title": "【藤沢駅】作品が記念に残る特別なデジタルアート体験を♪",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "テレビやSNSでも話題の「デジタルアート」を手軽に体験してみませんか？\nプロのクリエイターも愛用する本格お絵描きアプリ「Adobe Fresco（アドビ フレスコ）」を使って、\n世界に一つだけの作品づくりにチャレンジ！\n\n題して、\nドコモキ",
-      "id": 41
-    },
-    {
-      "title": "【東神奈川駅】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 42
-    },
-    {
-      "title": "【川崎市】描いた作品がキーホルダーに！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 43
-    },
-    {
-      "title": "【鶴ヶ峰駅前】iPadでたのしくお絵描き！デジタルアート体験",
-      "date": "2026-07-15",
-      "endDate": "2026-07-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "「暑い季節でも屋内で楽しく過ごしたい」「子供に新しい体験をさせてあげたい」\nそんなパパ・ママにぴったりのイベントをドコモショップで開催します。\n\nいま話題の「デジタルアート」を手軽に体験！\nプロのクリエイターも愛用する本格お絵描きアプリ「A",
-      "id": 44
     },
     {
       "title": "アルテミス計画がひらく未来！野口さんと考える夢のかなえ方",
@@ -854,7 +529,7 @@
       ],
       "area": "other",
       "desc": "宇宙飛行士・野口聡一名誉館長による子ども向け特別セミナー「アルテミス計画がひらく未来！野口さんと考える夢のかなえ方」が2026年7月28日（火）にカップヌードルミュージアム 横浜で開催！Zoomによるオンライン参加も可能。定員は1,000名",
-      "id": 45
+      "id": 27
     },
     {
       "title": "Red Brick Sunset 2026（レッド ブリック サンセット2026）",
@@ -872,7 +547,7 @@
       ],
       "area": "other",
       "desc": "1950年代のアメリカンダイナーやカラフルな “レトロ可愛い” が溢れる「Red Brick Sunset 2026（レッド ブリック サンセット2026）」が、横浜・赤レンガ倉庫で2026年8月1日（土）～30日（日）に開催！ 西海岸で人",
-      "id": 46
+      "id": 28
     },
     {
       "title": "ウルトラヒーローと一緒に怪獣から横浜を守ろう！「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」で、リアルスケールのウルトラマンや怪獣を体験＆撮影！",
@@ -890,7 +565,7 @@
       ],
       "area": "other",
       "desc": "新感覚の没入型ARアクション体験「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」が2026年6月5日（金）〜11月30日（月）まで開催！プレス内覧会の体験レポート！",
-      "id": 47
+      "id": 29
     }
   ]
 }
