@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16T02:07:31.805625",
+  "updated": "2026-07-17T02:11:03.808407",
   "region": "kanagawa",
-  "count": 29,
+  "count": 47,
   "events": [
     {
       "title": "僕のヒーローアカデミア 第2回 雄英高校オープンスクール",
@@ -214,6 +214,27 @@
       "id": 10
     },
     {
+      "title": "日伊国交樹立160周年記念 イタリア展",
+      "date": "2026-07-22",
+      "endDate": "2026-07-27",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/italian-fair-yokohama-takashimaya-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
       "title": "『映画ちいかわ 人魚の島のひみつ』in横浜市コラボ",
       "date": "2026-07-24",
       "endDate": "2026-08-02",
@@ -232,7 +253,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 12
     },
     {
       "title": "Red Brick Sunset 2026",
@@ -253,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     },
     {
       "title": "The 50th Anniversary OSAMU GOODS展",
@@ -274,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -295,176 +316,160 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
-    },
-    {
-      "title": "【残３】ちきゅうのにわdeはいはいレース！ベビーサンプル🎁",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/577102",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
       "id": 15
     },
     {
-      "title": "【7月16日(木)開催】赤ちゃんイベント♪キドキドエクササイズ",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "木のプレイパークで遊ぼう",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/582605",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "baby"
+        "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "暑い日が続く夏、外へ遊びに行くのも一苦労。交流センターで一日涼しく遊んで過ごすのはいかが？釘やのこぎりを使って自由に木工したり、500個の積み木をどこまで積めるか試したり。夏の植物で草木染めやウッドボール削りなど、色々なあそびをプレイリーダ",
       "id": 16
     },
     {
-      "title": "1時間でバク転に挑戦！(バク転をしたことない方向け！)",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "レジンを使ってぷっくりシールをつくろう！",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/586674",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
-    },
-    {
-      "title": "バク転やバク宙を教えてもらおう！",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/587212",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 18
-    },
-    {
-      "title": "7月開催 一度に 低イーストで作るパンとお料理を学べるレッスン",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/566929",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 19
-    },
-    {
-      "title": "【青葉台・7/16】0歳からOK！人気のヴァイオリンを聴こう！",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/506599",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 20
-    },
-    {
-      "title": "小学生対象！楽しくバレエ体験レッスン！",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/558131",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "elementary"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "レジンを使って、自分だけのぷっくりシールを作るワークショップ。シールの持ち込みもOK！（10枚まで）対象：4才～小学6年生（未就学児は保護者同伴）所要時間：30～40分。シールは持ち込み可能。ビニールコーティングされているシールがおすすめ（",
+      "id": 17
+    },
+    {
+      "title": "みなとみらいフェスティバル花火貸切クルーズ（オセアンブルー）",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature",
+        "festival"
+      ],
+      "area": "other",
+      "desc": "45分間に約18,000発が上がるスカイシンフォニーinヨコハマ。海上の台船から打ちあがる花火は、海面やビルの壁面にも映り込み、船上からの見学は、打ち上げ場所に近い特等席で余すところなく花火を満喫できるスペシャルな体験。オセアンブルーは10",
+      "id": 18
+    },
+    {
+      "title": "本と遊びのライブラリー@宮崎台",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "本をよむ：子どものための自由に読める絵本・児童書ライブラリー。大人むけの古本の販売、bookdate販売あり。本を作る：本づくりワークショップを実施(各500円)。夏休みのお出かけに最適な「スタンプ帳づくり」や「小さな豆本づくり」、みんなで",
+      "id": 19
+    },
+    {
+      "title": "テラスモール湘南　出張水族館「おでかけえのすい」",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "今年のテーマは「あわたんのタイドプール（「しおだまり」ともいい、海で海水が引く「干潮時」に磯などの岩のすきまにできる水たまり）広場」会場では泡をイメージしたボールプールが登場し、臨場感のある水槽では間近で生き物を観察できる。また、えのすいト",
+      "id": 20
+    },
+    {
+      "title": "天野ピアノ教室主催、河邉ピアノ教室協賛、夏のピアノ発表会",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "主に鎌倉市の天野ピアノ教室に通う生徒によるピアノ発表会。今回は横浜市の河邉ピアノ教室からも5名出演。4歳から大人の生徒までバラエティー豊富な天野ピアノ教室。天野泉先生はドイツ、オーストリアで9年ピアノ演奏の研鑽を積んで来たクラシックのピアノ",
       "id": 21
     },
     {
-      "title": "【藤沢/水道橋】2個作成【ウエットティッシュケースデコ＆ロゼット】",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "街ノ停留所 花ノマルシェ（7月）",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/528079",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
+        "nature",
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "7月のマルシェ出店者は、kaulaのビアガーデン、ゆかりんのふわっふわかき氷、myrtilleの焼菓子、船橋さんと吉川さんの小物、sora to toriの洋服と布小物、Shinoのタロット占い、1983COFFEEのコーヒー、アロハロミロ",
       "id": 22
     },
     {
-      "title": "猫背が気になる人のための、美姿勢になれるフラ【横浜市/木曜/土曜】",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "工場夜景＆花火クルーズ",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/541129",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "nature"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "工場夜景ジャングルクルーズに花火鑑賞がプラスされた特別バージョン。幻想的な輝きに包まれた横浜港で、出航後すぐに間近で上がる「横浜ナイトフラワーズ（旧：スパークリングトワイライト）」の花火を船上から鑑賞。花火を楽しんだ後は京浜運河に向かい工場",
       "id": 23
     },
     {
-      "title": "7月　キドキドたまプラーザテラス店　「１歳のお誕生日会」",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "江の島灯籠",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/581817",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -474,33 +479,15 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "江の島灯籠は今年で19回目を迎える、夏のナイトイベント。江の島島内各所に約1,000基の灯籠が灯る。江の島の頂上にある江の島サムエル・コッキング苑では高さ約5メートルの巨大な灯籠も出現。海と自然に囲まれた江の島がこの時期だけ幻想的な雰囲気に",
       "id": 24
     },
     {
-      "title": "【演技初心者ならココ！】演劇・演技！短い台本で役を演じてみよう！",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
+      "title": "アートではないスケッチVer.1カク編",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/544487",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "stage"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "☆少人数制のレッスン☆ ゆっくり丁寧な指導！JAZZ FUNK♪",
-      "date": "2026-07-16",
-      "endDate": "2026-07-16",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/518159",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -510,8 +497,369 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "円と四角が描ければ、まわりのすべてのモノ（人工物）が描ける、\nというのが、私の持論です。\n「Ver.1マル編」では円が主で、「Ver.1カク編」では四角が主です。\n建築やインテリアの分野は「カク」が多いのですが、\n「Ver.1マル編」では、",
+      "id": 25
+    },
+    {
+      "title": "夏だ🌞踊ろう♪日吉/綱島でベリーダンス 🔰",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "◼️体験レッスン受付クラス\n\n🔰マークがないクラスはベリーダンス歴1年以上の方向けです。\n🩵毎週木曜日 10:30〜11:45（75分）綱島  ※ベリーダンス歴1年以上\n🩵第2.4火曜日 10:30〜11:45（75分）🔰綱島\n🩵毎週木曜日",
       "id": 26
+    },
+    {
+      "title": "ウクライナ国立バレエ「スペシャル・セレクション2026...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "歴史と伝統を受け継ぐ名門バレエ団、ウクライナ国立バレエが今年の夏にも来日し、クラシックバレエの人気作品をハイライト形式で披露する、毎回各地で大好評のガラ公演を開催！ 出演するのはウクライナ国立バレエで芸術監督を務める寺田宜弘が選抜した実力派",
+      "id": 27
+    },
+    {
+      "title": "こどたんmini",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ちがさきのまちの魅力や人とのつながりを感じながら、 子どもたちの「やってみたい！」をそっと後押しする 小さな体験交流広場。地域で活動する団体が心を込めて準備した、ものづくり体験やワークショップで、遊んだり作ったりしながら子どもたちの興味や得",
+      "id": 28
+    },
+    {
+      "title": "バーナーワーク制作実演",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "イタリアのバーナーワーク作家ブルーノ・コンティエッロ氏が、箱根山内やヨーロッパの昆虫、身近な動物をガラスで精緻に表現する。約1300℃の炎でガラス棒を熔かし成形する技法で、脚や触角の複雑な造形や動物の躍動感を追求している。実演期間中は、色ガ",
+      "id": 29
+    },
+    {
+      "title": "#野望アンサンブル パワフルサマーフェス",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "日本では普及していないドイツのユーフォニアムのために作られた2重奏曲集「Ehrgeiz」を使って、様々な人や楽器とのアンサンブルを通じて楽しみながらアンサンブルを極めようという企画。実際にプロ奏者から直接教わったり、一緒に演奏することで実践",
+      "id": 30
+    },
+    {
+      "title": "かみしばいWA",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "かみしばいと夏まつりのコラボイベント。\n紙芝居、ボードゲーム、おもちゃ工作、パステルアート、バルーンアート、一箱古本市など多彩な内容。親子や大人も参加可能。予約不要・入場無料。",
+      "id": 31
+    },
+    {
+      "title": "【野毛地区センター】ズンバサークルメンバー募集中❤️【...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "初めまして！インストラクターのRieです（私自身も50代です！🌸）。\nサークルを立ち上げてから1年半、横浜市南区の「フォーラム南太田」にて、大人のためのZUMBA（ズンバ）サークルを楽しく開催しております。\n\n当サークルは50代・60代のメ",
+      "id": 32
+    },
+    {
+      "title": "2026年！！夏休み子ども調査隊(小学3年生～６年生対...",
+      "date": "2026-08-04",
+      "endDate": "2026-08-05",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "Aコース　8月4日(火)　13：30～15：30\nピアノ大解剖\n講師：一級ピアノ調律技能士　橋本尚之\n✥\nBコース　８月5日(水)　13：30～15：30\n音の不思議～蓄音器のしくみ～\n講師：日本コロムビア株式会社スタッフ\n✥\n～～～～～.",
+      "id": 33
+    },
+    {
+      "title": "ベビーマッサージ×音楽 ベビリズム~おやこふれあい♪青...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "赤ちゃんとふれあいながら音楽も楽しめる特別な時間♪\nパパの参加も大歓迎！\nママにはハンドマッサージをつけることもできます♪（希望者のみ）\n終わったあとは、お茶タイム　みんなでひと息つきましょう♡",
+      "id": 34
+    },
+    {
+      "title": "クリスタル・ガラスの水上花火",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "芦ノ湖の花火をイメージした「クリスタル・ガラスの水上花火」を庭園中央の池に展示する。約7万粒のクリスタル・ガラスで構成された、世界で唯一の日中に輝く水上花火である。今年は開館30周年を記念し、花火3基と約2万2千粒を増設し、より華やかな景観",
+      "id": 35
+    },
+    {
+      "title": "クリスタル・ガラスのアジサイ",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "箱根ガラスの森美術館の庭園を彩るクリスタル・ガラスのアジサイ。太陽光と風を受けて、直径1.4cm・約15,000粒のクリスタル・ガラスが七色に輝く。この時期だけの珍しい“アジサイ”をお見逃しなく。",
+      "id": 36
+    },
+    {
+      "title": "アニヴェルセル大開放祭",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「アニヴェルセル大開放祭」は、入退館自由・参加費無料（一部コンテンツを除く）で、だれでも気軽に楽しめるイベント。4回目となる今年は初の2日間開催となり、ドレスショーや限定ランチ、キャンドルナイトに加え、公益財団法人横浜市観光協会と連携した「",
+      "id": 37
+    },
+    {
+      "title": "3連休限定！話題のベアアート体験ワークショップ",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "神奈川県厚木市で3連休に「ベアアート体験イベント」が開催される。SNSで大バズりのベアアートをはじめ、新入荷の可愛いキャラクター風キーホルダー作りを誰でも簡単に楽しむことができる。大人から子どもまで時間を忘れて夢中になれるワークショップだ。",
+      "id": 38
+    },
+    {
+      "title": "3x3.EXE PREMIER JAPAN 2026 ...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "国内最高峰の3人制バスケ・3x3のプロリーグ『3x3.EXE PREMIER』を開催。湘南を本拠地とする地元チーム・SHONAN SEASIDE.EXEや日本代表選手が所属するチームが出場！観戦は基本無料。プロ選手の熱い戦いをぜひ会場で楽し",
+      "id": 39
+    },
+    {
+      "title": "農林水産省後援　五感で体験、みらいをつくろう「木育フェ...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "AQ Group（アキュラホーム）では7/18〜8/31の夏休み期間、全国の展示場・モデルハウスで入場・参加無料の体験型イベント「木育フェス2026」を一斉開催！木造建築を数多く手がける同社だからこそできる、本物の木に触れ合う特別な体験を用",
+      "id": 40
+    },
+    {
+      "title": "箱根園70周年記念 夏のイベント「リアル謎解きゲーム」",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "箱根園全体を舞台にした体験型リアル謎解きゲームを開催。 参加者は伝説の巨大龍にまつわる謎を解き明かしながら、箱根園内を巡り、3つの試練に挑戦する。家族やグループで協力しながら楽しめる、この夏限定の特別イベント。",
+      "id": 41
+    },
+    {
+      "title": "9/7(月) なりきりハイハイ・よちよちレース にじい...",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "これまで約130組の親子にご参加✨\n⁡大人気のなりきり！ハイハイ＆よちよちレース👣\n⁡\n今回のテーマは…\n⁡\n／\nカラフルクレヨン\nにじいろパーティー🌈🖍️✨\n＼\n⁡\n今年の1月に開催して以来2度目の開催🎉\n⁡\nカラフルなクレヨン...",
+      "id": 42
+    },
+    {
+      "title": "フリ・フリ・フェスタ2026",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "不登校・ひきこもり等の当事者や家族が参加して作り上げるフリースクール・フリースペース等によるお祭りです。今年で20回目を迎え、新規団体も参加して盛り上げます。",
+      "id": 43
+    },
+    {
+      "title": "【無料・たまプラーザ】ママのほっとタイム+（プラス）",
+      "date": "2026-07-17",
+      "endDate": "2026-07-17",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "こんにちは！「ママのほっとタイム＋」運営事務局です。\n\n毎日のお子さまとの生活、本当にお疲れさまです。\n「公園は暑くて、でも家だと子どもの体力が有り余る…」\nそんなママの悩みを叶える、民間運営の自由さと国後援の安心感を両立した子育て応援サロ",
+      "id": 44
+    },
+    {
+      "title": "Summer Concert",
+      "date": "2026-07-18",
+      "endDate": "2026-07-18",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "Summer Concert\n～Hiroshi HASEBE with his Amazing Friend～\n\n2026年7月18日（土）に「大和市文化創造拠点 シリウス やまと芸術ホール サブホール」に開催されるサマーコンサート。\nバリ",
+      "id": 45
     },
     {
       "title": "アルテミス計画がひらく未来！野口さんと考える夢のかなえ方",
@@ -529,7 +877,7 @@
       ],
       "area": "other",
       "desc": "宇宙飛行士・野口聡一名誉館長による子ども向け特別セミナー「アルテミス計画がひらく未来！野口さんと考える夢のかなえ方」が2026年7月28日（火）にカップヌードルミュージアム 横浜で開催！Zoomによるオンライン参加も可能。定員は1,000名",
-      "id": 27
+      "id": 46
     },
     {
       "title": "Red Brick Sunset 2026（レッド ブリック サンセット2026）",
@@ -547,25 +895,7 @@
       ],
       "area": "other",
       "desc": "1950年代のアメリカンダイナーやカラフルな “レトロ可愛い” が溢れる「Red Brick Sunset 2026（レッド ブリック サンセット2026）」が、横浜・赤レンガ倉庫で2026年8月1日（土）～30日（日）に開催！ 西海岸で人",
-      "id": 28
-    },
-    {
-      "title": "ウルトラヒーローと一緒に怪獣から横浜を守ろう！「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」で、リアルスケールのウルトラマンや怪獣を体験＆撮影！",
-      "date": "2026-06-05",
-      "endDate": "2026-06-05",
-      "place": "神奈川県",
-      "url": "https://www.kids-event.jp/report/20260603_ultra_multiverse/",
-      "source": "kids",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "新感覚の没入型ARアクション体験「緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫」が2026年6月5日（金）〜11月30日（月）まで開催！プレス内覧会の体験レポート！",
-      "id": 29
+      "id": 47
     }
   ]
 }
