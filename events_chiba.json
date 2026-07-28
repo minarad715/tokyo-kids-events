@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-27T02:30:20.290846",
+  "updated": "2026-07-28T02:06:09.111174",
   "region": "chiba",
-  "count": 24,
+  "count": 44,
   "events": [
     {
       "title": "X Games Chiba 2026",
@@ -299,47 +299,47 @@
       "id": 14
     },
     {
-      "title": "ちいさなごちそう大集合！ミニチュアお弁当＆お子様ランチづくり",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "利根運河で夏休みワークショップ",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/581544",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "簡単な工作が申し込みなしで楽しめる。運がかえるをモチーフにした、おやつバッグ(お菓子付き）作り(300円)をはじめ、おえかき風鈴(300円)、キラキラかざぐるま(200円)、おえかき缶バッジ(200円)、おさかなヒンメリ(200円)の5種類",
       "id": 15
     },
     {
-      "title": "大人気♪モールを使ったワークショップ^_^★in市川店",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "たっつんの巨大ピタゴラ装置であそぼう～ピタゴラで旅する...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/586940",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "流山在住のピタゴラ作家･たっつんが利根運河交流館の壁1面をジャック！ 1.8m×2.7mの巨大ピタゴラ装置は、時計塔のエレベーターでスタート地点へボールを運び、桜並木や浮き橋など、利根運河の見どころを旅するように転がっていく。既存の2台のピ",
       "id": 16
     },
     {
-      "title": "7/27（月）コドモノヅクリ【スクイーズ他　キーホルダー作り】",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "古墳感謝供養祭",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/581857",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -349,17 +349,17 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "東寺山第二公園の古墳跡が、出雲族の大集落跡地であることが判明した。このご縁に感謝し、昨年より古墳感謝供養祭を執り行っている。",
       "id": 17
     },
     {
-      "title": "夏を束ねる ひまわりのスワッグ作り",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "ぬりえスタジアム「ディノバトル」＠イオンモール柏",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/582015",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
-      "cost": "paid",
+      "cost": "free",
       "ages": [
         "family"
       ],
@@ -367,33 +367,33 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "参加無料！ぬったイラストが大きなスクリーンの中で動き出す、不思議で楽しい体験型ぬりえイベント！\n自分だけのオリジナル恐竜をモニターに登場させてバトルを楽しもう！お子さまの想像力を刺激し、親子で一緒にご参加いただけます。お気軽にご参加ください",
       "id": 18
     },
     {
-      "title": "スイーツファクトリー®夏祭りデコランドワークショップ",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "ぬりえスタジアム「ディノバトル」＠アリオ蘇我",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/586759",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
-      "cost": "paid",
+      "cost": "free",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "参加無料！ぬったイラストが大きなスクリーンの中で動き出す、不思議で楽しい体験型ぬりえイベント！\n自分だけのオリジナル恐竜をモニターに登場させてバトルを楽しもう！お子さまの想像力を刺激し、親子で一緒にご参加いただけます。お気軽にご参加ください",
       "id": 19
     },
     {
-      "title": "夏休み工場見学会",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "9/2 ららぽーとTOKYO-BAY / 手形アート ...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/584191",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -403,15 +403,376 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "小さな手、小さな足。\n毎日見ているはずなのに、\n気づけば「あれ？こんなに大きくなったんだ」と驚くほど、子どもの成長はあっという間です。\n\nそんな\"今だけ\"の可愛い手形・足形を、\n世界にひとつだけの手形アートとして残しませんか？\n\n初めての方",
       "id": 20
     },
     {
-      "title": "【新松戸】iPadで未来を描こう！デジタルアートアート体験",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "【松戸】科学の力でいろいろなグミをつくちゃおう！",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/581668",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "プニプニ食感のグミ、みんな大好きですよね！ グミの魅力はなんといってもあのプニプニとした弾力。見た目にもかわいくておいしいグミにどんな科学がひそんでいると思いますか？\n\n・「グミ」は何からできているの？\n・あの「プニプニ」はどうやったらでき",
+      "id": 21
+    },
+    {
+      "title": "君はツノ派？オオアゴ派？ 作ってかぶって、形のひみつを...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "カブトムシのツノ（角）とクワガタのオオアゴ（大顎）、君はどっち派？\nそれぞれの形のひみつを探りながら、自分だけの“ステキな装備”をデザインしよう！工夫しながら創作し、かぶって体感することでこん虫の仕組みと美しさに出会う。そんな観察と表現がつ",
+      "id": 22
+    },
+    {
+      "title": "【夏期講習】画用紙の仕掛けで絵が変わる！大迫力・打ち上...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🤩火・水・木・日曜日、子どもクラス大募集中🤩\n\n2枚の画用紙をパタッとめくると、暗闇から鮮やかな花火へ大変身🪄🎭\n仕組みを楽しみながら、ダイナミックな色彩表現と構図の工夫を学ぶことができる工作絵画です🎨\n\n\n\n\n\n\n【このカリキュラム...",
+      "id": 23
+    },
+    {
+      "title": "0歳からのコンサート／音育ランド 柏",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "0歳からのコンサート／音育ランド 柏\n\n小さなお子さま連れでも安心してご参加いただける、親子のための参加型コンサートです。\nクラシックから童謡まで、耳なじみのある音楽をプロの演奏家と一緒に楽しみながら、歌ったり体を動かしたりと、自由に音楽と",
+      "id": 24
+    },
+    {
+      "title": "「成田国際空港周辺航空関連施設見学」",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "令和8年度「成田国際空港周辺航空関連施設見学」の募集案内です！航空を身近に感じていただくため、関東近郊にお住まいの中学生を対象に実施いたします。ランプセントラルタワー（成田国際空港(株)）、航空科学博物館、 JAL 成田航空機整備センター（",
+      "id": 25
+    },
+    {
+      "title": "マツドキッ！サマーホリデー2026🍧",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "テラスモール松戸 サマーホリデー開催💚\nテラスモール松戸の今年の夏休みは、\nみんなで楽しめるワクワクなイベントが盛りだくさん🍧✨\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n『映画クレヨンしんちゃん　奇々怪々！オラの妖",
+      "id": 26
+    },
+    {
+      "title": "【謎解き宝探し】コルトンクエスト７ ～賢竜の子どもと幻...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "宝の地図を入手し、LINEを使って謎を解こう！\n見事クリアできれば､クエスト報酬をプレゼント！\n\n【開催日】\n2026/08/22～2026/08/31",
+      "id": 27
+    },
+    {
+      "title": "こぐまちゃんがやってくる",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "こぐまちゃんが絵本パラダイスに遊びにくるよ！記念に一緒に撮影しよう！\n\n【開催日】\n8/16(日)　①12:00～ ②14:00～ ③16:00～",
+      "id": 28
+    },
+    {
+      "title": "LaQで遊ぼう！～LaQハカセイエローがやってくる！～",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "はじめてでもカンタン！\nLaQで手のひらサイズの作品をつくってみよう。 \n完成した作品はプレゼント！ (お子様のみ／なくなり次第終了)\n\n\n【イベント限定 購入特典】\nイベント当日LaQをご購入いただいた方限定！\n\n\n■合計1,000円..",
+      "id": 29
+    },
+    {
+      "title": "みんなだいすき！コルトンにノンタンがやってくる！",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ノンタンが絵本パラダイスに遊びにくるよ！\n記念に一緒に撮影しよう！\n\n【開催日】\n8/14(金) ①12:00～ ②14:00～ ③16:00～",
+      "id": 30
+    },
+    {
+      "title": "もったいないばあさんがやってくる",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "もったいないばあさんが絵本パラダイスに遊びにくるよ！\n記念に一緒に撮影しよう！\n\n【開催日】\n8/13(木)　①12:00～ ②14:00～ ③16:00～",
+      "id": 31
+    },
+    {
+      "title": "第47回「親と子の夏休み はかせセミナー」参加者募集中！",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "＼自由研究にぴったり！参加者募集中！／\nカラフルで美しい！感動体験！\n光の不思議なアートの世界と万華鏡作り\n\n\n\n液晶テレビの部品「偏光板」を使い、光の不思議を体験！\n「楽しい万華鏡」と「光の3原色の不思議」の2つの工作に挑戦します。\n自.",
+      "id": 32
+    },
+    {
+      "title": "水合戦 ~Water Battle~ in 船橋競馬場...",
+      "date": "2026-08-01",
+      "endDate": "2026-08-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "この夏を最後まで遊び抜け！\n8月1日(土) 船橋競馬場 パドックにて【水合戦】開催！！\n\nわかりやすい簡単なルールで、 誰もが侍になれるアクティビティ。\n年齢・性別関係なく楽しめる【水合戦】で、最後まで夏を遊び抜こう！\n\n\n\n◇◇水合戦と.",
+      "id": 33
+    },
+    {
+      "title": "柏ウインドシンフォニー創団30周年記念演奏会～第34回...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "室内楽吹奏楽団による感動の演奏が今ここに。「フランス音楽の世界へ」テーマに珠玉の音楽をお届け。第1部では「天国と地獄」「魔法使いの弟子」「マ・メール・ロワ」を披露。第2部では、「オーシャンゼリゼ」「愛の賛歌」「ノートルダムの鐘」他を演奏。指",
+      "id": 34
+    },
+    {
+      "title": "3x3.EXE PREMIER JAPAN 2026 ...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "国内最高峰の3人制バスケ・3x3のプロリーグを開催！千葉県を拠点とする「HOKUSO RHINOS.EXE」をはじめ、注目チームが集結する。スピード感あふれるプレーや迫力満点のダンクなど、3x3ならではの熱戦を間近で楽しむことができる。観戦",
+      "id": 35
+    },
+    {
+      "title": "０〜３歳向けコンサート　民族歌舞団荒馬座「ぴーひゃらどん」",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "お囃子にのって\n三人衆がやってきた。\n福をはこびにやってきた。\n一緒にはやそう\n一緒にうたおう！\n\n『ぴーひゃらどん』は、小さいお子さんと一緒に日本の四季を感じながら日本のうたやおどりや太鼓ばやしにふれる作品です。\n　\n生まれたばかりの子.",
+      "id": 36
+    },
+    {
+      "title": "【ららぽーと柏の葉店】ジーユー夏休みコーディネート体験...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "MY FIRST OUTFITは、お子さまがひとりで服選びに挑戦する、参加無料の店舗イベントです。\n子どもたちが、自分で服を選ぶ・決める・ファッションを楽しむきっかけを提供しています。\n\n今回は夏休み特別企画として「ジーユーが自由研究をお手",
+      "id": 37
+    },
+    {
+      "title": "【イオンモール千葉ニュータウン店】ジーユー夏休みコーデ...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "MY FIRST OUTFITは、お子さまがひとりで服選びに挑戦する、参加無料の店舗イベントです。\n子どもたちが、自分で服を選ぶ・決める・ファッションを楽しむきっかけを提供しています。\n\n今回は夏休み特別企画として「ジーユーが自由研究をお手",
+      "id": 38
+    },
+    {
+      "title": "【市川コルトンプラザ店】ジーユー夏休みコーディネート体...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "MY FIRST OUTFITは、お子さまがひとりで服選びに挑戦する、参加無料の店舗イベントです。\n子どもたちが、自分で服を選ぶ・決める・ファッションを楽しむきっかけを提供しています。\n\n今回は夏休み特別企画として「ジーユーが自由研究をお手",
+      "id": 39
+    },
+    {
+      "title": "集会所開放DAY・しろやまで遊ぼう！",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "集会所を自習室として開放！自由研究のヒントになるダンゴムシのプチ講座や、しろやま公園での水鉄砲・モルックなどの外遊びを楽しめます。参加無料＆出入り自由ですので、ぜひお気軽にお立ち寄りください！",
+      "id": 40
+    },
+    {
+      "title": "マインクラフト 体験イベント開催",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -421,15 +782,34 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 21
+      "desc": "プログラミング教育は、物事を順序立てて考え、うまくいかなくても原因を考え直す“考え方そのもの”を育てる教育です。将来必要な5つの力（論理的思考力、試行錯誤する力、説明力、問題解決力、創造力・表現力）を身につけます。\n現在のIT業界ではIT人",
+      "id": 41
     },
     {
-      "title": "一宮町観光地曳網",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "ママハピEXPO＠イオンモール柏",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/577411",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ママハピEXPOは、子育てをしているファミリーを対象とする情報イベント。「子育てに情報を、孤育てにサポートを」。赤ちゃんと一緒に楽しめるワークショップやかわいいグッズ販売などの『Littleマルシェ』も同時開催。当日スタンプラリー参加で子育",
+      "id": 42
+    },
+    {
+      "title": "８月１１日～１３日　イオンモール千葉ニュータウン：ドー...",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -439,44 +819,26 @@
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 22
+      "desc": "ドームプラネットでは「知らない世界を体験する」をテーマに地球上の様々な自然・文化・生き物を360度映像にて切り取りみなさまにお届けします。今回は２つのコンテンツを交互に上映‼巨大なエアドームの壁一面に広がる360度映像を、寝ながら観ることで",
+      "id": 43
     },
     {
-      "title": "じゃぶじゃぶプールでつかみ取り！",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
+      "title": "（後援）教育委員会　はじめてのお仕事体験",
+      "date": "2026-07-28",
+      "endDate": "2026-07-28",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/588264",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 23
-    },
-    {
-      "title": "新感覚・参加型！サイコロでめぐる成田空港見学ツアー＜中止となり...",
-      "date": "2026-07-27",
-      "endDate": "2026-07-27",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/584179",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 24
+      "desc": "キッズマネーユニバでは、小さなお子さんにお金のお話を子どもたちにわかりやすく、説明をします！！\n「お金の大切さ」「お父さん、お母さんへの感謝」を伝える勉強会です！\nこの勉強会を通して、子ども達に「お金」というものに興味を持ってもらい、将来の",
+      "id": 44
     }
   ]
 }
