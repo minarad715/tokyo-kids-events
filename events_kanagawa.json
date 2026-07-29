@@ -1,915 +1,267 @@
 {
-  "updated": "2026-07-28T02:04:43.059786",
+  "updated": "2026-07-29T02:07:35.703226",
   "region": "kanagawa",
-  "count": 77,
+  "count": 34,
   "events": [
     {
-      "title": "僕のヒーローアカデミア 第2回 雄英高校オープンスクール",
-      "date": "2026-07-05",
-      "endDate": "2026-07-05",
+      "title": "えれんなごっそ 真夏のビア＆ミュージックナイト",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/heroaca-open-school-2-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "夏限定の食材を使用したディナービュッフェと、ピアノの生演奏を楽しめるイベントである。地元の野菜や小田原の漁港で水揚げされた地魚を中心に、自然の素材を生かして丁寧に仕上げた料理が並ぶ。店内に広がるピアノの音色に耳を傾けながら、旬の味覚をゆった",
       "id": 1
     },
     {
-      "title": "そごう横浜店屋上ビアガーデン　太陽の広場 BBQ GARDEN",
-      "date": "2026-08-31",
-      "endDate": "2026-08-31",
+      "title": "RANGE presents FIRST FRIDAY...",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/sogo-yokohama-bbq-garden-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "横浜駅直通・アソビル地下1階 「YOKOHAMA COAST garage+」 で、第1金曜に開催するレギュラーパーティー「RANGE FIRST FRIDAY」。「日常にダンスミュージックを」をテーマに、仕事終わりや週末のはじまりに、気軽",
       "id": 2
     },
     {
-      "title": "横浜ランタンナイト",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
+      "title": "ULTRAMAN EXHIBITION -ウルトラマン...",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-lantern-night-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
+      "desc": "「ウルトラマンシリーズ60周年プロジェクト」の目玉企画として開催する今展覧会は、50作品超のウルトラマンシリーズ作品やウルトラヒーロー、ウルトラ怪獣による60年の軌跡を、新たな表現で届ける。ジオラマ、記念フォトスポット、作品の世界観に入り込",
       "id": 3
     },
     {
-      "title": "緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫",
-      "date": "2026-11-30",
-      "endDate": "2026-11-30",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/ultra-multiverse-yokohama-akarenga-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "YOKOHAMA SAKE SQUARE 2026",
-      "date": "2026-07-03",
-      "endDate": "2026-07-05",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-sake-square-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 5
-    },
-    {
-      "title": "第5回みなとみらいミネラルマルシェ",
-      "date": "2026-07-03",
-      "endDate": "2026-07-05",
-      "place": "神奈川県",
-      "url": "https://www.mineralstone.info/minatomirai-mineral-marche-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "横浜ナイトフラワーズ2026",
-      "date": "2026-07-04",
-      "endDate": "2026-07-04",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-night-flowers-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "第6回 うまいもの大会",
-      "date": "2026-07-15",
-      "endDate": "2026-07-21",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/umaimono-taikai-2026-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
-    },
-    {
-      "title": "FUN! ALOHA! 2026 in YOKOHAMA",
-      "date": "2026-07-17",
-      "endDate": "2026-07-20",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/fun-aloha-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "「MURO FESTIVAL 2026」コラボフレーム",
-      "date": "2026-07-17",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/muro-festival-2026-photomatic-collaboration-frame/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "ヨコハマ恐竜展2026～恐竜の食卓大図鑑～",
-      "date": "2026-07-17",
-      "endDate": "2026-09-06",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-dinosaur-expo-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "BAY WALK MARKET 2026",
-      "date": "2026-07-18",
-      "endDate": "2026-07-20",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/bay-walk-market-2026-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "ニンジャアカデミー 2026 in 横浜赤レンガ倉庫",
-      "date": "2026-07-18",
-      "endDate": "2026-08-23",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/ninja-academy-yokohama-red-brick-warehouse-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "日伊国交樹立160周年記念 イタリア展",
-      "date": "2026-07-22",
-      "endDate": "2026-07-27",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/italian-fair-yokohama-takashimaya-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "『映画ちいかわ 人魚の島のひみつ』in横浜市コラボ",
-      "date": "2026-07-24",
-      "endDate": "2026-08-02",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/chiikawa-movie-yokohama-collab-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "MURO FESTIVAL 2026",
-      "date": "2026-07-25",
-      "endDate": "2026-07-26",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/muro-festival-2026-yokohama-red-brick-warehouse/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "Red Brick Sunset 2026",
-      "date": "2026-08-01",
-      "endDate": "2026-08-30",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/red-brick-sunset-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
-    },
-    {
-      "title": "赤レンガ・アートプラネタリウム®「星空を旅する」",
-      "date": "2026-08-01",
-      "endDate": "2026-08-30",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/akarenga-art-planetarium-hoshizora-wo-tabisuru-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 18
-    },
-    {
-      "title": "The 50th Anniversary OSAMU GOODS展",
-      "date": "2026-08-01",
-      "endDate": "2026-08-31",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/the-50th-anniversary-osamu-goods-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 19
-    },
-    {
-      "title": "The Disco Brick supported by AlphaTheta",
+      "title": "キッズコミニティカフェ",
       "date": "2026-08-08",
       "endDate": "2026-08-08",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/the-disco-brick-alphatheta-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 20
+      "desc": "昨年ご好評いただいたキッズコミニティカフェ、今年も開催します！\n\n大人気だったひみつ基地をはじめ、４つのコーナーで楽しめます。\nママ・パパにはほっこりティータイムを用意しています。\n\n８月８日（土）\n１３：００〜１５：１５\n\n【場所】\n..",
+      "id": 4
     },
     {
-      "title": "Disco Brick YOKOHAMA",
-      "date": "2026-08-08",
-      "endDate": "2026-08-23",
+      "title": "【横浜・港南台】8/22　こどもえんにち",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/disco-brick-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 21
+      "desc": "地域コミュニティづくりのAsMamaと、港南台バーズがコラボレーション。\n\n港南台バーズを中心とした地域の新しい未来と交流を育む「巣（NEST）」のような場を、\n\nリアルとオンラインで紡ぐ「人と人とのつながり」で実現します。\n\n地域の人と出",
+      "id": 5
     },
     {
-      "title": "AFRO TACOS presents SUMMER BREEZE 2026",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "title": "キッズミュージカル まだ見えない星＆参加型コンサート音...",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/afro-tacos-summer-breeze-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "concert",
+        "stage"
       ],
       "area": "other",
-      "desc": "",
-      "id": 22
+      "desc": "生演奏付き新作キッズショートミュージカル「まだ見えない星」、\nそして０歳からの参加型コンサート「みんなが主役！音楽うんどうかい」の二本立て！\n応援団・借物競争・玉入れ・綱引きもできちゃう！？\n芸術の秋、運動の秋を先どりしちゃおう♪",
+      "id": 6
     },
     {
-      "title": "REJOICE",
-      "date": "2026-08-10",
-      "endDate": "2026-08-10",
+      "title": "【横浜・港南台】8/4マイクラ体験会",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/rejoice-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 23
+      "desc": "港南区夏休みデジタルものづくり体験 in 港南台バーズ\n夏休みは、教育版マインクラフトで\n「遊ぶ・学ぶ・つながる」一日を過ごしませんか？✨\n\nマインクラフトを実際に体験できるだけでなく、\nゲームとの付き合い方を話せる保護者向けトーク会や、\n",
+      "id": 7
     },
     {
-      "title": "Soi48 & microAction presents【ADM：UNHINGED】Asian Dance Music",
-      "date": "2026-08-11",
-      "endDate": "2026-08-11",
+      "title": "ビタミンミュージックコンサートvol,7【センター北 ...",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/adm-unhinged-asian-dance-music-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "concert"
       ],
       "area": "other",
-      "desc": "",
-      "id": 24
+      "desc": "横浜市営地下鉄ブルーライン・グリーンライン「センター北駅」から徒歩５分、 ボッシュホール・リハーサル室にて。\n毎年人気のビタミンミュージックコンサート 開催決定！🍋🍒🍓\nテーマは、世界旅行！\nパスポートはいりません。\n必要なのは、音楽を楽し",
+      "id": 8
     },
     {
-      "title": "BOGGIE OF TOKONATSU Present by chillout酒場〜常夏〜",
-      "date": "2026-08-12",
-      "endDate": "2026-08-12",
+      "title": "2026年8月29日（土）　横浜港発着　帆船での体験航海",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/boggie-of-tokonatsu-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 25
+      "desc": "【8月開催】帆船「BLUE OCEAN みらいへ」日帰り航海プログラム参加者募集中！⛵✨\n今年の夏休みの締めくくりに、横浜港から帆船に乗って海を学ぶ特別な一日を過ごしませんか？\n「セイル（帆）を張る」「操船体験する」といった帆船ならではの体",
+      "id": 9
     },
     {
-      "title": "We MIX All Together!!",
-      "date": "2026-08-13",
-      "endDate": "2026-08-13",
+      "title": "戸部杉山神社例大祭",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/we-mix-all-together-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 26
+      "desc": "戸部杉山神社の例大祭のお知らせです。\n8/20 17:00〜に奉納神輿行事出演者（予定）があり、\n和太鼓、バレエ、バルーンアート、奉納演舞、阿波踊り、マジック、雅楽などが予定されています。\n福引抽選会や縁日もあります。",
+      "id": 10
     },
     {
-      "title": "FONK WAREHOUSE",
-      "date": "2026-08-14",
-      "endDate": "2026-08-14",
+      "title": "JR十日市場駅から徒歩5分　8/10 8/29 体操教室",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/fonk-warehouse-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "sport"
       ],
       "area": "other",
-      "desc": "",
-      "id": 27
+      "desc": "体が発達する時期に、さまざまな動きで基礎的な運動能力を発達させることで、大きくなってから他のスポーツや運動に挑戦する時にも役立ちます！\n\n・基礎運動\n・柔軟\n・トレーニング\n・マット運動\n・鉄棒\n\nさまざまな運動で楽しく体を動かしましょう.",
+      "id": 11
     },
     {
-      "title": "Carpet Ride",
-      "date": "2026-08-15",
-      "endDate": "2026-08-15",
+      "title": "JR十日市場駅徒歩5分　親子体操 8/29",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/carpet-ride-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
         "toddler",
         "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "sport"
       ],
       "area": "other",
-      "desc": "",
-      "id": 28
+      "desc": "活発に動けるようになったお子様〜3歳児程度のお子様と保護者の方を対象にした親子体操です！\n\n活発に動けるようになると楽しい反面、目が離せなくて大変なことも多いですよね。\nお家の中でも子供と楽しく体を動かして、子供もパパママも体力作り♪\n保育",
+      "id": 12
     },
     {
-      "title": "PARADISE LIFE",
-      "date": "2026-08-16",
-      "endDate": "2026-08-16",
+      "title": "宇宙甲子園南関東大会×企業・教育・自治体 連携ミートアップ！",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/paradise-life-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 29
+      "desc": "【会場参加あり】宇宙甲子園南関東大会×企業・教育・自治体 連携ミートアップ！－宇宙産業への入口として宇宙甲子園を企業視点で理解する特別講演会－\n宇宙が楽しくなる会実行委員会／宇宙甲子園南関東大会事務局が主催する本イベントは、モデルロケットや",
+      "id": 13
     },
     {
-      "title": "AlphaTheta YOKOHAMA DJLab SUNSET SESSION2026",
-      "date": "2026-08-17",
-      "endDate": "2026-08-17",
+      "title": "2026年8月23日(日)　夏休み体験イベント開催",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/alphatheta-yokohama-djlab-sunset-session-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
-        "festival"
+        "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "G8DSTAND presents DISCO8",
-      "date": "2026-08-18",
-      "endDate": "2026-08-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/g8dstand-disco8-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 31
-    },
-    {
-      "title": "DISCO45",
-      "date": "2026-08-19",
-      "endDate": "2026-08-19",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/disco45-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 32
-    },
-    {
-      "title": "Grassroots 30thANNIVERSARY DISCO PARTY",
-      "date": "2026-08-20",
-      "endDate": "2026-08-20",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/grassroots-30th-anniversary-disco-party-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 33
-    },
-    {
-      "title": "RE:Take-i",
-      "date": "2026-08-21",
-      "endDate": "2026-08-21",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/re-take-i-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 34
-    },
-    {
-      "title": "横浜モアーズ盆踊り「盆DANCE 2026」",
-      "date": "2026-08-21",
-      "endDate": "2026-08-21",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-mores-bon-dance-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 35
-    },
-    {
-      "title": "Brilliant Brick",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/brilliant-brick-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 36
-    },
-    {
-      "title": "The Disco Brick YOKOHAMA supported by Garden Grove",
-      "date": "2026-08-23",
-      "endDate": "2026-08-23",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/the-disco-brick-yokohama-garden-grove-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 37
-    },
-    {
-      "title": "ポムフェス",
-      "date": "2026-09-12",
-      "endDate": "2026-09-13",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/pomfes-2026-yokohama-red-brick-warehouse/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 38
-    },
-    {
-      "title": "横浜オクトーバーフェスト2026",
-      "date": "2026-09-18",
-      "endDate": "2026-10-04",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-oktoberfest-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 39
-    },
-    {
-      "title": "ALL AMERICAN FOOD FESTIVAL ’26",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/all-american-food-festival-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 40
-    },
-    {
-      "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-urban-sports-festival-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 41
-    },
-    {
-      "title": "全国ふるさとフェア2026",
-      "date": "2026-10-31",
-      "endDate": "2026-11-03",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/zenkoku-furusato-fair-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 42
-    },
-    {
-      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
-      "date": "2027-03-19",
-      "endDate": "2026-09-26",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 43
+      "desc": "今年の夏休みは、親子で新しい「やってみたい！」を見つけませんか？\n\nガイアフィールド デザインファームで、地域の親子向け体験イベントを開催します！\n\n英語や食育、工作、クラフトなど、子どもたちが楽しみながら学べる体験ブースが勢ぞろい♪\n\n🍳",
+      "id": 14
     },
     {
       "title": "えのすい 暑さに負けないぞ Week",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -922,12 +274,12 @@
       ],
       "area": "other",
       "desc": "平年を上回る厳しい猛暑が予想される中、水族館では本物の流氷に直接触りクイズに挑戦する展示や、生き物の豆知識が書かれた紙うちわがもらえる（各日先着）イベントが開催される。さらに期間中の平日には、イルカの水分補給としてゼリーをあげる「イルカにゼ",
-      "id": 44
+      "id": 15
     },
     {
       "title": "2026年度 横浜美術大学 助手・副手展",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -940,12 +292,12 @@
       ],
       "area": "other",
       "desc": "今展は、横浜美術大学の助手・副手22名による展覧会。2018年から開催している今展は大学のギャラリー委員会主催で開催されており、助手・副手により企画運営が行われている。日々大学で美術教育に携わりながら、自身の制作の探求を行っている助手・副手",
-      "id": 45
+      "id": 16
     },
     {
       "title": "横浜ラポールでピアノを弾いてみませんか？（9月）",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -958,12 +310,12 @@
       ],
       "area": "other",
       "desc": "横浜ラポールシアターのステージでピアノ（スタインウェイグランドピアノ（Ｄ-274））を弾いてみてはいかが？ ピアノ以外の楽器の演奏や合奏・歌唱もOK。「グランドピアノ」「ホールのステージ上で弾く」というと気後れするかもしれないが、それぞれ参",
-      "id": 46
+      "id": 17
     },
     {
       "title": "伝統を知って楽しもう〜箏編〜",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -976,12 +328,86 @@
       ],
       "area": "other",
       "desc": "現役音大生グループ「和紡」(わつむぎ)結成第一弾イベント。フルート、オーボエ、ファゴットのグループ。初回は日本の伝統楽器「お箏」に焦点を当て、体験コーナーも（未就学児無料）！ 「さくらさくら」を練習し最後にはメンバーとの合奏を目指す。「和紡",
-      "id": 47
+      "id": 18
+    },
+    {
+      "title": "真夏のZキッズ大会ファイナル🔥最高の思い出を仲間と作ろう！",
+      "date": "2026-08-29",
+      "endDate": "2026-08-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "来たる2026年8月29日(土)、\nZさがみはらのキッズ大会【J7CUP】が開催決定！\n今大会のカテゴリーは、【U-9(小学3年生～4年生)】です！\n\n夏休み最後にZのキッズ大会に出場して、\n最高の思い出を仲間と作ろう！\n\n↓大会概要はコチ",
+      "id": 19
+    },
+    {
+      "title": "【9/22厚木開催】ファミリー&amp;キッズ撮影会",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ご家族写真またはお子さまの撮影の体験会を開催します。\n\n📷 ご家族写真：シンプルな白背景で撮影\n📷 お子さま撮影：紙から飛び出したような可愛いフォトブースで撮影\n\n5カットデータをプレゼント！\n思い出づくりや成長記念に、お気軽にご参加くださ",
+      "id": 20
+    },
+    {
+      "title": "【9/22厚木開催】撮影付き！はいはい・よちよちレース♪",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "toddler",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない“はいはい期”の思い出を残そう♡\n赤ちゃんたちがゴールを目指して進む、かわいいレースイベントです！\n\n当日はプロカメラマンによる撮影付き📷\nレース中のお写真データをプレゼント♪\n\nご家族みんなでご参加いただけます◎\n\n【対象】は.",
+      "id": 21
+    },
+    {
+      "title": "アートなお菓子、琥珀を作ろう",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "砂糖を溶かし、それをキャンバスにみたてて、色のマーブル模様を楽しみます。\n固まったものをちぎったりかたぬきしたり、ナイフで切って、\n乾かします。家に持って帰ってからもしばらく乾かします。3日から7日ぐらい経つと、表面が変わって、食べた時にジ",
+      "id": 22
     },
     {
       "title": "40周年最終回　人形劇まつりin川崎市民プラザ",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -995,12 +421,12 @@
       ],
       "area": "other",
       "desc": "プロ6劇団・アマチュア24団体参加！\n関東最大級のおまつりが始まるよ！\n\n小さなお子さまからご年配の方まで、幅広い世代にお楽しみいただける「人形劇まつり」を開催します。\n川崎市民プラザが、まるごと人形劇の舞台に大変身！\n会場を巡るうちに、き",
-      "id": 48
+      "id": 23
     },
     {
       "title": "木箱とはしごのA型ラダーラック（無塗装仕上げ・6歳以上...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1013,32 +439,49 @@
       ],
       "area": "other",
       "desc": "インパクトドライバーとドリルドライバーなどの電動工具の使い方が学べます。\n観葉植物や小物のディスプレイに大活躍するおしゃれなA型ラックを作ります。\n\n＜作品サイズ＞\nH850㎜×W600㎜×D260㎜\n\n＜お子様参加について＞\n◆６歳以上：",
-      "id": 49
+      "id": 24
     },
     {
       "title": "RUN,PLAY,FUN！ READY,GO！プログラム",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "本イベントでは、あそび場を舞台に、プロがあそびの要素を取り入れながら「走る心地よさ」を体験します。\nプログラムは、「親子クラス（年少）」「幼児クラス（年中・年長）」「ジュニアクラス（小学生）」の3つをご用意。\n一人ひとりのペースに合わせてサ",
-      "id": 50
+      "desc": "今年のニューイヤー駅伝に出場した実業団陸上チーム\n「MABPマーヴェリック」の選手の皆さんを講師にお迎えして、\nあそび場を舞台に、楽しくからだを動かす「かけっこ教室」を開催します。\n\nプログラムは、「親子クラス（年少）」\n「幼児クラス（年中",
+      "id": 25
+    },
+    {
+      "title": "【8/22新横浜開催】大東建託アイススケートフェスティバル",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "大東建託アイススケートフェスティバルはご家族でトークショー・スケート体験が楽しめるイベントとなっております！これまで名古屋・立川などで開催してまいりました。\n今回はゲストに小塚崇彦さん・安藤美姫さんをお招きして、KOSE新横浜スケートセンタ",
+      "id": 26
     },
     {
       "title": "【港北公会堂8月】夏休み限定！小中学生対象のEduQ成...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1052,12 +495,12 @@
       ],
       "area": "other",
       "desc": "「もう大きいから親子で触れ合う機会がない…」\nそんなご家庭にこそ体験していただきたい講座です\n\n小学生・中学生になると、\n\n✔ スポーツで身体が疲れている\n✔ 勉強や受験でストレスがたまりやすい\n✔ 思春期に入り親子の会話が減ってきた\n\n.",
-      "id": 51
+      "id": 27
     },
     {
       "title": "ハワイアンシェイブアイスサービス @相模原・古淵",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1070,50 +513,12 @@
       ],
       "area": "other",
       "desc": "ご見学の合間にひんやりおいしいかき氷で一息いれませんか？\nモデルハウスを1棟以上ご見学いただいたご家族様に、人数分プレゼントいたします",
-      "id": 52
+      "id": 28
     },
     {
-      "title": "8/19(水)、9/11(金)辻堂【残2組】親子体操(...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "「赤ちゃんとどう遊べばいいのか分からない…」\n「毎日赤ちゃんのお世話で、自分のことはいつも後回し。」\n「大人と話す機会がなくて、誰かと話したい。」\n\n\nそんなふうに感じたことはありませんか？\n\n\n実は私も、8年前に結婚を機に辻堂へ。\n知..",
-      "id": 53
-    },
-    {
-      "title": "【テラスモール湘南店】2026年 9月ボブルスで赤ちゃ...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "preschool",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "バランス遊具「ボブルス」を使って、腹ばいや、おすわりなど乳幼児期の成長を支える動きを親子で楽しく体験できます。\nふれあいを大切にしながら、楽しめるからだあそびイベントとなっております！\n最後に参加証（リーフレット）をプレゼント！",
-      "id": 54
-    },
-    {
-      "title": "【テラスモール湘南店】2026年 9月のハイハイチャレンジ！",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "title": "【相模大野】AIシンクLABO 夏休み探究講座",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1125,31 +530,13 @@
         "festival"
       ],
       "area": "other",
-      "desc": "キドキドならではのロングハイハイにチャレンジできるのはもちろん、親子で楽しめるあそびのアイデアがいっぱい！\nイベントの最後には、特製足形カードに足形をとってプレゼント！",
-      "id": 55
+      "desc": "ChatGPTなどの生成AIは、とても便利ですが、いつも正しい答えを出すとは限りません。\n\nAIシンクLABOでは、AIの回答をそのまま信じるのではなく、「どこが怪しい？」「本当に合っている？」と考え、算数・数学を使って確かめます。\n\nAI",
+      "id": 29
     },
     {
-      "title": "マリンバ&amp;ピアノ　サマーコンサート",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "マリンバ山口真由子とピアノ神崎麻美によるサマーコンサート♪\n\n映画音楽で有名なサウンドオブミュージックの名曲や、ディズニーソングも…\n\n演奏者と近い距離でお楽しみいただけて、生の音楽の感動を味わえます！\n\n終演後にはご希望の方10名限定で、",
-      "id": 56
-    },
-    {
-      "title": "【港北公会堂8月】親子関係の土台を育む ベビー＆キッズ...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "title": "♪ドロップシールを作ろう♪",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1161,297 +548,8 @@
         "festival"
       ],
       "area": "other",
-      "desc": "ずっと続く親子関係の土台を育む\nベビー＆キッズマッサージ講座\n\n8月のテーマ\n心と身体を落ち着かせる　腕・手のツボマッサージ\n\nツボを取り入れたオイルマッサージで癒しだけではなく、症状の緩和や予防にも使え、お母さんの強い味方に☆\n\n毎月ち.",
-      "id": 57
-    },
-    {
-      "title": "親子でチャレンジ！ロボットプログラミング体験会（8月）",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "親子一緒に、ロボットを組み立ててプログラミングで動かそう。比較的大きめのパーツを使用するため、小さな子どもでも無理なく組み立てられる。完成後は、パソコンを使ってプログラミングし、すもう、ゴルフ、ダンスといったいろいろな競技に参加しよう。操作",
-      "id": 58
-    },
-    {
-      "title": "建築士と♪夏休み自由研究♡親子ワークショップ『建築デザ...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "💠建築士がプロデュースする理系アートデザイン教室💠\n独自の「ケンチク脳®️」メソッドに基づくプログラムで　\n論理力と発想アイデア力を　センス感性と直観力を伸ばすことで\n将来に役立つ＜思考力＞＜表現力＞＜プレゼン力＞らをハイブリッドで育みます",
-      "id": 59
-    },
-    {
-      "title": "夏休みは学生500円！3000株以上の紫陽花を楽しめる...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "●心地よい風と木漏れ日が差し込む箱根 ガーデンズで素敵な夏のひとときを\nニコライ バーグマン 箱根 ガーデンズには、3000株以上のさまざまな色合いの紫陽花が園内を彩り、ご来園者様をお出迎えします。箱根 ガーデンズは、標高が高いので都心部よ",
-      "id": 60
-    },
-    {
-      "title": "鶴見川流域センター　夏休み学習会　体験＆工作",
-      "date": "2026-07-28",
-      "endDate": "2026-08-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "地域防災施設　鶴見川流域センターでは、夏休み期間中（７月１８日（土）から８月２３日（日））は毎日、工作や体験などの学習会を行います。みなさまのご参加をお待ちしております。",
-      "id": 61
-    },
-    {
-      "title": "【8/12(水)川崎】無料✨夏のお子さま撮影会",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "＼ 来場80,000組突破！／\n＜無料＞プロカメラマンが撮影☆\n写真10枚＋抽選で追加プレゼント🎁\n\n\nイベントの詳細・ご予約は、\n▽▼ページ下部の「予約サイト」へ▼▽\n\n\n-------------------------------..",
-      "id": 62
-    },
-    {
-      "title": "あんなかたち こんなかたち ちょうこくを楽しもう！",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "川崎市市民ミュージアムの収蔵品および川崎にゆかりのある作家による彫刻・立体作品を約20点紹介する。写実的な作品から抽象的な表現まで、多様なかたちの魅力を鑑賞することができる。小さな子どもでも鑑賞しやすいよう、作品は低い位置に展示されている。",
-      "id": 63
-    },
-    {
-      "title": "ぺったんこから、「ちょうこく」をつくろう",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "川崎市市民ミュージアム企画展「あんなかたち こんなかたち ちょうこくを楽しもう！」の関連イベントを開催。大きな段ボールに、体を使って絵を描いて、切ったり、折ったり、曲げたり、組み立てたり。みんなで力を合わせて、大きな「ちょうこく」を作ってみ",
-      "id": 64
-    },
-    {
-      "title": "親子で楽しむ手形アート（9月）",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "こどもの成長記録である手形や足形をおしゃれにかわいくアート作品にしよう。作品づくりの時間も楽しく、パパ・ママもリフレッシュできる。フレーム付きで、プレゼントにもぴったり。赤ちゃんも安心して使えるインクを使用。事前申込制（先着順）。参加申込は",
-      "id": 65
-    },
-    {
-      "title": "片瀬諏訪神社例大祭",
-      "date": "2026-08-26",
-      "endDate": "2026-08-26",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "江の島へ渡る弁天橋左手の海岸・片瀬東浜に神輿が降り立つ「片瀬諏訪神社例大祭」。養老7年（723年）に信濃国（現在の長野県）の諏訪大社から御分霊が勧請された、歴史ある片瀬諏訪神社の例大祭。8月26日・27日は境内に露店も並び、多くの人で賑わい",
-      "id": 66
-    },
-    {
-      "title": "9月ベビーマッサージとベビーヨガ&amp;似顔絵屋さん @泉区...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "ベビーマッサージとベビーヨガは\n親子のコミュニケーションとなります♡\n\nお子様は肌と肌の触れ合いを通じて、\n安心感や安らぎ、愛情を感じることができます。\n自分自身が大切な存在であることや、\nありのままの自分を受け入れてもらえることを実感する",
-      "id": 67
-    },
-    {
-      "title": "ファミリーコンサート2026　～音楽で巡る、ひと夏の世...",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "川崎市を中心に活動しております吹奏楽団「かわさきブラス・ファミリア」です。\nおかげさまで団設立16年目を迎え、17回目の演奏会「ファミリーコンサート2026　～音楽で巡る、ひと夏の世界旅行～」を開催する運びとなりましたのでご案内させて頂きま",
-      "id": 68
-    },
-    {
-      "title": "【トレッサ横浜店】ジーユー夏休みコーディネート体験イベント",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "MY FIRST OUTFITは、お子さまがひとりで服選びに挑戦する、参加無料の店舗イベントです。\n子どもたちが、自分で服を選ぶ・決める・ファッションを楽しむきっかけを提供しています。\n\n今回は夏休み特別企画として「ジーユーが自由研究をお手",
-      "id": 69
-    },
-    {
-      "title": "【ラゾーナ川崎店】ジーユー夏休みコーディネート体験イベント",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "MY FIRST OUTFITは、お子さまがひとりで服選びに挑戦する、参加無料の店舗イベントです。\n子どもたちが、自分で服を選ぶ・決める・ファッションを楽しむきっかけを提供しています。\n\n今回は夏休み特別企画として「ジーユーが自由研究をお手",
-      "id": 70
-    },
-    {
-      "title": "8/7（金）絵本教室＆手形足形ワークショップ　神奈川県央",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "第一部\n10:15〜90分間　難しい手形もプロにお任せ。手形足形の成長記録を毎月（隔月）1ページずつ綴ることが出来ます。完全予約＆少人数制でマイペースに制作♪（対象年齢0〜3才）\n講師が用意した温かみのあるマスキングテープのシールでオリジナ",
-      "id": 71
-    },
-    {
-      "title": "FLY! フライ",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "『ミニオンズ』『ザ・スーパーマリオブラザーズ・ムービー』のイルミネーション作品。\n小さな池から出たことのない渡り鳥一家の大移動を描くファミリーアドベンチャー。\n同時上映「子どもの権利条例」。",
-      "id": 72
-    },
-    {
-      "title": "理科実験",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "親子で楽しめる理科実験をご覧いただけます。\nテーマは「真空」や「遠心力」などその日のお楽しみ！\n実験の結果を一緒に考えながら、楽しく理科を学ぶことができます。",
-      "id": 73
+      "desc": "レジンを使って、オリジナルの、ぷっくりなドロップシールを作ります。\nシール台紙・かわいいラッピング袋に入れて、お持ち帰りいただけます。\n\n❤以前ご参加してくださった方へ！！新しいシールが追加されました！！",
+      "id": 30
     },
     {
       "title": "恐竜たちの知られざる “食生活” の秘密に迫る！『ヨコハマ恐竜展2026』で学ぶ、歯や爪、骨格から解き明かす “恐竜たちのリアルな食事”。日本初公開の化石や動くロボット恐竜も登場！",
@@ -1469,12 +567,12 @@
       ],
       "area": "other",
       "desc": "恐竜の “食” にフォーカスした「ヨコハマ恐竜展2026 ～恐竜の食卓大図鑑～」が2026年7月17日（金）〜9月6日（日）までパシフィコ横浜で開催！ 全長20メートル以上の巨大な草食恐竜「ディプロドクス」の骨格標本をはじめ、日本初公開の化",
-      "id": 74
+      "id": 31
     },
     {
       "title": "スカイビル恐竜パーク",
-      "date": "2026-07-28",
-      "endDate": "2026-07-28",
+      "date": "2026-07-29",
+      "endDate": "2026-07-29",
       "place": "神奈川県",
       "url": "https://www.kids-event.jp/event/20260717_yokohamasky/",
       "source": "kids",
@@ -1487,7 +585,7 @@
       ],
       "area": "other",
       "desc": "迫力ある恐竜ロボットなどさまざまな恐竜体験を楽しめる「スカイビル恐竜パーク」が、横浜のスカイビルで開催！本物の化石の発掘体験などの体験イベントも用意！",
-      "id": 75
+      "id": 32
     },
     {
       "title": "アルテミス計画がひらく未来！野口さんと考える夢のかなえ方",
@@ -1505,7 +603,7 @@
       ],
       "area": "other",
       "desc": "宇宙飛行士・野口聡一名誉館長による子ども向け特別セミナー「アルテミス計画がひらく未来！野口さんと考える夢のかなえ方」が2026年7月28日（火）にカップヌードルミュージアム 横浜で開催！Zoomによるオンライン参加も可能。定員は1,000名",
-      "id": 76
+      "id": 33
     },
     {
       "title": "Red Brick Sunset 2026（レッド ブリック サンセット2026）",
@@ -1523,7 +621,7 @@
       ],
       "area": "other",
       "desc": "1950年代のアメリカンダイナーやカラフルな “レトロ可愛い” が溢れる「Red Brick Sunset 2026（レッド ブリック サンセット2026）」が、横浜・赤レンガ倉庫で2026年8月1日（土）～30日（日）に開催！ 西海岸で人",
-      "id": 77
+      "id": 34
     }
   ]
 }
