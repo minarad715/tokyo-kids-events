@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-30T01:58:05.116981",
+  "updated": "2026-07-31T02:17:20.449427",
   "region": "chiba",
-  "count": 15,
+  "count": 44,
   "events": [
     {
       "title": "X Games Chiba 2026",
@@ -299,11 +299,245 @@
       "id": 14
     },
     {
-      "title": "7/30（木）コドモノヅクリ【マイクラでプログラミングと英語を体験】",
-      "date": "2026-07-30",
-      "endDate": "2026-07-30",
+      "title": "かつうら若潮まつり　納涼祭",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/583201",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今年のかつうら若潮まつりのメインは盆踊り！誰でも参加可能。昔も今も心をひとつに、「ただいま」と「おかえり」が交わる夜。踊ろう、つながろう、今宵勝浦で。地域のダンスチームのパワフルなステージ、躍動感あふれるよさこい、ねぶたの練り歩きなどもあり",
+      "id": 15
+    },
+    {
+      "title": "興津湾灯籠流し",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "興津海岸で行われるお盆の恒例行事。先祖供養や海上の安全を願い作られた灯籠を参加者が手渡しで船にのせて沖に浮かべる。夏の夜に揺れる幻想的な灯りに包まれる。また、灯籠流しの後には花火も打ち上げられる。海辺に浮かぶ灯籠と夜空を彩る花火のコラボを楽",
+      "id": 16
+    },
+    {
+      "title": "【ナイトシアター】南房総の昆虫",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "【大房岬スタッフオリジナルミニアニメ「昆虫の力！小さな冒険」】\n総に暮らす女の子はとっても虫嫌い。\n虫をいじめていたその時！小さくなってしまう。小さくなった女の子はアリやクワガタ、カブトムシ、トンボなどの様々な昆虫たちに\n食べ物をもらい、子",
+      "id": 17
+    },
+    {
+      "title": "たまいれドッカーンフィナーレ",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "最後をしめくくる大人気のたまいれドッカーン\nみんなで盛り上がろう！\n\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 18
+    },
+    {
+      "title": "わくわくフィナーレフェスタ　8/14・15",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "プレイリーダーが選んだイベントを開催！\nどんなイベントが選ばれるかお楽しみに！\n\nイベントに参加してくれたお友達に\nシールをプレゼント！\n\n※イベントの内容や時間は変更になる場合がございます。予めご了承ください。",
+      "id": 19
+    },
+    {
+      "title": "千葉県千葉市｜無料！動画制作でお金について楽しく学ぼう...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "昨年大好評だった「お金の学び×動画制作」のワークショップを今年も開催！\n\n動画制作もお金のこともよくわからない・・・という方でも大丈夫！\nお金の講師と大学生がサポートに入るのでご安心ください♪\n\nお金についての「8つの力」のうちから1つを選",
+      "id": 20
+    },
+    {
+      "title": "ちきゅうのにわ『パグのもったん』木製時計作り/木製時計...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "木製のキャラクター文字盤に好きな色を塗って、文字盤をつけて完成！\n「分」の表記があるため、小さなお子さまでも時間を読む練習ができるデザイン♫\nキットには電池が付属しているため、組み立て後すぐに時計として使用できちゃいます。\n壁掛け時計として",
+      "id": 21
+    },
+    {
+      "title": "夏は流しそうめんと天ぷら！",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "お子様は野菜が好きですか？\n\n大人も子供も野菜を採るのは大好きです！\n採った野菜、その場でたべてみませんか？\n\n\n持ち物：飲み物、タオル、小さいお子様は着替え、汚れても良い靴、　　　　　　　　　　  \n　\n採れたて野菜を体験して食育を！\n.",
+      "id": 22
+    },
+    {
+      "title": "大人気！採れたて野菜でバーベキュー！『手ぶらでＯ・Ｋ』",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "お子様は野菜が好きですか？\n\n大人も子供も野菜を採るのは大好きです！\n採った野菜、その場でお肉とＢＢＱ、美味しい～❤と\n大人が思うと子供は食べるんです。\n\n森本農園はプチ北海道のような景色と畑にはトンボや蝶々テントウムシなども！\n\n開催日.",
+      "id": 23
+    },
+    {
+      "title": "第6回龍夢サマーコンサート",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "栄町吹奏楽団ドラムウィンドアンサンブルによる演奏を楽しめるコンサート。今年の夏も音楽で暑さを吹き飛ばそう！",
+      "id": 24
+    },
+    {
+      "title": "習志野駐屯地 夏まつり",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "千葉県船橋市の第1空挺団が所在する陸上自衛隊習志野駐屯地で「令和8年度 習志野駐屯地 夏まつり」が開催。当日は駐屯地を一般開放して、お化け屋敷・子ども広場・野外売店のほか、リニューアルした空挺館も開放。19時50分からは約850発の花火が打",
+      "id": 25
+    },
+    {
+      "title": "🎨🧽スポンジと指でぺたぺた！重曹アートを楽しもう✨🧂",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🤩火・水・木・日曜日、子どもクラス大募集中🤩\n 重曹入り絵の具を使って、指でのばしたりスポンジで押したりしながら、凹凸のある絵を描きます👇\n爪楊枝で模様を加えると、まるで浮き出るような不思議な作品になります。🎨🖼️\n\n\n\n\n\n【このカリキ.",
+      "id": 26
+    },
+    {
+      "title": "超！わんぱくらんど～笑顔がはじける！夏休み最強の遊び場～",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🎈**この夏、最高の思い出をつくろう！**🌻\n\n室内型親子イベント『超わんぱくらんど』開催！✨\n\n暑い夏でも快適な室内で、1日中思いっきり遊べる親子イベントです😊\n\n🎪巨大ふわふわ遊具\n👶ハイハイレース\n🍭お菓子釣り競争\n🥖パン食い競争..",
+      "id": 27
+    },
+    {
+      "title": "夏休みワークショップ「利根運河で夏の思い出を作ろう」",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -313,8 +547,301 @@
         "workshop"
       ],
       "area": "other",
-      "desc": "",
-      "id": 15
+      "desc": "夏の思い出を缶バッジや風鈴にお絵描きしたり、運河の風でかざぐるまを回したり、運河をモチーフにしたヒンメリやバッグを作ったり。楽しいワークショップが５つ。①おえかき缶バッジ２００円。②キラキラかざぐるま２００円。③運河を泳ぐおさかなヒンメリ２",
+      "id": 28
+    },
+    {
+      "title": "ピタゴラで旅する利根運河「たっつんのピタゴラ装置展」",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ピタゴラ作家として活躍する流山在住の玉置亮達さんが利根運河をイメージして作成した巨大ピタゴラ装置を展示します。また自分でコースを作れるマグネットピタゴラなど6台のピタゴラ装置で遊べます。混雑時は巨大ピタゴラは整理券を配布（1組5分の交代制）",
+      "id": 29
+    },
+    {
+      "title": "【流山市】子どもからシニアまで♪ さんさんマーケット【...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "千葉県流山市江戸川台東3丁目で\n1日限りのマーケットが開催されます。\n\n夏の疲れを\n本格カレーお灸や鍼でお手当て。\nハンドメイド作品販売や\nワークショップ   などなど\n\n楽しめるブースが並びます。\n\nふらっと来て、\nおしゃべりした...",
+      "id": 30
+    },
+    {
+      "title": "影絵と箏のワークショップ&amp;コンサート",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "concert",
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "【ワークショップ】詳細\nEテレにも出演した、ジャックさんと一緒に影絵をつくって動かそう！！箏の体験もできるよ！\n\n時間：9:00～10:45(8:50)集合→ワークショップ後公演鑑賞\n対象：3歳以上\n持ち物：鉛筆・消しゴム・はさみ\n定員：4",
+      "id": 31
+    },
+    {
+      "title": "花火デザイナーになろう！＆夜は国産・変わり種花火で遊ぼう！",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "★花火デザイナーになろう！\n花火玉（無火薬）の外側に自分の好きなイラストをデザインしよう。実際に使用する花火玉のサイズなども知ることができます。\n【時間】①11:00～ ②11:30～ ③13:00～ ④13:30～ ⑤14:00～ ⑥14",
+      "id": 32
+    },
+    {
+      "title": "わらべ歌あそびと絵本の読み聞かせ",
+      "date": "2026-09-05",
+      "endDate": "2026-09-05",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "就学前のお子様を対象に「わらべ歌あそびと絵本の読み聞かせ」を開催します！\nグッド・トイもご用意しています！！9月5日(土)開催、参加無料。お電話または千城台コミュニティセンター窓口にて承ります！事前予約制です。\n皆さまのご参加を、心よりお待",
+      "id": 33
+    },
+    {
+      "title": "しましまのおんがくたい 0歳から楽しめるファミリーコン...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "泣いても、踊っても、歩き回っても大丈夫。クラシックからアニメソングまで幅広いジャンルの音楽に出会える、保育士監修の、親子で楽しいコンサート。今年は公演前に、マラカスづくりも開催する。全席自由。",
+      "id": 34
+    },
+    {
+      "title": "キッズプログラム2026",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "0歳から小学生のみんなが楽しめる4つのプログラムを開催！ コンサート、参加劇、おはなし、うた。ただ観るだけじゃない、家族みんなで楽しめるワクワクを届ける。1.しましまのおんがくたい0歳から楽しめるファミリーコンサート、2.さがして～まんまる",
+      "id": 35
+    },
+    {
+      "title": "🦖✨イオンモール木更津に赤ちゃん恐竜がやってくる！✨🍼🦕",
+      "date": "2026-08-01",
+      "endDate": "2026-08-01",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "本物みたいに動く赤ちゃん恐竜とふれあえるチャンス！\n近くで見て、触れて、写真も撮れるよ📸✨\n\n🎨 恐竜ワークショップも同時開催！\n・恐竜フィギュア色塗り体験\n※ワークショップは在庫がなくなり次第終了となります。\n\n🗓 開催日：8月1日(土)",
+      "id": 36
+    },
+    {
+      "title": "🦖✨イオンモール千葉ニュータウンに赤ちゃん恐竜がやって...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "本物みたいに動く赤ちゃん恐竜とふれあえるチャンス！\n近くで見て、触れて、写真も撮れるよ📸✨\n\n🎨 恐竜ワークショップも同時開催！\n・恐竜フィギュア色塗り体験\n・宝石発掘体験\n※ワークショップは在庫がなくなり次第終了となります。\n\n🗓 開催.",
+      "id": 37
+    },
+    {
+      "title": "シェラトン・グランデ・トーキョーベイ・ホテル　ワークシ...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "どんな天候でも、室内で家族みんなで楽しめます♪\n\n舞浜のシェラトン・グランデ・トーキョーベイ・ホテルで、親子で制作できるワークショップを行います。\n\n\n★月日★　8月の土・日曜日、祝日\n★時間★　11時～16時\n★開催場所★　舞浜　シェラト",
+      "id": 38
+    },
+    {
+      "title": "【浦安会場】ＪＡ共済Presentsキッズ応援フェスタ",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "庄司智春さんの子育てトークショーやおすわりアート、ハイハイレースなどベビー向けコンテンツが盛りだくさん！\n千葉県産の新米などが当たる抽選会もあるので、ぜひお越しください！",
+      "id": 39
+    },
+    {
+      "title": "「脳と心臓」子どもと大人のトリセツ。",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "千葉県民向けの夏の特別企画。\n公開講座、体験イベント、ライトアップ、病院見学など、脳と心臓をテーマにした複数イベントが開催される。\n親子で楽しく学べる内容。",
+      "id": 40
+    },
+    {
+      "title": "【千葉市若葉区】夏リトミック&amp;縁日イベント♪0～6歳",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "音楽に合わせて夏まつりを楽しんだあとは、ヨーヨーつりやスーパーボールすくいなどの縁日で遊ぼう！\n\nわくわく音楽教室で、8組限定の「おまつりリトミック＆縁日イベント」を開催します。\n\n10:00～10:40の前半は、夏まつりをテーマにした親子",
+      "id": 41
+    },
+    {
+      "title": "利根運河で夏休みワークショップ",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "簡単な工作が申し込みなしで楽しめる。運がかえるをモチーフにした、おやつバッグ(お菓子付き）作り(300円)をはじめ、おえかき風鈴(300円)、キラキラかざぐるま(200円)、おえかき缶バッジ(200円)、おさかなヒンメリ(200円)の5種類",
+      "id": 42
+    },
+    {
+      "title": "たっつんの巨大ピタゴラ装置であそぼう～ピタゴラで旅する...",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "流山在住のピタゴラ作家･たっつんが利根運河交流館の壁1面をジャック！ 1.8m×2.7mの巨大ピタゴラ装置は、時計塔のエレベーターでスタート地点へボールを運び、桜並木や浮き橋など、利根運河の見どころを旅するように転がっていく。既存の2台のピ",
+      "id": 43
+    },
+    {
+      "title": "古墳感謝供養祭",
+      "date": "2026-07-31",
+      "endDate": "2026-07-31",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=12",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "東寺山第二公園の古墳跡が、出雲族の大集落跡地であることが判明した。このご縁に感謝し、昨年より古墳感謝供養祭を執り行っている。令和八年八月八日限定の御朱印あり。",
+      "id": 44
     }
   ]
 }
