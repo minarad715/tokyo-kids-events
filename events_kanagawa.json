@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T02:14:39.934625",
+  "updated": "2026-08-03T02:22:47.994430",
   "region": "kanagawa",
   "count": 68,
   "events": [
@@ -740,8 +740,8 @@
     },
     {
       "title": "湯河原温泉らくご　見番寄席",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -758,8 +758,8 @@
     },
     {
       "title": "第19回ひとみ座乙女文楽教室",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -776,8 +776,8 @@
     },
     {
       "title": "絵図で旅する幕末の横浜",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -793,27 +793,45 @@
       "id": 38
     },
     {
-      "title": "西前小学校コミュニティハウスだより",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "title": "箱根ガラスの森美術館開館30周年記念イベント",
+      "date": "2026-08-08",
+      "endDate": "2026-08-08",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "museum"
+      ],
+      "area": "other",
+      "desc": "箱根ガラスの森美術館は平成8年8月8日に開館しました。以来毎年たくさんのお客様にご来館いただき、おかげさまで今年開館30周年を迎えます。日頃のご愛顧に感謝し開館記念日の8月8日は小・中学生入館無料、すべてのお客様に記念品を進呈します。\n\n開",
+      "id": 39
+    },
+    {
+      "title": "めざせ！バッタマスター",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "elementary"
+        "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "西前小学校コミュニティハウスの7・8月号だよりです。\n小学生オセロ大会予選会などの案内が掲載されています。\n館内の図書コーナー案内や利用案内もあります。",
-      "id": 39
+      "desc": "原っぱでバッタなどの昆虫をつかまえて、種類を調べ、形や色、動きなどを観察して、バッタについて学びます。採取した昆虫は、観察後に元の場所にもどしてあげます。町中の原っぱでは見つからないバッタと出会えるかも。",
+      "id": 40
     },
     {
       "title": "川勾神社deつながるご縁日",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -826,12 +844,12 @@
       ],
       "area": "other",
       "desc": "入場無料の地域イベント。\nフード、物販、体験ブースなどが楽しめます。\n小雨決行。\nチェロの生演奏や子ども縁日、サッカーゲーム体験、フォトカード作成ブースなどあり。",
-      "id": 40
+      "id": 41
     },
     {
       "title": "ポイポイバトラー in イオンモール大和",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -846,12 +864,12 @@
       ],
       "area": "other",
       "desc": "専用ゴーグルに装着したポイを水鉄砲で撃ち合うバトルゲームです。\n優勝を目指して戦う内容です。\n4歳〜12歳のお子さま対象、2名1組のチーム制。\n親子での参加も可能です。\n小雨決行・荒天時中止。",
-      "id": 41
+      "id": 42
     },
     {
       "title": "集中力、想像力そして将来の夢につながるヒントがここにあ...",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -864,12 +882,12 @@
       ],
       "area": "other",
       "desc": "＜こんなことを学びます＞\n◻︎学校のハンドメイドクラブが人気で入れない！\n◻︎市販のキットを買ったけど、作り方らがわからない\nそんな声から、このワークショップ」を企画しました。\n\n＜こんなことが出来るようになります＞\nオリジナルキットで作り",
-      "id": 42
+      "id": 43
     },
     {
       "title": "【8月限定】夜空アート体験",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -882,12 +900,12 @@
       ],
       "area": "other",
       "desc": "夜空をテーマに、 絵の具とアルコールインク、 2つのアートを楽しめる特別レッスン✨\n\n完成した作品は、 1つのフォトフレームに入れて そのままお持ち帰りいただけます。\n\n\n\n※体験レッスンのため、一部使用画材や技法についてはご案内できないも",
-      "id": 43
+      "id": 44
     },
     {
       "title": "世界の変な楽器展",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -900,12 +918,12 @@
       ],
       "area": "other",
       "desc": "世界には、私たちがまだ知らない珍しい楽器が数えきれないほど存在する。この展示会では、ヨーロッパ、アジア、アフリカなど世界各地から集まった約50種類の楽器を展示。ただ「見るだけ」ではなく、多くの楽器は実際に触れて音を出すことができる。さらに毎",
-      "id": 44
+      "id": 45
     },
     {
       "title": "長岡まつり大花火大会パブリックビューイング",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "THE LIVE Supported b",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -919,12 +937,12 @@
       ],
       "area": "other",
       "desc": "「長岡まつり大花火大会2026」を、横浜・新宿に生中継！大型ビジョンで迫力の花火を観覧できるパブリックビューイングを開催する。 関内会場：THE LIVE Supported by 大和地所　新宿会場：KABUKICHO TOWER VIS",
-      "id": 45
+      "id": 46
     },
     {
       "title": "やさしい童話と童謡　参加型お話し会",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -937,12 +955,12 @@
       ],
       "area": "other",
       "desc": "0歳から楽しめる参加型のお話し会！！\n読む絵本を何冊か用意し、お子様の年齢や希望に合わせ、２，３冊読みます。\n時には、絵本の中に出てくるオトマトぺや情景に打楽器を用いて音で表し、一緒に絵本の世界を作ります！\n小黒恵子の詩も紹介します。\nそし",
-      "id": 46
+      "id": 47
     },
     {
       "title": "大きな花コンサート 2026",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -956,12 +974,12 @@
       ],
       "area": "other",
       "desc": "高津区音楽のまち推進事業のひとつとして、プロの演奏家による親しみやすいコンサートを開催しています。 「大きな花コンサート」は、高津市民館大ホールにて年に一度の開催です。\n\n申込方法\n観覧申込フォームからの事前申込み(申込多数の場合は抽選とな",
-      "id": 47
+      "id": 48
     },
     {
       "title": "ぽとふまつり",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -975,12 +993,12 @@
       ],
       "area": "other",
       "desc": "0・1・2歳のお子さんとご家族向けの親子イベントです。\n園内のわくわくコーナーで遊べます。\n参加無料、時間内入退場自由です。\n0〜2歳のお子さんと保護者が対象です。",
-      "id": 48
+      "id": 49
     },
     {
       "title": "半島まるごと旅になる、夏の三浦半島スタンプラリー",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -993,12 +1011,12 @@
       ],
       "area": "other",
       "desc": "リゾートホテル ペア宿泊券、クルージングツアー、三浦半島ならではのグルメなど豪華賞品が抽選で当たる！\n横須賀市・逗子市・三浦市・葉山町から、それぞれ3スポット、全12スポットをピックアップ。\n初めて訪れる場所では新鮮な発見を、馴染みのある場",
-      "id": 49
+      "id": 50
     },
     {
       "title": "C smartららぽーと湘南平塚店 LEGOプログラミ...",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1011,12 +1029,12 @@
       ],
       "area": "other",
       "desc": "C smartららぽーと湘南平塚店にて、LEGOを使ったプログラミング体験を無料で開催！\nLEGOとiPadを使用して楽しみながらプログラミングが学べるお子様向けの体験会です。\n事前予約は、お電話または店頭、C smartの公式Webサイト",
-      "id": 50
+      "id": 51
     },
     {
       "title": "C smartららぽーと海老名店 LEGOプログラミン...",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1029,12 +1047,12 @@
       ],
       "area": "other",
       "desc": "C smart ららぽーと海老名店にて、LEGOを使ったプログラミング体験を無料で開催！\nLEGOとiPadを使用して楽しみながらプログラミングが学べるお子様向けの体験会です。\n事前予約は、お電話または店頭、C smartの公式Webサイト",
-      "id": 51
+      "id": 52
     },
     {
       "title": "KIDSバリスタ開催",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1047,30 +1065,12 @@
       ],
       "area": "other",
       "desc": "新百合ヶ丘エルミロード店で開催されるキッズ向けバリスタ体験イベントです。\nタブラーに絵をかいてアイスココアを作る内容です。\n小学生クラスと3〜6さいクラスがあります。",
-      "id": 52
-    },
-    {
-      "title": "シール交換会 IN 新百合丘オーパ",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "シール帳を持って参加するシール交換イベントです。\n先着100名にお菓子プレゼントがあります。\n小学生以下は保護者同伴が必要です。",
       "id": 53
     },
     {
       "title": "【8/22(土)】ぺったんこから、「ちょうこく」をつくろう！",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1087,8 +1087,8 @@
     },
     {
       "title": "西洋絵画に描かれたヴェネチアングラス＆カンツォーネが魅せる",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1105,8 +1105,8 @@
     },
     {
       "title": "夏のご馳走☆完熟ブルーベリー収穫体験と美肌の秘湯がいや...",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1123,8 +1123,8 @@
     },
     {
       "title": "恐竜プラモデル体験イベント随時開催！",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1141,8 +1141,8 @@
     },
     {
       "title": "【キクスタ】学生向け！ビジネスプラン作成講座（主催：神...",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1159,8 +1159,8 @@
     },
     {
       "title": "絵画修復1日体験（8月）",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1177,8 +1177,8 @@
     },
     {
       "title": "かながわパフォマ開放区 in みなとみらい",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1195,8 +1195,8 @@
     },
     {
       "title": "夏休み体験イベント",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1213,8 +1213,8 @@
     },
     {
       "title": "ギャビーがやってくる！撮影会",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1231,8 +1231,8 @@
     },
     {
       "title": "イオンモールおつかい大作戦",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1249,8 +1249,8 @@
     },
     {
       "title": "大和シルフィード選手に聞いてみよう！",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1267,8 +1267,8 @@
     },
     {
       "title": "イオンモール ポケモンしんかラリー",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1303,8 +1303,8 @@
     },
     {
       "title": "スカイビル恐竜パーク",
-      "date": "2026-08-02",
-      "endDate": "2026-08-02",
+      "date": "2026-08-03",
+      "endDate": "2026-08-03",
       "place": "神奈川県",
       "url": "https://www.kids-event.jp/event/20260717_yokohamasky/",
       "source": "kids",
