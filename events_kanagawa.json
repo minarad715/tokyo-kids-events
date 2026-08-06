@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T02:01:51.942579",
+  "updated": "2026-08-06T02:06:02.873636",
   "region": "kanagawa",
-  "count": 38,
+  "count": 66,
   "events": [
     {
       "title": "『映画ちいかわ 人魚の島のひみつ』in横浜市コラボ",
@@ -193,6 +193,27 @@
       "id": 9
     },
     {
+      "title": "韓国市場（コリアンシジャン）",
+      "date": "2026-08-05",
+      "endDate": "2026-08-11",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/korean-sijang-2026-yokohama-takashimaya/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
       "title": "きものフェスタ2026",
       "date": "2026-08-06",
       "endDate": "2026-08-10",
@@ -211,7 +232,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 11
     },
     {
       "title": "The Disco Brick supported by AlphaTheta",
@@ -232,7 +253,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 12
     },
     {
       "title": "Disco Brick YOKOHAMA",
@@ -253,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     },
     {
       "title": "AFRO TACOS presents SUMMER BREEZE 2026",
@@ -274,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     },
     {
       "title": "横浜ナイトフラワーズ2026",
@@ -295,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
     },
     {
       "title": "REJOICE",
@@ -316,7 +337,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 16
     },
     {
       "title": "Soi48 & microAction presents【ADM：UNHINGED】Asian Dance Music",
@@ -337,7 +358,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 17
     },
     {
       "title": "BOGGIE OF TOKONATSU Present by chillout酒場〜常夏〜",
@@ -358,7 +379,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 18
     },
     {
       "title": "We MIX All Together!!",
@@ -379,7 +400,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 18
+      "id": 19
     },
     {
       "title": "FONK WAREHOUSE",
@@ -400,7 +421,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 19
+      "id": 20
     },
     {
       "title": "Carpet Ride",
@@ -421,7 +442,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 20
+      "id": 21
     },
     {
       "title": "PARADISE LIFE",
@@ -442,7 +463,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 21
+      "id": 22
     },
     {
       "title": "AlphaTheta YOKOHAMA DJLab SUNSET SESSION2026",
@@ -463,7 +484,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 22
+      "id": 23
     },
     {
       "title": "G8DSTAND presents DISCO8",
@@ -484,7 +505,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 23
+      "id": 24
     },
     {
       "title": "DISCO45",
@@ -505,7 +526,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 24
+      "id": 25
     },
     {
       "title": "Grassroots 30thANNIVERSARY DISCO PARTY",
@@ -526,7 +547,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 25
+      "id": 26
     },
     {
       "title": "RE:Take-i",
@@ -547,7 +568,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 26
+      "id": 27
     },
     {
       "title": "横浜モアーズ盆踊り「盆DANCE 2026」",
@@ -568,7 +589,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 27
+      "id": 28
     },
     {
       "title": "Brilliant Brick",
@@ -589,7 +610,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 28
+      "id": 29
     },
     {
       "title": "The Disco Brick YOKOHAMA supported by Garden Grove",
@@ -610,7 +631,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 29
+      "id": 30
     },
     {
       "title": "ポムフェス",
@@ -631,7 +652,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 30
+      "id": 31
     },
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -652,7 +673,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 31
+      "id": 32
     },
     {
       "title": "ALL AMERICAN FOOD FESTIVAL ’26",
@@ -673,7 +694,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 32
+      "id": 33
     },
     {
       "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
@@ -694,7 +715,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 33
+      "id": 34
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -715,7 +736,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 34
+      "id": 35
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -736,7 +757,497 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 35
+      "id": 36
+    },
+    {
+      "title": "第74回(令和8年度)浦賀みなと祭",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ペリー来航、開国の港町として歴史の教科書には必ず登場する浦賀。奉納舞や灯籠、まつり囃子などのイベントが浦賀港周辺で開催され、大勢の人で賑わう伝統ある「浦賀みなと祭」。イベントの最後を飾るのは、花火大会！　かつてペリーの黒船が停泊した浦賀沖か",
+      "id": 37
+    },
+    {
+      "title": "古代ギリシアのコインを作ってみよう！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "常設展示室にも展示されている、古代ギリシアのコイン作りを紙粘土で体験。誰でも、随時参加できる。見て、調べて、コイン作りを体験しよう！",
+      "id": 38
+    },
+    {
+      "title": "初めての赤ちゃんのいる暮らし　～R8 ゴロゴロ育児講座...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "初めての不安や心配なことがたくさんある。そんな不安や悩みを軽減するため、安全対策や家計について学ぶとともに、同じ子育てが初めての参加者同士で交流し、いろいろなお話をしてみよう。子どもと一緒に講義やワークショップを行う。全5回講座。定員は15",
+      "id": 39
+    },
+    {
+      "title": "東海道川崎宿場まつり　仮装・コスプレパレード",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "東海道川崎宿場まつりの仮装パレードを開催する。参加者も募集する。旅人や町人、商人、姫、侍などの和装はもちろんのこと、アニメやゲームのキャラクターなどの自由なコスプレで、宿場まつりを一緒に盛り上げよう。年齢・経験は不問。仮装が初めての人も大歓",
+      "id": 40
+    },
+    {
+      "title": "2026湘南ひらつか夕暮れ夏まつり",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "歩行者天国で呑めるエリアに、キッチンカー、音楽ライブ、プロレス、マルシェイベントなど盛りだくさんの1日！",
+      "id": 41
+    },
+    {
+      "title": "夏の特別体験！世界に1つだけのオリジナル風鈴を作ろう♪...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "爽やかな音色を楽しめる風鈴に、\n自分だけのカラーやデザインを施して\n世界にひとつだけのオリジナル風鈴を作るワークショップです。\n\nさらにオプションのラインストーンを使えば、\nキラキラ輝く、夏らしい特別な風鈴に仕上げることもできます♪\nサンプ",
+      "id": 42
+    },
+    {
+      "title": "親子で対戦！　夏休みEモータースポーツ体験",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop",
+        "sport"
+      ],
+      "area": "other",
+      "desc": "本イベントはPS5/PS4用ドライビングシミュレーター『グランツーリスモ7』を使用し、親子で本格的な走行体験ができる体験型イベントです。\n\n実在車両の挙動やコース特性を高精度で再現した環境でライン取りやブレーキング、タイヤマネジメントといっ",
+      "id": 43
+    },
+    {
+      "title": "夏休み鶴見工場親子探検プログラム",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "森永製菓の見学施設MORIUMと鶴見工場を巡る親子向けの探検プログラムです。 工場敷地内を歩きながら、ガラス越しの生産現場で小枝やハイチュウの製造について従業員の解説を聞き、原料の観察や製品の試食、質疑応答などが体験できます。\n\n開催は20",
+      "id": 44
+    },
+    {
+      "title": "【8/20】ベビーグッズワークショップ/中央林間",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "シリコンビーズ、木製パーツを使用して\n世界に1つだけのベビーグッズを作りましょう。　\n製作内容は\n・歯固め\n・おもちゃホルダー\n・マグホルダー\n・シューズクリッパー\n・ベビートイからお選びいただけます。\n\n\n\n使用する素材は、BDA...",
+      "id": 45
+    },
+    {
+      "title": "【鎌倉市の会場】親子でおしごと体験セミナー【参加無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「おかねって、どこからくるんだろう？」 まなびのセミナー「はじめてのおしごと体験」は、親子で楽しむ体験型プログラムです。\n\nお子さまが\"お店やさん\"になって、自分で商品を作り、値段を決め、お客さんに売って、お給料を受け取ります。遊びながら、",
+      "id": 46
+    },
+    {
+      "title": "引退間近の箱根登山電車100形で行く！「天然クーラー体...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "箱根登山鉄道開業以来、山岳鉄道の象徴的存在として長年にわたり活躍し、多くの人々に親しまれている100形車両（モハ1形・モハ2形）が、2028年1月をもって運行を終了する。現役国内最古級のレトロ車両100形ならではの魅力を体感する特別企画イベ",
+      "id": 47
+    },
+    {
+      "title": "自転車廃材で音が出るおもちゃを作ろう",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "自転車を乗り換える時、古い自転車がどのように処理されるかあまり気に留めないかもしれない。先ずは、自分たちの手でそれぞれのパーツに触れ、形や素材の面白さを味わう。自転車が、自分の手でおもちゃに変わる視点が、創造力、想像力であることを実感できる",
+      "id": 48
+    },
+    {
+      "title": "第5回 Hula choose you.",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "日本にいながら、まるでハワイにいるような気分を味わえるアロハに包まれたイベント。フラや音楽のステージ、ワークショップ、ハワイアン雑貨やサステナブル商品の販売、キッチンカーなど、青空と芝生の中で楽しむことができる。「ハワイの自然を守る＝地球の",
+      "id": 49
+    },
+    {
+      "title": "第20回相模大野もんじぇ祭り",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "フランス語で「食べる」という意味の「mange＝モンジェ」の名を冠するイベント。相模大野の飲食店が中心となり、「相模大野の夏の夕涼み」をテーマに2005年（平成17年）に始めた食と音楽のイベント。“フード＆ミュージックフェスタ”と題し、プロ",
+      "id": 50
+    },
+    {
+      "title": "橋本七夕まつり",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "地域でのつながりや郷土愛、ふるさと意識の向上の一環として親しまれるとともに、市内外の観光客も訪れる伝統ある夏まつり。令和7年度は、屋台の出店やステージなどを開催。",
+      "id": 51
+    },
+    {
+      "title": "はちゃめちゃドレスパーティー",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「いらないもの」が、子どもたちの自由な発想で世界にひとつだけの衣装に大変身！\n\nポリ袋や廃材、カラフルな素材を使って、自分だけのドレスやコスチュームを作ります。\n完成したら、レッドカーペットを歩いてモデル気分でランウェイ！\n\n正解のない遊び",
+      "id": 52
+    },
+    {
+      "title": "茅ヶ崎市/辻堂・親子英語・赤ちゃんとママ・辻堂西口YU...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "親子英語教室BLOOMING主宰のJunkoです。\n\n＼気分転換に出ておいで！／\n赤ちゃんを育てているほかのママたちとお話をして、気分転換しませんか？私は英語講師ではありますが、BLOOMINGに来てくれるきっかけは正直英語じゃなくてもいい",
+      "id": 53
+    },
+    {
+      "title": "藤沢市・親子英語レッスン・赤ちゃんとママ＠Shanti...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "親子英語教室BLOOMING主宰のJunkoです。\n\n＼気分転換に出ておいで！／\n\n赤ちゃんを育てているほかのママたちとお話をして、気分転換しませんか？私は英語講師ではありますが、BLOOMINGに来てくれるきっかけは正直英語じゃなくてもい",
+      "id": 54
+    },
+    {
+      "title": "親子でドリンクをつくろう",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "preschool",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "それいゆ保育園の子育て支援事業として開催される、親子でドリンクづくりを楽しむイベントです。\n申し込みは下記QRコードから行います。\n持ち物はエプロン、三角巾、タオル、飲み物です。\n駐車場には限りがあります。",
+      "id": 55
+    },
+    {
+      "title": "親子でタッチケア",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "親子で参加するタッチケアのイベントです。\nやがてくる思春期を見すえて、親子のふれあいを深める内容です。",
+      "id": 56
+    },
+    {
+      "title": "9月２２日開催！秋のフォトブース、ハロウィン撮影会＠イ...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n９月下旬からいよいよ始まります！\n秋のフォトブース第二弾、ハロウィンのフォトブースにて開催いたします\n\n✔ バ",
+      "id": 57
+    },
+    {
+      "title": "９月21日開催！秋のアンティークフォトブース撮影会＠イ...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n今回は秋を感じるアンティークフォトブースにて開催いたします\n\n✔ バースデー\n✔ ハーフバースデー\n✔ 成長記",
+      "id": 58
+    },
+    {
+      "title": "8/25,9/29ずっと続く親子の土台を育むベビー＆キ...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "産婦人科Sola教室 8月, 9月のご案内\n\n子どもの心と身体＆親子の土台を育み、親子にとっていざという時の心強いアイテムに！\n\nずっと続く親子コミュニケーションの土台づくり\n\n親子マッサージはベビーの時だけのものと思っていませんか？\n\n.",
+      "id": 59
+    },
+    {
+      "title": "KISTECサマーサイエンスラボ　科学講座×体験教室",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "レーザーを活用した研究に関するKISTEC研究者による講演や、製造業のものづくりを支えているKISTECの業務紹介を行います。 後半では体験教室として、レーザーや放射線といった「エネルギー」に着目し、目に見えない現象を“体験”から理解しても",
+      "id": 60
+    },
+    {
+      "title": "【一般観覧募集】ロボットスポーツ大会inふじさわ",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "【一般観覧／競技体験・無料・予約不要】\n\nロボット技術を活用して競い合うスポーツ競技全般を指す新たなコンセプト「ロボットスポーツ」。\nこの「ロボットスポーツ」を湘南地域で活動している子どもたちが、これまでの練習成果を発揮して熱戦を繰り広げる",
+      "id": 61
+    },
+    {
+      "title": "オペラの舞台のシャンデリアを作ろう！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "stage"
+      ],
+      "area": "other",
+      "desc": "新感覚Liveオペラ「椿姫」では劇中で使用するシャンデリアを作成するワークショップを開催する。作成するのは「ペットボトル」のシャンデリア。自分が作成した作品がオペラの舞台で使用される楽しい企画！ぜひ夏休みの親子体験として参加してみてはいかが",
+      "id": 62
+    },
+    {
+      "title": "あやせエンタメまつり2026",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "音楽・ダンス・グルメ・体験が楽しめる「あやせエンタメまつり」を開催！SEAMOライブやDJダイノジなど豪華ステージに加え、人気キッチンカーや体験ブースも充実。さらに、子どもに大人気の名探偵プリキュア！キュアット！サマーステージを開催！プリキ",
+      "id": 63
     },
     {
       "title": "恐竜たちの知られざる “食生活” の秘密に迫る！『ヨコハマ恐竜展2026』で学ぶ、歯や爪、骨格から解き明かす “恐竜たちのリアルな食事”。日本初公開の化石や動くロボット恐竜も登場！",
@@ -754,12 +1265,12 @@
       ],
       "area": "other",
       "desc": "恐竜の “食” にフォーカスした「ヨコハマ恐竜展2026 ～恐竜の食卓大図鑑～」が2026年7月17日（金）〜9月6日（日）までパシフィコ横浜で開催！ 全長20メートル以上の巨大な草食恐竜「ディプロドクス」の骨格標本をはじめ、日本初公開の化",
-      "id": 36
+      "id": 64
     },
     {
       "title": "スカイビル恐竜パーク",
-      "date": "2026-08-05",
-      "endDate": "2026-08-05",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
       "place": "神奈川県",
       "url": "https://www.kids-event.jp/event/20260717_yokohamasky/",
       "source": "kids",
@@ -772,7 +1283,7 @@
       ],
       "area": "other",
       "desc": "迫力ある恐竜ロボットなどさまざまな恐竜体験を楽しめる「スカイビル恐竜パーク」が、横浜のスカイビルで開催！本物の化石の発掘体験などの体験イベントも用意！",
-      "id": 37
+      "id": 65
     },
     {
       "title": "アルテミス計画がひらく未来！野口さんと考える夢のかなえ方",
@@ -790,7 +1301,7 @@
       ],
       "area": "other",
       "desc": "宇宙飛行士・野口聡一名誉館長による子ども向け特別セミナー「アルテミス計画がひらく未来！野口さんと考える夢のかなえ方」が2026年7月28日（火）にカップヌードルミュージアム 横浜で開催！Zoomによるオンライン参加も可能。定員は1,000名",
-      "id": 38
+      "id": 66
     }
   ]
 }

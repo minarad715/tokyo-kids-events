@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-05T02:02:11.947491",
+  "updated": "2026-08-06T02:06:46.237690",
   "region": "saitama",
-  "count": 4,
+  "count": 34,
   "events": [
     {
       "title": "行方不明展 A MISSING EXHIBITION",
@@ -86,6 +86,551 @@
       "area": "other",
       "desc": "",
       "id": 4
+    },
+    {
+      "title": "夏休み！ギャラクシーボトルやグラスソルトアートを作ろう！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "こんにちは、ポノポノアートです。\n夏休み特別企画、大人気のアートワークショップを行います。\nキラキラの宇宙の瓶詰め「ギャラクシーボトル」\n色を重ねてオリジナルの塩のお守り「グラスソルトアート」を作りましょう♪",
+      "id": 5
+    },
+    {
+      "title": "【8/22】スマホの写真でぷくぷくシールづくり【鶴ヶ島】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "スマホの中に眠っている思い出をシールにしていろんな所に貼りましょう！\n大切なお子様や可愛いペットの画像でぷくぷくシールをつくるイベントです。\n大切な写真を世界に一つのぷくぷくシールにして\nスマホの中以外でも楽しめる！\nさらにシール帳のプレゼ",
+      "id": 6
+    },
+    {
+      "title": "【8/22・23】ベビーフェス【無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "赤ちゃんのいるご家族はぜひご参加ください♪\n赤ちゃん向けのワークショップが盛りだくさんです♪\nお好きなワークショップをお一つ選んでご参加いただけます！\n更に、場内のモデルハウスを見学＆アンケートに回答していただいた方は\nさらにもう一つワーク",
+      "id": 7
+    },
+    {
+      "title": "志木「0歳からの・はじめてのオーケストラ」出発進行！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "オーディションで選ばれた優秀な演奏家で構成されておりTV出演多数。全国で年間350公演開催の人気団体。目の前で繰り広げられるサロンオーケストラジャパンの演奏は楽しさと迫力いっぱい。子どもたちが夢中で聴き、親からは歓声が上がる話題のコンサート",
+      "id": 8
+    },
+    {
+      "title": "KEIGO COLLECTION2026",
+      "date": "2026-08-29",
+      "endDate": "2026-08-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "8月29日、大宮駅東口にて入場無料のeスポーツイベントが開催される。日本初のシニアプロ「マタギスナイパーズ」と地元小中高生が対戦する世代を超えた企画である。来場者がプロに挑める対戦企画やトークショーのほか、プロや高校生から操作を学べる初心者",
+      "id": 9
+    },
+    {
+      "title": "立正大学博物館ワークショップ 「勾玉アクセサリーをつく...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "museum",
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "勾玉（まがたま）は古代の首飾りの一種で、身体を飾ったりお祭りなどの儀式に使われたアクセサリーと考えられる。今回のワークショップでは、石を削り、かっこいい勾玉やかわいい勾玉を作る。また、埼玉県教育委員会・公益財団法人埼玉県埋蔵文化財調査事業団",
+      "id": 10
+    },
+    {
+      "title": "【8月イベント】ガウと昆虫仲間探し！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "ガウはドコドコの王様になるために今日も仲間探しに夢中！\nドコドコに隠れている３匹の昆虫を見つけよう！\n昆虫の名前がわかったら探検隊に報告だ！\n\n①入場時にお子様1人につき1枚イベント用紙をもらおう！\n②ドコドコに隠れている昆虫を探してイベン",
+      "id": 11
+    },
+    {
+      "title": "【8/11】キッズ習い事体験会【参加無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "お子様に何か習い事をさせてあげたいナ～と思っているアナタにぴったりのイベントです！\n3つの習い事の中から気になる一つを選んで実際に体験できます！\n・リトミックきのこの森の音楽教室\n・アルク Kiddy CAT 英語教室YAY東村山校\n・Ve",
+      "id": 12
+    },
+    {
+      "title": "ちびっこシネマ スクリーンデビューパーティー！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "映画『すみっコぐらし 空の王国とふたりのコ』の上映に、\nサーカスショーやぬりえ、フォトスポット、ちびっこ広場などを組み合わせた、\n子ども向けのわいわい上映イベントです。\nおしゃべりOK、入退場自由、まっくらにしない上映会です。",
+      "id": 13
+    },
+    {
+      "title": "あそんで発見！スポーツのひみつ展",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "さまざまなスポーツや体をつかったあそびを、ゲーム要素のある展示で楽しく体験できる企画展です。\n体を動かしながら、うまく動ける工夫や元気な体のしくみを学べます。\nあわせて、夏休み期間にはワークショップやサイエンスショーも開催されます。",
+      "id": 14
+    },
+    {
+      "title": "9月30日開催！秋のフォトブースハロウィン撮影会＠大宮...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n９月下旬からいよいよ始まります！\n秋のフォトブース第二弾、ハロウィンのフォトブースにて開催いたします\n\n✔ バ",
+      "id": 15
+    },
+    {
+      "title": "樹脂粘土でアンモナイトづくり",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "アンモナイトって生きていたらどんな姿だったかな？\n本物の化石を観察した後、生きていたアンモナイトを想像しながら樹脂粘土をつかってアンモナイトを作ります。\n仕上げに作ったアンモナイトを飾る台を作り、名前を書いて出来上がりです。",
+      "id": 16
+    },
+    {
+      "title": "9月20日開催/秋のアンティークブース撮影会＠大宮第三公園",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n今回はの秋のアンティークフォトブースで開催いたします\n\n✔ バースデー\n✔ ハーフバースデー\n✔ 成長記録\n.",
+      "id": 17
+    },
+    {
+      "title": "9月12日開催/秋のアンティークブース撮影会＠ららぽー...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n今回はの秋のアンティークフォトブースで開催いたします\n\n✔ バースデー\n✔ ハーフバースデー\n✔ 成長記録\n.",
+      "id": 18
+    },
+    {
+      "title": "9月6日開催/秋のアンティークブース撮影会＠見沼市民の森",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n今回はの秋のアンティークフォトブースで開催いたします\n\n✔ バースデー\n✔ ハーフバースデー\n✔ 成長記録\n.",
+      "id": 19
+    },
+    {
+      "title": "９月9日開催！秋のアンティークフォトブース撮影会＠アリオ上尾",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "今しかない、お子さまの成長を写真に残しませんか？\n季節のお花やかわいいフォトブースで、お子さまの「今だけ」の表情を撮影します。\n\n今回は秋を感じるアンティークフォトブースにて開催いたします\n\n✔ バースデー\n✔ ハーフバースデー\n✔ 成長記",
+      "id": 20
+    },
+    {
+      "title": "絵本フェスタ川口2026",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "第11回をむかえる絵本のおまつりイベント。ハロウィン仮装や絵本のキャラクター風コスチュームでの来場も大歓迎！ 秋の連休の思い出作りに。絵本作家のサイン会、ワークショップ、アート・工作体験、ハンドメイド小物販売や似顔絵描きなどの楽しい30ブー",
+      "id": 21
+    },
+    {
+      "title": "ママハピEXPO＠アリオ上尾",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ママハピEXPOは、子育てをしているファミリーを対象とする情報イベント。今回は上尾エリアで開催！「子育てに情報を、孤育てにサポートを」。赤ちゃんと一緒に楽しめるワークショップやかわいいグッズ販売などの『Littleマルシェ』も同時開催。当日",
+      "id": 22
+    },
+    {
+      "title": "9/19志木　０歳からの・はじめてのオーケストラ出発進行！",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "出演：サロンオーケストラジャパン　\nオーディションで選ばれた優秀な演奏家で構成されておりTV出演多数。全国で年間350公演開催の人気団体です。\n0歳の赤ちゃんから参加できる、全国で大人気の参加体験型クラシックコンサートです。\n開演前には音の",
+      "id": 23
+    },
+    {
+      "title": "こども水遊びパーク 2026",
+      "date": "2026-08-22",
+      "endDate": "2026-08-22",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "ところざわサクラタウン 中央広場にて、2026年8月22日(土)・23日(日)の2日間、今夏も「こども水遊びパーク」を開催。。ビニールプール、水風船、噴水マット、筒型水鉄砲、などのほか、ボーネルンドのアクアプレイも登場！\n水の不思議を遊びな",
+      "id": 24
+    },
+    {
+      "title": "【8/15】スマホの写真でぷくぷくシールづくり【参加無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "スマホの中に眠っている思い出をシールにしていろんな所に貼りましょう！\n大切なお子様や可愛いペットの画像でぷくぷくシールをつくるイベントです。\n大切な写真を世界に一つのぷくぷくシールにして\nスマホの中以外でも楽しめる！\nさらにシール帳のプレゼ",
+      "id": 25
+    },
+    {
+      "title": "【8/23・30】木のゆかハイハイレース@埼玉おもちゃ美術館",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "museum"
+      ],
+      "area": "other",
+      "desc": "木のぬくもりを感じる床の上で、赤ちゃんの「今だけ」のハイハイ姿を思い出に残しませんか？ 家族や参加者のみなさんで応援しながら楽しめる、赤ちゃんが主役のハイハイレースです。\n\n開催日は2026年8月23日（日）・30日（日）。各日11:00と",
+      "id": 26
+    },
+    {
+      "title": "【8/15・16】ベビーフェス【無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "赤ちゃんのいるご家族はぜひご参加ください♪\n赤ちゃん向けのワークショップが盛りだくさんです♪\nお好きなワークショップをお一つ選んでご参加いただけます！\n更に、場内のモデルハウスを見学＆アンケートに回答していただいた方は\nさらにもう一つワーク",
+      "id": 27
+    },
+    {
+      "title": "【親子連れ限定！】夏あそび！わんぱくアドベンチャー @所沢",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "それぞれのステージで出される宿題を見事クリアして、スタンプを押してもらおう！\n全部クリアできたら、クリア認定バッチと、抽選でおもちゃをプレゼント！\n\n★山あそび　カブトムシ相撲で勝利しよう！\nケースの中にいるブトムシの中から一匹を選んでもら",
+      "id": 28
+    },
+    {
+      "title": "【8/23】スクイーズづくり【無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "流行りのスクイーズを自分で作ってみよう！\n可愛くデコレーションして世界に一つのスクイーズが作れます♪\nキーホルダーなのでカバンなど色んなところに付けられますよ♪\nぜひ親子でご参加ください！",
+      "id": 29
+    },
+    {
+      "title": "【8/11】ファーストアートづくり【無料】",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "可愛いわが子の人生初のアート作品にこの機会に挑戦してみませんか！\nキャンバスに絵具を乗せて自由に色を重ねるだけ♪\n赤ちゃんだからこそできるのびのびとしたアートをこの機会に残してみませんが♪\n鶴ヶ島住宅公園でお待ちしております。",
+      "id": 30
+    },
+    {
+      "title": "【夏休みスペシャル】コドモ も オトナも 楽しめる レ...",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "数多くのどうぶつたち。\nお子さまの初めてのクラフト体験にもおすすめ。\nお子さんの干支でつくったり、大好きな動物を探してみたり。\n\n・予約なしでも体験できます。予約優先です。\n・ひとりで座れるお子さまから自分だけでつくることが出来ます。\n・電",
+      "id": 31
+    },
+    {
+      "title": "クルクルまわるおもちゃをつくろう",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "紙コップとストローで、手づくりのおもちゃをつくりませんか？\n\nキッズランドをご利用のお客様に、無料でご利用いただけます。\n8/11〜　数量限定にてご用意しております。\nぜひ東京インテリア杉戸店へ遊びにおこしください。",
+      "id": 32
+    },
+    {
+      "title": "【武蔵浦和】初心者歓迎♪ やさしいZUMBA®💃",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "🌈＜はじめてでも安心！やさしいZUMBA®＞\n「ZUMBA®って難しそう…」\n「ダンス経験がないから不安…」\n\nそんな方のための初心者向けクラスです😊\n\n✨見よう見まねで大丈夫！\n✨間違えても気にしなくて大丈夫！\n\n音楽に合わせて身体を..",
+      "id": 33
+    },
+    {
+      "title": "【さいたま市】心のドアをノックする表現トリップ",
+      "date": "2026-08-06",
+      "endDate": "2026-08-06",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "「うまく描く」ことが目的ではありません。\n\n凪のひだまり主催の親子で安心して”自由に表現する時間”を楽しめるアートイベント「Sunny Plays」です。\n\n絵の具やさまざまな素材を使いながら、正解のない表現を楽しみます。\n\n「これで合って",
+      "id": 34
     }
   ]
 }
