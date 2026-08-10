@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-09T01:18:25.785620",
+  "updated": "2026-08-10T01:20:17.265876",
   "region": "saitama",
-  "count": 37,
+  "count": 38,
   "events": [
     {
       "title": "行方不明展 A MISSING EXHIBITION",
@@ -88,6 +88,27 @@
       "id": 4
     },
     {
+      "title": "2026けやきひろば秋のビール祭り",
+      "date": "2026-09-17",
+      "endDate": "2026-09-21",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/2026-keyaki-hiroba-autumn-beer-festival/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 5
+    },
+    {
       "title": "Thanks 15th Anniversary ゆるバース by ゆるキャラグランプリ実行委員会",
       "date": "2026-10-03",
       "endDate": "2026-10-04",
@@ -106,7 +127,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 6
     },
     {
       "title": "ゆるバース2026 決選投票イベント",
@@ -127,7 +148,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
+      "id": 7
     },
     {
       "title": "さいたまマラソン",
@@ -148,12 +169,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 8
     },
     {
       "title": "ふかや花園プレミアム・アウトレット　PREMIUM O...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -166,12 +187,12 @@
       ],
       "area": "other",
       "desc": "プレミアム・アウトレットでは、半期に一度のPREMIUM OUTLETS BARGAIN（プレミアム・アウトレット バーゲン）」を開催。アウトドア用品やスニーカー、秋口やシーズンレスにも使えるファッションアイテムなどのお得なショッピングが楽",
-      "id": 8
+      "id": 9
     },
     {
       "title": "マンガ×マーチング8分間の青春の音",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -184,12 +205,12 @@
       ],
       "area": "other",
       "desc": "全国屈指の埼玉栄マーチングバンド部と漫画『みかづきマーチ』作者・山田はまち先生が、コロナ禍を越えて紡いだ情熱の物語を語るホールでのトークショーを開催する。編集者・三田村氏、須永顧問、部員、MCさんしろう吹奏楽部も出演。その後、市民広場（屋外",
-      "id": 9
+      "id": 10
     },
     {
       "title": "【戸田】初心者歓迎♪ やさしいZUMBA®💃",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -202,12 +223,12 @@
       ],
       "area": "other",
       "desc": "🌈＜はじめてでも安心！やさしいZUMBA®＞\n「ZUMBA®って難しそう…」\n「ダンス経験がないから不安…」\n\nそんな方のための初心者向けクラスです😊\n\n✨見よう見まねで大丈夫！\n✨間違えても気にしなくて大丈夫！\n\n音楽に合わせて身体を..",
-      "id": 10
+      "id": 11
     },
     {
       "title": "東武動物ドローンショー2026夏・打ち上げ花火2026",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -220,12 +241,12 @@
       ],
       "area": "other",
       "desc": "光のエンターテインメントドローンショー。200機のドローンが描き出すアートを見ることができる。夏ならではの雰囲気を届ける「打上花火2026」約5分間、500発の花火を打ち上げる。プールや動物園、遊園地を楽しんだ1日、さらには今年の夏の締めく",
-      "id": 11
+      "id": 12
     },
     {
       "title": "近隣高校写真部写真展「＃青春しか勝たん。」",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -238,30 +259,12 @@
       ],
       "area": "other",
       "desc": "10代の視点で切り取った、眩しすぎる日常を楽しもう。星野高等学校・写真部による写真展。今回は「青春」をテーマに撮影。高校生ならではの視点で写された様々な「青春」を楽しもう。",
-      "id": 12
-    },
-    {
-      "title": "🦖✨イオンモール川口前川に赤ちゃん恐竜がやってくる！✨🍼🦕",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "本物みたいに動く赤ちゃん恐竜とふれあえるチャンス！\n近くで見て、触れて、写真も撮れるよ📸✨\n\n🎨 恐竜ワークショップも同時開催！\n・恐竜フィギュア色塗り体験\n・宝石発掘体験\n※ワークショップは在庫がなくなり次第終了となります。\n\n🗓 開催.",
       "id": 13
     },
     {
       "title": "〚8/21・8/22開催〛フォトスタジオで夏祭り⁉１周...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -278,8 +281,8 @@
     },
     {
       "title": "8/16（日）わくわく親子フェスタ【ハウジングプラザ浦和】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -299,8 +302,8 @@
     },
     {
       "title": "ハイハイレース開催【浦和住宅公園】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -317,8 +320,8 @@
     },
     {
       "title": "世界にひとつだけファーストアートづくり",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -335,8 +338,8 @@
     },
     {
       "title": "【戸田市】ディズニー英語システム　わくわく英語PARK♪",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -353,8 +356,8 @@
     },
     {
       "title": "大高生に挑戦 チャレンジ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -371,8 +374,8 @@
     },
     {
       "title": "ハイハイレース開催【ハウジングプラザ浦和】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -389,8 +392,8 @@
     },
     {
       "title": "🦀ゆらゆら海の仲間たち！モビールを作ろう🐠💙",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -407,8 +410,8 @@
     },
     {
       "title": "🐠ゆれる海の世界！モビールアートを作ろう🌈✨",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -425,8 +428,8 @@
     },
     {
       "title": "🌴カラフル熱帯魚のゆらゆらモビール作り🐟🎈",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -443,8 +446,8 @@
     },
     {
       "title": "スライムバリエーション",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -461,8 +464,8 @@
     },
     {
       "title": "《夏休み宿題応援企画》齋藤洋子のこどもアトリエ絵画教室...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -479,8 +482,8 @@
     },
     {
       "title": "感性を育てる親子リトミック♪",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -496,27 +499,9 @@
       "id": 26
     },
     {
-      "title": "1日で苦手を克服！こども運動教室　～鉄棒～",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
-      "place": "埼玉県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "講師：工藤陽介先生（スポーツ＆アウトドアクラブ「アクティブプレイ＋」代表）\n\n運動能力を高める基本動作の向上を目指す、今までにない新しい1日特別講座です！！\n\n毎回テーマを絞って重点的に行いますが、運動遊びもバランス良く取り入れた楽しい内容",
-      "id": 27
-    },
-    {
       "title": "マジカル人形ワールド",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -529,12 +514,12 @@
       ],
       "area": "other",
       "desc": "岩槻人形博物館で開催される企画展です。\n「The Magical Ningyo World／不思議な人形たち」をテーマに、ちょっと奇妙で面白い人形たちを紹介します。\n会期中はワークシート利用で小学生の観覧料が無料になります。\n関連イベントと",
-      "id": 28
+      "id": 27
     },
     {
       "title": "夏休みこどもぼんさい・美術館",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -547,12 +532,12 @@
       ],
       "area": "other",
       "desc": "企画展「夏休みこどもぼんさい・美術館」。\n「ぼんさいのなぜ？なに？なんで？」について学べる展示です。\n関連イベントとして「夏休みワークショップ こけ玉盆栽づくり」も案内されています。\n会場はさいたま市大宮盆栽美術館の企画展示室です。",
-      "id": 29
+      "id": 28
     },
     {
       "title": "第五十四回 上木崎大原祭",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -565,12 +550,12 @@
       ],
       "area": "other",
       "desc": "前夜祭と神輿パレードからなる地域祭りです。\n縁日や芸能大会、神輿・山車の引き回しが行われます。\n担ぎ手を募集しており、小中学生も参加可能です。",
-      "id": 30
+      "id": 29
     },
     {
       "title": "夏まつり",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -583,12 +568,12 @@
       ],
       "area": "other",
       "desc": "カラフルポップな夏まつりです。\n入場無料で、安くて楽しいお店や子ども店長のお店があります。\nクロスワードクイズラリーや赤ちゃんコーナーもあり、出入り自由です。",
-      "id": 31
+      "id": 30
     },
     {
       "title": "第6回みんな一緒にステキな入間アート展",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -601,12 +586,12 @@
       ],
       "area": "other",
       "desc": "障がいのある人もそうでない人も集まり、絵画、イラスト、写真、立体工作、手工芸などの作品を楽しめるアート展です。\n「みる・きく・ふれる」を五感で楽しむ展示です。",
-      "id": 32
+      "id": 31
     },
     {
       "title": "第21回入間市フラ連盟発表会",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -619,12 +604,12 @@
       ],
       "area": "other",
       "desc": "入間市フラ連盟によるフラダンスの発表会です。\n参加団体の演目発表が行われます。\n入場無料で、どなたでも来場できます。",
-      "id": 33
+      "id": 32
     },
     {
       "title": "夏休み！ギャラクシーボトルやグラスソルトアートを作ろう！",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -637,12 +622,12 @@
       ],
       "area": "other",
       "desc": "こんにちは、ポノポノアートです。\n夏休み特別企画、大人気のアートワークショップを行います。\nキラキラの宇宙の瓶詰め「ギャラクシーボトル」\n色を重ねてオリジナルの塩のお守り「グラスソルトアート」を作りましょう♪",
-      "id": 34
+      "id": 33
     },
     {
       "title": "【戸田市の会場】親子でおしごと体験セミナー【参加無料】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -655,12 +640,12 @@
       ],
       "area": "other",
       "desc": "「おかねって、どこからくるんだろう？」 まなびのセミナー「はじめてのおしごと体験」は、親子で楽しむ体験型プログラムです。\n\nお子さまが\"お店やさん\"になって、自分で商品を作り、値段を決め、お客さんに売って、お給料を受け取ります。遊びながら、",
-      "id": 35
+      "id": 34
     },
     {
       "title": "【8/22】スマホの写真でぷくぷくシールづくり【鶴ヶ島】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -673,12 +658,12 @@
       ],
       "area": "other",
       "desc": "スマホの中に眠っている思い出をシールにしていろんな所に貼りましょう！\n大切なお子様や可愛いペットの画像でぷくぷくシールをつくるイベントです。\n大切な写真を世界に一つのぷくぷくシールにして\nスマホの中以外でも楽しめる！\nさらにシール帳のプレゼ",
-      "id": 36
+      "id": 35
     },
     {
       "title": "【8/22・23】ベビーフェス【無料】",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "埼玉県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=11",
       "source": "ikoy",
@@ -692,7 +677,43 @@
       ],
       "area": "other",
       "desc": "赤ちゃんのいるご家族はぜひご参加ください♪\n赤ちゃん向けのワークショップが盛りだくさんです♪\nお好きなワークショップをお一つ選んでご参加いただけます！\n更に、場内のモデルハウスを見学＆アンケートに回答していただいた方は\nさらにもう一つワーク",
+      "id": 36
+    },
+    {
+      "title": "志木「0歳からの・はじめてのオーケストラ」出発進行！",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "オーディションで選ばれた優秀な演奏家で構成されておりTV出演多数。全国で年間350公演開催の人気団体。目の前で繰り広げられるサロンオーケストラジャパンの演奏は楽しさと迫力いっぱい。子どもたちが夢中で聴き、親からは歓声が上がる話題のコンサート",
       "id": 37
+    },
+    {
+      "title": "KEIGO COLLECTION2026",
+      "date": "2026-08-29",
+      "endDate": "2026-08-29",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=11",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "8月29日、大宮駅東口にて入場無料のeスポーツイベントが開催される。日本初のシニアプロ「マタギスナイパーズ」と地元小中高生が対戦する世代を超えた企画である。来場者がプロに挑める対戦企画やトークショーのほか、プロや高校生から操作を学べる初心者",
+      "id": 38
     }
   ]
 }

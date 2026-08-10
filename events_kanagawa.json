@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-09T01:17:43.067349",
+  "updated": "2026-08-10T01:19:34.027982",
   "region": "kanagawa",
-  "count": 69,
+  "count": 68,
   "events": [
     {
       "title": "『映画ちいかわ 人魚の島のひみつ』in横浜市コラボ",
@@ -781,9 +781,27 @@
       "id": 37
     },
     {
+      "title": "鈴廣かまぼこの里　かまぼこの科学実験教室",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "「かまぼこはなぜ白いの？」「かまぼこはなぜプリプリと弾力があるの？」そんなかまぼこの不思議をかまぼこ博士と一緒に解き明かすワークショップ。",
+      "id": 38
+    },
+    {
       "title": "プロバスケットボール選手と学ぶ栄養セミナー",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -796,12 +814,12 @@
       ],
       "area": "other",
       "desc": "子どもたちと、プロバスケットボール選手として活躍する横浜ビー・コルセアーズの並里成選手、キング開選手が一緒に栄養バランスについて学ぶセミナーに加え、イベント参加者MAX1,000人規模が最適化栄養食「完全メシ カレーメシ」を食べるギネス世界",
-      "id": 38
+      "id": 39
     },
     {
       "title": "夏の特別体験！世界に1つだけのオリジナル風鈴を作ろう",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -814,12 +832,12 @@
       ],
       "area": "other",
       "desc": "爽やかな音色を楽しめる風鈴に、自分だけのカラーやデザインを施して世界にひとつだけのオリジナル風鈴を作るワークショップ。子どもだけでなく、大人も参加可能！風鈴・塗料・工具など必要な材料はすべて用意してある。手ぶらで気軽に参加でき、工作が初めて",
-      "id": 39
+      "id": 40
     },
     {
       "title": "シルバーウィーク　特別周遊クルーズ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -832,12 +850,12 @@
       ],
       "area": "other",
       "desc": "シルバーウィーク限定！45分という短い時間で横浜港の見所をまわるシルバーウィーク特別周遊クルーズ。秋の風を感じながら、夕暮れの横浜港をゆったりと巡る周遊クルーズ。港町ならではの美しいサンセットを船上から楽しもう。横浜港随一のスタイリッシュな",
-      "id": 40
+      "id": 41
     },
     {
       "title": "VILLAGE VANGUARD FESTIVAL",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -850,12 +868,12 @@
       ],
       "area": "other",
       "desc": "「VILLAGE VANGUARD FESTIVAL -vias JAM-（ヴィレヴァンフェス）」\n\nヴィレッジヴァンガード主催のクリエイターフェスです。イラスト、ハンドメイド、ソフビ、ZINE、アパレルなど自身の“好き”を追求した約120",
-      "id": 41
+      "id": 42
     },
     {
       "title": "●現役俳優が教える● 演技初心者の為のワークショップ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -868,30 +886,12 @@
       ],
       "area": "other",
       "desc": "演技の基礎\n\n* 自然な演技の考え方\n* 感情表現の基礎\n* セリフの伝え方\n* 相手とのコミュニケーション（掛け合い）\n\n身体・声づくり\n\n* 発声・滑舌\n* 呼吸法\n* 姿勢・立ち方・歩き方\n* 表情や目線の使い方\n\n台本...",
-      "id": 42
-    },
-    {
-      "title": "保護犬譲渡会＠富士住建小田原ショールーム",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "神奈川県小田原市の『株式会社 富士住建』の小田原ショールームで譲渡会を開催。世田谷譲渡センターから、個性豊かな可愛いワンコたちが大集合。保護犬のお迎えを考えている人、保護犬について知りたい人、保護犬に会ってみたい人など、だれでも参加OK！",
       "id": 43
     },
     {
       "title": "中学生向け　ロボットプログラミング競技・体験会",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -908,8 +908,8 @@
     },
     {
       "title": "戦争と平和を考える朗読公演　つなぐ　あの日の記憶2026",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -926,8 +926,8 @@
     },
     {
       "title": "よこすか開国花火大会2026",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -944,8 +944,8 @@
     },
     {
       "title": "第17回みなとみらい大盆踊り",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -962,8 +962,8 @@
     },
     {
       "title": "【藤沢市 8/29,30】「夏休み親子フォトプロジェク...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -980,8 +980,8 @@
     },
     {
       "title": "8/25ベビーサイン体験 スターバックスコーヒー西武東...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -998,8 +998,8 @@
     },
     {
       "title": "8/9(日)～22(土) 屋内プレイパーク",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1016,8 +1016,8 @@
     },
     {
       "title": "KENTO「マジシャン先生」MAGIC SHOW",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1034,8 +1034,8 @@
     },
     {
       "title": "8/15(土) ナイトバブルショー",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1088,8 +1088,8 @@
     },
     {
       "title": "アートではないスケッチVer.2インテリアのスケッチ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1106,8 +1106,8 @@
     },
     {
       "title": "【初心者歓迎】耳コピ・弾き語りが楽しくなる！コード入門",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1124,8 +1124,8 @@
     },
     {
       "title": "多摩川フィッシングフェスティバル２０２６",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1143,8 +1143,8 @@
     },
     {
       "title": "さつまいも掘り体験",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1161,8 +1161,8 @@
     },
     {
       "title": "親子でたのしむ！こども工作ワークショップ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1180,8 +1180,8 @@
     },
     {
       "title": "こども夢の商店街@ダイナシティウエスト",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1198,8 +1198,8 @@
     },
     {
       "title": "【木曜日 川崎市かけっこスクール】 小学生クラス",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1217,8 +1217,8 @@
     },
     {
       "title": "青葉台駅周辺の将来像を皆で考えるオープンワークショップ",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1235,8 +1235,8 @@
     },
     {
       "title": "第74回(令和8年度)浦賀みなと祭",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1253,8 +1253,8 @@
     },
     {
       "title": "初めての赤ちゃんのいる暮らし　～R8 ゴロゴロ育児講座...",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1270,9 +1270,9 @@
       "id": 64
     },
     {
-      "title": "東海道川崎宿場まつり　仮装・コスプレパレード",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "title": "CAMPLUGGED　キャンプラグドvol.9",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://iko-yo.net/events?prefecture_ids[]=14",
       "source": "ikoy",
@@ -1284,26 +1284,8 @@
         "festival"
       ],
       "area": "other",
-      "desc": "東海道川崎宿場まつりの仮装パレードを開催する。参加者も募集する。旅人や町人、商人、姫、侍などの和装はもちろんのこと、アニメやゲームのキャラクターなどの自由なコスプレで、宿場まつりを一緒に盛り上げよう。年齢・経験は不問。仮装が初めての人も大歓",
+      "desc": "『CAMPLUGGED（キャンプラグド）』とは都会では味わえない自然豊かで開放的な空間で楽しむ特別なキャンプ、大人も子どもも楽しめる多彩なワークショップやステージを満喫できる2日間の体験型イベント。自然の中で心ゆくまでリフレッシュして、楽し",
       "id": 65
-    },
-    {
-      "title": "2026湘南ひらつか夕暮れ夏まつり",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=14",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "歩行者天国で呑めるエリアに、キッチンカー、音楽ライブ、プロレス、マルシェイベントなど盛りだくさんの1日！",
-      "id": 66
     },
     {
       "title": "恐竜たちの知られざる “食生活” の秘密に迫る！『ヨコハマ恐竜展2026』で学ぶ、歯や爪、骨格から解き明かす “恐竜たちのリアルな食事”。日本初公開の化石や動くロボット恐竜も登場！",
@@ -1321,12 +1303,12 @@
       ],
       "area": "other",
       "desc": "恐竜の “食” にフォーカスした「ヨコハマ恐竜展2026 ～恐竜の食卓大図鑑～」が2026年7月17日（金）〜9月6日（日）までパシフィコ横浜で開催！ 全長20メートル以上の巨大な草食恐竜「ディプロドクス」の骨格標本をはじめ、日本初公開の化",
-      "id": 67
+      "id": 66
     },
     {
       "title": "スカイビル恐竜パーク",
-      "date": "2026-08-09",
-      "endDate": "2026-08-09",
+      "date": "2026-08-10",
+      "endDate": "2026-08-10",
       "place": "神奈川県",
       "url": "https://www.kids-event.jp/event/20260717_yokohamasky/",
       "source": "kids",
@@ -1339,7 +1321,7 @@
       ],
       "area": "other",
       "desc": "迫力ある恐竜ロボットなどさまざまな恐竜体験を楽しめる「スカイビル恐竜パーク」が、横浜のスカイビルで開催！本物の化石の発掘体験などの体験イベントも用意！",
-      "id": 68
+      "id": 67
     },
     {
       "title": "アルテミス計画がひらく未来！野口さんと考える夢のかなえ方",
@@ -1357,7 +1339,7 @@
       ],
       "area": "other",
       "desc": "宇宙飛行士・野口聡一名誉館長による子ども向け特別セミナー「アルテミス計画がひらく未来！野口さんと考える夢のかなえ方」が2026年7月28日（火）にカップヌードルミュージアム 横浜で開催！Zoomによるオンライン参加も可能。定員は1,000名",
-      "id": 69
+      "id": 68
     }
   ]
 }
