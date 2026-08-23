@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T00:56:41.670784",
+  "updated": "2026-08-23T01:00:33.937432",
   "region": "tokyo",
   "count": 98,
   "events": [
@@ -550,9 +550,45 @@
       "id": 26
     },
     {
+      "title": "国営昭和記念公園　こもれびの丘　自然観察会（9月）",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "elementary"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "こもれびの丘を管理しているボランティアが、その季節に丘で見られる植物など魅力を案内する。ルーペの無料貸し出し有り。受付場所はこもれびの家。定員は先着20名（当日受付OK、小学生以下は保護者同伴）。",
+      "id": 27
+    },
+    {
+      "title": "国営昭和記念公園　盆栽教室2026「秋の山野草寄せ植え...",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
+      "place": "東京都",
+      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "日本の伝統的な芸術「盆栽」。国営昭和記念公園盆栽苑のスタッフがやさしい盆栽づくりをレクチャーしてくれる。興味があっても挑戦する機会がなかった人、初めての人でも気軽に参加できる。定員24名（各回12名・抽選）。HPの受付フォームから申込（8/",
+      "id": 28
+    },
+    {
       "title": "年中行事「十五夜」＠こもれびの里",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -565,12 +601,12 @@
       ],
       "area": "other",
       "desc": "こもれびの里農家内に、年中行事「十五夜」を再現した、お供え物等を展示。誰でも無料で観覧することができる。",
-      "id": 27
+      "id": 29
     },
     {
       "title": "国営昭和記念公園 PF チアダンス教室（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -584,12 +620,12 @@
       ],
       "area": "other",
       "desc": "国営昭和記念公園の豊かな緑の中でチアダンスの基礎を学ぶ。ポンポンを持って楽しくチアダンスを踊ろう。予約サイトからの事前予約制。定員20名。対象は4歳～小学生。",
-      "id": 28
+      "id": 30
     },
     {
       "title": "国営昭和記念公園 PF 初心者バスケットボール教室（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -602,12 +638,12 @@
       ],
       "area": "other",
       "desc": "立川市をホームタウンとするプロバスケットボールチーム「TACHIKAWA DICE（立川ダイス）」による初心者向けバスケットボール教室。予約サイトからの事前予約制。各回定員15名。対象は小学生。",
-      "id": 29
+      "id": 31
     },
     {
       "title": "国営昭和記念公園 PF ランニング基礎トレーニング（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -620,12 +656,12 @@
       ],
       "area": "other",
       "desc": "ランニングの基礎を学ぶプログラム。初心者から走ることに慣れている人まで参加できる。じっくり走り、マラソン完走ペースを身に付けていく。予約サイトより事前申込制で、定員20名。対象は中学生以上。",
-      "id": 30
+      "id": 32
     },
     {
       "title": "国営昭和記念公園 PF かけっこ教室（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -638,12 +674,12 @@
       ],
       "area": "other",
       "desc": "運動することや走ることが苦手な子どもでも、遊びながら楽しく参加できるレッスン。体の使い方が身に付き、かけっこが速くなる、小学生対象のかけっこ教室を開催。定員は40名（予約サイトからの事前予約制）。",
-      "id": 31
+      "id": 33
     },
     {
       "title": "国営昭和記念公園「はじめてのお茶室」（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -656,12 +692,12 @@
       ],
       "area": "other",
       "desc": "美しい日本庭園を眺めながら、のんびりと、誰でも気軽にお茶とお菓子を楽しむことができる。掛け軸やお道具、お茶の作法を知らない初心者も、この機会に参加してみよう。定員各回16名で、WEB事前申込枠（12名先着順）と当日申込枠（4名現地先着順）あ",
-      "id": 32
+      "id": 34
     },
     {
       "title": "全館で愉しむ、実り豊かな食の祭典「秋の実りフェア」",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -674,12 +710,12 @@
       ],
       "area": "other",
       "desc": "直営レストラン・バー6店舗にて、秋の美味を心ゆくまで堪能できる「秋の実りフェア」を開催する。バラエティ豊かなディナーブッフェや日本料理の特別会席をはじめ、旬の素材の魅力を最大限に引き出したメニューを用意。“食のエドモント”が総力を挙げて、こ",
-      "id": 33
+      "id": 35
     },
     {
       "title": "Go Go! CaramelCorn Factory",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -692,12 +728,12 @@
       ],
       "area": "other",
       "desc": "キャラメルコーン誕生55周年を記念し、自分だけのオリジナル パッケージを作ることができる体験型イベントを実施！特別にデザインした９色のオリジナルパッケージの中から選び、好きなパーツのシールをパッケージに貼り付けオリジナルのキャラメルコーンく",
-      "id": 34
+      "id": 36
     },
     {
       "title": "WOOD &amp; LIFE 2026 秋（千葉県編）林業就...",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -710,12 +746,12 @@
       ],
       "area": "other",
       "desc": "講習は、千葉県内の森林組合等で働く2名の林業従事者が森林整備や安全管理、災害復旧など現場での具体的な仕事内容を紹介するほか、必要なスキル、キャリアパスなど林業の基礎知識を紹介。会場では、実際に使われている林業の道具の展示も行う。現地参加：3",
-      "id": 35
+      "id": 37
     },
     {
       "title": "第54回 吉祥寺秋まつり",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -728,12 +764,12 @@
       ],
       "area": "other",
       "desc": "武蔵野八幡宮の「例大祭」に合わせて開催する吉祥寺秋まつり。武蔵野八幡宮から神馬に騎乗する神官を先頭に、武蔵野八幡宮宮神輿が、各商店街を渡御し、日曜に宮入りする「宮神輿渡御」や、駅前平和通りに全11基の神輿が集結し、各ステージに向かって行う圧",
-      "id": 36
+      "id": 38
     },
     {
       "title": "ハイキングガイドツアー「秋の草花を探そう」",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -746,12 +782,12 @@
       ],
       "area": "other",
       "desc": "暑さの落ち着く10月に、秋に咲く花を探しながら高尾山に登ろう。JR高尾駅北口からバスに乗り、日影バス停から登っていくと、ツリフネソウやヤマハッカなどの秋の花が待っている。高尾山の山頂は関東の富士山見百景にも指定されている。詳細・申込みはWe",
-      "id": 37
+      "id": 39
     },
     {
       "title": "2026フォト機構展(第30回)",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -764,12 +800,12 @@
       ],
       "area": "other",
       "desc": "【概要文】一之江フォトクラブ（IPC）と写真クラブフォトQB（PQB）の2クラブ合同の写真展です。\nえどがわの四季作品展も同時開催いたします。",
-      "id": 38
+      "id": 40
     },
     {
       "title": "第54回松島土曜寄席",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -782,12 +818,12 @@
       ],
       "area": "other",
       "desc": "【概要文】毎月開催される地域寄席。落語・漫談・漫才・俗曲等を披露します。\n入場料は500円です。今月の出演者は麹家マンダム(こうじやまんだむ)ほかです。",
-      "id": 39
+      "id": 41
     },
     {
       "title": "圓藏亭落語会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -800,12 +836,12 @@
       ],
       "area": "other",
       "desc": "【概要文】江戸川区内のみならず関東近郊、全国各地から腕っこきの社会人落語家が集う、圓藏亭落語会。\n是非ひらい圓藏亭にお越しください。",
-      "id": 40
+      "id": 42
     },
     {
       "title": "圓藏亭落語会　シルバーウィークは落語三昧",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -818,12 +854,12 @@
       ],
       "area": "other",
       "desc": "【概要文】江戸川区内のみならず関東近郊、全国各地から腕っこきの社会人落語家が集う、圓藏亭落語会。\nシルバーウィーク特別企画、ぜひお越しください。",
-      "id": 41
+      "id": 43
     },
     {
       "title": "立川幸朝勉強会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -836,12 +872,12 @@
       ],
       "area": "other",
       "desc": "【概要文】落語芸術協会所属の若手、立川談幸門下の立川幸朝の勉強会です。\n真打を目指して奮闘する立川幸朝の勉強会、ぜひお越しください。",
-      "id": 42
+      "id": 44
     },
     {
       "title": "第12回　桂小右治勉強会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -854,12 +890,12 @@
       ],
       "area": "other",
       "desc": "【概要文】落語芸術協会の二つ目である桂小右治の勉強会です。各月で勉強会を開催しています。\n真打を目指して奮闘する桂小右治の勉強会、ぜひお越しいただき応援をお願いします。",
-      "id": 43
+      "id": 45
     },
     {
       "title": "子どもむけおはなし会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -873,12 +909,12 @@
       ],
       "area": "other",
       "desc": "【概要文】絵本の読み聞かせや、楽しい手遊びなどを行います。予約不要ですのでお気軽にご参加ください。\n3歳から小学生までが対象です。",
-      "id": 44
+      "id": 46
     },
     {
       "title": "柳家あお馬勉強会　寄ってっ亭",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -891,12 +927,12 @@
       ],
       "area": "other",
       "desc": "【概要文】落語協会二つ目きっての実力者である柳家あお馬の落語勉強会です。毎月第3金曜日に開催しています。柳家あお馬の落語を聞いて、帰りは平井の街に「寄ってって」はいかがでしょうか。",
-      "id": 45
+      "id": 47
     },
     {
       "title": "60分のプチイラスト：色鉛筆編",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -909,12 +945,12 @@
       ],
       "area": "other",
       "desc": "＜こんなことを学びます＞\n鉛筆や色鉛筆で簡単に描けるイラストをストックしていきましょう。\n\n\n小さいスケッチブックやメッセージカード、付箋や手帳などに\n色鉛筆や鉛筆、ボールペンなど身近な画材で、\nかわいいプチイラストを描いてみましょう！\n付",
-      "id": 46
+      "id": 48
     },
     {
       "title": "（初受講者限定）本気で俳優・声優になりたい人への特別講座",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -927,12 +963,12 @@
       ],
       "area": "other",
       "desc": "俳優・声優になりたい！\n\nそう思っていてもなかなか動けない…！養成所に入ったけど完全に頭打ち…！\n事務所に入っているけど仕事がない…！\n\nそんな方たちに足りないもの、それは\n\n「勇気」「基礎知識」「アイディア」です。\n\nなかなか、動けな..",
-      "id": 47
+      "id": 49
     },
     {
       "title": "【藤沢/秋葉原】2個作成☆リボンレイ♪コサージュ＆リボ...",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -945,12 +981,12 @@
       ],
       "area": "other",
       "desc": "ご覧いただき誠にありがとうございます。\n\n🎀レンタルスペース日程\n\n（下記以外の日程をご希望の場合は、空きがあればご予約可能な場合がありますので\nご都合が悪ければご相談下さい）\n\n◆秋葉原　徒歩5分\n\n（秋葉原・御茶ノ水の日程でご予約下..",
-      "id": 48
+      "id": 50
     },
     {
       "title": "浅草国際通りビートフェスティバル2026",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -963,12 +999,12 @@
       ],
       "area": "other",
       "desc": "メインイベントである「エイサーパレード」は、13時10分に太皷館前よりスタート。浅草ビューホテル付近まで２車線を封鎖し、浅草国際通りを各チームが躍動感溢れる演舞を披露して華麗に練り歩く。また、浅草ビューホテル２階ビュービートデッキにおいても",
-      "id": 49
+      "id": 51
     },
     {
       "title": "きかんしゃトーマスファミリーミュージカル ソドー島の1...",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -981,12 +1017,12 @@
       ],
       "area": "other",
       "desc": "トップハム・ハット卿から特別な仕事を任されたトーマスとパーシー。どちらが早く荷物を届けられるか競争することに。様々な困難にあいながら、整備士のハルとユウキと共に本当に大切なものは何なのかに気付いていく。果たして勝負の行方は？　※詳細・公演の",
-      "id": 50
+      "id": 52
     },
     {
       "title": "ただ歩くだけじゃもったいない！井の頭池ガイドウォーク（9月）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -999,12 +1035,12 @@
       ],
       "area": "other",
       "desc": "「かいぼり」によって自然が回復した井の頭池では、季節に応じて様々な水辺の景観が楽しめる。「知っておくと散歩が楽しめる」旬な生きもの情報や観察のポイントなどを紹介するガイドツアー。9月の見どころは「秋の水辺」。湿地の植物の様子、赤とんぼなど、",
-      "id": 51
+      "id": 53
     },
     {
       "title": "第24回 杉本佳子バレエ学校フェスティバル",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -1017,12 +1053,12 @@
       ],
       "area": "other",
       "desc": "杉本佳子バレエ学校による第24回フェスティバル。小品集、「シンデレラ」、キャラクターダンス、キャラクター・バー、ヒストリカルダンス、コンテンポラリーダンス、朗読、けん玉ショーなど多彩なプログラムを上演する。スペシャルゲストに日本女子体育大学",
-      "id": 52
+      "id": 54
     },
     {
       "title": "東京ニューヨーク（入浴）寄席",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://iko-yo.net/events?prefecture_ids[]=13",
       "source": "ikoy",
@@ -1035,48 +1071,12 @@
       ],
       "area": "other",
       "desc": "【概要文】区内公衆浴場で講談が楽しめる「東京ニューヨーク（入浴）寄席」を実施いたします。\n是非ご参加ください。",
-      "id": 53
-    },
-    {
-      "title": "FUSION マルシェ",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "練馬駅北口から徒歩1分のイベントスペースで行われる体験型マルシェ♬\n\n今回は夏休み最後の体験にプロが教えるやさしいマジック教室、自分で作れる可愛いキーホルダー、大流行のシール貼り放題ブース等\n親子で来て楽しんでいただけるコンテンツが満載！ ",
-      "id": 54
-    },
-    {
-      "title": "敬老の日に贈る「手形足形アート」",
-      "date": "2026-09-21",
-      "endDate": "2026-09-21",
-      "place": "東京都",
-      "url": "https://iko-yo.net/events?prefecture_ids[]=13",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "９月２１日は敬老の日。\nわが子の成長を一緒に喜んでくれる、大切なおじいちゃん・おばあちゃんへ、\n世界でたった一つの今しか残せない特別なプレゼントを贈りませんか？\n\n大人気の手形足形キーホルダーや、敬老の日デザインのペーパーアートをお作りいた",
       "id": 55
     },
     {
       "title": "文字サイズ",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -1111,8 +1111,8 @@
     },
     {
       "title": "2026年 親子で楽しむシルバーウィーク “おすすめ映画”！",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026silverweek_movie/",
       "source": "kids",
@@ -1201,8 +1201,8 @@
     },
     {
       "title": "東京の猛暑日OK！子どもと涼しく遊べる屋内スポット15選【2026年版】｜年齢別・無料あり",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/hot-day-indoor-kids-tokyo/",
       "source": "kids",
@@ -1219,8 +1219,8 @@
     },
     {
       "title": "東京の自由研究になる施設15選【2026年版】｜見学がそのまま宿題になる完全ガイド",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/jiyu-kenkyu-kids-tokyo2026/",
       "source": "kids",
@@ -1255,8 +1255,8 @@
     },
     {
       "title": "《レーヴ・デ・リュミエール》親⼦で楽しめる夏休み限定ワークショップ「ゴッホの《ひまわり》をちぎり絵で描こう",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260822_reve_des_lumieres/",
       "source": "kids",
@@ -1327,8 +1327,8 @@
     },
     {
       "title": "パパも子どもも大興奮！ 話題の「100％ドラえもん＆フレンズ in 東京」でドラえもんの世界へ没入！ 効率的なまわり方から限定グルメまで子連れ体験レポート！",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/report/20260531_100doraemon/",
       "source": "kids",
@@ -1436,8 +1436,8 @@
     },
     {
       "title": "Hello Wonder in TAKANAWA GATEWAY CITY（ハローワンダー イン 高輪ゲートウェイシティ）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260801_hellowonder2026/",
       "source": "kids",
@@ -1490,8 +1490,8 @@
     },
     {
       "title": "スカイビル恐竜パーク",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260717_yokohamasky/",
       "source": "kids",
@@ -1526,8 +1526,8 @@
     },
     {
       "title": "ありあけ サマースプラッシュ",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20260801_ariake_splash/",
       "source": "kids",
@@ -1633,11 +1633,11 @@
       "id": 86
     },
     {
-      "title": "カルタ・ダ・ムジカ 第４回演奏会〈ハンガリー、オーストリアからの便り〉",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "プッチーニ作曲　オペラ『マノン・レスコー』全4幕（原語上演・字幕付き）",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605258823816.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607102204962.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1653,11 +1653,11 @@
       "id": 87
     },
     {
-      "title": "プッチーニ作曲　オペラ『マノン・レスコー』全4幕（原語上演・字幕付き）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "Orchestre de SAVEUR 第５回演奏会",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607102204962.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607096544882.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1673,11 +1673,11 @@
       "id": 88
     },
     {
-      "title": "Orchestre de SAVEUR 第５回演奏会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "ジャパニーズ・グラフィティ全曲演奏会 vol.3",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607096544882.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607073764384.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1694,8 +1694,8 @@
     },
     {
       "title": "レゾナンツ・フィルハーモニカ 第2回演奏会",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202607053737152.html",
       "source": "concert",
@@ -1713,11 +1713,11 @@
       "id": 90
     },
     {
-      "title": "Wood×Woodアイリッシュハープ弾き語りの午後",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "Luxury Italian Night",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202608012854926.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202608142974565.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1733,11 +1733,11 @@
       "id": 91
     },
     {
-      "title": "ジャパニーズ・グラフィティ全曲演奏会 vol.3",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "さざんかシティウィンズコンサート2026",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607073764384.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202605048914111.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1753,11 +1753,11 @@
       "id": 92
     },
     {
-      "title": "THE INTELLIGENCE CONCERT",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "新日本交響楽団 第117回定期演奏会（創立60 周年記念II）",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202608045797874.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202605196295057.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1773,11 +1773,11 @@
       "id": 93
     },
     {
-      "title": "さざんかシティウィンズコンサート2026",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "【0歳から鑑賞OK！】生演奏＆バレエコンサート",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605048914111.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607118440373.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1793,11 +1793,11 @@
       "id": 94
     },
     {
-      "title": "新日本交響楽団 第117回定期演奏会（創立60 周年記念II）",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "Wood×Woodアイリッシュハープ弾き語りの午後",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605196295057.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202608012854926.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1813,11 +1813,11 @@
       "id": 95
     },
     {
-      "title": "【0歳から鑑賞OK！】生演奏＆バレエコンサート",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "THE INTELLIGENCE CONCERT",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607118440373.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202608045797874.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1833,11 +1833,11 @@
       "id": 96
     },
     {
-      "title": "アフィニス夏の音楽祭 2026 ランチタイムコンサート",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "Hynemos Wind Orchestra 第14回アンサンブル演奏会",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202606113310526.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607218346732.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1853,11 +1853,11 @@
       "id": 97
     },
     {
-      "title": "ランチコンサートVol.22／モーツァルトの新曲とともに",
-      "date": "2026-08-22",
-      "endDate": "2026-08-22",
+      "title": "瑲瑲会（そうそう会）コンサート",
+      "date": "2026-08-23",
+      "endDate": "2026-08-23",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605189452498.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202606219760191.html",
       "source": "concert",
       "cost": "free",
       "ages": [
