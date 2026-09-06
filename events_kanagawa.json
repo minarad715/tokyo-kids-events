@@ -1,8 +1,365 @@
 {
-  "updated": "2026-09-05T02:35:54.297520",
+  "updated": "2026-09-06T02:32:51.174163",
   "region": "kanagawa",
-  "count": 1,
+  "count": 18,
   "events": [
+    {
+      "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
+      "date": "2026-09-01",
+      "endDate": "2026-09-01",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/bananaman-sekkaku-gourmet-hakurankai-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 1
+    },
+    {
+      "title": "ヨコハマ恐竜展2026～恐竜の食卓大図鑑～",
+      "date": "2026-09-06",
+      "endDate": "2026-09-06",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-dinosaur-expo-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 2
+    },
+    {
+      "title": "横浜ランタンナイト",
+      "date": "2026-09-23",
+      "endDate": "2026-09-23",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-lantern-night-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 3
+    },
+    {
+      "title": "微わかる展2＋小さいすぎるよ展",
+      "date": "2026-10-18",
+      "endDate": "2026-10-18",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/biwakaru2-chiisaisugiruyo-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 4
+    },
+    {
+      "title": "緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫",
+      "date": "2026-11-30",
+      "endDate": "2026-11-30",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/ultra-multiverse-yokohama-akarenga-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 5
+    },
+    {
+      "title": "バナナマンのせっかくグルメ!！博覧会（2週目）",
+      "date": "2026-09-02",
+      "endDate": "2026-09-07",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/bananaman-sekkaku-gourmet-hakurankai-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 6
+    },
+    {
+      "title": "横浜ナイトフラワーズ2026",
+      "date": "2026-09-05",
+      "endDate": "2026-09-05",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-night-flowers-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
+      "title": "マイナビ転職フェア（横浜）",
+      "date": "2026-09-12",
+      "endDate": "2026-09-12",
+      "place": "神奈川県",
+      "url": "https://www.tenshokuevent.com/mynavi-tenshoku-fair-yokohama-2026-2/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "ポムフェス",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/pomfes-2026-yokohama-red-brick-warehouse/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "横浜オクトーバーフェスト2026",
+      "date": "2026-09-18",
+      "endDate": "2026-10-04",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-oktoberfest-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "横浜おいも万博2026",
+      "date": "2026-10-09",
+      "endDate": "2026-10-13",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-oimo-banpaku-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "ALL AMERICAN FOOD FESTIVAL ’26",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/all-american-food-festival-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/yokohama-urban-sports-festival-26-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "アイアン・ベイ スペシャルディナー",
+      "date": "2026-10-20",
+      "endDate": "2026-10-20",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/iron-bay-special-dinner-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "全国ふるさとフェア2026",
+      "date": "2026-10-31",
+      "endDate": "2026-11-03",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/zenkoku-furusato-fair-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
+    },
+    {
+      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
+      "date": "2027-03-19",
+      "endDate": "2026-09-26",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "GREENROOM FESTIVAL’27",
+      "date": "2027-05-22",
+      "endDate": "2027-05-23",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/greenroom-festival-27-yokohama-2027/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
+    },
     {
       "title": "「マリー・アントワネット・スタイル」展で知る、誤解された王妃が貫いた “自分らしく ”生きた素顔。子どもたちには教科書の中の出来事ではなく「本当に起きたこと」と感じてほしい！",
       "date": "2026-11-23",
@@ -19,7 +376,7 @@
       ],
       "area": "other",
       "desc": "歴史上もっともファッショナブルな王妃の人物像に迫る『マリー・アントワネット・スタイル』が2026年11月23日（月・祝）まで横浜美術館で開催中！誤解された王妃が貫いた “自分らしく ” 生きた素顔に迫る！",
-      "id": 1
+      "id": 18
     }
   ]
 }
