@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-06T02:32:51.174163",
+  "updated": "2026-09-07T02:29:52.862619",
   "region": "kanagawa",
-  "count": 18,
+  "count": 20,
   "events": [
     {
       "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
@@ -151,6 +151,48 @@
       "id": 7
     },
     {
+      "title": "ULTRAMAN EXHIBITION -ウルトラマンシリーズ60周年展- in 横浜赤レンガ倉庫",
+      "date": "2026-09-05",
+      "endDate": "2026-09-27",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/ultraman-exhibition-yokohama-akarenga-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "秋の里山ガーデンフェスタ",
+      "date": "2026-09-05",
+      "endDate": "2026-09-27",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/autumn-satoyama-garden-festa-2026-yokohama/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
       "title": "マイナビ転職フェア（横浜）",
       "date": "2026-09-12",
       "endDate": "2026-09-12",
@@ -169,7 +211,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
+      "id": 10
     },
     {
       "title": "ポムフェス",
@@ -190,7 +232,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 11
     },
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -211,7 +253,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 12
     },
     {
       "title": "横浜おいも万博2026",
@@ -232,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 13
     },
     {
       "title": "ALL AMERICAN FOOD FESTIVAL ’26",
@@ -253,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 14
     },
     {
       "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
@@ -274,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 15
     },
     {
       "title": "アイアン・ベイ スペシャルディナー",
@@ -295,7 +337,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 16
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -316,7 +358,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 17
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -337,7 +379,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 18
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -358,7 +400,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 19
     },
     {
       "title": "「マリー・アントワネット・スタイル」展で知る、誤解された王妃が貫いた “自分らしく ”生きた素顔。子どもたちには教科書の中の出来事ではなく「本当に起きたこと」と感じてほしい！",
@@ -376,7 +418,7 @@
       ],
       "area": "other",
       "desc": "歴史上もっともファッショナブルな王妃の人物像に迫る『マリー・アントワネット・スタイル』が2026年11月23日（月・祝）まで横浜美術館で開催中！誤解された王妃が貫いた “自分らしく ” 生きた素顔に迫る！",
-      "id": 18
+      "id": 20
     }
   ]
 }
