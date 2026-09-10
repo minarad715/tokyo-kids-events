@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-09T02:42:39.444021",
+  "updated": "2026-09-10T02:44:55.195340",
   "region": "kanagawa",
-  "count": 29,
+  "count": 32,
   "events": [
     {
       "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
@@ -403,66 +403,65 @@
       "id": 19
     },
     {
-      "title": "【要予約/無料】0〜3歳向け♪わらべうたと絵本の読み聞かせおはなし会",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "【演技初心者ならココ！】演劇・演技！短い台本で役を演じてみよう！",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595132",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "toddler"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 20
-    },
-    {
-      "title": "ローズマリー香る　チキングリルで楽しむ本格料理レッスン",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595209",
+      "url": "https://iko-yo.net/events/593036",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "workshop"
+        "stage"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 20
+    },
+    {
+      "title": "9月10日(木)開催【港北公会堂】ベビー英語",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/588603",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
       ],
       "area": "other",
       "desc": "",
       "id": 21
     },
     {
-      "title": "はいはい＆よちよち美術館ツアー＆ワークショップ(9月)",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "【横浜・対面】DJ スクラッチ・2枚使いの悩みを70分で解決✨🎧",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/580158",
+      "url": "https://iko-yo.net/events/594871",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler"
+        "family"
       ],
       "cats": [
-        "museum",
-        "workshop"
+        "festival"
       ],
       "area": "other",
       "desc": "",
       "id": 22
     },
     {
-      "title": "【9月】絵本とおもちゃサロン@カフェ「千年共店」",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "岩間でシネマ　第16回　モリのいる場所",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/576012",
+      "url": "https://iko-yo.net/events/581952",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -476,11 +475,11 @@
       "id": 23
     },
     {
-      "title": "【初心者向け】【少人数制】初めてのミシン教室",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "猫背が気になる人のための、美姿勢になれるフラ【横浜市/木曜/土曜】",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/421368",
+      "url": "https://iko-yo.net/events/541129",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -494,11 +493,11 @@
       "id": 24
     },
     {
-      "title": "フルーツ カッティング◇基礎◇彩り鮮やかな極上デザート◇横浜",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "☆少人数制のレッスン☆ ゆっくり丁寧な指導！JAZZ FUNK♪",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/433710",
+      "url": "https://iko-yo.net/events/518159",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -512,11 +511,11 @@
       "id": 25
     },
     {
-      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "夏だ🌞踊ろう♪日吉/綱島でベリーダンス 🔰",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/528079",
+      "url": "https://iko-yo.net/events/587915",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -530,11 +529,11 @@
       "id": 26
     },
     {
-      "title": "手ぶらでも大丈夫。少人数でイスとテーブルでの書道教室。",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "【テラスモール湘南店】2026年 9月のハイハイチャレンジ！",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/594631",
+      "url": "https://iko-yo.net/events/589856",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -548,11 +547,11 @@
       "id": 27
     },
     {
-      "title": "【小・中・高校生向け】イスとテーブルで、手ぶらで書道",
-      "date": "2026-09-09",
-      "endDate": "2026-09-09",
+      "title": "マークイズみなとみらい 9月開催ハイハイチャレンジ",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595584",
+      "url": "https://iko-yo.net/events/593678",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -564,6 +563,60 @@
       "area": "other",
       "desc": "",
       "id": 28
+    },
+    {
+      "title": "舘鼻則孝 創作活動15周年記念 リシンク 舘鼻則孝と手しごと",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/595466",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "第14回 小鳥のアートフェスタin横浜",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/595511",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "【9月10日・29日開催】赤ちゃんイベント♪1歳のお誕生日会",
+      "date": "2026-09-10",
+      "endDate": "2026-09-10",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/595636",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
     },
     {
       "title": "「マリー・アントワネット・スタイル」展で知る、誤解された王妃が貫いた “自分らしく ”生きた素顔。子どもたちには教科書の中の出来事ではなく「本当に起きたこと」と感じてほしい！",
@@ -581,7 +634,7 @@
       ],
       "area": "other",
       "desc": "歴史上もっともファッショナブルな王妃の人物像に迫る『マリー・アントワネット・スタイル』が2026年11月23日（月・祝）まで横浜美術館で開催中！誤解された王妃が貫いた “自分らしく ” 生きた素顔に迫る！",
-      "id": 29
+      "id": 32
     }
   ]
 }
