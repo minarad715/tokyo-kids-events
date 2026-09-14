@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13T02:45:22.140943",
+  "updated": "2026-09-14T02:59:59.914010",
   "region": "tokyo",
-  "count": 65,
+  "count": 64,
   "events": [
     {
       "title": "チャイナフェスティバル2026",
@@ -509,8 +509,8 @@
     },
     {
       "title": "文字サイズ",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://kodomo-smile.metro.tokyo.lg.jp/events",
       "source": "tokyo",
@@ -707,8 +707,8 @@
     },
     {
       "title": "ワンワンまつり フェスティバル ⽂京公演",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/event/20270227_wanwan_matsuri/",
       "source": "kids",
@@ -726,8 +726,8 @@
     },
     {
       "title": "東京の子ども500円以下の遊び場15選【2026年版】｜ワンコインで1日遊べる節約おでかけ完全ガイド",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/500yen-kids-tokyo/",
       "source": "kids",
@@ -744,8 +744,8 @@
     },
     {
       "title": "東京の4歳・5歳向け遊び場15選【2026年版】｜幼稚園児が夢中になる施設を年齢別に完全ガイド",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/tips/4-5sai-kids-tokyo/",
       "source": "kids",
@@ -798,8 +798,8 @@
     },
     {
       "title": "ノット・アローン",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/movie/2027_notalone/",
       "source": "kids",
@@ -834,8 +834,8 @@
     },
     {
       "title": "映画 ブルーイ",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/movie/2027_bluey/",
       "source": "kids",
@@ -960,8 +960,8 @@
     },
     {
       "title": "2026年 親子で楽しむシルバーウィーク “おすすめ映画”！",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都",
       "url": "https://www.kids-event.jp/special/2026silverweek_movie/",
       "source": "kids",
@@ -1032,8 +1032,8 @@
     },
     {
       "title": "Luxury Italian Night",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202608142974565.html",
       "source": "concert",
@@ -1052,8 +1052,8 @@
     },
     {
       "title": "REICH / PÄRT 90",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202608214209993.html",
       "source": "concert",
@@ -1071,11 +1071,11 @@
       "id": 55
     },
     {
-      "title": "ライヴ・イマジン５９",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "船橋フィルハーモニー管弦楽団　第79回定期演奏会",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202609018375335.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607308933965.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1091,11 +1091,11 @@
       "id": 56
     },
     {
-      "title": "米沢美佳&奈良希愛 デュオ・コンサート",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "ライヴ・イマジン５９",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202609017725527.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202609018375335.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1111,11 +1111,11 @@
       "id": 57
     },
     {
-      "title": "オルケストラ・クラシカ第17回定期演奏会",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "ル スコアール管弦楽団 第60回演奏会",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202608199311410.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202609012417676.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1131,11 +1131,11 @@
       "id": 58
     },
     {
-      "title": "ザッツ管弦楽団 第24回定期演奏会",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "米沢美佳&奈良希愛 デュオ・コンサート",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607212380602.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202609017725527.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1151,11 +1151,11 @@
       "id": 59
     },
     {
-      "title": "船橋フィルハーモニー管弦楽団　第79回定期演奏会",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "新交響楽団　第275回演奏会",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202607308933965.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202609087957038.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1171,11 +1171,11 @@
       "id": 60
     },
     {
-      "title": "浅草音楽祭2026 第一夜『浅草「夏」吹奏楽祭』",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "ザッツ管弦楽団 第24回定期演奏会",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202608035138342.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202607212380602.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1191,11 +1191,11 @@
       "id": 61
     },
     {
-      "title": "ル スコアール管弦楽団 第60回演奏会",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "浅草音楽祭2026 第一夜『浅草「夏」吹奏楽祭』",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202609012417676.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202608035138342.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1212,8 +1212,8 @@
     },
     {
       "title": "レゾナンツ・フィルハーモニカ 第2回演奏会",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
       "url": "https://www.concertsquare.jp/blog/2026/202607053737152.html",
       "source": "concert",
@@ -1231,11 +1231,11 @@
       "id": 63
     },
     {
-      "title": "弦楽四重奏の会　第2回ショスタコーヴィチ弦楽四重奏曲全曲演奏第2日",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
+      "title": "フィルハーモニックアンサンブル管弦楽団 第3回チェコ演奏会",
+      "date": "2026-09-14",
+      "endDate": "2026-09-14",
       "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202605132115605.html",
+      "url": "https://www.concertsquare.jp/blog/2026/202608063587961.html",
       "source": "concert",
       "cost": "free",
       "ages": [
@@ -1249,26 +1249,6 @@
       "area": "other",
       "desc": "",
       "id": 64
-    },
-    {
-      "title": "ショスタコーヴィチ弦楽四重奏曲全曲演奏 [Day2]",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
-      "place": "東京都内",
-      "url": "https://www.concertsquare.jp/blog/2026/202608181711699.html",
-      "source": "concert",
-      "cost": "free",
-      "ages": [
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 65
     }
   ]
 }
