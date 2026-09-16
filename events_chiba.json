@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-15T03:04:15.086603",
+  "updated": "2026-09-16T03:00:49.989185",
   "region": "chiba",
-  "count": 19,
+  "count": 14,
   "events": [
     {
       "title": "特別展「ちば恐竜博－驚異の捕食者（ハンター）たち－」",
@@ -296,97 +296,6 @@
       "area": "other",
       "desc": "",
       "id": 14
-    },
-    {
-      "title": "ハイハイ赤ちゃん大集合♪ ベビー運動会「ベビリンカップ」9月 ＠千葉",
-      "date": "2026-09-15",
-      "endDate": "2026-09-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/591881",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "９/3(木）松戸市新松戸【残２】赤ちゃん親子体操（生後５ヵ月‐1歳）",
-      "date": "2026-09-15",
-      "endDate": "2026-09-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/594420",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby",
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "【9月】縄文ひろば",
-      "date": "2026-09-15",
-      "endDate": "2026-09-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/596346",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
-    },
-    {
-      "title": "初心者歓迎！ 9月親子サバゲー　in　BATTLE",
-      "date": "2026-09-15",
-      "endDate": "2026-09-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/594654",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 18
-    },
-    {
-      "title": "第22回与田浦コスモスまつり",
-      "date": "2026-09-15",
-      "endDate": "2026-09-15",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/598284",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 19
     }
   ]
 }
