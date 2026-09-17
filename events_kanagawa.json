@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-16T02:59:18.920285",
+  "updated": "2026-09-17T03:02:37.480449",
   "region": "kanagawa",
-  "count": 20,
+  "count": 21,
   "events": [
     {
       "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
@@ -277,6 +277,27 @@
       "id": 13
     },
     {
+      "title": "Disney HARVEST MARKET ハロウィーン限定メニュー",
+      "date": "2026-10-01",
+      "endDate": "2026-10-31",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/disney-harvest-market-halloween-yokohama-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
       "title": "横浜おいも万博2026",
       "date": "2026-10-09",
       "endDate": "2026-10-13",
@@ -295,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
     },
     {
       "title": "ALL AMERICAN FOOD FESTIVAL ’26",
@@ -316,7 +337,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 16
     },
     {
       "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
@@ -337,7 +358,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 17
     },
     {
       "title": "アイアン・ベイ スペシャルディナー",
@@ -358,7 +379,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 18
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -379,7 +400,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 18
+      "id": 19
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -400,7 +421,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 19
+      "id": 20
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -421,7 +442,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 20
+      "id": 21
     }
   ]
 }
