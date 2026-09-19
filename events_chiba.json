@@ -1,17 +1,20 @@
 {
-  "updated": "2026-09-18T02:51:51.288383",
+  "updated": "2026-09-19T02:50:06.620508",
   "region": "chiba",
-  "count": 9,
+  "count": 14,
   "events": [
     {
-      "title": "ママハピEXPO＠イオンモール木更津",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "特別展「ちば恐竜博－驚異の捕食者（ハンター）たち－」",
+      "date": "2026-09-27",
+      "endDate": "2026-09-27",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/593556",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/chiba-dinosaur-hunters-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -22,14 +25,17 @@
       "id": 1
     },
     {
-      "title": "2026/9/18（金）ママハピＥＸＰＯ＠イオンモール木更津",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "秋のチャイニーズアフタヌーンティーセット",
+      "date": "2026-09-01",
+      "endDate": "2026-10-30",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/593127",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/autumn-chinese-afternoon-tea-set-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -40,14 +46,17 @@
       "id": 2
     },
     {
-      "title": "9月18日(金),22日(祝),26日(土)おひるねアート撮影会",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "サンドウィッチ＆スイーツビュッフェ～栗とぶどうのオータムスイーツコレクション～",
+      "date": "2026-09-01",
+      "endDate": "2026-11-02",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/598780",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/sandwich-sweets-buffet-chestnut-grape-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -58,14 +67,17 @@
       "id": 3
     },
     {
-      "title": "しすいハロウィーン2026　酒々井プレミアム・アウトレット",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "千葉みなと・さんばしまつり2026",
+      "date": "2026-09-06",
+      "endDate": "2026-09-06",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/599024",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/chiba-minato-sanbashi-matsuri-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -76,14 +88,17 @@
       "id": 4
     },
     {
-      "title": "勝浦大漁まつり",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "ROCK IN JAPAN FESTIVAL 2026",
+      "date": "2026-09-12",
+      "endDate": "2026-09-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/577644",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/rock-in-japan-festival-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -94,14 +109,17 @@
       "id": 5
     },
     {
-      "title": "【松戸】リトルプラネット ハロウィン2026",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "スーパースイーツビュッフェ2026～栗とぶどう～",
+      "date": "2026-09-12",
+      "endDate": "2026-11-29",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/599495",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/super-sweets-buffet-chestnut-grape-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -112,14 +130,17 @@
       "id": 6
     },
     {
-      "title": "【TOKYO-BAY】リトルプラネット ハロウィン2026",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "マイナビ転職フェア（幕張）",
+      "date": "2026-09-13",
+      "endDate": "2026-09-13",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/599507",
-      "source": "ikoy",
+      "url": "https://www.tenshokuevent.com/mynavi-tenshoku-fair-makuhari-2026-2/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -130,14 +151,17 @@
       "id": 7
     },
     {
-      "title": "【蘇我】リトルプラネット ハロウィン2026",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "STRAIGHT UP FESTIVAL ’26 by WILKINSON",
+      "date": "2026-09-19",
+      "endDate": "2026-09-19",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/599513",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/straight-up-festival-26-wilkinson-2026/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
@@ -148,22 +172,130 @@
       "id": 8
     },
     {
-      "title": "電子工作ワークショップ【稲毛マイコン部】",
-      "date": "2026-09-18",
-      "endDate": "2026-09-18",
+      "title": "チバビアフェスト at 三井アウトレットパーク 木更津",
+      "date": "2026-09-20",
+      "endDate": "2026-09-22",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/560370",
-      "source": "ikoy",
+      "url": "https://www.inageseasidepark.com/chiba-beer-fest-2026-mitsui-outlet-park-kisarazu/",
+      "source": "chiba_park",
       "cost": "paid",
       "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
         "family"
       ],
       "cats": [
-        "workshop"
+        "festival"
       ],
       "area": "other",
       "desc": "",
       "id": 9
+    },
+    {
+      "title": "Beachside Art Festival Nuts Party 2026",
+      "date": "2026-09-27",
+      "endDate": "2026-09-27",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/beachside-art-festival-nuts-party-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "ホテルニューオータニ幕張 特製おせち「極み重」",
+      "date": "2026-10-01",
+      "endDate": "2026-12-15",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/hotel-new-otani-makuhari-osechi-2027/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "Christmas Cake 2026",
+      "date": "2026-10-01",
+      "endDate": "2026-12-22",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/christmas-cake-2026-hotel-new-otani-makuhari/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "第43回浦安市花火大会",
+      "date": "2026-10-17",
+      "endDate": "2026-10-17",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/urayasu-hanabi-taikai-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "パンのフェス2026 in イオンモール幕張新都心",
+      "date": "2026-10-23",
+      "endDate": "2026-10-25",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/pan-no-fes-2026-aeon-mall-makuhari/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
     }
   ]
 }
