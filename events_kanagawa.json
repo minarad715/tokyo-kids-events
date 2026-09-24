@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-23T02:58:32.337205",
+  "updated": "2026-09-24T02:49:08.470613",
   "region": "kanagawa",
-  "count": 27,
+  "count": 21,
   "events": [
     {
       "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
@@ -443,115 +443,6 @@
       "area": "other",
       "desc": "",
       "id": 21
-    },
-    {
-      "title": "花のワークショップ～神奈川県GREEN×EXPO 2027応援絵本～",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/601083",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop",
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 22
-    },
-    {
-      "title": "レイエスフィエスタ2026",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/601595",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 23
-    },
-    {
-      "title": "【9月23日開催】東神奈川けん玉＆筒けん交流会",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/596761",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 24
-    },
-    {
-      "title": "山と音楽と・・・～映像とともに楽しむ歌とピアノ～",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/594221",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "チャレンジ！防災アクション",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/600110",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "元サッカー日本代表がやってくる！@相模原・古淵",
-      "date": "2026-09-23",
-      "endDate": "2026-09-23",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/596763",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "sport"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 27
     }
   ]
 }
