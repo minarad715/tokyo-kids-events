@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-25T03:05:25.746579",
+  "updated": "2026-09-26T03:09:41.136099",
   "region": "kanagawa",
-  "count": 29,
+  "count": 23,
   "events": [
     {
       "title": "バナナマンのせっかくグルメ!！博覧会（1週目）",
@@ -485,114 +485,6 @@
       "area": "other",
       "desc": "",
       "id": 23
-    },
-    {
-      "title": "ベビーマッサージ×音楽♪ベビリズム おやこふれあい青葉区音楽ひろば",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/596836",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 24
-    },
-    {
-      "title": "0歳から楽しむクラッシックからJAZZ参加型コンサート",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/596958",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "初心者さんも安心！相模原市・上溝/オーダーメイド作家のミシン教室",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/599210",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "9月開催 一度に 低イーストで作るパンとお料理を学べるレッスン",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/575239",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 27
-    },
-    {
-      "title": "‼️あと1組ずつ‼️9/25金9/30水｜鶴見生麦｜ベビーマッサージ",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/602119",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 28
-    },
-    {
-      "title": "いつでもワークショップ ぼんやり光る☆“えのすい”ランタン",
-      "date": "2026-09-25",
-      "endDate": "2026-09-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/602364",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 29
     }
   ]
 }
