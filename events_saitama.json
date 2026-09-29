@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-28T03:13:24.946361",
+  "updated": "2026-09-29T03:51:47.336668",
   "region": "saitama",
-  "count": 12,
+  "count": 13,
   "events": [
     {
       "title": "行方不明展 A MISSING EXHIBITION",
@@ -235,6 +235,27 @@
       "id": 11
     },
     {
+      "title": "第21回 さいたま新都心 JAZZ DAY",
+      "date": "2026-10-24",
+      "endDate": "2026-10-25",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/saitama-shintoshin-jazz-day-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
       "title": "さいたまマラソン",
       "date": "2027-02-14",
       "endDate": "2027-02-14",
@@ -253,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     }
   ]
 }
