@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T03:51:47.336668",
+  "updated": "2026-09-30T03:39:59.938818",
   "region": "saitama",
-  "count": 13,
+  "count": 14,
   "events": [
     {
       "title": "行方不明展 A MISSING EXHIBITION",
@@ -235,6 +235,27 @@
       "id": 11
     },
     {
+      "title": "けやきの下のマルシェ",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/keyaki-no-shita-marche-saitama-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
       "title": "第21回 さいたま新都心 JAZZ DAY",
       "date": "2026-10-24",
       "endDate": "2026-10-25",
@@ -253,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     },
     {
       "title": "さいたまマラソン",
@@ -274,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     }
   ]
 }

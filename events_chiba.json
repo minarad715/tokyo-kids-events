@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-29T03:52:29.955860",
+  "updated": "2026-09-30T03:40:44.770995",
   "region": "chiba",
-  "count": 14,
+  "count": 15,
   "events": [
     {
       "title": "特別展「ちば恐竜博－驚異の捕食者（ハンター）たち－」",
@@ -296,6 +296,27 @@
       "area": "other",
       "desc": "",
       "id": 14
+    },
+    {
+      "title": "ROOTS MARKET",
+      "date": "2026-10-25",
+      "endDate": "2026-10-25",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/roots-market-inage-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
     }
   ]
 }
