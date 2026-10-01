@@ -1,29 +1,8 @@
 {
-  "updated": "2026-09-30T03:39:59.938818",
+  "updated": "2026-10-01T03:45:16.927143",
   "region": "saitama",
-  "count": 14,
+  "count": 10,
   "events": [
-    {
-      "title": "行方不明展 A MISSING EXHIBITION",
-      "date": "2026-09-06",
-      "endDate": "2026-09-06",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/missing-exhibition-2026-saitama/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
     {
       "title": "ゆるバース2026 オンライン投票",
       "date": "2026-10-03",
@@ -43,7 +22,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 2
+      "id": 1
     },
     {
       "title": "ゆるバース2026",
@@ -64,7 +43,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 3
+      "id": 2
     },
     {
       "title": "TSQ presents「MYSTERY GATE」",
@@ -85,7 +64,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 4
+      "id": 3
     },
     {
       "title": "ある料理人が遺した謎",
@@ -106,70 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
-    },
-    {
-      "title": "おやこフェア",
-      "date": "2026-09-05",
-      "endDate": "2026-09-05",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/oyako-fair-saitama-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 6
-    },
-    {
-      "title": "BLACK OUT !",
-      "date": "2026-09-05",
-      "endDate": "2026-09-06",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/black-out-saitama-2026/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "2026けやきひろば秋のビール祭り",
-      "date": "2026-09-17",
-      "endDate": "2026-09-21",
-      "place": "埼玉県",
-      "url": "https://www.saitama-shintoshin.com/2026-keyaki-hiroba-autumn-beer-festival/",
-      "source": "saitama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
+      "id": 4
     },
     {
       "title": "Thanks 15th Anniversary ゆるバース by ゆるキャラグランプリ実行委員会",
@@ -190,7 +106,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 5
     },
     {
       "title": "ゆるバース2026 決選投票イベント",
@@ -211,7 +127,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 6
     },
     {
       "title": "クラフト餃子フェス® SAITAMA 2026",
@@ -232,7 +148,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 7
     },
     {
       "title": "けやきの下のマルシェ",
@@ -253,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 8
     },
     {
       "title": "第21回 さいたま新都心 JAZZ DAY",
@@ -274,7 +190,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 9
     },
     {
       "title": "さいたまマラソン",
@@ -295,7 +211,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 10
     }
   ]
 }

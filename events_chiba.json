@@ -1,32 +1,11 @@
 {
-  "updated": "2026-09-30T03:40:44.770995",
+  "updated": "2026-10-01T03:46:02.686867",
   "region": "chiba",
-  "count": 15,
+  "count": 8,
   "events": [
     {
-      "title": "特別展「ちば恐竜博－驚異の捕食者（ハンター）たち－」",
-      "date": "2026-09-27",
-      "endDate": "2026-09-27",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/chiba-dinosaur-hunters-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 1
-    },
-    {
       "title": "秋のチャイニーズアフタヌーンティーセット",
-      "date": "2026-09-01",
+      "date": "2026-10-30",
       "endDate": "2026-10-30",
       "place": "千葉県",
       "url": "https://www.inageseasidepark.com/autumn-chinese-afternoon-tea-set-2026/",
@@ -43,11 +22,11 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 2
+      "id": 1
     },
     {
       "title": "サンドウィッチ＆スイーツビュッフェ～栗とぶどうのオータムスイーツコレクション～",
-      "date": "2026-09-01",
+      "date": "2026-11-02",
       "endDate": "2026-11-02",
       "place": "千葉県",
       "url": "https://www.inageseasidepark.com/sandwich-sweets-buffet-chestnut-grape-2026/",
@@ -64,53 +43,11 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 3
-    },
-    {
-      "title": "千葉みなと・さんばしまつり2026",
-      "date": "2026-09-06",
-      "endDate": "2026-09-06",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/chiba-minato-sanbashi-matsuri-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 4
-    },
-    {
-      "title": "ROCK IN JAPAN FESTIVAL 2026",
-      "date": "2026-09-12",
-      "endDate": "2026-09-13",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/rock-in-japan-festival-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 5
+      "id": 2
     },
     {
       "title": "スーパースイーツビュッフェ2026～栗とぶどう～",
-      "date": "2026-09-12",
+      "date": "2026-11-29",
       "endDate": "2026-11-29",
       "place": "千葉県",
       "url": "https://www.inageseasidepark.com/super-sweets-buffet-chestnut-grape-2026/",
@@ -127,91 +64,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
-    },
-    {
-      "title": "マイナビ転職フェア（幕張）",
-      "date": "2026-09-13",
-      "endDate": "2026-09-13",
-      "place": "千葉県",
-      "url": "https://www.tenshokuevent.com/mynavi-tenshoku-fair-makuhari-2026-2/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 7
-    },
-    {
-      "title": "STRAIGHT UP FESTIVAL ’26 by WILKINSON",
-      "date": "2026-09-19",
-      "endDate": "2026-09-19",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/straight-up-festival-26-wilkinson-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 8
-    },
-    {
-      "title": "チバビアフェスト at 三井アウトレットパーク 木更津",
-      "date": "2026-09-20",
-      "endDate": "2026-09-22",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/chiba-beer-fest-2026-mitsui-outlet-park-kisarazu/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "Beachside Art Festival Nuts Party 2026",
-      "date": "2026-09-27",
-      "endDate": "2026-09-27",
-      "place": "千葉県",
-      "url": "https://www.inageseasidepark.com/beachside-art-festival-nuts-party-2026/",
-      "source": "chiba_park",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
+      "id": 3
     },
     {
       "title": "ホテルニューオータニ幕張 特製おせち「極み重」",
@@ -232,7 +85,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 4
     },
     {
       "title": "Christmas Cake 2026",
@@ -253,7 +106,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 5
     },
     {
       "title": "第43回浦安市花火大会",
@@ -274,7 +127,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 6
     },
     {
       "title": "パンのフェス2026 in イオンモール幕張新都心",
@@ -295,7 +148,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 7
     },
     {
       "title": "ROOTS MARKET",
@@ -316,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 8
     }
   ]
 }
