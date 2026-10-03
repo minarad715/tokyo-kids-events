@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-02T03:43:55.587384",
+  "updated": "2026-10-03T03:28:31.381113",
   "region": "kanagawa",
-  "count": 15,
+  "count": 16,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -256,6 +256,27 @@
       "id": 12
     },
     {
+      "title": "Christmas Market in 横浜赤レンガ倉庫",
+      "date": "2026-11-20",
+      "endDate": "2026-12-25",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/christmas-market-yokohama-akarenga-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
       "date": "2027-03-19",
       "endDate": "2027-09-26",
@@ -274,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -295,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -313,7 +334,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 15
+      "id": 16
     }
   ]
 }
