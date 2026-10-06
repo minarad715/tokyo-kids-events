@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-05T03:42:05.570091",
+  "updated": "2026-10-06T04:30:36.260320",
   "region": "chiba",
-  "count": 14,
+  "count": 8,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -170,114 +170,6 @@
       "area": "other",
       "desc": "",
       "id": 8
-    },
-    {
-      "title": "AIで作る世界で１冊だけの絵本、小説",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/592084",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 9
-    },
-    {
-      "title": "【10月】加曽利JOMONアカデミア",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/603765",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "【DCM白井店】10月DIYイベント",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/596807",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "【DCM新船橋店】10月DIYイベント",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/596818",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "2026年【わくわく実験工房】理科実験教室【若葉理科実験教室部】",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/551720",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "【柏】10/3-10/31　おかしづくりdeハロウィン",
-      "date": "2026-10-05",
-      "endDate": "2026-10-05",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/601700",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
     }
   ]
 }
