@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-07T03:55:24.410851",
+  "updated": "2026-10-08T04:08:21.515643",
   "region": "kanagawa",
-  "count": 16,
+  "count": 18,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -130,6 +130,27 @@
       "id": 6
     },
     {
+      "title": "BAY WALK MARKET 2026",
+      "date": "2026-10-09",
+      "endDate": "2026-10-12",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/bay-walk-market-2026-yokohama-2/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
       "title": "横浜おいも万博2026",
       "date": "2026-10-09",
       "endDate": "2026-10-13",
@@ -148,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 8
     },
     {
       "title": "ALL AMERICAN FOOD FESTIVAL ’26",
@@ -169,7 +190,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
+      "id": 9
     },
     {
       "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
@@ -190,7 +211,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 10
     },
     {
       "title": "アイアン・ベイ スペシャルディナー",
@@ -211,7 +232,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 11
     },
     {
       "title": "スィートジャーニー 栗",
@@ -232,7 +253,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 12
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -253,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 13
     },
     {
       "title": "Christmas Market in 横浜赤レンガ倉庫",
@@ -274,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 14
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -295,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -316,7 +337,25 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 16
+    },
+    {
+      "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
+      "date": "2027-03-19",
+      "endDate": "2027-03-19",
+      "place": "神奈川県",
+      "url": "https://www.kids-event.jp/event/20270319_greenexpo/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
+      "id": 17
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -334,7 +373,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 16
+      "id": 18
     }
   ]
 }
