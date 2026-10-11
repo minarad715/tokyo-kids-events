@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T03:58:55.871505",
+  "updated": "2026-10-11T03:33:30.564800",
   "region": "kanagawa",
-  "count": 18,
+  "count": 19,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -277,6 +277,27 @@
       "id": 13
     },
     {
+      "title": "LOCAL GREEN FESTIVAL'26",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/2026-local-green-festival/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
       "title": "Christmas Market in 横浜赤レンガ倉庫",
       "date": "2026-11-20",
       "endDate": "2026-12-25",
@@ -295,7 +316,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 15
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -316,7 +337,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 16
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -337,7 +358,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 17
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -355,7 +376,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 17
+      "id": 18
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -373,7 +394,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 18
+      "id": 19
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-10T04:00:22.970162",
+  "updated": "2026-10-11T03:34:55.744640",
   "region": "chiba",
-  "count": 8,
+  "count": 9,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -170,6 +170,27 @@
       "area": "other",
       "desc": "",
       "id": 8
+    },
+    {
+      "title": "Bouquet – BOTANICA COFFEE FES",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/2026-bouquet-botanica-coffee-fes/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
     }
   ]
 }
