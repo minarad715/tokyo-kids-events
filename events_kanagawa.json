@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-14T03:13:52.751687",
+  "updated": "2026-10-15T02:52:40.204816",
   "region": "kanagawa",
-  "count": 19,
+  "count": 28,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -88,6 +88,27 @@
       "id": 4
     },
     {
+      "title": "第38回金沢区民文化祭",
+      "date": "2026-12-06",
+      "endDate": "2026-12-06",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/kanazawa-kumin-bunkasai-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 5
+    },
+    {
       "title": "Disney HARVEST MARKET ハロウィーン限定メニュー",
       "date": "2026-10-01",
       "endDate": "2026-10-31",
@@ -106,7 +127,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 6
     },
     {
       "title": "秋パラ！",
@@ -127,7 +148,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 6
+      "id": 7
     },
     {
       "title": "BAY WALK MARKET 2026",
@@ -148,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 8
     },
     {
       "title": "横浜おいも万博2026",
@@ -169,7 +190,28 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
+      "id": 9
+    },
+    {
+      "title": "令和８年度神奈川区民まつり",
+      "date": "2026-10-11",
+      "endDate": "2026-10-11",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/kanagawa-ku-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
     },
     {
       "title": "ALL AMERICAN FOOD FESTIVAL ’26",
@@ -190,7 +232,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 11
     },
     {
       "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
@@ -211,7 +253,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 10
+      "id": 12
     },
     {
       "title": "アイアン・ベイ スペシャルディナー",
@@ -232,7 +274,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 13
     },
     {
       "title": "スィートジャーニー 栗",
@@ -253,7 +295,70 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 12
+      "id": 14
+    },
+    {
+      "title": "第4回こうなんひまわり文化祭",
+      "date": "2026-10-29",
+      "endDate": "2026-11-04",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/konan-himawari-bunkasai-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
+    },
+    {
+      "title": "令和８年度ほどがや区民まつり",
+      "date": "2026-10-31",
+      "endDate": "2026-10-31",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/hodogaya-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "第51回南区文化祭",
+      "date": "2026-10-31",
+      "endDate": "2026-11-01",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/minami-ku-bunkasai-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -274,7 +379,70 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 13
+      "id": 18
+    },
+    {
+      "title": "栄区制40周年記念 第27回栄区民まつり",
+      "date": "2026-11-01",
+      "endDate": "2026-11-01",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/sakae-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 19
+    },
+    {
+      "title": "第32回都筑区民まつり",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/tsuzuki-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 20
+    },
+    {
+      "title": "第50回戸塚ふれあい区民まつり",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/totsuka-fureai-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 21
     },
     {
       "title": "LOCAL GREEN FESTIVAL'26",
@@ -295,7 +463,28 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 14
+      "id": 22
+    },
+    {
+      "title": "ハンバーガーフェス2026",
+      "date": "2026-11-14",
+      "endDate": "2026-11-15",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/hamburger-fes-2026-yokohama/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 23
     },
     {
       "title": "Christmas Market in 横浜赤レンガ倉庫",
@@ -316,7 +505,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 24
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -337,7 +526,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 25
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -358,7 +547,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 17
+      "id": 26
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -376,7 +565,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 18
+      "id": 27
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -394,7 +583,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 19
+      "id": 28
     }
   ]
 }
