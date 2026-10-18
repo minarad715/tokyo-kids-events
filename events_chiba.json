@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T02:42:45.899514",
+  "updated": "2026-10-18T02:44:21.460178",
   "region": "chiba",
-  "count": 9,
+  "count": 11,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -130,6 +130,48 @@
       "id": 6
     },
     {
+      "title": "SUNSET DOG CAMP 2026",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/sunset-dog-camp-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
+      "title": "タイフェスティバル2026 inイオンモール幕張新都心",
+      "date": "2026-10-17",
+      "endDate": "2026-10-18",
+      "place": "千葉県",
+      "url": "https://www.thaifestivals.info/2026/thai-festival-aeon-mall-makuhari-shintoshin-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
       "title": "パンのフェス2026 in イオンモール幕張新都心",
       "date": "2026-10-23",
       "endDate": "2026-10-25",
@@ -148,7 +190,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 9
     },
     {
       "title": "ROOTS MARKET",
@@ -169,7 +211,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
+      "id": 10
     },
     {
       "title": "Bouquet – BOTANICA COFFEE FES",
@@ -190,7 +232,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 9
+      "id": 11
     }
   ]
 }
