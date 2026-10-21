@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T03:06:07.531379",
+  "updated": "2026-10-21T03:00:13.728246",
   "region": "kanagawa",
-  "count": 31,
+  "count": 40,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -613,6 +613,170 @@
       "id": 29
     },
     {
+      "title": "はいはい＆よちよち美術館ツアー＆ワークショップ(10月)",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/580159",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "toddler"
+      ],
+      "cats": [
+        "museum",
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "裏千家茶道 体験教室[鷺沼/センター北]",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/600257",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "10月開催　MOVIX橋本「赤ちゃんといっしょ」上映会",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609173",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "親子で楽しむ手形アート（10月）",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/601756",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
+      "title": "はじめてさんのミシン教室",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/597157",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "10/21(水)｜0歳から♪サックスの生演奏×親子音楽｜海老名駅5分",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/597344",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby",
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 35
+    },
+    {
+      "title": "マークイズみなとみらい10月 赤ちゃんとPLAYTIMEinキドキド",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/597765",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 36
+    },
+    {
+      "title": "アフリカン現代アートティンガティンガ原画展 ＠横浜タカシマヤ",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/597809",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 37
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-10-21",
+      "endDate": "2026-10-21",
+      "place": "神奈川県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 38
+    },
+    {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
       "date": "2027-03-19",
       "endDate": "2027-03-19",
@@ -628,7 +792,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 30
+      "id": 39
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -646,7 +810,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 31
+      "id": 40
     }
   ]
 }

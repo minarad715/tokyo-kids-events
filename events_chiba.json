@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-20T03:07:10.771470",
+  "updated": "2026-10-21T03:01:40.657210",
   "region": "chiba",
-  "count": 16,
+  "count": 11,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -233,96 +233,6 @@
       "area": "other",
       "desc": "",
       "id": 11
-    },
-    {
-      "title": "柏の葉🎃 親子で楽しむ Halloween Day",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/597921",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "0歳からのコンサート／音育ランド 千葉みなと",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/601072",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "第18回八街ミュージアム展",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/603720",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "museum"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "ハロウィンイベント",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/603848",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "千葉県",
-      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
     }
   ]
 }
