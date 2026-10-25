@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-24T03:01:15.057228",
+  "updated": "2026-10-25T02:53:55.572023",
   "region": "chiba",
-  "count": 17,
+  "count": 11,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -233,114 +233,6 @@
       "area": "other",
       "desc": "",
       "id": 11
-    },
-    {
-      "title": "柏市場一般開放デーー秋の旬めぐりー",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/608306",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "初心者歓迎！ 10月親子サバゲー　in　BATTLE",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/603839",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "秋の里見フェスタin館山城",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/605771",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "うんがいい！朝市＆オランダハロウィン＜中止となりました＞",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/606191",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "ハロウィン仮装コンテスト＠うんがいい！朝市＜中止となりました＞",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/606193",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "千葉県",
-      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
     }
   ]
 }
