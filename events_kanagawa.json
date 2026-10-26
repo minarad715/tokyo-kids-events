@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-25T02:52:30.891903",
+  "updated": "2026-10-26T02:51:23.884403",
   "region": "kanagawa",
-  "count": 45,
+  "count": 34,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -445,6 +445,27 @@
       "id": 21
     },
     {
+      "title": "第12回中和田コミュニティハウス文化祭",
+      "date": "2026-10-31",
+      "endDate": "2026-10-31",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/nakawada-community-house-bunkasai-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 22
+    },
+    {
       "title": "第51回南区文化祭",
       "date": "2026-10-31",
       "endDate": "2026-11-01",
@@ -463,7 +484,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 22
+      "id": 23
     },
     {
       "title": "全国ふるさとフェア2026",
@@ -484,7 +505,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 23
+      "id": 24
     },
     {
       "title": "栄区制40周年記念 第27回栄区民まつり",
@@ -505,7 +526,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 24
+      "id": 25
     },
     {
       "title": "第32回都筑区民まつり",
@@ -526,7 +547,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 25
+      "id": 26
     },
     {
       "title": "第50回戸塚ふれあい区民まつり",
@@ -547,7 +568,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 26
+      "id": 27
     },
     {
       "title": "LOCAL GREEN FESTIVAL'26",
@@ -568,7 +589,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 27
+      "id": 28
     },
     {
       "title": "ハンバーガーフェス2026",
@@ -589,7 +610,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 28
+      "id": 29
     },
     {
       "title": "Christmas Market in 横浜赤レンガ倉庫",
@@ -610,7 +631,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 29
+      "id": 30
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -631,7 +652,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 30
+      "id": 31
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -652,223 +673,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 31
-    },
-    {
-      "title": "オリジナルの顔を描こう！",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/580162",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
       "id": 32
-    },
-    {
-      "title": "横浜マラソン2026",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/563495",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 33
-    },
-    {
-      "title": "この材料で、なにできる？　えのぐがついたかみ",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/563935",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 34
-    },
-    {
-      "title": "第5回ZAMAわくわく町工場",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595067",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 35
-    },
-    {
-      "title": "0歳～のわくわくコンサート！COCOHEと遊ぼう！miniハロウィン",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595602",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 36
-    },
-    {
-      "title": "【10/25】おみせやさんごっこ　はたらくってな～に？",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595888",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 37
-    },
-    {
-      "title": "0歳からのわくわく音楽コンサート COCOHEと遊ぼう！ mi...",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/595989",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 38
-    },
-    {
-      "title": "秋のしょうぶ園フェア",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/596825",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 39
-    },
-    {
-      "title": "平塚開催！難易度★☆☆☆☆：90分で額入れの干支の未・羊作り",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/597145",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 40
-    },
-    {
-      "title": "森まつり",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/586031",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 41
-    },
-    {
-      "title": "10月開催 一度に 低イーストで作るパンとお料理を学べるレッスン",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/593927",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 42
-    },
-    {
-      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-10-25",
-      "endDate": "2026-10-25",
-      "place": "神奈川県",
-      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 43
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -886,7 +691,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 44
+      "id": 33
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -904,7 +709,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 45
+      "id": 34
     }
   ]
 }
