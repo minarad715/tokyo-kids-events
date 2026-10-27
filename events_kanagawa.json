@@ -1,20 +1,17 @@
 {
-  "updated": "2026-10-26T02:51:23.884403",
+  "updated": "2026-10-27T03:24:51.424707",
   "region": "kanagawa",
-  "count": 34,
+  "count": 12,
   "events": [
     {
-      "title": "横浜オクトーバーフェスト2026",
-      "date": "2026-10-04",
-      "endDate": "2026-10-04",
+      "title": "【マークイズみなとみらい】10月開催「ハーフバースデー」",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-oktoberfest-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/601931",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -25,17 +22,14 @@
       "id": 1
     },
     {
-      "title": "パウフェクト フェスティバル ～アドベンチャー・ベイにパウっと集合！～",
-      "date": "2026-10-12",
-      "endDate": "2026-10-12",
+      "title": "【初心者向け】【少人数制】初めてのミシン教室",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/pawfect-festival-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/421368",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -46,17 +40,14 @@
       "id": 2
     },
     {
-      "title": "微わかる展2＋小さいすぎるよ展",
-      "date": "2026-10-18",
-      "endDate": "2026-10-18",
+      "title": "夏だ🌞踊ろう♪日吉/綱島でベリーダンス 🔰",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/biwakaru2-chiisaisugiruyo-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/587915",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -67,17 +58,14 @@
       "id": 3
     },
     {
-      "title": "仮面ライダーカブトワールド 20th CAST OFF",
-      "date": "2026-11-23",
-      "endDate": "2026-11-23",
+      "title": "アフリカン現代アートティンガティンガ原画展 ＠小倉井筒屋",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/kamen-rider-kabuto-world-20th-cast-off-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/608129",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -88,17 +76,14 @@
       "id": 4
     },
     {
-      "title": "緊急指令！ウルトラマルチバース 地球防衛大作戦 in 横浜赤レンガ倉庫",
-      "date": "2026-11-30",
-      "endDate": "2026-11-30",
+      "title": "もう一度始めよう💖武蔵小杉ベリーダンス【経験者向】",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/ultra-multiverse-yokohama-akarenga-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/532197",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -109,17 +94,14 @@
       "id": 5
     },
     {
-      "title": "第38回金沢区民文化祭",
-      "date": "2026-12-06",
-      "endDate": "2026-12-06",
+      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/kanazawa-kumin-bunkasai-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/528079",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -130,17 +112,14 @@
       "id": 6
     },
     {
-      "title": "Disney HARVEST MARKET ハロウィーン限定メニュー",
-      "date": "2026-10-01",
-      "endDate": "2026-10-31",
+      "title": "【テラスモール湘南店】2026年 10月のハイハイチャレンジ！",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/disney-harvest-market-halloween-yokohama-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/597387",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -151,38 +130,32 @@
       "id": 7
     },
     {
-      "title": "秋パラ！",
-      "date": "2026-10-01",
-      "endDate": "2026-11-13",
+      "title": "0歳からのコンサート／音育ランド　横浜みなとみらい",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/akipara-hakkeijima-seaparadise-2026/",
-      "source": "yokohama",
+      "url": "https://iko-yo.net/events/602694",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
+        "baby"
       ],
       "cats": [
-        "festival"
+        "concert"
       ],
       "area": "other",
       "desc": "",
       "id": 8
     },
     {
-      "title": "『青春ブタ野郎はディアフレンドの夢を見ない×横浜市』コラボキャンペーン",
-      "date": "2026-10-08",
-      "endDate": "2026-10-30",
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-10-27",
+      "endDate": "2026-10-27",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/aobuta-dearfriend-yokohama-collaboration-2026/",
-      "source": "yokohama",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
@@ -193,487 +166,22 @@
       "id": 9
     },
     {
-      "title": "第33回 戸塚ふれあい文化祭",
-      "date": "2026-10-09",
-      "endDate": "2026-10-11",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/2026-totsuka-fureai-cultural-festival-2/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "BAY WALK MARKET 2026",
-      "date": "2026-10-09",
-      "endDate": "2026-10-12",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/bay-walk-market-2026-yokohama-2/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "横浜おいも万博2026",
-      "date": "2026-10-09",
-      "endDate": "2026-10-13",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-oimo-banpaku-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "令和８年度神奈川区民まつり",
-      "date": "2026-10-11",
-      "endDate": "2026-10-11",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/kanagawa-ku-kumin-matsuri-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "ALL AMERICAN FOOD FESTIVAL ’26",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/all-american-food-festival-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "YOKOHAMA URBAN SPORTS FESTIVAL ’26",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-urban-sports-festival-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
-    },
-    {
-      "title": "ヨコハマきのこ大祭2026",
-      "date": "2026-10-17",
-      "endDate": "2026-10-18",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-mushroom-festival-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 16
-    },
-    {
-      "title": "アイアン・ベイ スペシャルディナー",
-      "date": "2026-10-20",
-      "endDate": "2026-10-20",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/iron-bay-special-dinner-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 17
-    },
-    {
-      "title": "スィートジャーニー 栗",
-      "date": "2026-10-22",
-      "endDate": "2026-10-22",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/sweet-journey-chestnut-yokohama-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 18
-    },
-    {
-      "title": "横浜ナイトフラワーズ2026",
-      "date": "2026-10-24",
-      "endDate": "2026-10-24",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/yokohama-night-flowers-2026-2/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 19
-    },
-    {
-      "title": "第4回こうなんひまわり文化祭",
-      "date": "2026-10-29",
-      "endDate": "2026-11-04",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/konan-himawari-bunkasai-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 20
-    },
-    {
-      "title": "令和８年度ほどがや区民まつり",
-      "date": "2026-10-31",
-      "endDate": "2026-10-31",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/hodogaya-kumin-matsuri-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 21
-    },
-    {
-      "title": "第12回中和田コミュニティハウス文化祭",
-      "date": "2026-10-31",
-      "endDate": "2026-10-31",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/nakawada-community-house-bunkasai-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 22
-    },
-    {
-      "title": "第51回南区文化祭",
-      "date": "2026-10-31",
-      "endDate": "2026-11-01",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/minami-ku-bunkasai-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 23
-    },
-    {
-      "title": "全国ふるさとフェア2026",
-      "date": "2026-10-31",
-      "endDate": "2026-11-03",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/zenkoku-furusato-fair-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 24
-    },
-    {
-      "title": "栄区制40周年記念 第27回栄区民まつり",
-      "date": "2026-11-01",
-      "endDate": "2026-11-01",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/sakae-kumin-matsuri-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "第32回都筑区民まつり",
-      "date": "2026-11-03",
-      "endDate": "2026-11-03",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/tsuzuki-kumin-matsuri-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "第50回戸塚ふれあい区民まつり",
-      "date": "2026-11-03",
-      "endDate": "2026-11-03",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/totsuka-fureai-kumin-matsuri-2026/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 27
-    },
-    {
-      "title": "LOCAL GREEN FESTIVAL'26",
-      "date": "2026-11-07",
-      "endDate": "2026-11-08",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/2026-local-green-festival/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 28
-    },
-    {
-      "title": "ハンバーガーフェス2026",
-      "date": "2026-11-14",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/hamburger-fes-2026-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 29
-    },
-    {
-      "title": "Christmas Market in 横浜赤レンガ倉庫",
+      "title": "Christmas Market in 横浜赤レンガ倉庫（クリスマスマーケット in 横浜赤レンガ倉庫）",
       "date": "2026-11-20",
-      "endDate": "2026-12-25",
+      "endDate": "2026-11-20",
       "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/christmas-market-yokohama-akarenga-2026/",
-      "source": "yokohama",
+      "url": "https://www.kids-event.jp/event/20261120_yokohamachristmas/",
+      "source": "kids",
       "cost": "paid",
       "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
         "family"
       ],
       "cats": [
         "festival"
       ],
       "area": "other",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
-      "date": "2027-03-19",
-      "endDate": "2027-09-26",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/green-expo-2027-yokohama/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 31
-    },
-    {
-      "title": "GREENROOM FESTIVAL’27",
-      "date": "2027-05-22",
-      "endDate": "2027-05-23",
-      "place": "神奈川県",
-      "url": "https://www.yokohamaevent.info/greenroom-festival-27-yokohama-2027/",
-      "source": "yokohama",
-      "cost": "paid",
-      "ages": [
-        "toddler",
-        "preschool",
-        "elementary",
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 32
+      "desc": "2026年11月20日（金）～12月25日（金）、横浜赤レンガ倉庫イベント広場・赤レンガパークで「Christmas Market in 横浜赤レンガ倉庫」を開催！高さ約11mのクリスマスツリーや、クリスマスグルメや雑貨、ものづくり体験が集",
+      "id": 10
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -691,7 +199,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 33
+      "id": 11
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -709,7 +217,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 34
+      "id": 12
     }
   ]
 }
