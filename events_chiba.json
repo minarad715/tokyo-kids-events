@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T03:42:48.643653",
+  "updated": "2026-10-29T04:02:21.353728",
   "region": "chiba",
-  "count": 11,
+  "count": 14,
   "events": [
     {
       "title": "秋のチャイニーズアフタヌーンティーセット",
@@ -214,6 +214,69 @@
       "id": 10
     },
     {
+      "title": "BOTANICA DÍA DE LOS MUERTOS（ディア・デ・ロス・ムエルトス）",
+      "date": "2026-10-31",
+      "endDate": "2026-11-01",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/botanica-dia-de-los-muertos-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "BOTANICA MUSEUM DOG FRIENDS",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/botanica-museum-dog-friends-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "全国大陶器市",
+      "date": "2026-11-17",
+      "endDate": "2026-11-23",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/zenkoku-dai-toukiichi-2026-inage/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
       "title": "Bouquet – BOTANICA COFFEE FES",
       "date": "2026-11-21",
       "endDate": "2026-11-21",
@@ -232,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 11
+      "id": 14
     }
   ]
 }

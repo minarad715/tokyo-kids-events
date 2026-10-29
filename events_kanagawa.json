@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T03:41:19.676675",
+  "updated": "2026-10-29T04:00:56.855917",
   "region": "kanagawa",
-  "count": 35,
+  "count": 46,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -550,6 +550,48 @@
       "id": 26
     },
     {
+      "title": "第51回西区民まつり",
+      "date": "2026-11-01",
+      "endDate": "2026-11-01",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/nishi-kumin-matsuri-2026-yokohama/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
+      "title": "第15回 泉区民ふれあいまつり",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/izumi-kumin-fureai-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 28
+    },
+    {
       "title": "第32回都筑区民まつり",
       "date": "2026-11-03",
       "endDate": "2026-11-03",
@@ -568,7 +610,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 27
+      "id": 29
     },
     {
       "title": "第50回戸塚ふれあい区民まつり",
@@ -589,7 +631,28 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 28
+      "id": 30
+    },
+    {
+      "title": "青葉区民まつり2026",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "神奈川県",
+      "url": "https://www.yokohamaevent.info/aoba-kumin-matsuri-2026/",
+      "source": "yokohama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
     },
     {
       "title": "LOCAL GREEN FESTIVAL'26",
@@ -610,7 +673,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 29
+      "id": 32
     },
     {
       "title": "ハンバーガーフェス2026",
@@ -631,7 +694,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 30
+      "id": 33
     },
     {
       "title": "Christmas Market in 横浜赤レンガ倉庫",
@@ -652,7 +715,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 31
+      "id": 34
     },
     {
       "title": "GREEN×EXPO 2027（２０２７年国際園芸博覧会）",
@@ -673,7 +736,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 32
+      "id": 35
     },
     {
       "title": "GREENROOM FESTIVAL’27",
@@ -694,7 +757,151 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 33
+      "id": 36
+    },
+    {
+      "title": "【マークイズみなとみらい】10月ベビーイベント「大きい布であそぼう」",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/601935",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 37
+    },
+    {
+      "title": "【10月29日(木)】赤ちゃんイベント♪ハロウィンイベント",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/603247",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 38
+    },
+    {
+      "title": "ハロウィン撮影会",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609405",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 39
+    },
+    {
+      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/528079",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 40
+    },
+    {
+      "title": "少人数制！キッズ、ジュニアバレエ体験レッスン！",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/558131",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 41
+    },
+    {
+      "title": "夏だ🌞踊ろう♪日吉/綱島でベリーダンス 🔰",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/587915",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 42
+    },
+    {
+      "title": "鶴見区　ベビーマッサージ",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/585376",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 43
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-10-29",
+      "endDate": "2026-10-29",
+      "place": "神奈川県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 44
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -712,7 +919,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 34
+      "id": 45
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -730,7 +937,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 35
+      "id": 46
     }
   ]
 }
