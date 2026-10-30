@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-29T04:00:56.855917",
+  "updated": "2026-10-30T04:02:12.929891",
   "region": "kanagawa",
-  "count": 46,
+  "count": 38,
   "events": [
     {
       "title": "横浜オクトーバーフェスト2026",
@@ -760,150 +760,6 @@
       "id": 36
     },
     {
-      "title": "【マークイズみなとみらい】10月ベビーイベント「大きい布であそぼう」",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/601935",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 37
-    },
-    {
-      "title": "【10月29日(木)】赤ちゃんイベント♪ハロウィンイベント",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/603247",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "baby"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 38
-    },
-    {
-      "title": "ハロウィン撮影会",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/609405",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 39
-    },
-    {
-      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/528079",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 40
-    },
-    {
-      "title": "少人数制！キッズ、ジュニアバレエ体験レッスン！",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/558131",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 41
-    },
-    {
-      "title": "夏だ🌞踊ろう♪日吉/綱島でベリーダンス 🔰",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/587915",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 42
-    },
-    {
-      "title": "鶴見区　ベビーマッサージ",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/585376",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 43
-    },
-    {
-      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-10-29",
-      "endDate": "2026-10-29",
-      "place": "神奈川県",
-      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 44
-    },
-    {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
       "date": "2027-03-19",
       "endDate": "2027-03-19",
@@ -919,7 +775,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 45
+      "id": 37
     },
     {
       "title": "null²ⁿ（ヌルヌルネクサス）",
@@ -937,7 +793,7 @@
       ],
       "area": "other",
       "desc": "大阪・関西万博でメディアアーティストの落合陽一氏がプロデュースしたパビリオン「null²（ヌルヌル）」が、常設シアターミュージアム「null²ⁿ（ヌルヌルネクサス）」として2026年10月14日（水）から横浜ランドマークプラザ 5階にグラン",
-      "id": 46
+      "id": 38
     }
   ]
 }
