@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-05T04:48:28.915373",
+  "updated": "2026-11-06T04:47:34.401074",
   "region": "kanagawa",
-  "count": 25,
+  "count": 35,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -487,6 +487,186 @@
       "id": 23
     },
     {
+      "title": "11月ベビーマッサージとベビーヨガ&似顔絵屋さん @泉区絵本のおうち",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/607907",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 24
+    },
+    {
+      "title": "あなたのお子様がバク転をできるようになったら？",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609310",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 25
+    },
+    {
+      "title": "さかなクンのギョギョッとびっくり！プラごみゼロ教室",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/596126",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 26
+    },
+    {
+      "title": "第77回 肉肉パーク 藤沢市 神台公園",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/608627",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
+      "title": "【初回体験】リフティング基礎レッスン｜まずは10回を目指そう！",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609305",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 28
+    },
+    {
+      "title": "[11/5.11/6] おこさらまんち＠ココテラス湘南",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609381",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "かぐやひめ絵本原画展",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609792",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "葛飾北斎、浦賀潜伏。～体感型まちなかギャラリー～",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610660",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "ワクワクいきものワールド in 富士見公園",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611141",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-11-06",
+      "endDate": "2026-11-06",
+      "place": "神奈川県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
       "date": "2026-12-25",
       "endDate": "2027-03-28",
@@ -502,7 +682,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 24
+      "id": 34
     },
     {
       "title": "2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）",
@@ -520,7 +700,7 @@
       ],
       "area": "other",
       "desc": "花や緑との関わりを通じて、自然と共生する持続可能で心豊かな社会を提案する「2027年国際園芸博覧会（略称：GREEN×EXPO 2027／グリーンエクスポ2027）」が、2027年3月19日（金）〜9月26日（日）の192日間、神奈川県横浜",
-      "id": 25
+      "id": 35
     }
   ]
 }
