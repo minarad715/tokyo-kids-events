@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-06T04:48:40.643102",
+  "updated": "2026-11-07T04:17:21.114851",
   "region": "chiba",
-  "count": 17,
+  "count": 16,
   "events": [
     {
       "title": "BOTANICA DÍA DE LOS MUERTOS（ディア・デ・ロス・ムエルトス）",
@@ -172,11 +172,11 @@
       "id": 8
     },
     {
-      "title": "真野寺 大黒天祭＆開運マルシェ（11月）",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "松戸市防災フェア",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/610458",
+      "url": "https://iko-yo.net/events/605636",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -190,13 +190,13 @@
       "id": 9
     },
     {
-      "title": "津軽三味線名人 五錦竜二「灯のささやき」",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "11／7（土）幕張の浜ビーチクリーン（参加無料）",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/601766",
+      "url": "https://iko-yo.net/events/605873",
       "source": "ikoy",
-      "cost": "paid",
+      "cost": "free",
       "ages": [
         "family"
       ],
@@ -208,11 +208,11 @@
       "id": 10
     },
     {
-      "title": "成田空港ロケ地探検　ドラマ・映画15作品超（11月）",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "第36回鳥学講座「アホウドリ：絶滅寸前から1万羽に回復」",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/611057",
+      "url": "https://iko-yo.net/events/606439",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -226,11 +226,11 @@
       "id": 11
     },
     {
-      "title": "ちびっ子パーク",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "HOJO BEACH MARKET（11月）",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/612187",
+      "url": "https://iko-yo.net/events/594057",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -244,47 +244,29 @@
       "id": 12
     },
     {
-      "title": "全国17万人が熱狂！謎解き冒険ラリー不思議ハンターin幕張海浜公園",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "【市川公演 11/7】それいけ！アンパンマン　ミュージカル",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/607329",
+      "url": "https://iko-yo.net/events/574279",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
         "family"
       ],
       "cats": [
-        "nature"
+        "stage"
       ],
       "area": "other",
       "desc": "",
       "id": 13
     },
     {
-      "title": "謎解き冒険ラリー不思議ハンターin幕張海浜公園",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "title": "ハーヴェスティバル",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
-      "url": "https://iko-yo.net/events/608684",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "松戸アートピクニック2026",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/611179",
+      "url": "https://iko-yo.net/events/611912",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -295,12 +277,12 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 15
+      "id": 14
     },
     {
       "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-11-06",
-      "endDate": "2026-11-06",
+      "date": "2026-11-07",
+      "endDate": "2026-11-07",
       "place": "千葉県",
       "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
       "source": "ikoy",
@@ -313,7 +295,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 16
+      "id": 15
     },
     {
       "title": "ちいかわクリスマスマーケット",
@@ -331,7 +313,7 @@
       ],
       "area": "other",
       "desc": "「ちいかわ」の世界観をクリスマスマーケットで楽しめる体験型イベント「ちいかわクリスマスマーケット」が、2026年11月24日（火）〜12月25日（金）に豊砂公園（イオンモール幕張新都心前）で開催！",
-      "id": 17
+      "id": 16
     }
   ]
 }
