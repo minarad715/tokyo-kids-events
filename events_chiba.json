@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T04:17:21.114851",
+  "updated": "2026-11-08T04:00:38.610382",
   "region": "chiba",
-  "count": 16,
+  "count": 10,
   "events": [
     {
       "title": "BOTANICA DÍA DE LOS MUERTOS（ディア・デ・ロス・ムエルトス）",
@@ -130,6 +130,27 @@
       "id": 6
     },
     {
+      "title": "見浜園灯ろうまつり2026 ～秋の日本庭園ライトアップ～",
+      "date": "2026-11-14",
+      "endDate": "2026-11-23",
+      "place": "千葉県",
+      "url": "https://www.inageseasidepark.com/mihamaen-torou-matsuri-2026/",
+      "source": "chiba_park",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
       "title": "全国大陶器市",
       "date": "2026-11-17",
       "endDate": "2026-11-23",
@@ -148,7 +169,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 7
+      "id": 8
     },
     {
       "title": "Bouquet – BOTANICA COFFEE FES",
@@ -169,133 +190,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 8
-    },
-    {
-      "title": "松戸市防災フェア",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/605636",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
       "id": 9
-    },
-    {
-      "title": "11／7（土）幕張の浜ビーチクリーン（参加無料）",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/605873",
-      "source": "ikoy",
-      "cost": "free",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 10
-    },
-    {
-      "title": "第36回鳥学講座「アホウドリ：絶滅寸前から1万羽に回復」",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/606439",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 11
-    },
-    {
-      "title": "HOJO BEACH MARKET（11月）",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/594057",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 12
-    },
-    {
-      "title": "【市川公演 11/7】それいけ！アンパンマン　ミュージカル",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/574279",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "stage"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 13
-    },
-    {
-      "title": "ハーヴェスティバル",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://iko-yo.net/events/611912",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 14
-    },
-    {
-      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-11-07",
-      "endDate": "2026-11-07",
-      "place": "千葉県",
-      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 15
     },
     {
       "title": "ちいかわクリスマスマーケット",
@@ -313,7 +208,7 @@
       ],
       "area": "other",
       "desc": "「ちいかわ」の世界観をクリスマスマーケットで楽しめる体験型イベント「ちいかわクリスマスマーケット」が、2026年11月24日（火）〜12月25日（金）に豊砂公園（イオンモール幕張新都心前）で開催！",
-      "id": 16
+      "id": 10
     }
   ]
 }

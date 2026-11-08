@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-07T04:16:58.289306",
+  "updated": "2026-11-08T03:59:55.859893",
   "region": "saitama",
-  "count": 5,
+  "count": 15,
   "events": [
     {
       "title": "エビカニフェス2026",
@@ -67,6 +67,27 @@
       "id": 3
     },
     {
+      "title": "SAITAMA DANCE BASE",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/saitama-dance-base-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 4
+    },
+    {
       "title": "2026さいたまるしぇ in さいたまクリテリウム",
       "date": "2026-11-14",
       "endDate": "2026-11-15",
@@ -85,7 +106,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 4
+      "id": 5
     },
     {
       "title": "さいたまマラソン",
@@ -106,7 +127,172 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 5
+      "id": 6
+    },
+    {
+      "title": "スポーツデポカップ フットサルフェスタ2026（所沢フットサル...",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/602385",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport",
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
+      "title": "川越水上公園ビッグフリーマーケット（11月）",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/591494",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "おまつり今昔物語と荒馬踊りワークショップ",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/603141",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop",
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "トミカ・プラレールわくわくパーク @所沢",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/603364",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "そうか公園TAKIBIマルシェ",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/606026",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature",
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "ウルトラマンオメガがやってくる！ @モラージュ菖蒲",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/608594",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "成長をカタチに。ほっこり秋の似顔絵広場 @三郷",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/608853",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "<女性限定>ハンドマッサージ @大宮北",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/608896",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-11-08",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
     }
   ]
 }
