@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-08T03:59:33.411433",
+  "updated": "2026-11-09T04:14:40.643587",
   "region": "kanagawa",
-  "count": 24,
+  "count": 37,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -487,6 +487,240 @@
       "id": 23
     },
     {
+      "title": "少ない油でガリッと衣＆ジューシーなチキンかつを作る黄金の3セオリー",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/566926",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 24
+    },
+    {
+      "title": "KOUGEI EXPO in KANAGAWA",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/607483",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 25
+    },
+    {
+      "title": "旬を描く「淡彩スケッチ」",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/608928",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 26
+    },
+    {
+      "title": "【武蔵小杉】リトルプラネット×サンサンキッズTV！限定コラボイベント",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612149",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
+      "title": "【横浜】リトルプラネット×サンサンキッズTV！限定コラボイベント",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612150",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 28
+    },
+    {
+      "title": "【大和鶴間】リトルプラネット×サンサンキッズTV！限定コラボイベント",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612157",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/528079",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "【11月8日＆22日 無料】親子イングリッシュ in 横浜",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/602677",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "今年最後の生き物探しと自然遊びの1日〜秋の虫とり＆焚き火BBQ〜",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/608822",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "今年最後の生き物探しと自然遊びの1日",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609247",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
+      "title": "【クリスマス限定】陶芸「雪降る森のテラリウム」",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/606326",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "【クリスマス限定】サンドブラスト　スノーマンライトorツリーライト",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/606329",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 35
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-11-09",
+      "endDate": "2026-11-09",
+      "place": "神奈川県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 36
+    },
+    {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
       "date": "2026-12-25",
       "endDate": "2027-03-28",
@@ -502,7 +736,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 24
+      "id": 37
     }
   ]
 }
