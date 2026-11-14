@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-13T04:44:32.241265",
+  "updated": "2026-11-14T04:39:32.579100",
   "region": "kanagawa",
-  "count": 25,
+  "count": 40,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -508,6 +508,276 @@
       "id": 24
     },
     {
+      "title": "11/14横浜センサリープレイ教室【りんご】",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/607943",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 25
+    },
+    {
+      "title": "45cmの海アート！　2.5hワークショップ　レジン　海老名",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/608543",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 26
+    },
+    {
+      "title": "横浜市岩間市民プラザ いわまオープンデー「書道体験」",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609142",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
+      "title": "豊漁豊作祭　真鶴よさこい大漁フェスティバル",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609270",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 28
+    },
+    {
+      "title": "全国小児がんチャリティコンサート in 横浜",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609662",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "こどもハッピーラボ @相模原・古淵",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609966",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "親子で聞こう　ふしぎ大陸　南極子ども講話会",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610025",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "【大磯まつり】幕末チャンバラ合戦ふたたび！！",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610329",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "【11月14日(土)開催】キドキドお誕生日会",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610396",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
+      "title": "アートレッスン 曼荼羅テンプレートアート ワークショップ",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610556",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "お花屋さんの素材でつくるラージコスモス",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611385",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 35
+    },
+    {
+      "title": "LOVE OCEANビーチクリーンin大磯・茅ヶ崎・藤沢",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612446",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 36
+    },
+    {
+      "title": "多世代交流マルシェ",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612489",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 37
+    },
+    {
+      "title": "失敗なしのマカロン講座　ティラミスも作ります",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/614507",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 38
+    },
+    {
+      "title": "ISOGO JAZZ DAY Vol.4",
+      "date": "2026-11-14",
+      "endDate": "2026-11-14",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/600418",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 39
+    },
+    {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
       "date": "2026-12-25",
       "endDate": "2027-03-28",
@@ -523,7 +793,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 25
+      "id": 40
     }
   ]
 }
