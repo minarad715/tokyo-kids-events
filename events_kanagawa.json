@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-15T04:28:17.476961",
+  "updated": "2026-11-16T04:25:36.707711",
   "region": "kanagawa",
-  "count": 35,
+  "count": 37,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -508,29 +508,11 @@
       "id": 24
     },
     {
-      "title": "11/15日)親子のための音楽サークル　サロンドフェリーチェ",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
+      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/598475",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "concert"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 25
-    },
-    {
-      "title": "横浜スタジアムフリーマーケット（11月）",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/607118",
+      "url": "https://iko-yo.net/events/528079",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -541,14 +523,32 @@
       ],
       "area": "other",
       "desc": "",
+      "id": 25
+    },
+    {
+      "title": "ダニエル・オスト in 鎌倉 ー花の彫刻家 覚園寺の秋をいけるー",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610734",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
       "id": 26
     },
     {
-      "title": "ハンドメイドマルシェ in 横浜スタジアム＜中止となりました＞...",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
+      "title": "マークイズみなとみらい 11月開催ハイハイチャレンジ",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/608006",
+      "url": "https://iko-yo.net/events/608083",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -562,18 +562,17 @@
       "id": 27
     },
     {
-      "title": "YOKOHAMAスポーツ・レクリエーションフェスティバル202...",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
+      "title": "0歳からの遊び場！光と感触を楽しむ！スヌーズレンルームで遊ぼう！！",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/608693",
+      "url": "https://iko-yo.net/events/603877",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
-        "family"
+        "baby"
       ],
       "cats": [
-        "sport",
         "festival"
       ],
       "area": "other",
@@ -581,83 +580,11 @@
       "id": 28
     },
     {
-      "title": "【日曜午前・単発開催】11月15日　週末親子リトミックなかよしランド",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
+      "title": "【紅葉・見ごろ】七沢森林公園",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
       "place": "神奈川県",
-      "url": "https://iko-yo.net/events/608808",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 29
-    },
-    {
-      "title": "横浜＆MAMACOフェスタ ～子育て応援・女性起業家応援フェスタ～",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/609361",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "市制施行55周年えびな市民まつり2026",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/609737",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 31
-    },
-    {
-      "title": "トレインパーク @相模原・古淵",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/609938",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 32
-    },
-    {
-      "title": "11月15日開催！へんてこ動物・自動車キーホルダーを作ろう！",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/610403",
+      "url": "https://iko-yo.net/events/604814",
       "source": "ikoy",
       "cost": "paid",
       "ages": [
@@ -668,12 +595,120 @@
       ],
       "area": "other",
       "desc": "",
+      "id": 29
+    },
+    {
+      "title": "【紅葉・見ごろ】県立座間谷戸山公園",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/604818",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "のりものペーパークラフト工作【11月】",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611756",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "【葉山】11月の体験クラブ！カヤック・塩づくり・魚捌き",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/602291",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "横浜みなとみらいで 赤ちゃんと楽しむ「だっこフラ」説明＆体験会 無料",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/605897",
+      "source": "ikoy",
+      "cost": "free",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
       "id": 33
     },
     {
+      "title": "マークイズみなとみらい11月 赤ちゃんとPLAYTIMEinキドキド",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/606324",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "OSC湘南シティフリーマーケット（11月）",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/596607",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 35
+    },
+    {
       "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-11-15",
-      "endDate": "2026-11-15",
+      "date": "2026-11-16",
+      "endDate": "2026-11-16",
       "place": "神奈川県",
       "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
       "source": "ikoy",
@@ -686,7 +721,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 34
+      "id": 36
     },
     {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
@@ -704,7 +739,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 35
+      "id": 37
     }
   ]
 }
