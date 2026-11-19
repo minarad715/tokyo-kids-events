@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-18T05:39:35.241653",
+  "updated": "2026-11-19T05:37:48.605660",
   "region": "kanagawa",
-  "count": 25,
+  "count": 26,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -508,6 +508,24 @@
       "id": 24
     },
     {
+      "title": "えらぶ！ ポケモン イルミネーション 1025",
+      "date": "2026-11-25",
+      "endDate": "2026-11-25",
+      "place": "神奈川県",
+      "url": "https://www.kids-event.jp/event/20261125_erabupokemon/",
+      "source": "kids",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "2026年11月25日（水）～12月25日（金）、横浜赤レンガ倉庫で「えらぶ！ ポケモン イルミネーション 1025」を開催！15色のプレゼントボックスに描かれた1025匹のポケモンが光り輝くほか、好きなポケモンを選んでツリーと記念撮影でき",
+      "id": 25
+    },
+    {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
       "date": "2026-12-25",
       "endDate": "2027-03-28",
@@ -523,7 +541,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 25
+      "id": 26
     }
   ]
 }
