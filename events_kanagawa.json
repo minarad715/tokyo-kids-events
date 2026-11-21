@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-20T05:29:19.190082",
+  "updated": "2026-11-21T05:18:32.289574",
   "region": "kanagawa",
-  "count": 26,
+  "count": 41,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -508,6 +508,278 @@
       "id": 24
     },
     {
+      "title": "第1回UPRUN綱島鶴見川ハーフマラソン",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/593400",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 25
+    },
+    {
+      "title": "TVアニメ放送30周年記念　「名探偵コナン」芸術花火2026",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/598912",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 26
+    },
+    {
+      "title": "よこはまみんなの音楽体験広場〜マイナス1歳から120歳まで楽し...",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/599134",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert",
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 27
+    },
+    {
+      "title": "アトリエゾウノハナ #11月　講師：アグネス吉井",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/600459",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 28
+    },
+    {
+      "title": "11/21(土)小田原0歳からのはじめてのオーケストラ冬のコンサート",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/605738",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "concert"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 29
+    },
+    {
+      "title": "レアレアUkulele Xmasワークショップ",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/605796",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 30
+    },
+    {
+      "title": "第71回ひとみ座寄席",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/609388",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 31
+    },
+    {
+      "title": "工藤静香【嵐の素顔】 が踊れるようになる！",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610552",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 32
+    },
+    {
+      "title": "11月21日(土)開催【港北公会堂】くまさんサンタのメモスタンド作り",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610761",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 33
+    },
+    {
+      "title": "新湘南ウェルビーイングフェスタ2026",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/610988",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 34
+    },
+    {
+      "title": "秋の彩り 染めものワークショップ",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611035",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 35
+    },
+    {
+      "title": "2026年11月21日(土) 花火観賞クルーズ",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611218",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 36
+    },
+    {
+      "title": "素敵なすてきなクラシックコンサート vol.28 ー動物の謝肉祭ー",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611659",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "concert",
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 37
+    },
+    {
+      "title": "神奈川県在住高校生以下のこどもとその保護者向け　フラワーアレン...",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/611914",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 38
+    },
+    {
+      "title": "キッチンカードリンク【ホットココア】 @相模原・古淵",
+      "date": "2026-11-21",
+      "endDate": "2026-11-21",
+      "place": "神奈川県",
+      "url": "https://iko-yo.net/events/612724",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 39
+    },
+    {
       "title": "えらぶ！ ポケモン イルミネーション 1025",
       "date": "2026-11-25",
       "endDate": "2026-11-25",
@@ -523,7 +795,7 @@
       ],
       "area": "other",
       "desc": "2026年11月25日（水）～12月25日（金）、横浜赤レンガ倉庫で「えらぶ！ ポケモン イルミネーション 1025」を開催！15色のプレゼントボックスに描かれた1025匹のポケモンが光り輝くほか、好きなポケモンを選んでツリーと記念撮影でき",
-      "id": 25
+      "id": 40
     },
     {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
@@ -541,7 +813,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 26
+      "id": 41
     }
   ]
 }
