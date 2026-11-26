@@ -1,6 +1,349 @@
 {
-  "updated": "2026-11-25T06:41:17.957804",
+  "updated": "2026-11-26T06:31:05.160999",
   "region": "saitama",
-  "count": 0,
-  "events": []
+  "count": 18,
+  "events": [
+    {
+      "title": "エビカニフェス2026",
+      "date": "2026-11-03",
+      "endDate": "2026-11-03",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/ebikani-fes-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 1
+    },
+    {
+      "title": "TSQ presents「MYSTERY GATE」",
+      "date": "2027-03-31",
+      "endDate": "2027-03-31",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/mystery-gate-2026-saitama-shintoshin/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 2
+    },
+    {
+      "title": "ある料理人が遺した謎",
+      "date": "2027-03-31",
+      "endDate": "2027-03-31",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/secret-recipe-keyaki-hiroba-2026-2027/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 3
+    },
+    {
+      "title": "SAITAMA DANCE BASE",
+      "date": "2026-11-07",
+      "endDate": "2026-11-08",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/saitama-dance-base-2026/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 4
+    },
+    {
+      "title": "2026さいたまるしぇ in さいたまクリテリウム",
+      "date": "2026-11-14",
+      "endDate": "2026-11-15",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/2026-saitama-marche-saitama-criterium/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 5
+    },
+    {
+      "title": "さいたまマラソン",
+      "date": "2027-02-14",
+      "endDate": "2027-02-14",
+      "place": "埼玉県",
+      "url": "https://www.saitama-shintoshin.com/saitama-marathon-2027/",
+      "source": "saitama",
+      "cost": "paid",
+      "ages": [
+        "toddler",
+        "preschool",
+        "elementary",
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 6
+    },
+    {
+      "title": "越谷｜0歳ママのベビーマッサージ教室｜ゆか",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/604022",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "baby"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 7
+    },
+    {
+      "title": "湯ったり日帰り埼玉スタンプラリー",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/614291",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 8
+    },
+    {
+      "title": "可哀想に！ギラギラサーカス団 in VILLAGE VANGU...",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/615936",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 9
+    },
+    {
+      "title": "ちょこっとお手軽ツアー～天覧山～（11月）",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/611295",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 10
+    },
+    {
+      "title": "はじめてのカナディアンカヌー初級講習＠名栗湖～湖をゆったり満喫...",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/611575",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "MOMASコレクション",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/602229",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "光と森のStory 第二章「紅葉見ナイト」",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/604563",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "【DCMさいたま蓮沼店】11月DIYイベント",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/604604",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "STSスキーアカデミー～初心者編～",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/608385",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
+    },
+    {
+      "title": "【越谷】コストコ×体感すまいパーク　ゲームチャレンジ",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/608936",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "ドズル社×東武動物公園",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://iko-yo.net/events/610604",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "nature"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-11-26",
+      "endDate": "2026-11-26",
+      "place": "埼玉県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 18
+    }
+  ]
 }
