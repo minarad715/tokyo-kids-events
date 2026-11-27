@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-26T06:31:47.536265",
+  "updated": "2026-11-27T06:22:07.844562",
   "region": "chiba",
-  "count": 10,
+  "count": 21,
   "events": [
     {
       "title": "BOTANICA DÍA DE LOS MUERTOS（ディア・デ・ロス・ムエルトス）",
@@ -212,6 +212,204 @@
       "area": "other",
       "desc": "",
       "id": 10
+    },
+    {
+      "title": "12月限定🎄３種のレシピ付き✨サイリウムなし米粉シュトレン",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/609300",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 11
+    },
+    {
+      "title": "成田空港ロケ地探検　ドラマ・映画15作品超（11月）",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/611057",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 12
+    },
+    {
+      "title": "第31回 ふれあいフェスティバル",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/612401",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 13
+    },
+    {
+      "title": "【紅葉・見ごろ】十枝の森",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/612713",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 14
+    },
+    {
+      "title": "市川市妙典　生後1ヶ月からのベビーマッサージ教室",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/615907",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 15
+    },
+    {
+      "title": "夜の空港探検！成田空港見学ナイトツアー 滑走路や飛行機のキラめ...",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/608492",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 16
+    },
+    {
+      "title": "成田空港見学ツアー たっぷり6時間！全ターミナル周遊フルコース...",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/608493",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 17
+    },
+    {
+      "title": "東成田駅と木の根トンネル 2つの異空間探検（11月）",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/611058",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 18
+    },
+    {
+      "title": "好きなタイミングで来れる単発サッカースクールならプライマリーレッスン",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/547686",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "sport"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 19
+    },
+    {
+      "title": "【千葉・君津】薪割り、かまどと羽釜でご飯を炊く体験　君津の朝めし",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://iko-yo.net/events/598159",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "workshop"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 20
+    },
+    {
+      "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
+      "date": "2026-11-27",
+      "endDate": "2026-11-27",
+      "place": "千葉県",
+      "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
+      "source": "ikoy",
+      "cost": "paid",
+      "ages": [
+        "family"
+      ],
+      "cats": [
+        "festival"
+      ],
+      "area": "other",
+      "desc": "",
+      "id": 21
     }
   ]
 }
