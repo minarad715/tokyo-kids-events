@@ -1,7 +1,7 @@
 {
-  "updated": "2026-11-27T06:21:01.911561",
+  "updated": "2026-11-28T05:58:37.631016",
   "region": "kanagawa",
-  "count": 37,
+  "count": 29,
   "events": [
     {
       "title": "第11回鶴見ウチナー祭",
@@ -529,153 +529,9 @@
       "id": 25
     },
     {
-      "title": "【初回体験】リフティング基礎レッスン｜まずは10回を目指そう！",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/609305",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "workshop"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 26
-    },
-    {
-      "title": "11月27日(金)開催！【港北公会堂】ベビー＆キッズマッサージ",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/612236",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 27
-    },
-    {
-      "title": "道了尊鎮火祭",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/614400",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 28
-    },
-    {
-      "title": "まち親ライブラリー",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/615617",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 29
-    },
-    {
-      "title": "【大和陸上競技場】小学生かけっこ教室！今の時期に最適能力を伸ばそう",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/616673",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "elementary"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 30
-    },
-    {
-      "title": "【藤沢/秋葉原】2個作成【ウエットティッシュケースデコ＆ロゼット】",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/528079",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 31
-    },
-    {
-      "title": "大磯城山公園もみじのライトアップ2026",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/612011",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "nature"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 32
-    },
-    {
-      "title": "【紅葉・見ごろ】ビオトピア",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
-      "place": "神奈川県",
-      "url": "https://iko-yo.net/events/614456",
-      "source": "ikoy",
-      "cost": "paid",
-      "ages": [
-        "family"
-      ],
-      "cats": [
-        "festival"
-      ],
-      "area": "other",
-      "desc": "",
-      "id": 33
-    },
-    {
       "title": "秋の魚沼市で新米を食べ歩き♪紅葉も美しい国内有数の米どころで炊きたての絶品コシヒカリ定食を堪能♪",
-      "date": "2026-11-27",
-      "endDate": "2026-11-27",
+      "date": "2026-11-28",
+      "endDate": "2026-11-28",
       "place": "神奈川県",
       "url": "https://trip.iko-yo.net/events/6231&utm_medium=referral&utm_campaign=ichioshi",
       "source": "ikoy",
@@ -688,7 +544,7 @@
       ],
       "area": "other",
       "desc": "",
-      "id": 34
+      "id": 26
     },
     {
       "title": "Winter Wonder Park Yokohama 2026-27（ウィンター・ワンダー・パーク・ヨコハマ 2026-27）",
@@ -706,7 +562,7 @@
       ],
       "area": "other",
       "desc": "2026年12月5日（土）～2027年2月28日（日）、横浜・山下公園で「Winter Wonder Park Yokohama 2026-27」を開催！音楽に包まれた特設スケートリンクや、花々とイルミネーションに彩られた会場を楽しめます。",
-      "id": 35
+      "id": 27
     },
     {
       "title": "えらぶ！ ポケモン イルミネーション 1025",
@@ -724,7 +580,7 @@
       ],
       "area": "other",
       "desc": "2026年11月25日（水）～12月25日（金）、横浜赤レンガ倉庫で「えらぶ！ ポケモン イルミネーション 1025」を開催！15色のプレゼントボックスに描かれた1025匹のポケモンが光り輝くほか、好きなポケモンを選んでツリーと記念撮影でき",
-      "id": 36
+      "id": 28
     },
     {
       "title": "WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマーシブ・エクスペリエンス）",
@@ -742,7 +598,7 @@
       ],
       "area": "other",
       "desc": "『はらぺこあおむし』をはじめとする、絵本作家エリック・カールの作品世界を体感できる没入型イベント「WORLD OF ERIC CARLE’S VERY IMMERSIVE EXPERIENCE（ワールド・オブ・エリック・カール ベリー・イマ",
-      "id": 37
+      "id": 29
     }
   ]
 }
